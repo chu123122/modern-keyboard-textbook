@@ -1,0 +1,4685 @@
+[
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/07/OMT-cover-lower-res-1.png",
+    "chapter_indexes": [
+      1
+    ],
+    "file": ".local-library/omt-assets/d9c84db0e4f1-OMT-cover-lower-res-1.png",
+    "status": 200,
+    "bytes": 1015210,
+    "sha256": "675697ee0c667b5f4c6f72264c33aba7067acbd10e269c311cf86c7336d3766e",
+    "content_type": "image/png"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/07/OMT-cover-lower-res-1-683x1024.png",
+    "chapter_indexes": [
+      1
+    ],
+    "file": ".local-library/omt-assets/0818a9416f6e-OMT-cover-lower-res-1-683x1024.png",
+    "status": 200,
+    "bytes": 625431,
+    "sha256": "b291e866845357d216de9c4d1605a7675cfcfaee566578f29833e89e38de7e9b",
+    "content_type": "image/png"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/04/table-of-contents.png",
+    "chapter_indexes": [
+      1
+    ],
+    "file": ".local-library/omt-assets/bcb192b28d3b-table-of-contents.png",
+    "status": 200,
+    "bytes": 63245,
+    "sha256": "68047e22ba9dc76b0a2e18f797ffaac3ebeb434c9a83b39e16a4d98f5041c2ad",
+    "content_type": "image/png"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/04/table-of-contents-150x150.png",
+    "chapter_indexes": [
+      1
+    ],
+    "file": ".local-library/omt-assets/1224fb4f3df8-table-of-contents-150x150.png",
+    "status": 200,
+    "bytes": 13061,
+    "sha256": "18341549e57a2239b37c0c9769102eaf70fc04cbb0f3e56eef9c3e2e1aba7e3f",
+    "content_type": "image/png"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/04/musescore-embed.png",
+    "chapter_indexes": [
+      1
+    ],
+    "file": ".local-library/omt-assets/31ff1394cbaa-musescore-embed.png",
+    "status": 200,
+    "bytes": 130668,
+    "sha256": "d28fb33582dfa2c06a0d1ef73b3f330f28c42fe36e73002eb68cb097f0fc2242",
+    "content_type": "image/png"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/04/musescore-embed-150x150.png",
+    "chapter_indexes": [
+      1
+    ],
+    "file": ".local-library/omt-assets/b5425a984727-musescore-embed-150x150.png",
+    "status": 200,
+    "bytes": 18368,
+    "sha256": "af9af14b419c7f06743f2693b1aeeacf6d77b6be01f21e23427f4ac23d2198cb",
+    "content_type": "image/png"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/06/interactive-content.png",
+    "chapter_indexes": [
+      1
+    ],
+    "file": ".local-library/omt-assets/0eaa190fef3a-interactive-content.png",
+    "status": 200,
+    "bytes": 101517,
+    "sha256": "0ef59d4659cdc2f87443401062ef9a38feb964abb6b3f6ba9f1c7a4e9c2d0824",
+    "content_type": "image/png"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/06/interactive-content-150x150.png",
+    "chapter_indexes": [
+      1
+    ],
+    "file": ".local-library/omt-assets/ad60287c7a4b-interactive-content-150x150.png",
+    "status": 200,
+    "bytes": 17258,
+    "sha256": "cbce00a4b7ded115c9b17c57470d073f7ceb5af207d0726983d7bd58c03cf9e7",
+    "content_type": "image/png"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/04/workbook.png",
+    "chapter_indexes": [
+      1
+    ],
+    "file": ".local-library/omt-assets/5e4d5d07a5c1-workbook.png",
+    "status": 200,
+    "bytes": 79049,
+    "sha256": "7dc3959123c21217c0836652bcbc5de3bb8163beb62301f9d44034e879680774",
+    "content_type": "image/png"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/04/workbook-150x150.png",
+    "chapter_indexes": [
+      1
+    ],
+    "file": ".local-library/omt-assets/aaa6d6f5aff1-workbook-150x150.png",
+    "status": 200,
+    "bytes": 13275,
+    "sha256": "4a4bcf619fbbd04dac2a65a49eaeb6f3c5c0318705ded7bf9138b7bc0bf52ddf",
+    "content_type": "image/png"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/Piano-Keyboard-300x211.jpg",
+    "chapter_indexes": [
+      11
+    ],
+    "file": ".local-library/omt-assets/093d58cd0837-Piano-Keyboard-300x211.jpg",
+    "status": 200,
+    "bytes": 11055,
+    "sha256": "2777b454ce87d5ccfdf87c3e195f129d06b64baea9e977c0f03fc625b57e9e30",
+    "content_type": "image/jpeg"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/Piano-Keyboard-Full-300x225.jpg",
+    "chapter_indexes": [
+      11
+    ],
+    "file": ".local-library/omt-assets/f6d73984e6b0-Piano-Keyboard-Full-300x225.jpg",
+    "status": 200,
+    "bytes": 15657,
+    "sha256": "b331a0252c8a1a93b447f09ad6a3e016deaa95af21347db1d583ff2ae6e10ba5",
+    "content_type": "image/jpeg"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/12/ch4-ex4-white_keys_labeled-300x98.jpg",
+    "chapter_indexes": [
+      11
+    ],
+    "file": ".local-library/omt-assets/d1dad57abd36-ch4-ex4-white_keys_labeled-300x98.jpg",
+    "status": 200,
+    "bytes": 8711,
+    "sha256": "5471d46527edce32ed1ebd18ee310eef658022cd588cea98731cf492642d818d",
+    "content_type": "image/jpeg"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/11/brace_line-1-300x149.jpg",
+    "chapter_indexes": [
+      11
+    ],
+    "file": ".local-library/omt-assets/8c2480dcde6c-brace_line-1-300x149.jpg",
+    "status": 200,
+    "bytes": 7979,
+    "sha256": "9bebcbcdd5261f1462dde70a2a393532086786476e151996f86fff05c8c48212",
+    "content_type": "image/jpeg"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/12/ch4-ex6-grand_staff-labeled-300x116.jpg",
+    "chapter_indexes": [
+      11
+    ],
+    "file": ".local-library/omt-assets/2c8b72a3fda4-ch4-ex6-grand_staff-labeled-300x116.jpg",
+    "status": 200,
+    "bytes": 11419,
+    "sha256": "a8f577383add8f7447accdaae128c2508146f2e7e952c687f7b058a9a8d7616e",
+    "content_type": "image/jpeg"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/11/Screen-Shot-2019-11-23-at-11.48.12-AM-300x180.png",
+    "chapter_indexes": [
+      11
+    ],
+    "file": ".local-library/omt-assets/d77b184d3d2b-Screen-Shot-2019-11-23-at-11.48.12-AM-300x180.png",
+    "status": 200,
+    "bytes": 23943,
+    "sha256": "82e6a7a758b2ee25360ebf2de70485210a10616b924f035ff491742560294e8e",
+    "content_type": "image/png"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/Screen-Shot-2019-05-30-at-2.03.57-PM-300x94.png",
+    "chapter_indexes": [
+      11
+    ],
+    "file": ".local-library/omt-assets/258d3cfcaea0-Screen-Shot-2019-05-30-at-2.03.57-PM-300x94.png",
+    "status": 200,
+    "bytes": 13038,
+    "sha256": "440af04210f2782f4b39ab1b0022f782f39b5b83a528131b52f5241fbd9a306c",
+    "content_type": "image/png"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/12/ch4-ex9-middle_c-1-300x124.jpg",
+    "chapter_indexes": [
+      11
+    ],
+    "file": ".local-library/omt-assets/ec651bbbe07e-ch4-ex9-middle_c-1-300x124.jpg",
+    "status": 200,
+    "bytes": 10063,
+    "sha256": "71daeecd1c4cc2b527e091b89d93ccb119b404f8e27b8beec4d1a43ed1ea9f62",
+    "content_type": "image/jpeg"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/11/vertically_expanded_example_9-revised-300x109.jpg",
+    "chapter_indexes": [
+      11
+    ],
+    "file": ".local-library/omt-assets/0e5533cac3ed-vertically_expanded_example_9-revised-300x109.jpg",
+    "status": 200,
+    "bytes": 8494,
+    "sha256": "78fbfaf360d18c7424d88d02e73d080c2045dafe3b068597d8e5473c2805874c",
+    "content_type": "image/jpeg"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/12/ch4-ex11-fifth-300x148.jpg",
+    "chapter_indexes": [
+      11
+    ],
+    "file": ".local-library/omt-assets/545bb7dfdd81-ch4-ex11-fifth-300x148.jpg",
+    "status": 200,
+    "bytes": 8373,
+    "sha256": "6dc8205b20baa1e9588188fc4fd0b2d3630ece8336a0303928c7c77a143bf26d",
+    "content_type": "image/jpeg"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2025/06/Blank-Piano-Keyboard.pdf",
+    "chapter_indexes": [
+      11,
+      12
+    ],
+    "file": ".local-library/omt-assets/8bf64916c429-Blank-Piano-Keyboard.pdf",
+    "status": 200,
+    "bytes": 24877,
+    "sha256": "446845c9223633ec115c5c597b8af4c911a99e9a1afd14c2099c1565ae3c0530",
+    "content_type": "application/pdf"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2024/06/WK-The-Keyboard-and-the-Grand-Staff-1.pdf",
+    "chapter_indexes": [
+      11
+    ],
+    "file": ".local-library/omt-assets/e2e343c101de-WK-The-Keyboard-and-the-Grand-Staff-1.pdf",
+    "status": 200,
+    "bytes": 301481,
+    "sha256": "b0a7b4d5381dab439deb480633688a5457c47c92a5972c5651d06cba9a03e649",
+    "content_type": "application/pdf"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2024/06/WK-The-Keyboard-and-the-Grand-Staff-1.docx",
+    "chapter_indexes": [
+      11
+    ],
+    "file": ".local-library/omt-assets/c5dabb49e08f-WK-The-Keyboard-and-the-Grand-Staff-1.docx",
+    "status": 200,
+    "bytes": 11593777,
+    "sha256": "7ab8e3915f20ce1033aeec296f948cdf11b68a7a56b2cd332e3abb689d532442",
+    "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/10/WK-The-Keyboard-and-the-Grand-Staff-2.pdf",
+    "chapter_indexes": [
+      11
+    ],
+    "file": ".local-library/omt-assets/b5d6c52293c9-WK-The-Keyboard-and-the-Grand-Staff-2.pdf",
+    "status": 200,
+    "bytes": 489729,
+    "sha256": "846ba0fed2c3253e2ab5729cb2168243ffa1e40bd84c354744117dc548d38d75",
+    "content_type": "application/pdf"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/10/WK-The-Keyboard-and-the-Grand-Staff-2.docx",
+    "chapter_indexes": [
+      11
+    ],
+    "file": ".local-library/omt-assets/0e0e984f4930-WK-The-Keyboard-and-the-Grand-Staff-2.docx",
+    "status": 200,
+    "bytes": 19027420,
+    "sha256": "4ebaf0f6fc18b85662c936493acb875a80fd0e6e071505ec4d0f4092c2fa19ed",
+    "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2024/06/WK-The-Keyboard-and-the-Grand-Staff-3.pdf",
+    "chapter_indexes": [
+      11
+    ],
+    "file": ".local-library/omt-assets/3fb0823b78da-WK-The-Keyboard-and-the-Grand-Staff-3.pdf",
+    "status": 200,
+    "bytes": 196936,
+    "sha256": "aee0c36e865efe11e66e457ca2bc92104747e3fb88145b2e3bfa0fd41a377481",
+    "content_type": "application/pdf"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2024/06/WK-The-Keyboard-and-the-Grand-Staff-3.docx",
+    "chapter_indexes": [
+      11
+    ],
+    "file": ".local-library/omt-assets/5cd5850d0870-WK-The-Keyboard-and-the-Grand-Staff-3.docx",
+    "status": 200,
+    "bytes": 4358380,
+    "sha256": "b6b73905bc94d433c84c7002ae219dfb83a31b885d3c38902671a9ea7aa89eb3",
+    "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2024/06/WK-The-Keyboard-and-the-Grand-Staff-4.pdf",
+    "chapter_indexes": [
+      11
+    ],
+    "file": ".local-library/omt-assets/d31926edcf5c-WK-The-Keyboard-and-the-Grand-Staff-4.pdf",
+    "status": 200,
+    "bytes": 406065,
+    "sha256": "1f327a61a09d6d7dc09f392a6d38823ff12e3a913531d7c009f493e70f6b1c80",
+    "content_type": "application/pdf"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2024/06/WK-The-Keyboard-and-the-Grand-Staff-4.docx",
+    "chapter_indexes": [
+      11
+    ],
+    "file": ".local-library/omt-assets/9596f6d261be-WK-The-Keyboard-and-the-Grand-Staff-4.docx",
+    "status": 200,
+    "bytes": 17160512,
+    "sha256": "0c3512f494a3b2695f2969ec31f39da052ee9aaa5717c32a6f4fcd98ad57845a",
+    "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/12/ch5-ex1-piano-half_steps-300x191.jpg",
+    "chapter_indexes": [
+      12
+    ],
+    "file": ".local-library/omt-assets/e10b775d8894-ch5-ex1-piano-half_steps-300x191.jpg",
+    "status": 200,
+    "bytes": 11660,
+    "sha256": "da111a72ebcc1a504c064d668222eacba5d8530a8e0e6b36df92207332c6d648",
+    "content_type": "image/jpeg"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/12/ch5-ex2-piano-whole_steps-300x205.jpg",
+    "chapter_indexes": [
+      12
+    ],
+    "file": ".local-library/omt-assets/4731c82afc19-ch5-ex2-piano-whole_steps-300x205.jpg",
+    "status": 200,
+    "bytes": 12911,
+    "sha256": "63b403060173f94397f7d5308e7167148987d58873637f9fc26cbb15e794620c",
+    "content_type": "image/jpeg"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/12/ch5-ex4-accidental_placement-300x76.jpg",
+    "chapter_indexes": [
+      12
+    ],
+    "file": ".local-library/omt-assets/655b38093864-ch5-ex4-accidental_placement-300x76.jpg",
+    "status": 200,
+    "bytes": 5329,
+    "sha256": "bb2468dafea1f79b48b81d72b1be2979041905d8d3ec496648f80db2e2c683c7",
+    "content_type": "image/jpeg"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2025/06/Same-Note-Two-Accidentals-e1750264867259.png",
+    "chapter_indexes": [
+      12
+    ],
+    "file": ".local-library/omt-assets/0cc28d6156c1-Same-Note-Two-Accidentals-e1750264867259.png",
+    "status": 200,
+    "bytes": 28208,
+    "sha256": "9aeff531d6059b113c4aad007e9fa2d52537c861a0243ebcc71c45bd73408974",
+    "content_type": "image/png"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/12/ch5-ex5-piano-black_keys-300x227.jpg",
+    "chapter_indexes": [
+      12
+    ],
+    "file": ".local-library/omt-assets/6c9e963eaa1f-ch5-ex5-piano-black_keys-300x227.jpg",
+    "status": 200,
+    "bytes": 13634,
+    "sha256": "62e8fa89e21cf4ac659632e8a73b08eb398bce0d5eef4b3106cc85d77d68e3ce",
+    "content_type": "image/jpeg"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/12/ch5-ex6-double_accidentals-300x226.jpg",
+    "chapter_indexes": [
+      12
+    ],
+    "file": ".local-library/omt-assets/2d8de7b6cc26-ch5-ex6-double_accidentals-300x226.jpg",
+    "status": 200,
+    "bytes": 14698,
+    "sha256": "2db22a0e5cdbd5da5795bff2c018e03a275cf988862e743e20b141edf5559afd",
+    "content_type": "image/jpeg"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2024/06/WK-Half-and-Whole-Steps-and-Accidentals-–-Black-Keys-on-the-Piano.pdf",
+    "chapter_indexes": [
+      12
+    ],
+    "file": ".local-library/omt-assets/453392b878dd-WK-Half-and-Whole-Steps-and-Accidentals-–-Black-Keys-on-the-Piano.pdf",
+    "status": 200,
+    "bytes": 260593,
+    "sha256": "e864ace1f0790bf05dea7738f9f73a0938abe3bffaaff9ba4b971b68daf9cc1c",
+    "content_type": "application/pdf"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2024/06/WK-Half-and-Whole-Steps-and-Accidentals-–-Black-Keys-on-the-Piano.docx",
+    "chapter_indexes": [
+      12
+    ],
+    "file": ".local-library/omt-assets/442340b1ad2f-WK-Half-and-Whole-Steps-and-Accidentals-–-Black-Keys-on-the-Piano.docx",
+    "status": 200,
+    "bytes": 11416899,
+    "sha256": "69c9d5cb85ee57af3cdc2c1c9767fa10f417742bee36e21d14c6882142aa93d4",
+    "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2024/06/WK-Half-and-Whole-Steps-and-Accidentals-–-Half-and-Whole-Steps-on-the-Piano.pdf",
+    "chapter_indexes": [
+      12
+    ],
+    "file": ".local-library/omt-assets/74ef3a054f06-WK-Half-and-Whole-Steps-and-Accidentals-–-Half-and-Whole-Steps-on-the-Piano.pdf",
+    "status": 200,
+    "bytes": 238480,
+    "sha256": "41143827a248d6be76e4bedb646bf758797516f1e532bd2e34dbb4dda2dc9a4c",
+    "content_type": "application/pdf"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2024/06/WK-Half-and-Whole-Steps-and-Accidentals-–-Half-and-Whole-Steps-on-the-Piano.docx",
+    "chapter_indexes": [
+      12
+    ],
+    "file": ".local-library/omt-assets/5b36ba325859-WK-Half-and-Whole-Steps-and-Accidentals-–-Half-and-Whole-Steps-on-the-Piano.docx",
+    "status": 200,
+    "bytes": 8715465,
+    "sha256": "1a664783b01bbcad52487f734c1c40378605aea2bac306fbbda3c8445c239399",
+    "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2024/06/WK-Half-and-Whole-Steps-and-Accidentals-–-Writing-Accidentals.pdf",
+    "chapter_indexes": [
+      12
+    ],
+    "file": ".local-library/omt-assets/d2bd14a8ced5-WK-Half-and-Whole-Steps-and-Accidentals-–-Writing-Accidentals.pdf",
+    "status": 200,
+    "bytes": 296951,
+    "sha256": "d5643dd83a133daedbb968edb032d834d6ade4ab7b6ab38ab95a2ce9d35eca68",
+    "content_type": "application/pdf"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2024/06/WK-Half-and-Whole-Steps-and-Accidentals-–-Writing-Accidentals.docx",
+    "chapter_indexes": [
+      12
+    ],
+    "file": ".local-library/omt-assets/922792919c63-WK-Half-and-Whole-Steps-and-Accidentals-–-Writing-Accidentals.docx",
+    "status": 200,
+    "bytes": 15703,
+    "sha256": "16ab2f65e8f33eac7ea55343ff33c8ed53c066989c7faf06b7dc3b9eb367d4af",
+    "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2024/06/WK-Half-and-Whole-Steps-and-Accidentals-–-Writing-and-Identifying-Accidentals.pdf",
+    "chapter_indexes": [
+      12
+    ],
+    "file": ".local-library/omt-assets/da9de65ef3f8-WK-Half-and-Whole-Steps-and-Accidentals-–-Writing-and-Identifying-Accidentals.pdf",
+    "status": 200,
+    "bytes": 194854,
+    "sha256": "ec2d98e7956a4c71fc11e2120ee25ef16e0702e3410985f0b29106f63e597bdf",
+    "content_type": "application/pdf"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2024/06/WK-Half-and-Whole-Steps-and-Accidentals-–-Writing-and-Identifying-Accidentals.docx",
+    "chapter_indexes": [
+      12
+    ],
+    "file": ".local-library/omt-assets/5a54e354353a-WK-Half-and-Whole-Steps-and-Accidentals-–-Writing-and-Identifying-Accidentals.docx",
+    "status": 200,
+    "bytes": 1271148,
+    "sha256": "94e55530ef14ed5ec19191bb54a20b4dc0c1a24cd076c97dbb37c8e144a10ced",
+    "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2025/08/WK-half-and-whole-steps-in-staff-notation.pdf",
+    "chapter_indexes": [
+      12
+    ],
+    "file": ".local-library/omt-assets/d9d740fce989-WK-half-and-whole-steps-in-staff-notation.pdf",
+    "status": 200,
+    "bytes": 154500,
+    "sha256": "b068d5e23793fdbf45f1374de9535c5405416b9a3d06e005a8897c6aca8b5cb2",
+    "content_type": "application/pdf"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2025/08/WK-half-and-whole-steps-in-staff-notation.mscz",
+    "chapter_indexes": [
+      12
+    ],
+    "file": ".local-library/omt-assets/0904179c918c-WK-half-and-whole-steps-in-staff-notation.mscz",
+    "error": "404 Client Error: Not Found for url: https://viva.pressbooks.pub/app/uploads/sites/12/2025/08/WK-half-and-whole-steps-in-staff-notation.mscz"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2025/08/WK-half-and-whole-steps-in-staff-notation-TB.pdf",
+    "chapter_indexes": [
+      12
+    ],
+    "file": ".local-library/omt-assets/6c80b6dafddf-WK-half-and-whole-steps-in-staff-notation-TB.pdf",
+    "status": 200,
+    "bytes": 154785,
+    "sha256": "77e4813424c58db01f323cda63ba694fcf4a0b556f556016e49607d22593cd8f",
+    "content_type": "application/pdf"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2025/08/WK-half-and-whole-steps-in-staff-notation-TB.mscz",
+    "chapter_indexes": [
+      12
+    ],
+    "file": ".local-library/omt-assets/b587b80a7c1b-WK-half-and-whole-steps-in-staff-notation-TB.mscz",
+    "status": 200,
+    "bytes": 58397,
+    "sha256": "29dc17edc8d91b811b022246e28af6e2fefaeb67f9faa66208a2d94f9a505cc0",
+    "content_type": "application/octet-stream"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2025/08/WK-enharmonic-equivalence.pdf",
+    "chapter_indexes": [
+      12
+    ],
+    "file": ".local-library/omt-assets/55cdd008f9cc-WK-enharmonic-equivalence.pdf",
+    "error": "404 Client Error: Not Found for url: https://viva.pressbooks.pub/app/uploads/sites/12/2025/08/WK-enharmonic-equivalence.pdf"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2025/08/WK-enharmonic-equivalence.mscz",
+    "chapter_indexes": [
+      12
+    ],
+    "file": ".local-library/omt-assets/7054dee30893-WK-enharmonic-equivalence.mscz",
+    "status": 200,
+    "bytes": 44937,
+    "sha256": "6fae080abb8aa882c6a2950fd946a64bd3e33c5d8198c1b0fb309a9c764a11be",
+    "content_type": "application/octet-stream"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2025/08/WK-enharmonic-equivalence-TB.pdf",
+    "chapter_indexes": [
+      12
+    ],
+    "file": ".local-library/omt-assets/1e6e5c30d2a9-WK-enharmonic-equivalence-TB.pdf",
+    "status": 200,
+    "bytes": 49464,
+    "sha256": "e8622b29213a39156e2acf463a722ee1a42c1cb3a1c4fe04e16d368bc5af94c1",
+    "content_type": "application/pdf"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2025/08/WK-enharmonic-equivalence-TB.mscz",
+    "chapter_indexes": [
+      12
+    ],
+    "file": ".local-library/omt-assets/cb4f6ccd1ff6-WK-enharmonic-equivalence-TB.mscz",
+    "status": 200,
+    "bytes": 45384,
+    "sha256": "b7f03ac9877e1c72e75fc8fd1a0108fab0bb39546c68b684e749f806296522c1",
+    "content_type": "application/octet-stream"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/Scientific_pitch_notation_octaves_of_C-300x183.png",
+    "chapter_indexes": [
+      13
+    ],
+    "file": ".local-library/omt-assets/ce14a211406d-Scientific_pitch_notation_octaves_of_C-300x183.png",
+    "status": 200,
+    "bytes": 27736,
+    "sha256": "f9d81940750cd5572a9d8352a3adbdd9ed094206a6a70dfaae2593769d18c2b7",
+    "content_type": "image/png"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/Screen-Shot-2019-07-24-at-3.50.53-PM-300x71.png",
+    "chapter_indexes": [
+      13
+    ],
+    "file": ".local-library/omt-assets/f03bd5ae0789-Screen-Shot-2019-07-24-at-3.50.53-PM-300x71.png",
+    "status": 200,
+    "bytes": 10448,
+    "sha256": "5c25c633c4ca957ebe07e8547c8a5fa65ca2313a21b227bd288f10d69e1ba51c",
+    "content_type": "image/png"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/1040px-Piano_Frequencies.svg_-300x58.png",
+    "chapter_indexes": [
+      13
+    ],
+    "file": ".local-library/omt-assets/0816847bd540-1040px-Piano_Frequencies.svg_-300x58.png",
+    "status": 200,
+    "bytes": 4055,
+    "sha256": "a909f8fa8f77a2c9fee240e17ae3ca998e2f58c6d97255cc94d195c0f5af09c5",
+    "content_type": "image/png"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2024/06/WK-American-Standard-Pitch-Notation-ASPN.pdf",
+    "chapter_indexes": [
+      13
+    ],
+    "file": ".local-library/omt-assets/61b30cda6760-WK-American-Standard-Pitch-Notation-ASPN.pdf",
+    "status": 200,
+    "bytes": 52174,
+    "sha256": "33a171ea28a208155d2af86646a026ce144406b55d6234e1a61ace755a5396f2",
+    "content_type": "application/pdf"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2024/08/WK-American-Standard-Pitch-Notation-ASPN.mscz",
+    "chapter_indexes": [
+      13
+    ],
+    "file": ".local-library/omt-assets/615f181e1087-WK-American-Standard-Pitch-Notation-ASPN.mscz",
+    "status": 200,
+    "bytes": 22297,
+    "sha256": "fe0855333a591d1141cb1f85e5121465e2a1af58306f465de1bb5674970e5899",
+    "content_type": "application/octet-stream"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2024/08/WK-American-Standard-Pitch-Notation-ASPN-treble-bass.pdf",
+    "chapter_indexes": [
+      13
+    ],
+    "file": ".local-library/omt-assets/b21f05eb4272-WK-American-Standard-Pitch-Notation-ASPN-treble-bass.pdf",
+    "status": 200,
+    "bytes": 168856,
+    "sha256": "b6debc5b38a96e06a4df74b504f9f25096aca9296be8fc7b3f497f03c23045b4",
+    "content_type": "application/pdf"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2024/08/WK-American-Standard-Pitch-Notation-ASPN-treble-bass.mscz",
+    "chapter_indexes": [
+      13
+    ],
+    "file": ".local-library/omt-assets/78b420a5d3d2-WK-American-Standard-Pitch-Notation-ASPN-treble-bass.mscz",
+    "status": 200,
+    "bytes": 23985,
+    "sha256": "b351775267f5e32319e51849c3e8b8a2e35b99cefa0d20e785f12e3a508ed30c",
+    "content_type": "application/octet-stream"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/10/WK-Texture.pdf",
+    "chapter_indexes": [
+      15
+    ],
+    "file": ".local-library/omt-assets/3c0e951e438c-WK-Texture.pdf",
+    "status": 200,
+    "bytes": 959434,
+    "sha256": "13a40dcfb89bae1ba1c2ac54c85cea64ef371896957cbb09219e9b01fc541181",
+    "content_type": "application/pdf"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/10/WK-Texture.docx",
+    "chapter_indexes": [
+      15
+    ],
+    "file": ".local-library/omt-assets/9be0cee75814-WK-Texture.docx",
+    "status": 200,
+    "bytes": 1017493,
+    "sha256": "f4a446a6dc5998c7b2d098fa622df754022cad238c36ada5000c48d33ce94356",
+    "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/noteillustration-1-300x132.png",
+    "chapter_indexes": [
+      16
+    ],
+    "file": ".local-library/omt-assets/158fc9e059fc-noteillustration-1-300x132.png",
+    "status": 200,
+    "bytes": 12590,
+    "sha256": "8119cbf5d2660408b883a0a0861a26eea974dddb230f4f578e9e61daf2056bb3",
+    "content_type": "image/png"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/durations-1-264x300.png",
+    "chapter_indexes": [
+      16
+    ],
+    "file": ".local-library/omt-assets/44d5cf7da74f-durations-1-264x300.png",
+    "status": 200,
+    "bytes": 33171,
+    "sha256": "17afac0647ac6f540fdf7e7ab682d51f5cb67fa7f193af8591ae7fbf0ad76745",
+    "content_type": "image/png"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/06/Example-3-Chapter-8-300x133.png",
+    "chapter_indexes": [
+      16
+    ],
+    "file": ".local-library/omt-assets/6644a9aba1cc-Example-3-Chapter-8-300x133.png",
+    "status": 200,
+    "bytes": 13582,
+    "sha256": "0500b71288d3f46dce2629f4232c11b0d5c8edabeb596a70b2182689dd80c135",
+    "content_type": "image/png"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/rests-1-264x300.png",
+    "chapter_indexes": [
+      16
+    ],
+    "file": ".local-library/omt-assets/aa18e42a74b9-rests-1-264x300.png",
+    "status": 200,
+    "bytes": 30561,
+    "sha256": "f7c43666272d013452081cf09d972aa9a5b94439a093eb4bb2ae77e9d7c3964d",
+    "content_type": "image/png"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/Breve-Rest-300x139.png",
+    "chapter_indexes": [
+      16
+    ],
+    "file": ".local-library/omt-assets/4677d8cf4a40-Breve-Rest-300x139.png",
+    "status": 200,
+    "bytes": 12352,
+    "sha256": "83ed7f2cbe97fd2d5583dc37bb882ac1441c60ced04e38b2151043fcd1e41f1f",
+    "content_type": "image/png"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/dots-1-300x244.png",
+    "chapter_indexes": [
+      16
+    ],
+    "file": ".local-library/omt-assets/6b1ddb8a9d96-dots-1-300x244.png",
+    "status": 200,
+    "bytes": 23634,
+    "sha256": "0cbd17085b2b1f3063944f5d990443551df3c53f9d100c7d1818cc881945a9c2",
+    "content_type": "image/png"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2025/08/WK-note-and-rest-values.pdf",
+    "chapter_indexes": [
+      16
+    ],
+    "file": ".local-library/omt-assets/327c4a3b4c4f-WK-note-and-rest-values.pdf",
+    "status": 200,
+    "bytes": 210063,
+    "sha256": "da7f757aa69981d2c76219addccd8cb0de3e0b8cb03843802decba3697ff48e9",
+    "content_type": "application/pdf"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2025/08/WK-note-and-rest-values.docx",
+    "chapter_indexes": [
+      16
+    ],
+    "file": ".local-library/omt-assets/13a56c18a535-WK-note-and-rest-values.docx",
+    "status": 200,
+    "bytes": 15280,
+    "sha256": "17a739820373bf19d1c243fd91b772a10cc23b2fcccc0c02b610f7ec026176f4",
+    "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2024/06/WK-Notating-Rhythm-–-Dots-and-Ties.pdf",
+    "chapter_indexes": [
+      16
+    ],
+    "file": ".local-library/omt-assets/0076fe7b7ec7-WK-Notating-Rhythm-–-Dots-and-Ties.pdf",
+    "status": 200,
+    "bytes": 198643,
+    "sha256": "f6dd1da202c1d13d56049550ab76caf513fcdd9d46505c532f26c38d414c9178",
+    "content_type": "application/pdf"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2024/06/WK-Notating-Rhythm-–-Dots-and-Ties.docx",
+    "chapter_indexes": [
+      16
+    ],
+    "file": ".local-library/omt-assets/c7920e490445-WK-Notating-Rhythm-–-Dots-and-Ties.docx",
+    "status": 200,
+    "bytes": 13353,
+    "sha256": "687181a7eb3ddcba8f2e3f56d82d2e159fe34e90239010fbbc7b76b631c45b3b",
+    "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2020/05/Duple-1-150x150.png",
+    "chapter_indexes": [
+      17
+    ],
+    "file": ".local-library/omt-assets/26a684bdfe37-Duple-1-150x150.png",
+    "status": 200,
+    "bytes": 6935,
+    "sha256": "7a75a1bf141a6b689b00002ef7a22cfd54f0d8a80dd20931e9a3e134f49fecc8",
+    "content_type": "image/png"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2020/05/Triple-1-150x150.png",
+    "chapter_indexes": [
+      17
+    ],
+    "file": ".local-library/omt-assets/784118a03069-Triple-1-150x150.png",
+    "status": 200,
+    "bytes": 8089,
+    "sha256": "236f1164e7cabdcc7e7a0ab77f30c34871e54c270a4fd3f5182040450cec14d0",
+    "content_type": "image/png"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2020/05/Quadruple-1-150x150.png",
+    "chapter_indexes": [
+      17
+    ],
+    "file": ".local-library/omt-assets/ea49f7caaba2-Quadruple-1-150x150.png",
+    "status": 200,
+    "bytes": 8503,
+    "sha256": "1de8b0f24ae758e3804ad18aeda5179ff9e19b8dd37ef34a28a4033b7fb038c3",
+    "content_type": "image/png"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2020/01/Measures-and-Barlines-300x63.png",
+    "chapter_indexes": [
+      17
+    ],
+    "file": ".local-library/omt-assets/4e7cc8886065-Measures-and-Barlines-300x63.png",
+    "status": 200,
+    "bytes": 7251,
+    "sha256": "5d839d483c8ee691bc2c6a0449284f192fb775ed657c55151951d1d8cc164f77",
+    "content_type": "image/png"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2020/05/Screen-Shot-2020-05-12-at-3.32.33-PM-1-300x102.png",
+    "chapter_indexes": [
+      17
+    ],
+    "file": ".local-library/omt-assets/fb8f47c60b68-Screen-Shot-2020-05-12-at-3.32.33-PM-1-300x102.png",
+    "status": 200,
+    "bytes": 9720,
+    "sha256": "d164bd89c5b574b3b2b5c60bad368fa2ba86194942221249efe0ceb5b9e33070",
+    "content_type": "image/png"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2020/01/pickup.png",
+    "chapter_indexes": [
+      17
+    ],
+    "file": ".local-library/omt-assets/2073d5b2d8d0-pickup.png",
+    "status": 200,
+    "bytes": 12053,
+    "sha256": "7439fbbbb29de8f73b8d13c490e0845a51a2d224954d30db5339af1fcf4f97d0",
+    "content_type": "image/png"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2020/01/pickup-300x44.png",
+    "chapter_indexes": [
+      17
+    ],
+    "file": ".local-library/omt-assets/7b55ab0694a0-pickup-300x44.png",
+    "status": 200,
+    "bytes": 1894,
+    "sha256": "939502f9944303f9f04e86e1dc38c8854e2c689f80430188a78832e3724e9b66",
+    "content_type": "image/png"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2020/01/withoutbeams.png",
+    "chapter_indexes": [
+      17
+    ],
+    "file": ".local-library/omt-assets/8a1d8627fa66-withoutbeams.png",
+    "status": 200,
+    "bytes": 40305,
+    "sha256": "f4794f8e2788f36a9bcc849bcc2718753c6aade3a7c4aee7c54e284dd3f279d8",
+    "content_type": "image/png"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2020/01/withoutbeams-300x146.png",
+    "chapter_indexes": [
+      17
+    ],
+    "file": ".local-library/omt-assets/7dca48d23b29-withoutbeams-300x146.png",
+    "status": 200,
+    "bytes": 7674,
+    "sha256": "4097ce98ae674c1914205fd3a9064a62a09efe59a28dc837cf761af07e68c53a",
+    "content_type": "image/png"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2020/01/beaming-beat-unit.png",
+    "chapter_indexes": [
+      17
+    ],
+    "file": ".local-library/omt-assets/8b2b81325790-beaming-beat-unit.png",
+    "status": 200,
+    "bytes": 107855,
+    "sha256": "4234cceb8888b33a8eff1356456d1885c31583b4ac33894c15f412a3a1bb5ee6",
+    "content_type": "image/png"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2020/01/beaming-beat-unit-1024x609.png",
+    "chapter_indexes": [
+      17
+    ],
+    "file": ".local-library/omt-assets/899d4c502f4d-beaming-beat-unit-1024x609.png",
+    "status": 200,
+    "bytes": 66106,
+    "sha256": "87cb7c7e23f5812dbe57ba02e203d1349dd804ab1c428453a4c36fc45edbe3f7",
+    "content_type": "image/png"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/05/Stemming2-300x58.png",
+    "chapter_indexes": [
+      17
+    ],
+    "file": ".local-library/omt-assets/33f2b4312f5b-Stemming2-300x58.png",
+    "status": 200,
+    "bytes": 8904,
+    "sha256": "c7bd44ae428d7a8fa832ec297056004c51b6d6118a50acb54df4befdeb93a162",
+    "content_type": "image/png"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2020/01/Flag-Direction-300x119.png",
+    "chapter_indexes": [
+      17
+    ],
+    "file": ".local-library/omt-assets/e66d6ea8fa0b-Flag-Direction-300x119.png",
+    "status": 200,
+    "bytes": 16865,
+    "sha256": "af8853597155ce8f4a33493d52243224314e7f9b887c854084d2e1c6161122de",
+    "content_type": "image/png"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2020/01/Multi-Measure-Rest-300x95.png",
+    "chapter_indexes": [
+      17
+    ],
+    "file": ".local-library/omt-assets/3b22faa65c62-Multi-Measure-Rest-300x95.png",
+    "status": 200,
+    "bytes": 10483,
+    "sha256": "2590750e3ddd6cf887f0d098f4ad598ae68adbe3ad55b54a7edb70ec0513aad1",
+    "content_type": "image/png"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2020/01/ties-clarify-beat.png",
+    "chapter_indexes": [
+      17
+    ],
+    "file": ".local-library/omt-assets/61bec0327f8f-ties-clarify-beat.png",
+    "status": 200,
+    "bytes": 38087,
+    "sha256": "1d912f7eb14eeec5b6217edb0e5ae0b0fda93efc5eec704fa303930a6ec52c32",
+    "content_type": "image/png"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2020/01/ties-clarify-beat-1024x158.png",
+    "chapter_indexes": [
+      17
+    ],
+    "file": ".local-library/omt-assets/dc147963b935-ties-clarify-beat-1024x158.png",
+    "status": 200,
+    "bytes": 20675,
+    "sha256": "9d61818ecebbb7761a476dacea644273788188c2fa0c1ad556c71be466c82c74",
+    "content_type": "image/png"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2024/06/WK-Simple-Meter-and-Time-Signatures-–-Simple-Notes-Rests-and-Bar-Lines.pdf",
+    "chapter_indexes": [
+      17
+    ],
+    "file": ".local-library/omt-assets/7b4357de1d62-WK-Simple-Meter-and-Time-Signatures-–-Simple-Notes-Rests-and-Bar-Lines.pdf",
+    "status": 200,
+    "bytes": 472987,
+    "sha256": "692f752f66eb94b4c1151e86f8243abc8655dd718e7abd37d95bc597543fcdcb",
+    "content_type": "application/pdf"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2024/06/WK-Simple-Meter-and-Time-Signatures-–-Simple-Notes-Rests-and-Bar-Lines.docx",
+    "chapter_indexes": [
+      17
+    ],
+    "file": ".local-library/omt-assets/f10a5363b5dd-WK-Simple-Meter-and-Time-Signatures-–-Simple-Notes-Rests-and-Bar-Lines.docx",
+    "status": 200,
+    "bytes": 12317778,
+    "sha256": "c6df513434a67627d94218fe6af08a1437e2a021464906041c290c85ccf2329f",
+    "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2024/06/WK-notating-rhythm-in-simple-meter.pdf",
+    "chapter_indexes": [
+      17
+    ],
+    "file": ".local-library/omt-assets/6fb026bfd5b4-WK-notating-rhythm-in-simple-meter.pdf",
+    "status": 200,
+    "bytes": 49501,
+    "sha256": "587a6e40589b4792efd6fa7705bfb14b0814869073d36cc14316cc3ebac7e297",
+    "content_type": "application/pdf"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2024/06/WK-notating-rhythm-in-simple-meter.mscz",
+    "chapter_indexes": [
+      17
+    ],
+    "file": ".local-library/omt-assets/cd75fdf8d706-WK-notating-rhythm-in-simple-meter.mscz",
+    "status": 200,
+    "bytes": 46650,
+    "sha256": "d3389c7921354e6dc2976f10008aad89ac620f081023c5124b73c7220820dcd4",
+    "content_type": "application/octet-stream"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2020/05/Compound-Meter-Time-Signature-300x101.png",
+    "chapter_indexes": [
+      18
+    ],
+    "file": ".local-library/omt-assets/ef5ceb96b72f-Compound-Meter-Time-Signature-300x101.png",
+    "status": 200,
+    "bytes": 13151,
+    "sha256": "b8f0ab3221cf8be353969593e35389e5888012355eea7cb877a1772d9158fd69",
+    "content_type": "image/png"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2020/05/3-4_6-8.png",
+    "chapter_indexes": [
+      18
+    ],
+    "file": ".local-library/omt-assets/7ac445f54cc0-3-4_6-8.png",
+    "status": 200,
+    "bytes": 16417,
+    "sha256": "aab7a33c7be93e5000836078f9c6ab54f03e55f72554adf233bf4ce75581635e",
+    "content_type": "image/png"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2020/05/3-4_6-8-1024x86.png",
+    "chapter_indexes": [
+      18
+    ],
+    "file": ".local-library/omt-assets/03aa0dc5c15a-3-4_6-8-1024x86.png",
+    "status": 200,
+    "bytes": 10317,
+    "sha256": "481bec9aa6724aaf97b1bea02b4472f881ff1b3f6405904a1c9c026a8b8e4422",
+    "content_type": "image/png"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2024/06/WK-Compound-Meter-and-Time-Signatures-–-Compound-Notes-Rests-and-Bar-Lines.pdf",
+    "chapter_indexes": [
+      18
+    ],
+    "file": ".local-library/omt-assets/52907c6921ad-WK-Compound-Meter-and-Time-Signatures-–-Compound-Notes-Rests-and-Bar-Lines.pdf",
+    "status": 200,
+    "bytes": 428131,
+    "sha256": "e42fc83b9887697c057f22d3c763bb13b0cd76b3568b121eb5f2cb87f46ab6c0",
+    "content_type": "application/pdf"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2024/06/WK-Compound-Meter-and-Time-Signatures-–-Compound-Notes-Rests-and-Bar-Lines.docx",
+    "chapter_indexes": [
+      18
+    ],
+    "file": ".local-library/omt-assets/48ec58163b3f-WK-Compound-Meter-and-Time-Signatures-–-Compound-Notes-Rests-and-Bar-Lines.docx",
+    "status": 200,
+    "bytes": 21727744,
+    "sha256": "98317da66d93beaeaa857ccb81914870263d49ce93e8a44b845ad19ec3bb1b90",
+    "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2024/06/WK-notating-rhythm-in-compound-meter.pdf",
+    "chapter_indexes": [
+      18
+    ],
+    "file": ".local-library/omt-assets/1d1123bba2c8-WK-notating-rhythm-in-compound-meter.pdf",
+    "status": 200,
+    "bytes": 48315,
+    "sha256": "d25f0a51d1a115d208ce9bf9021e9a3beefbca6f39b2b9f96cccd3891b701a20",
+    "content_type": "application/pdf"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2024/06/WK-notating-rhythm-in-compound-meter.mscz",
+    "chapter_indexes": [
+      18
+    ],
+    "file": ".local-library/omt-assets/273b118eb18f-WK-notating-rhythm-in-compound-meter.mscz",
+    "status": 200,
+    "bytes": 40027,
+    "sha256": "6efb64e48ae3d8b5bc688d8bc89c2758de8114225be5815fc6ab44d5071120e7",
+    "content_type": "application/octet-stream"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2025/07/Shots-Rhythm-LMFAO.png",
+    "chapter_indexes": [
+      19
+    ],
+    "file": ".local-library/omt-assets/af187eee09d6-Shots-Rhythm-LMFAO.png",
+    "status": 200,
+    "bytes": 10512,
+    "sha256": "908346f743b5b7760e1f09c061d48a8e1c3669b001705efd237eb1fce4262264",
+    "content_type": "image/png"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2025/07/Memory-Cats-Webber.png",
+    "chapter_indexes": [
+      19
+    ],
+    "file": ".local-library/omt-assets/25dd20bf53dc-Memory-Cats-Webber.png",
+    "status": 200,
+    "bytes": 79787,
+    "sha256": "0f6973bde5045407e82ad03a2275e60398033195b69af138ee6fecd0c211546d",
+    "content_type": "image/png"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2024/06/WK-Other-Rhythmic-Essentials-–-Triplets-and-Duplets-Hypermeter-and-Syncopation.pdf",
+    "chapter_indexes": [
+      19
+    ],
+    "file": ".local-library/omt-assets/c058ca9fb243-WK-Other-Rhythmic-Essentials-–-Triplets-and-Duplets-Hypermeter-and-Syncopation.pdf",
+    "status": 200,
+    "bytes": 543828,
+    "sha256": "88dfb7fd7fc07cb26c5fff28d050804e4c0e7893ffadd37e7311af78d67f4bad",
+    "content_type": "application/pdf"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2024/06/WK-Other-Rhythmic-Essentials-–-Triplets-and-Duplets-Hypermeter-and-Syncopation.docx",
+    "chapter_indexes": [
+      19
+    ],
+    "file": ".local-library/omt-assets/3ed9577595e1-WK-Other-Rhythmic-Essentials-–-Triplets-and-Duplets-Hypermeter-and-Syncopation.docx",
+    "status": 200,
+    "bytes": 14779296,
+    "sha256": "e3aece572d4e9fad8aeb48fd0d3723220066710605c89c4ae26a9aca6d79f63b",
+    "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2025/07/Love-Story-Swift.png",
+    "chapter_indexes": [
+      20
+    ],
+    "file": ".local-library/omt-assets/c9791bd2d4e2-Love-Story-Swift.png",
+    "status": 200,
+    "bytes": 44891,
+    "sha256": "58fcba6120c8d38934ed358da61da970de7be846e6a4a70b16c27860b24bf617",
+    "content_type": "image/png"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2025/07/Scale-Degree-Names-Derivation.png",
+    "chapter_indexes": [
+      20
+    ],
+    "file": ".local-library/omt-assets/7fd377b59988-Scale-Degree-Names-Derivation.png",
+    "status": 200,
+    "bytes": 109047,
+    "sha256": "1c69530b579646a11d554c580563adce81967b688f034b9975a4862eb4007d44",
+    "content_type": "image/png"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2025/07/Scale-Degree-Names-Derivation-1024x228.png",
+    "chapter_indexes": [
+      20
+    ],
+    "file": ".local-library/omt-assets/f0cdf42ffb88-Scale-Degree-Names-Derivation-1024x228.png",
+    "status": 200,
+    "bytes": 46968,
+    "sha256": "91f21a637aec30f81a1d5b7affc759d913b99797eaa6e2b22a7d42963900a511",
+    "content_type": "image/png"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/Screen-Shot-2020-06-08-at-12.17.31-PM.png",
+    "chapter_indexes": [
+      20
+    ],
+    "file": ".local-library/omt-assets/c288569d79cd-Screen-Shot-2020-06-08-at-12.17.31-PM.png",
+    "status": 200,
+    "bytes": 10430,
+    "sha256": "f519d951888af6841df890ddc1fccbce59d325e683fb036e8eb8a72067031e05",
+    "content_type": "image/png"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/Screen-Shot-2020-06-08-at-12.17.31-PM-300x121.png",
+    "chapter_indexes": [
+      20
+    ],
+    "file": ".local-library/omt-assets/a70056c2422f-Screen-Shot-2020-06-08-at-12.17.31-PM-300x121.png",
+    "status": 200,
+    "bytes": 16970,
+    "sha256": "e32c1e767157f26f67c65467e524de90c8045b1a42e14d45c9f7aea5ecb5fcd7",
+    "content_type": "image/png"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/Screen-Shot-2020-06-08-at-12.28.24-PM.png",
+    "chapter_indexes": [
+      20
+    ],
+    "file": ".local-library/omt-assets/80330caf8461-Screen-Shot-2020-06-08-at-12.28.24-PM.png",
+    "status": 200,
+    "bytes": 11866,
+    "sha256": "7c6e20928d89f061d00b2134e684568ef38498ef80ceb617d7dc631726e3fb46",
+    "content_type": "image/png"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/Screen-Shot-2020-06-08-at-12.28.24-PM-300x99.png",
+    "chapter_indexes": [
+      20
+    ],
+    "file": ".local-library/omt-assets/e1c52ec39b15-Screen-Shot-2020-06-08-at-12.28.24-PM-300x99.png",
+    "status": 200,
+    "bytes": 11801,
+    "sha256": "efeb06701403253f9e8042004a38b2958b8975863ff659ca76ed6e8ca5f69dd2",
+    "content_type": "image/png"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/Screen-Shot-2020-06-08-at-1.11.04-PM-300x109.png",
+    "chapter_indexes": [
+      20
+    ],
+    "file": ".local-library/omt-assets/8159a5d7eddd-Screen-Shot-2020-06-08-at-1.11.04-PM-300x109.png",
+    "status": 200,
+    "bytes": 23614,
+    "sha256": "bf6811a1b1d0018be3a344ae446c5dee84208baa1ad4fd664a1307f4b1eb5254",
+    "content_type": "image/png"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/sharp-sigs.png",
+    "chapter_indexes": [
+      20
+    ],
+    "file": ".local-library/omt-assets/a249d080df2d-sharp-sigs.png",
+    "status": 200,
+    "bytes": 20113,
+    "sha256": "4f1a2a56be0101bac653d6b9b3ce67738d06fc900cfe6eda303f09eac48a1343",
+    "content_type": "image/png"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/sharp-sigs-300x63.png",
+    "chapter_indexes": [
+      20
+    ],
+    "file": ".local-library/omt-assets/b0a84a56687d-sharp-sigs-300x63.png",
+    "status": 200,
+    "bytes": 3824,
+    "sha256": "007369fecd9f04a7b5eb45bf26ead2991cd31512220318bf8480d983e5e3ff0a",
+    "content_type": "image/png"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/flat-sigs.png",
+    "chapter_indexes": [
+      20
+    ],
+    "file": ".local-library/omt-assets/f691c50f16e8-flat-sigs.png",
+    "status": 200,
+    "bytes": 21358,
+    "sha256": "9b87d19f6bb4dc5a3cd4e6c62e035ba173ba89e99c567e5bfccbb5f0845b925e",
+    "content_type": "image/png"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/flat-sigs-300x63.png",
+    "chapter_indexes": [
+      20
+    ],
+    "file": ".local-library/omt-assets/d9ae45a43a85-flat-sigs-300x63.png",
+    "status": 200,
+    "bytes": 4059,
+    "sha256": "6f3042582b65968bc5c11d6dc09c5856332102a7d5a9a4598b7d510983e9715d",
+    "content_type": "image/png"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/cmajfmaj.png",
+    "chapter_indexes": [
+      20
+    ],
+    "file": ".local-library/omt-assets/e2e9c98bd125-cmajfmaj.png",
+    "status": 200,
+    "bytes": 18370,
+    "sha256": "6964f8ca5fb5cf723defa182ae9508efa4ee2df5185cbc89e87c22f04ed43d3e",
+    "content_type": "image/png"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/cmajfmaj-e1659817325208-150x150.png",
+    "chapter_indexes": [
+      20
+    ],
+    "file": ".local-library/omt-assets/b81f909e4291-cmajfmaj-e1659817325208-150x150.png",
+    "status": 200,
+    "bytes": 2479,
+    "sha256": "c7988046abf1d72840d9af8df66242b64ee8b218b5cfd668ca4d4d9f6921abd7",
+    "content_type": "image/png"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/06/Sharp-Key-Signatures-300x245.png",
+    "chapter_indexes": [
+      20
+    ],
+    "file": ".local-library/omt-assets/b49321ef3549-Sharp-Key-Signatures-300x245.png",
+    "status": 200,
+    "bytes": 50377,
+    "sha256": "28d09a31c046102cd856f2732a1d11d55d48b5612151a7899d87a6a04684f17c",
+    "content_type": "image/png"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/Screen-Shot-2020-06-08-at-1.57.09-PM-300x225.png",
+    "chapter_indexes": [
+      20
+    ],
+    "file": ".local-library/omt-assets/d82049403320-Screen-Shot-2020-06-08-at-1.57.09-PM-300x225.png",
+    "status": 200,
+    "bytes": 37338,
+    "sha256": "2420440c51e6004fd6f3c6b34f835a5b073cef62bf79d79278dfb3f26f1fa1f8",
+    "content_type": "image/png"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/Circle-of-Fifths-294x300.png",
+    "chapter_indexes": [
+      20
+    ],
+    "file": ".local-library/omt-assets/09efc381b021-Circle-of-Fifths-294x300.png",
+    "status": 200,
+    "bytes": 27971,
+    "sha256": "0f991664f38d4427a9af2e8a399c5bac5b08328fb9900ac2cb10b4c36f4b8f46",
+    "content_type": "image/png"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2025/07/WK-Major-Scales-A.pdf",
+    "chapter_indexes": [
+      20
+    ],
+    "file": ".local-library/omt-assets/8897805352c6-WK-Major-Scales-A.pdf",
+    "status": 200,
+    "bytes": 57378,
+    "sha256": "244335b64b1102bbab89e6b30b57a7c43bf7a95e461919637ce8806fa03f42cd",
+    "content_type": "application/pdf"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2025/07/WK-Major-Scales-A.mscz",
+    "chapter_indexes": [
+      20
+    ],
+    "file": ".local-library/omt-assets/36fc8e8f2078-WK-Major-Scales-A.mscz",
+    "status": 200,
+    "bytes": 29030,
+    "sha256": "43c89a6cd827950d522661178ee7ed3ee97e53105b61d5da466dd64498978d84",
+    "content_type": "application/octet-stream"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2025/07/WK-Major-Scales-A-TB.pdf",
+    "chapter_indexes": [
+      20
+    ],
+    "file": ".local-library/omt-assets/e4a42aa9e8ba-WK-Major-Scales-A-TB.pdf",
+    "status": 200,
+    "bytes": 57367,
+    "sha256": "f42eeb3ad87778eb127d266047098dfa594e63c343f87c3552361efc191d3c20",
+    "content_type": "application/pdf"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2025/07/WK-Major-Scales-A-TB.mscz",
+    "chapter_indexes": [
+      20
+    ],
+    "file": ".local-library/omt-assets/f0c66792530f-WK-Major-Scales-A-TB.mscz",
+    "status": 200,
+    "bytes": 29116,
+    "sha256": "4cc44c408b96e078e4633bd4e72706efd6314488fd8dca721bf4e70d7e85bebd",
+    "content_type": "application/octet-stream"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2025/07/WK-Major-Scales-B.pdf",
+    "chapter_indexes": [
+      20
+    ],
+    "file": ".local-library/omt-assets/4be83942c0e6-WK-Major-Scales-B.pdf",
+    "status": 200,
+    "bytes": 57498,
+    "sha256": "59fd0ae7644ea58ad46c57ddcf00600d0abe5c0299ad49e533f8e779da077436",
+    "content_type": "application/pdf"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2025/07/WK-Major-Key-Signatures-B.mscz",
+    "chapter_indexes": [
+      20
+    ],
+    "file": ".local-library/omt-assets/8ebb36e0c42f-WK-Major-Key-Signatures-B.mscz",
+    "status": 200,
+    "bytes": 42257,
+    "sha256": "629b6021bab077472eefec4f5d2625826a0523b6f85409764722a5520acafe13",
+    "content_type": "application/octet-stream"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2025/07/WK-Major-Scales-B-TB.pdf",
+    "chapter_indexes": [
+      20
+    ],
+    "file": ".local-library/omt-assets/a721ec971621-WK-Major-Scales-B-TB.pdf",
+    "status": 200,
+    "bytes": 57227,
+    "sha256": "6946a32749508b61253207d826814be72d6bf7ba09bcca42b350dfcf19b20661",
+    "content_type": "application/pdf"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2025/07/WK-Major-Scales-B-TB.mscz",
+    "chapter_indexes": [
+      20
+    ],
+    "file": ".local-library/omt-assets/5ad3d72f60e1-WK-Major-Scales-B-TB.mscz",
+    "status": 200,
+    "bytes": 29105,
+    "sha256": "4373c84d67bf1f3f272dd6bbd6eabdf9005224df207b0183457d4288ffd29ea0",
+    "content_type": "application/octet-stream"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2025/07/WK-Major-Key-Signatures-A.pdf",
+    "chapter_indexes": [
+      20
+    ],
+    "file": ".local-library/omt-assets/5eb1d17d1d9d-WK-Major-Key-Signatures-A.pdf",
+    "status": 200,
+    "bytes": 47580,
+    "sha256": "bbea0928fd37aa83ca59b44d8d51fcafc37d1e6dee55e89be1dff75fe4b31e43",
+    "content_type": "application/pdf"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2025/07/WK-Major-Key-Signatures-A.mscz",
+    "chapter_indexes": [
+      20
+    ],
+    "file": ".local-library/omt-assets/2bd41ecd8f41-WK-Major-Key-Signatures-A.mscz",
+    "status": 200,
+    "bytes": 42431,
+    "sha256": "bb1217fe5a1f207d8cb3038a7c8edf4929a0e3dcf8bccca725489dca4417fff0",
+    "content_type": "application/octet-stream"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2025/07/WK-Major-Key-Signatures-A-TB.pdf",
+    "chapter_indexes": [
+      20
+    ],
+    "file": ".local-library/omt-assets/b5e7d3ea615b-WK-Major-Key-Signatures-A-TB.pdf",
+    "status": 200,
+    "bytes": 47832,
+    "sha256": "a5579e76be6c27312023a372c87ddd29fa12848b0b4afe0ac1cac8f14e3910a9",
+    "content_type": "application/pdf"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2025/07/WK-Major-Key-Signatures-A-TB.mscz",
+    "chapter_indexes": [
+      20
+    ],
+    "file": ".local-library/omt-assets/38079e2a5b36-WK-Major-Key-Signatures-A-TB.mscz",
+    "status": 200,
+    "bytes": 42682,
+    "sha256": "0d4e946ceee8c35764bce3f53e360f7544fbfd6601e7cc159f7b39dc54863a5e",
+    "content_type": "application/octet-stream"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2025/07/WK-Major-Key-Signatures-B.pdf",
+    "chapter_indexes": [
+      20
+    ],
+    "file": ".local-library/omt-assets/f3f17aaa7e39-WK-Major-Key-Signatures-B.pdf",
+    "status": 200,
+    "bytes": 47799,
+    "sha256": "126442e9a6b1465d0d8de89e0bea8791434b2dc89ec6cb1ce5f0d660506a6920",
+    "content_type": "application/pdf"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2025/07/WK-Major-Key-Signatures-B-TB.pdf",
+    "chapter_indexes": [
+      20
+    ],
+    "file": ".local-library/omt-assets/4db8acb6c31f-WK-Major-Key-Signatures-B-TB.pdf",
+    "status": 200,
+    "bytes": 47887,
+    "sha256": "7bd295b714730f8d020973ffbc0e95f95bdfe96e9c70584ce61367c7f1d3ed2a",
+    "content_type": "application/pdf"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2025/07/WK-Major-Key-Signatures-B-TB.mscz",
+    "chapter_indexes": [
+      20
+    ],
+    "file": ".local-library/omt-assets/5d85b4b17dc2-WK-Major-Key-Signatures-B-TB.mscz",
+    "status": 200,
+    "bytes": 42495,
+    "sha256": "8ac01e5ae3b5ccbb6297497c62a5a8e885836a6f3cdeb3726ebc4f370ab53663",
+    "content_type": "application/octet-stream"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2025/07/Yesterday-Beatles.png",
+    "chapter_indexes": [
+      21
+    ],
+    "file": ".local-library/omt-assets/046b5038af88-Yesterday-Beatles.png",
+    "status": 200,
+    "bytes": 26622,
+    "sha256": "eba20d3f76ba9b6353cd26778dfb5bf9b5a4748b1de222d8e1e0d11c4d02276a",
+    "content_type": "image/png"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2020/05/Screen-Shot-2020-06-11-at-11.20.05-AM-300x112.png",
+    "chapter_indexes": [
+      21
+    ],
+    "file": ".local-library/omt-assets/d13952044ad8-Screen-Shot-2020-06-11-at-11.20.05-AM-300x112.png",
+    "status": 200,
+    "bytes": 18517,
+    "sha256": "c817a64f9f57d5285ded3ca09aa84a509d706aab134129880069f04901fc3487",
+    "content_type": "image/png"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2020/05/Screen-Shot-2020-06-08-at-1.11.04-PM-300x109.png",
+    "chapter_indexes": [
+      21
+    ],
+    "file": ".local-library/omt-assets/e5099574251b-Screen-Shot-2020-06-08-at-1.11.04-PM-300x109.png",
+    "status": 200,
+    "bytes": 23614,
+    "sha256": "bf6811a1b1d0018be3a344ae446c5dee84208baa1ad4fd664a1307f4b1eb5254",
+    "content_type": "image/png"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/Screen-Shot-2020-06-08-at-1.51.08-PM-2-e1658435801975.png",
+    "chapter_indexes": [
+      21
+    ],
+    "file": ".local-library/omt-assets/a51699c3a648-Screen-Shot-2020-06-08-at-1.51.08-PM-2-e1658435801975.png",
+    "status": 200,
+    "bytes": 42214,
+    "sha256": "e865fa79a8273dc664e99d21233495a732071676c7e8db49fc19bd8fb88768a4",
+    "content_type": "image/png"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/Screen-Shot-2020-06-08-at-1.51.08-PM-2-e1658435801975-300x229.png",
+    "chapter_indexes": [
+      21
+    ],
+    "file": ".local-library/omt-assets/a2de22cfabed-Screen-Shot-2020-06-08-at-1.51.08-PM-2-e1658435801975-300x229.png",
+    "status": 200,
+    "bytes": 51051,
+    "sha256": "9f5802df3a50107556e8c94429d88db5972ea68860c90b6bfd5841854be364d9",
+    "content_type": "image/png"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/Screen-Shot-2020-06-08-at-1.57.09-PM-e1658435818939.png",
+    "chapter_indexes": [
+      21
+    ],
+    "file": ".local-library/omt-assets/960fe6b977b4-Screen-Shot-2020-06-08-at-1.57.09-PM-e1658435818939.png",
+    "status": 200,
+    "bytes": 46342,
+    "sha256": "d57347acd2ac0f80d553f4058915f957efac66fb4a89793cddd6bfa78972ffc0",
+    "content_type": "image/png"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/Screen-Shot-2020-06-08-at-1.57.09-PM-e1658435818939-300x225.png",
+    "chapter_indexes": [
+      21
+    ],
+    "file": ".local-library/omt-assets/44f62cd1f118-Screen-Shot-2020-06-08-at-1.57.09-PM-e1658435818939-300x225.png",
+    "status": 200,
+    "bytes": 43815,
+    "sha256": "7abaca05a3553a126432819ccabfe5c033e0b6db7eaf3ac75f5ad143dce65449",
+    "content_type": "image/png"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2020/05/Circle_of_fifths_deluxe_de.jpg",
+    "chapter_indexes": [
+      21
+    ],
+    "file": ".local-library/omt-assets/de73fe5975dd-Circle_of_fifths_deluxe_de.jpg",
+    "status": 200,
+    "bytes": 1233677,
+    "sha256": "e48a591b24fdbb7a1d9c51243999594ebd7438f740c6895156ff4e3a312f57e3",
+    "content_type": "image/jpeg"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2020/05/Circle_of_fifths_deluxe_de-1024x863.jpg",
+    "chapter_indexes": [
+      21
+    ],
+    "file": ".local-library/omt-assets/df1fa92e79be-Circle_of_fifths_deluxe_de-1024x863.jpg",
+    "status": 200,
+    "bytes": 73743,
+    "sha256": "80855082d4c45525e6357abef82ec3075c58d31b3164213f959ac33751c72249",
+    "content_type": "image/jpeg"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2020/05/reichardt.png",
+    "chapter_indexes": [
+      21
+    ],
+    "file": ".local-library/omt-assets/4f5f285998b4-reichardt.png",
+    "status": 200,
+    "bytes": 149209,
+    "sha256": "1322fe530b8136aa0048f44555682b990ea3e863bd72c51c34c5655e5edd69bb",
+    "content_type": "image/png"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2020/05/reichardt-300x92.png",
+    "chapter_indexes": [
+      21
+    ],
+    "file": ".local-library/omt-assets/ba451342d0e8-reichardt-300x92.png",
+    "status": 200,
+    "bytes": 13230,
+    "sha256": "4fc216c0964d3bb8dca03aa87e9643ab172629118f0e82e3838f9219b3e415b3",
+    "content_type": "image/png"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2025/07/WK-Minor-Scales-A.pdf",
+    "chapter_indexes": [
+      21
+    ],
+    "file": ".local-library/omt-assets/b17fc7378e29-WK-Minor-Scales-A.pdf",
+    "status": 200,
+    "bytes": 63180,
+    "sha256": "f3335a998210d395035955f171cb0fc335e29274ee3258248bebdd672077d733",
+    "content_type": "application/pdf"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2025/07/WK-Minor-Scales-A.mscz",
+    "chapter_indexes": [
+      21
+    ],
+    "file": ".local-library/omt-assets/c4c3821866b8-WK-Minor-Scales-A.mscz",
+    "status": 200,
+    "bytes": 30667,
+    "sha256": "9b6f0e3fe506aa003ee74d352481ba7f2f77376392655eccefa113d5a35cb5a5",
+    "content_type": "application/octet-stream"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2025/07/WK-Minor-Scales-A-TB.pdf",
+    "chapter_indexes": [
+      21
+    ],
+    "file": ".local-library/omt-assets/e04bf1f62e48-WK-Minor-Scales-A-TB.pdf",
+    "status": 200,
+    "bytes": 63229,
+    "sha256": "1f51bde73826e3625e0b035441141a853530b0aba1f9c34f12d82f88199a8658",
+    "content_type": "application/pdf"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2025/07/WK-Minor-Scales-A-TB.mscz",
+    "chapter_indexes": [
+      21
+    ],
+    "file": ".local-library/omt-assets/f5e835d1ea8c-WK-Minor-Scales-A-TB.mscz",
+    "status": 200,
+    "bytes": 30784,
+    "sha256": "5615d948e016434ed4179aa81dfeb46e962c53e69c35e461807cbac2e0a3b12c",
+    "content_type": "application/octet-stream"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2025/07/WK-Minor-Scales-B.pdf",
+    "chapter_indexes": [
+      21
+    ],
+    "file": ".local-library/omt-assets/b550e0148143-WK-Minor-Scales-B.pdf",
+    "status": 200,
+    "bytes": 63432,
+    "sha256": "f80e400f23bebb0741106c9c09606f1484800db3bce78f67f16695c105107fcc",
+    "content_type": "application/pdf"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2025/07/WK-Minor-Scales-B.mscz",
+    "chapter_indexes": [
+      21
+    ],
+    "file": ".local-library/omt-assets/9258ffbc7353-WK-Minor-Scales-B.mscz",
+    "status": 200,
+    "bytes": 30700,
+    "sha256": "a62e2acd184a4c5d0ad22f822b98ace5b0ab4a09678492783cd2fff92ae8783a",
+    "content_type": "application/octet-stream"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2025/07/WK-Minor-Scales-B-TB.pdf",
+    "chapter_indexes": [
+      21
+    ],
+    "file": ".local-library/omt-assets/c74d05e211d6-WK-Minor-Scales-B-TB.pdf",
+    "status": 200,
+    "bytes": 63205,
+    "sha256": "f3fd63db5b7be3212e70c91b6b99c7fb1150bc498e8ae3511d098ece72f3336c",
+    "content_type": "application/pdf"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2025/07/WK-Minor-Scales-B-TB.mscz",
+    "chapter_indexes": [
+      21
+    ],
+    "file": ".local-library/omt-assets/3c49593918a8-WK-Minor-Scales-B-TB.mscz",
+    "status": 200,
+    "bytes": 30821,
+    "sha256": "8333b4bf477c67e298e49b5ead7c8c88d8c14064b1ca292d091c9d3bb9a8e628",
+    "content_type": "application/octet-stream"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2025/08/WK-Minor-Key-Signatures-A.pdf",
+    "chapter_indexes": [
+      21
+    ],
+    "file": ".local-library/omt-assets/4ec192a9be8c-WK-Minor-Key-Signatures-A.pdf",
+    "status": 200,
+    "bytes": 45467,
+    "sha256": "753e64c8e846b2fff4054817604d282c7803ce2f931d01a4fc80074e5319b948",
+    "content_type": "application/pdf"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2025/08/WK-Minor-Key-Signatures-A.mscz",
+    "chapter_indexes": [
+      21
+    ],
+    "file": ".local-library/omt-assets/f25718f0af94-WK-Minor-Key-Signatures-A.mscz",
+    "status": 200,
+    "bytes": 41846,
+    "sha256": "774c9bbc0aa0ffc8b0c0689cf0f13c258a2714da6c2b24d9f8001fbf22302c64",
+    "content_type": "application/octet-stream"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2025/08/WK-Minor-Key-Signatures-A-TB.pdf",
+    "chapter_indexes": [
+      21
+    ],
+    "file": ".local-library/omt-assets/c69b9a9dc236-WK-Minor-Key-Signatures-A-TB.pdf",
+    "status": 200,
+    "bytes": 45170,
+    "sha256": "f0cf200e495092804b565544f5ad64df48624db63cde5bd8aab05d53e1e5baed",
+    "content_type": "application/pdf"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2025/08/WK-Minor-Key-Signatures-A-TB.mscz",
+    "chapter_indexes": [
+      21
+    ],
+    "file": ".local-library/omt-assets/19ba7630ebd0-WK-Minor-Key-Signatures-A-TB.mscz",
+    "status": 200,
+    "bytes": 41789,
+    "sha256": "aa38c3381524f9f6e18ddfe684b4c7b8118dfbb0f2e170ba749731ba2af89363",
+    "content_type": "application/octet-stream"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2025/08/WK-Minor-Key-Signatures-B.pdf",
+    "chapter_indexes": [
+      21
+    ],
+    "file": ".local-library/omt-assets/b71e3a63ae10-WK-Minor-Key-Signatures-B.pdf",
+    "status": 200,
+    "bytes": 44839,
+    "sha256": "f06100e315b710fadb23c11e5debc65f57194b3042694b7d78b877eceff1dddb",
+    "content_type": "application/pdf"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2025/08/WK-Minor-Key-Signatures-B.mscz",
+    "chapter_indexes": [
+      21
+    ],
+    "file": ".local-library/omt-assets/881c5317a9d8-WK-Minor-Key-Signatures-B.mscz",
+    "status": 200,
+    "bytes": 41562,
+    "sha256": "aaf107fb6613b91c4ae26e208554eecf71cbda62feabb4fd250bbc41745f037b",
+    "content_type": "application/octet-stream"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2025/08/WK-Minor-Key-Signatures-B-TB.pdf",
+    "chapter_indexes": [
+      21
+    ],
+    "file": ".local-library/omt-assets/c3cd19877fef-WK-Minor-Key-Signatures-B-TB.pdf",
+    "status": 200,
+    "bytes": 44826,
+    "sha256": "4040cc40a9c297ee62cb8874ec73d7eb5aa01d95107df5c76a8d1ceeffd98e3c",
+    "content_type": "application/pdf"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2025/08/WK-Minor-Key-Signatures-B-TB.mscz",
+    "chapter_indexes": [
+      21
+    ],
+    "file": ".local-library/omt-assets/84ace640b9fc-WK-Minor-Key-Signatures-B-TB.mscz",
+    "status": 200,
+    "bytes": 41569,
+    "sha256": "a44936b52adf42c9dbaaac4ad727c479665d07781185a2d7427a9976794f81bd",
+    "content_type": "application/octet-stream"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2020/05/Examples-for-OMT-05-1024x152.png",
+    "chapter_indexes": [
+      22
+    ],
+    "file": ".local-library/omt-assets/b303a582fb8d-Examples-for-OMT-05-1024x152.png",
+    "status": 200,
+    "bytes": 24265,
+    "sha256": "0be6889cbe299afb819dba13ce777ad907d0c7a1357dc50b88496bef4ac4fb9a",
+    "content_type": "image/png"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2025/08/WK-diatonic-modes-A.pdf",
+    "chapter_indexes": [
+      22
+    ],
+    "file": ".local-library/omt-assets/20ae95d942fc-WK-diatonic-modes-A.pdf",
+    "status": 200,
+    "bytes": 41105,
+    "sha256": "6bee2e3b30614072063b4f9a947277360bb66edf4c4cf793ba3b3f2e91ae539e",
+    "content_type": "application/pdf"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2025/08/WK-diatonic-modes-A.mscz",
+    "chapter_indexes": [
+      22
+    ],
+    "file": ".local-library/omt-assets/c59fca9b52f8-WK-diatonic-modes-A.mscz",
+    "status": 200,
+    "bytes": 30560,
+    "sha256": "2cc39e56207ddae3f6c0e5bfaf1f8cd13c90f2d4de2662985219e2886870802b",
+    "content_type": "application/octet-stream"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2025/08/WK-diatonic-modes-A-TB.pdf",
+    "chapter_indexes": [
+      22
+    ],
+    "file": ".local-library/omt-assets/fe6dbfeda186-WK-diatonic-modes-A-TB.pdf",
+    "status": 200,
+    "bytes": 46130,
+    "sha256": "ff341ce857ecc0f5c535aac2f64a56904f79dca69a1a19f38876bae02bcbbe97",
+    "content_type": "application/pdf"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2025/08/WK-diatonic-modes-A-TB.mscz",
+    "chapter_indexes": [
+      22
+    ],
+    "file": ".local-library/omt-assets/870d90d38347-WK-diatonic-modes-A-TB.mscz",
+    "error": "404 Client Error: Not Found for url: https://viva.pressbooks.pub/app/uploads/sites/12/2025/08/WK-diatonic-modes-A-TB.mscz"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2025/08/WK-diatonic-modes-B.pdf",
+    "chapter_indexes": [
+      22
+    ],
+    "file": ".local-library/omt-assets/83068ec8d41c-WK-diatonic-modes-B.pdf",
+    "status": 200,
+    "bytes": 41178,
+    "sha256": "f10a091a82b7e4f2ec379e53b72cb94dfe72ec657012b22f218da2328a41fa84",
+    "content_type": "application/pdf"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2025/08/WK-diatonic-modes-B.mscz",
+    "chapter_indexes": [
+      22
+    ],
+    "file": ".local-library/omt-assets/5af7914f69ba-WK-diatonic-modes-B.mscz",
+    "status": 200,
+    "bytes": 30410,
+    "sha256": "1650a67d7dd4ce427fe591fe1b424d28a662fb822dc937dd579e0136e0963326",
+    "content_type": "application/octet-stream"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2025/08/WK-diatonic-modes-B-TB.pdf",
+    "chapter_indexes": [
+      22
+    ],
+    "file": ".local-library/omt-assets/1d4228c034e7-WK-diatonic-modes-B-TB.pdf",
+    "status": 200,
+    "bytes": 46161,
+    "sha256": "addcea6e81ae6c68ff63edf3ebe832f0e093e9cd6f5114b38b134e22fc0e3bcd",
+    "content_type": "application/pdf"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2025/08/WK-diatonic-modes-B-TB.mscz",
+    "chapter_indexes": [
+      22
+    ],
+    "file": ".local-library/omt-assets/df11a125702a-WK-diatonic-modes-B-TB.mscz",
+    "status": 200,
+    "bytes": 30848,
+    "sha256": "adb5388483015c939e3d28456d8b7e294e9fb2662d75f49c1b44c9703ca8ec8b",
+    "content_type": "application/octet-stream"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2025/07/WK-chromatic-scales-A.pdf",
+    "chapter_indexes": [
+      22
+    ],
+    "file": ".local-library/omt-assets/679f822d17f0-WK-chromatic-scales-A.pdf",
+    "status": 200,
+    "bytes": 37896,
+    "sha256": "469a769eacaa46e27d7eb05e22ff8ea7782220873b08e344a9b7488a5dd811a1",
+    "content_type": "application/pdf"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2025/07/WK-chromatic-scales-A.mscz",
+    "chapter_indexes": [
+      22
+    ],
+    "file": ".local-library/omt-assets/b2779b64602c-WK-chromatic-scales-A.mscz",
+    "status": 200,
+    "bytes": 33152,
+    "sha256": "f95a326224c55ca5ab3e89040cbe504dc9cbfe79f2368c4200ad3f9c5da33cfc",
+    "content_type": "application/octet-stream"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2025/07/WK-chromatic-scales-A-TB.pdf",
+    "chapter_indexes": [
+      22
+    ],
+    "file": ".local-library/omt-assets/1c2f1c8ad348-WK-chromatic-scales-A-TB.pdf",
+    "status": 200,
+    "bytes": 42911,
+    "sha256": "6c035594b0b084ac5ba6edd858e7e36f884acee3b2f64a335aff8dfc075335ef",
+    "content_type": "application/pdf"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2025/07/WK-chromatic-scales-A-TB.mscz",
+    "chapter_indexes": [
+      22
+    ],
+    "file": ".local-library/omt-assets/95c28f5084b9-WK-chromatic-scales-A-TB.mscz",
+    "status": 200,
+    "bytes": 34405,
+    "sha256": "2006f827fe12816345f1e8b6a2f410a40dcf6a77d9a27d5feab8e3ba66bdc968",
+    "content_type": "application/octet-stream"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2025/07/WK-chromatic-scales-B.pdf",
+    "chapter_indexes": [
+      22
+    ],
+    "file": ".local-library/omt-assets/24036f847ec4-WK-chromatic-scales-B.pdf",
+    "status": 200,
+    "bytes": 38040,
+    "sha256": "27e3d0ecd7a8843ddb8ce2aa0bd1dd60e36a106986d9dc6234cf575c92e6d189",
+    "content_type": "application/pdf"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2025/07/WK-chromatic-scales-B.mscz",
+    "chapter_indexes": [
+      22
+    ],
+    "file": ".local-library/omt-assets/43bdf955cbcb-WK-chromatic-scales-B.mscz",
+    "status": 200,
+    "bytes": 33234,
+    "sha256": "d13eb43ba5a9ebfd742b1e17eef21abcbea1608b4f57a1e10a2713e7679ed686",
+    "content_type": "application/octet-stream"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2025/07/WK-chromatic-scales-B-TB.pdf",
+    "chapter_indexes": [
+      22
+    ],
+    "file": ".local-library/omt-assets/d0a433e5dbb5-WK-chromatic-scales-B-TB.pdf",
+    "status": 200,
+    "bytes": 42997,
+    "sha256": "356b5fc50249e233b8854d1fb2c1875e75d0162c2429efa06a43873e8c904715",
+    "content_type": "application/pdf"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2025/07/WK-chromatic-scales-B-TB.mscz",
+    "chapter_indexes": [
+      22
+    ],
+    "file": ".local-library/omt-assets/fbacb3d900c6-WK-chromatic-scales-B-TB.mscz",
+    "status": 200,
+    "bytes": 33699,
+    "sha256": "118693c31cf6e9f0a05744f7fd9970641560dbdcc0512c3a3b1ff79149e77def",
+    "content_type": "application/octet-stream"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/simple-v-compound.png",
+    "chapter_indexes": [
+      24
+    ],
+    "file": ".local-library/omt-assets/2f00f8a42124-simple-v-compound.png",
+    "status": 200,
+    "bytes": 19732,
+    "sha256": "d547b7b0298feec71793a1fb134a6cad1f2cd88cd6388556c1c99f88c6c7e6b3",
+    "content_type": "image/png"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/simple-v-compound-300x140.png",
+    "chapter_indexes": [
+      24
+    ],
+    "file": ".local-library/omt-assets/140fbb1137b7-simple-v-compound-300x140.png",
+    "status": 200,
+    "bytes": 5606,
+    "sha256": "424ad962946961fc98d2dd8f63fc3bd86443fdb5eb66827d041279a30b997d02",
+    "content_type": "image/png"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/inversion-3.png",
+    "chapter_indexes": [
+      24
+    ],
+    "file": ".local-library/omt-assets/cca4a80c3922-inversion-3.png",
+    "status": 200,
+    "bytes": 14403,
+    "sha256": "3fd5e01dca5c425193569cd3eb4ec52b5250db558e0cf489d93a2f3c27498ff0",
+    "content_type": "image/png"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/inversion-3-300x148.png",
+    "chapter_indexes": [
+      24
+    ],
+    "file": ".local-library/omt-assets/acaee7b3bba3-inversion-3-300x148.png",
+    "status": 200,
+    "bytes": 5831,
+    "sha256": "895d08d1451708e562d24f404e3425fdb8708cc891820cedcd83b23311759090",
+    "content_type": "image/png"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/imaginary.png",
+    "chapter_indexes": [
+      24
+    ],
+    "file": ".local-library/omt-assets/e05b905fa6a8-imaginary.png",
+    "status": 200,
+    "bytes": 11465,
+    "sha256": "caf9997f6d1949ca1f95ec15a4d4fa2642940aa55f16282f45c6c38535d6e107",
+    "content_type": "image/png"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/imaginary-300x113.png",
+    "chapter_indexes": [
+      24
+    ],
+    "file": ".local-library/omt-assets/2473b36dbe48-imaginary-300x113.png",
+    "status": 200,
+    "bytes": 4739,
+    "sha256": "8be5d4be3e76471f3ea9ff87175d989d38db914d89ba98a6addd4e1cead8afab",
+    "content_type": "image/png"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/white-key-sevenths.png",
+    "chapter_indexes": [
+      24
+    ],
+    "file": ".local-library/omt-assets/b2bcc3dacc94-white-key-sevenths.png",
+    "status": 200,
+    "bytes": 35758,
+    "sha256": "a4fea86e876fb2cea406b8861caec39daf292d862f2738e1463ff246039ffd5c",
+    "content_type": "image/png"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/white-key-sevenths-1024x123.png",
+    "chapter_indexes": [
+      24
+    ],
+    "file": ".local-library/omt-assets/f18e7593c5e0-white-key-sevenths-1024x123.png",
+    "status": 200,
+    "bytes": 18460,
+    "sha256": "f41a7ee2d74882ce6786fcfe1b94b92240bb00ecec325b3871d70e535354f65e",
+    "content_type": "image/png"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/enh-eq.png",
+    "chapter_indexes": [
+      24
+    ],
+    "file": ".local-library/omt-assets/9a56a971f2f3-enh-eq.png",
+    "status": 200,
+    "bytes": 8599,
+    "sha256": "e11a7cb8d67b42cc09c1226688fc61bf29d0b83d7717499c6a683ba985752c5e",
+    "content_type": "image/png"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/enh-eq-300x115.png",
+    "chapter_indexes": [
+      24
+    ],
+    "file": ".local-library/omt-assets/f0e955159a05-enh-eq-300x115.png",
+    "status": 200,
+    "bytes": 4733,
+    "sha256": "aaa63f779d0b0a348a2f7e6da1dfaf72cb38f0bb5e0c9de030b96737c10b8cfe",
+    "content_type": "image/png"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2025/07/WK-Intervals-A.pdf",
+    "chapter_indexes": [
+      24
+    ],
+    "file": ".local-library/omt-assets/da92f7ba0bb6-WK-Intervals-A.pdf",
+    "status": 200,
+    "bytes": 44375,
+    "sha256": "91b9a32904e6c5ddc9fab43b1c8b76e03bf5df20edc4a5dc56cf5faacdf0ae35",
+    "content_type": "application/pdf"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2025/07/WK-Intervals-A.mscz",
+    "chapter_indexes": [
+      24
+    ],
+    "file": ".local-library/omt-assets/b60a5cbd483c-WK-Intervals-A.mscz",
+    "status": 200,
+    "bytes": 40265,
+    "sha256": "a489577fc018be3d08e7dddfc79b46d8c710367357c55bacae5ae62273152b35",
+    "content_type": "application/octet-stream"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2025/07/WK-Intervals-B.pdf",
+    "chapter_indexes": [
+      24
+    ],
+    "file": ".local-library/omt-assets/b00ccf7699b1-WK-Intervals-B.pdf",
+    "status": 200,
+    "bytes": 44851,
+    "sha256": "17d545dc43b0455d0743b1105136b7561135b3adda437a5810000b0b3c3abc6b",
+    "content_type": "application/pdf"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2025/07/WK-Intervals-B.mscz",
+    "chapter_indexes": [
+      24
+    ],
+    "file": ".local-library/omt-assets/4e4c1cf528d1-WK-Intervals-B.mscz",
+    "status": 200,
+    "bytes": 40250,
+    "sha256": "6ff6eac19a7ac92d675b302da8150b1c9b727c3bda5feb6f6ba293c4fa47dacb",
+    "content_type": "application/octet-stream"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2025/07/WK-Intervals-C.pdf",
+    "chapter_indexes": [
+      24
+    ],
+    "file": ".local-library/omt-assets/24621d4ab8b7-WK-Intervals-C.pdf",
+    "status": 200,
+    "bytes": 44749,
+    "sha256": "62bcc17e2cd98a3c99fc90965f824c0b85148b8cbcbc1607535eb62877fcd481",
+    "content_type": "application/pdf"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2025/07/WK-Intervals-C.mscz",
+    "chapter_indexes": [
+      24
+    ],
+    "file": ".local-library/omt-assets/196330477912-WK-Intervals-C.mscz",
+    "status": 200,
+    "bytes": 40677,
+    "sha256": "58f35bf4af08bbc89710f2d08642c95ffdf616b525928487cdf976b46fa6eb1d",
+    "content_type": "application/octet-stream"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2025/07/WK-Intervals-D.pdf",
+    "chapter_indexes": [
+      24
+    ],
+    "file": ".local-library/omt-assets/409edcae40df-WK-Intervals-D.pdf",
+    "status": 200,
+    "bytes": 162692,
+    "sha256": "8127e633619774f4e369accf64fd14d9b5cb01c8b4b16c4fbd96cbf30bc9c25e",
+    "content_type": "application/pdf"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2025/07/WK-Intervals-D.mscz",
+    "chapter_indexes": [
+      24
+    ],
+    "file": ".local-library/omt-assets/ea0bcf14dbf3-WK-Intervals-D.mscz",
+    "status": 200,
+    "bytes": 63075,
+    "sha256": "eea91618bcd6cec74ca8c059b91f4daaa4fc058ba6bed00a3efe5d3ba2df51fa",
+    "content_type": "application/octet-stream"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2025/07/WK-Intervals-E.pdf",
+    "chapter_indexes": [
+      24
+    ],
+    "file": ".local-library/omt-assets/3483abd19b4f-WK-Intervals-E.pdf",
+    "status": 200,
+    "bytes": 159879,
+    "sha256": "218b108b34794fe07f1cc02376ec85b98fa2e1e0191579ea41fe081c3a0c2bbb",
+    "content_type": "application/pdf"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2025/07/WK-Intervals-E.mscz",
+    "chapter_indexes": [
+      24
+    ],
+    "file": ".local-library/omt-assets/064831a0d89c-WK-Intervals-E.mscz",
+    "status": 200,
+    "bytes": 62395,
+    "sha256": "ae56450c1d25cb20e8076eb4d512822bdd8881b81de2fdd68f755cb7a602897b",
+    "content_type": "application/octet-stream"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2025/07/WK-Ma-Mi-P-Intervals-A.pdf",
+    "chapter_indexes": [
+      24
+    ],
+    "file": ".local-library/omt-assets/c36046457cc7-WK-Ma-Mi-P-Intervals-A.pdf",
+    "status": 200,
+    "bytes": 44983,
+    "sha256": "f8875ef0967e3a05d690a78f211a43d0556bffa980033ce507f376e9c322002e",
+    "content_type": "application/pdf"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2025/07/WK-Ma-Mi-P-Intervals-A.mscz",
+    "chapter_indexes": [
+      24
+    ],
+    "file": ".local-library/omt-assets/fe3a38661b5e-WK-Ma-Mi-P-Intervals-A.mscz",
+    "status": 200,
+    "bytes": 41208,
+    "sha256": "cfc400a90ca1b3b160da9dd24fed239c5fb0941ead7e925efe1832db98d65cdb",
+    "content_type": "application/octet-stream"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2025/07/WK-Ma-Mi-P-Intervals-B.pdf",
+    "chapter_indexes": [
+      24
+    ],
+    "file": ".local-library/omt-assets/0e249e2f2c94-WK-Ma-Mi-P-Intervals-B.pdf",
+    "status": 200,
+    "bytes": 45330,
+    "sha256": "180e8df7904ea817211fb7d59c7992101e60451e52fb470a5d4f4063ada33e90",
+    "content_type": "application/pdf"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2025/07/WK-Ma-Mi-P-Intervals-B.mscz",
+    "chapter_indexes": [
+      24
+    ],
+    "file": ".local-library/omt-assets/808e4f1e620d-WK-Ma-Mi-P-Intervals-B.mscz",
+    "status": 200,
+    "bytes": 41416,
+    "sha256": "32a0b9745f41bf0e3de4fa24141abc9dd4807fdce7cc85b349c4d7fb34d316ea",
+    "content_type": "application/octet-stream"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2025/07/WK-Dim-and-Aug-Intervals-A.pdf",
+    "chapter_indexes": [
+      24
+    ],
+    "file": ".local-library/omt-assets/378a93b74536-WK-Dim-and-Aug-Intervals-A.pdf",
+    "status": 200,
+    "bytes": 45191,
+    "sha256": "5bf3783e1d9d252762680de2e1f78dfae103e966626708c474b7065f04eac593",
+    "content_type": "application/pdf"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2025/07/WK-Dim-and-Aug-Intervals-A.mscz",
+    "chapter_indexes": [
+      24
+    ],
+    "file": ".local-library/omt-assets/f0c25ba722bf-WK-Dim-and-Aug-Intervals-A.mscz",
+    "status": 200,
+    "bytes": 41746,
+    "sha256": "21e0a67ad795834204a99be63a4424e4e1560f245674e3b8c7c737911541527e",
+    "content_type": "application/octet-stream"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2025/07/WK-Dim-and-Aug-Intervals-B.pdf",
+    "chapter_indexes": [
+      24
+    ],
+    "file": ".local-library/omt-assets/caae436b71ee-WK-Dim-and-Aug-Intervals-B.pdf",
+    "status": 200,
+    "bytes": 45679,
+    "sha256": "b0b1da73594df27fa12437e20481f90333f9105893a47c7e4d07e0dce2be6d56",
+    "content_type": "application/pdf"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2025/07/WK-Dim-and-Aug-Intervals-B.mscz",
+    "chapter_indexes": [
+      24
+    ],
+    "file": ".local-library/omt-assets/ff4edffb5ce8-WK-Dim-and-Aug-Intervals-B.mscz",
+    "status": 200,
+    "bytes": 41513,
+    "sha256": "020811dab6aff3625b70fdee18138369fa6d6ce0c37efab138a0875dbb3c3ccd",
+    "content_type": "application/octet-stream"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2022/07/Snowperson-300x300.png",
+    "chapter_indexes": [
+      25
+    ],
+    "file": ".local-library/omt-assets/7ff1c4ab1b9b-Snowperson-300x300.png",
+    "status": 200,
+    "bytes": 18109,
+    "sha256": "1f1cb845398bce90e78d8852e4d45cc6bc761f08ecb4111c7a0efebead688a0d",
+    "content_type": "image/png"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/Screen-Shot-2020-08-17-at-1.39.09-PM.png",
+    "chapter_indexes": [
+      25
+    ],
+    "file": ".local-library/omt-assets/2c11b041f2ea-Screen-Shot-2020-08-17-at-1.39.09-PM.png",
+    "status": 200,
+    "bytes": 20390,
+    "sha256": "27fcba696520b0144e7dfb23129338ea1dab174f31be060cbdce5554cb5b73b2",
+    "content_type": "image/png"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/Screen-Shot-2020-08-17-at-1.39.09-PM-300x75.png",
+    "chapter_indexes": [
+      25
+    ],
+    "file": ".local-library/omt-assets/5d47deaaa055-Screen-Shot-2020-08-17-at-1.39.09-PM-300x75.png",
+    "status": 200,
+    "bytes": 7786,
+    "sha256": "2892693c6572c0dc699cc28824c2615ce65b5ea239d9c1fbc2f340121bded209",
+    "content_type": "image/png"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/d-major.png",
+    "chapter_indexes": [
+      25
+    ],
+    "file": ".local-library/omt-assets/62f9c295a61b-d-major.png",
+    "status": 200,
+    "bytes": 17409,
+    "sha256": "2e8437b41d361036264d849259a66d239886b0eb0841af86174efd0ab8020bfc",
+    "content_type": "image/png"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/d-major-1024x188.png",
+    "chapter_indexes": [
+      25
+    ],
+    "file": ".local-library/omt-assets/82d0c63b60ff-d-major-1024x188.png",
+    "status": 200,
+    "bytes": 15552,
+    "sha256": "4eb4f6bb2a1df7f17dee373cf69b21638bdd4cbadb8e02e29d6c9915023abfaa",
+    "content_type": "image/png"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/ab-minor.png",
+    "chapter_indexes": [
+      25
+    ],
+    "file": ".local-library/omt-assets/e9e9637cce02-ab-minor.png",
+    "status": 200,
+    "bytes": 28040,
+    "sha256": "957b0fd4ebb7810be80a9baec4f1ab046d2b2a8ff6301a379d01ce543c09f9e1",
+    "content_type": "image/png"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/ab-minor-1024x119.png",
+    "chapter_indexes": [
+      25
+    ],
+    "file": ".local-library/omt-assets/9cdb3302c0cf-ab-minor-1024x119.png",
+    "status": 200,
+    "bytes": 16521,
+    "sha256": "f905f33752cda3dbea875e56ec6e2b2a7e87941675cfb250169e0a24a4516657",
+    "content_type": "image/png"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2025/08/WK-Triads-A.pdf",
+    "chapter_indexes": [
+      25
+    ],
+    "file": ".local-library/omt-assets/632bcc8267f2-WK-Triads-A.pdf",
+    "status": 200,
+    "bytes": 53079,
+    "sha256": "fd2c72e03ea332cbe08ac342ac24140b4a5fdb184845fef198e9be1e14452145",
+    "content_type": "application/pdf"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2025/08/WK-Triads-A.mscz",
+    "chapter_indexes": [
+      25
+    ],
+    "file": ".local-library/omt-assets/c0627d0a7e60-WK-Triads-A.mscz",
+    "status": 200,
+    "bytes": 35434,
+    "sha256": "63628db06d32143451789d1874eb01c0ada213c3397c30070ca3edf372120396",
+    "content_type": "application/octet-stream"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2025/08/WK-Triads-B.pdf",
+    "chapter_indexes": [
+      25
+    ],
+    "file": ".local-library/omt-assets/8436fbdf5eb2-WK-Triads-B.pdf",
+    "status": 200,
+    "bytes": 53161,
+    "sha256": "c21c06dc7c2d6e3d41e58b103c9579353a281b9b3ca177f0ca976365a913c9ae",
+    "content_type": "application/pdf"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2025/08/WK-Triads-B.mscz",
+    "chapter_indexes": [
+      25
+    ],
+    "file": ".local-library/omt-assets/dbf4bd56ea83-WK-Triads-B.mscz",
+    "status": 200,
+    "bytes": 35117,
+    "sha256": "ed5588eacd291d424802ea7004a2ef363bcd4975f655ad7034edba9d4a8df921",
+    "content_type": "application/octet-stream"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2025/08/WK-Triads-C.pdf",
+    "chapter_indexes": [
+      25
+    ],
+    "file": ".local-library/omt-assets/2bce74aa6368-WK-Triads-C.pdf",
+    "status": 200,
+    "bytes": 52966,
+    "sha256": "8682c93e6af23cd4a4e34b2107e097defa1e5d6366c87c39c73c4f51c541d1f8",
+    "content_type": "application/pdf"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2025/08/WK-Triads-C.mscz",
+    "chapter_indexes": [
+      25
+    ],
+    "file": ".local-library/omt-assets/3b97fd4940c5-WK-Triads-C.mscz",
+    "status": 200,
+    "bytes": 35124,
+    "sha256": "61ddc2976935dc60f55f73811015c03bc068ab3f23241725f6c3343f366bd7e1",
+    "content_type": "application/octet-stream"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2025/08/WK-Triads-D.pdf",
+    "chapter_indexes": [
+      25
+    ],
+    "file": ".local-library/omt-assets/b7694c98fb2b-WK-Triads-D.pdf",
+    "status": 200,
+    "bytes": 80348,
+    "sha256": "418bf2c5e137dac7a39b783cd6f6520728a8c26d4be447c4615f129657aa1441",
+    "content_type": "application/pdf"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2025/08/WK-Triads-D.mscz",
+    "chapter_indexes": [
+      25
+    ],
+    "file": ".local-library/omt-assets/428d3f7c04b7-WK-Triads-D.mscz",
+    "status": 200,
+    "bytes": 52741,
+    "sha256": "1ee2ad93e2015efb3b25a0fe0e9d6a19c3107b91d6a15224802a94edeaded286",
+    "content_type": "application/octet-stream"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2020/05/chord-members.png",
+    "chapter_indexes": [
+      26
+    ],
+    "file": ".local-library/omt-assets/4b878cbfc763-chord-members.png",
+    "status": 200,
+    "bytes": 28699,
+    "sha256": "a0a6c3c07170f996250d4971203e9f592ec69c95ef18df1bd06e089009e4c7fb",
+    "content_type": "image/png"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2020/05/chord-members-300x79.png",
+    "chapter_indexes": [
+      26
+    ],
+    "file": ".local-library/omt-assets/b1ac4b58252b-chord-members-300x79.png",
+    "status": 200,
+    "bytes": 10846,
+    "sha256": "4c6ec8e07f0ffa83ad0db6797532b75a980a57185db4104756e1cf4c9b55205c",
+    "content_type": "image/png"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2020/05/dmaj.png",
+    "chapter_indexes": [
+      26
+    ],
+    "file": ".local-library/omt-assets/851fa1286da9-dmaj.png",
+    "status": 200,
+    "bytes": 20611,
+    "sha256": "941fee4bba5c575fa4a2216bd5e94466bd2c1a9fb21f9975893ac8620a80468a",
+    "content_type": "image/png"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2020/05/abdim7.png",
+    "chapter_indexes": [
+      26
+    ],
+    "file": ".local-library/omt-assets/e0ba6a2ee353-abdim7.png",
+    "status": 200,
+    "bytes": 31801,
+    "sha256": "b8d44ceb111e5f6d3119c87b3efbaf395f6ec1dc9e7cf15b58a768878ba919fc",
+    "content_type": "image/png"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2025/08/WK-Seventh-Chords-A.pdf",
+    "chapter_indexes": [
+      26
+    ],
+    "file": ".local-library/omt-assets/3fea76ea810a-WK-Seventh-Chords-A.pdf",
+    "status": 200,
+    "bytes": 48275,
+    "sha256": "e57d1debcae22fa9b717eeb497a6d4a255e78a6cfcd81da52c1ed9c00f94cb3e",
+    "content_type": "application/pdf"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2025/08/WK-Seventh-Chords-A.mscz",
+    "chapter_indexes": [
+      26
+    ],
+    "file": ".local-library/omt-assets/bbee3946aaf1-WK-Seventh-Chords-A.mscz",
+    "status": 200,
+    "bytes": 35629,
+    "sha256": "2dfa7f5b1cdfe43f07a24292ef5e0a0d7c26da7beb9a4d359c5239f9e1062155",
+    "content_type": "application/octet-stream"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2025/08/WK-Seventh-Chords-B.pdf",
+    "chapter_indexes": [
+      26
+    ],
+    "file": ".local-library/omt-assets/906659978fee-WK-Seventh-Chords-B.pdf",
+    "status": 200,
+    "bytes": 48713,
+    "sha256": "21796222f0a2d496fc4dad22f717ea3c790386e1d3591289ea7ced05b844619b",
+    "content_type": "application/pdf"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2025/08/WK-Seventh-Chords-B.mscz",
+    "chapter_indexes": [
+      26
+    ],
+    "file": ".local-library/omt-assets/72585b511e92-WK-Seventh-Chords-B.mscz",
+    "status": 200,
+    "bytes": 35992,
+    "sha256": "0e7da4e5932a54981128a4bc00bf17eff537b3fa36c6efab2a7de863eb061463",
+    "content_type": "application/octet-stream"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2025/08/WK-Seventh-Chords-C.pdf",
+    "chapter_indexes": [
+      26
+    ],
+    "file": ".local-library/omt-assets/da431437cf1d-WK-Seventh-Chords-C.pdf",
+    "status": 200,
+    "bytes": 52809,
+    "sha256": "c466df2ab755d0244544bc69a284fe771523f2e44b2912fb28f6fc799f53eae0",
+    "content_type": "application/pdf"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2025/08/WK-Seventh-Chords-C.mscz",
+    "chapter_indexes": [
+      26
+    ],
+    "file": ".local-library/omt-assets/ca2dbc74c624-WK-Seventh-Chords-C.mscz",
+    "status": 200,
+    "bytes": 36258,
+    "sha256": "44a85796ee93b42284b5e9fc3136dcdd97cdb201a4d96d67a5c8f6a0e4f145b0",
+    "content_type": "application/octet-stream"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2025/08/WK-Seventh-Chords-D.pdf",
+    "chapter_indexes": [
+      26
+    ],
+    "file": ".local-library/omt-assets/e1446852dc72-WK-Seventh-Chords-D.pdf",
+    "status": 200,
+    "bytes": 85529,
+    "sha256": "e353d5fd7b70a38b8e2429dd77ce978d43efec2b9c2fb30b509ad38e64a8b273",
+    "content_type": "application/pdf"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2025/08/WK-Seventh-Chords-D.mscz",
+    "chapter_indexes": [
+      26
+    ],
+    "file": ".local-library/omt-assets/9dc8853f4eb0-WK-Seventh-Chords-D.mscz",
+    "status": 200,
+    "bytes": 58573,
+    "sha256": "421761f5ac2608927068b6e72b8a7b356d946bfe2f1ced049688e221739fb316",
+    "content_type": "application/octet-stream"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2025/07/Ab-Minor-Triad-in-Inversion.png",
+    "chapter_indexes": [
+      27
+    ],
+    "file": ".local-library/omt-assets/f91acebf6c2d-Ab-Minor-Triad-in-Inversion.png",
+    "status": 200,
+    "bytes": 61517,
+    "sha256": "8fb7cdd9b221436d77b12982c3bd3d059c91c4d7ecc2d809bf7a1b1bfe65bf95",
+    "content_type": "image/png"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2025/07/D-Major-Major-Seventh-Chord-in-Inversion.png",
+    "chapter_indexes": [
+      27
+    ],
+    "file": ".local-library/omt-assets/6dcc657eeb8e-D-Major-Major-Seventh-Chord-in-Inversion.png",
+    "status": 200,
+    "bytes": 70675,
+    "sha256": "0064007dc59b8ff7535bd0a45733baaeaaf4eb69a4d68a9a1fee16b39db36703",
+    "content_type": "image/png"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2026/06/WK-Triad-Inversion-A.pdf",
+    "chapter_indexes": [
+      27
+    ],
+    "file": ".local-library/omt-assets/cabc58f34dc2-WK-Triad-Inversion-A.pdf",
+    "status": 200,
+    "bytes": 49502,
+    "sha256": "a328595df336fcc389b1124e94818a2fb62f41e6cd961446b9aebae2dc1f58b6",
+    "content_type": "application/pdf"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2026/06/WK-Triad-Inversion-A.mscz",
+    "chapter_indexes": [
+      27
+    ],
+    "file": ".local-library/omt-assets/eb84b11269be-WK-Triad-Inversion-A.mscz",
+    "status": 200,
+    "bytes": 61480,
+    "sha256": "9442d13ac6e122392e17f62c0910ae0243f61f357877a40df2e5fa065cec83d7",
+    "content_type": "application/octet-stream"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2026/06/WK-Triad-Inversion-B.pdf",
+    "chapter_indexes": [
+      27
+    ],
+    "file": ".local-library/omt-assets/7a38dc71544c-WK-Triad-Inversion-B.pdf",
+    "status": 200,
+    "bytes": 49259,
+    "sha256": "a7460d53a9eb1331bf415c5a9d152520f6715dbe4f94dcf55d2591b0e1249aaa",
+    "content_type": "application/pdf"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2026/06/WK-Triad-Inversion-B.mscz",
+    "chapter_indexes": [
+      27
+    ],
+    "file": ".local-library/omt-assets/67aba092d2cb-WK-Triad-Inversion-B.mscz",
+    "status": 200,
+    "bytes": 60520,
+    "sha256": "9ca1146d774b91b2e867531267edd8c3daaf6f157a552b1880dd6405220bc784",
+    "content_type": "application/octet-stream"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2026/06/WK-Seventh-Chord-Inversion-A.pdf",
+    "chapter_indexes": [
+      27
+    ],
+    "file": ".local-library/omt-assets/ee0202ac8259-WK-Seventh-Chord-Inversion-A.pdf",
+    "status": 200,
+    "bytes": 53244,
+    "sha256": "fb6b1f4913d076fe910d297d8085e91ede960a34bec5e8392705c36a09b6762a",
+    "content_type": "application/pdf"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2026/06/WK-Seventh-Chord-Inversion-A.mscz",
+    "chapter_indexes": [
+      27
+    ],
+    "file": ".local-library/omt-assets/098f21c209f9-WK-Seventh-Chord-Inversion-A.mscz",
+    "status": 200,
+    "bytes": 66882,
+    "sha256": "1d8779f002d3f3f6d8646dbb6c784593932b64a46d98bd4dd562bcf9a750cd8e",
+    "content_type": "application/octet-stream"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2026/06/WK-Seventh-Chord-Inversion-B.pdf",
+    "chapter_indexes": [
+      27
+    ],
+    "file": ".local-library/omt-assets/87555dcccc72-WK-Seventh-Chord-Inversion-B.pdf",
+    "status": 200,
+    "bytes": 52992,
+    "sha256": "c966434e63a63b7a7a2eb94cb41163f877e99fa5f0755213d41c1812eabe2141",
+    "content_type": "application/pdf"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2026/06/WK-Seventh-Chord-Inversion-B.mscz",
+    "chapter_indexes": [
+      27
+    ],
+    "file": ".local-library/omt-assets/513d889cd2c1-WK-Seventh-Chord-Inversion-B.mscz",
+    "status": 200,
+    "bytes": 66336,
+    "sha256": "925ba6f296e528e2e765406dc54dfc421f425304156d44ece88b90b241941e35",
+    "content_type": "application/octet-stream"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2020/05/Misc-47-scaled-e1658431640933-300x108.jpg",
+    "chapter_indexes": [
+      28
+    ],
+    "file": ".local-library/omt-assets/05a97da1d11d-Misc-47-scaled-e1658431640933-300x108.jpg",
+    "status": 200,
+    "bytes": 6693,
+    "sha256": "f50d6a062b6f84cc22cdbe7fcd7923094ec736e6edce19ebcaadc421836ffd3b",
+    "content_type": "image/jpeg"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/10/WK-Roman-Numerals-1.pdf",
+    "chapter_indexes": [
+      28
+    ],
+    "file": ".local-library/omt-assets/3b912adf122a-WK-Roman-Numerals-1.pdf",
+    "status": 200,
+    "bytes": 61148,
+    "sha256": "92ef5a1386ab13e843a4b9d319d52cd99291ac0cf52abacf1520c70892ac63fd",
+    "content_type": "application/pdf"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/10/WK-Roman-Numerals-1.mscz",
+    "chapter_indexes": [
+      28
+    ],
+    "file": ".local-library/omt-assets/ced3de21b54a-WK-Roman-Numerals-1.mscz",
+    "status": 200,
+    "bytes": 17860,
+    "sha256": "e8541a92388de17eeadc9c1ae388f62bacf0f790d2721e21c76686ebcfaae184",
+    "content_type": "application/octet-stream"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2024/05/WK-Roman-Numerals-1.mp3",
+    "chapter_indexes": [
+      28
+    ],
+    "file": ".local-library/omt-assets/0f00e3a2b7be-WK-Roman-Numerals-1.mp3",
+    "status": 200,
+    "bytes": 231130,
+    "sha256": "33923f22a10e4160dd84b5d5675dd6fe6d95247d52cf3f8436d43bbacc9367d7",
+    "content_type": "audio/mpeg"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/10/WK-Roman-Numerals-2.pdf",
+    "chapter_indexes": [
+      28
+    ],
+    "file": ".local-library/omt-assets/a1ab02ddb481-WK-Roman-Numerals-2.pdf",
+    "status": 200,
+    "bytes": 40927,
+    "sha256": "2cc575f4cccd214a098a5cac856d8fb46d2869eb7ef1d9e4662f36602f45b7e7",
+    "content_type": "application/pdf"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/10/WK-Roman-Numerals-2.mscz",
+    "chapter_indexes": [
+      28
+    ],
+    "file": ".local-library/omt-assets/41ee89cc31cb-WK-Roman-Numerals-2.mscz",
+    "status": 200,
+    "bytes": 20667,
+    "sha256": "138c5374db124de1bc04b78e11def1ab7e5a1d14125ecd6e95584ca19e30717c",
+    "content_type": "application/octet-stream"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2024/05/WK-Roman-Numerals-2.mp3",
+    "chapter_indexes": [
+      28
+    ],
+    "file": ".local-library/omt-assets/b4131d5866e1-WK-Roman-Numerals-2.mp3",
+    "status": 200,
+    "bytes": 351920,
+    "sha256": "5b61a2c191117856ea759b320c161458cfc4135e0759aa189a19870cbc14ec95",
+    "content_type": "audio/mpeg"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/10/WK-Roman-Numerals-3.pdf",
+    "chapter_indexes": [
+      28
+    ],
+    "file": ".local-library/omt-assets/2eba2eabbba1-WK-Roman-Numerals-3.pdf",
+    "status": 200,
+    "bytes": 64260,
+    "sha256": "bebd265d3aa07970d8f0a4bc5ab05f47fe2d4a33b639159177f775160211b044",
+    "content_type": "application/pdf"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/10/WK-Roman-Numerals-3.mscz",
+    "chapter_indexes": [
+      28
+    ],
+    "file": ".local-library/omt-assets/b5eb615f4c9a-WK-Roman-Numerals-3.mscz",
+    "status": 200,
+    "bytes": 22912,
+    "sha256": "1c319280b9a09759a3554a150783c06384f8b2036419c398acea6da914e1dbaa",
+    "content_type": "application/octet-stream"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2024/05/WK-Roman-Numerals-3.mp3",
+    "chapter_indexes": [
+      28
+    ],
+    "file": ".local-library/omt-assets/d78954105b09-WK-Roman-Numerals-3.mp3",
+    "status": 200,
+    "bytes": 329350,
+    "sha256": "f1bcb2e5f50f799b87d71669a9c998c12735e12c766c4940ae6560a86bcf2d52",
+    "content_type": "audio/mpeg"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2023/08/WK-Roman-numerals.pdf",
+    "chapter_indexes": [
+      28
+    ],
+    "file": ".local-library/omt-assets/16ab25fcce31-WK-Roman-numerals.pdf",
+    "status": 200,
+    "bytes": 107731,
+    "sha256": "82c2e6581793c0af49bbcaabf314caaba7cf117a2b795e47e93a8b1a9bc367b1",
+    "content_type": "application/pdf"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2023/08/WK-Roman-numerals.mscz",
+    "chapter_indexes": [
+      28
+    ],
+    "file": ".local-library/omt-assets/1204d8f5cfb7-WK-Roman-numerals.mscz",
+    "status": 200,
+    "bytes": 25985,
+    "sha256": "480caeb0a10c8e2d39e79f9398d20a83894a781816f4003397e6f6152981cd19",
+    "content_type": "application/octet-stream"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/09/Phrase_Model.png",
+    "chapter_indexes": [
+      44
+    ],
+    "file": ".local-library/omt-assets/409e83e209b4-Phrase_Model.png",
+    "status": 200,
+    "bytes": 9454,
+    "sha256": "4dc9a8cd4664249c9ab99b846315e78e283363f84c8ec45f7e962742b8df6e12",
+    "content_type": "image/png"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/09/Example_3_Cadence_Strength_Spectrum.png",
+    "chapter_indexes": [
+      44
+    ],
+    "file": ".local-library/omt-assets/9e16ae970f11-Example_3_Cadence_Strength_Spectrum.png",
+    "status": 200,
+    "bytes": 4322,
+    "sha256": "d12b238bd97b652af4fcd4ac1140b7d2e5a9443cd5684db27879c3dfc8ffdd3e",
+    "content_type": "image/png"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/07/WK-Introduction-to-Harmon-Cadences-and-Phrase-Endings.pdf",
+    "chapter_indexes": [
+      44
+    ],
+    "file": ".local-library/omt-assets/b2e170bab130-WK-Introduction-to-Harmon-Cadences-and-Phrase-Endings.pdf",
+    "status": 200,
+    "bytes": 540692,
+    "sha256": "33d40cdd08afc25effc7f924745d2bf8c5d22ba822f8eca75ce4b846e4aec14f",
+    "content_type": "application/pdf"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/07/WK-Introduction-to-Harmon-Cadences-and-Phrase-Endings.docx",
+    "chapter_indexes": [
+      44
+    ],
+    "file": ".local-library/omt-assets/4ed7a5463e44-WK-Introduction-to-Harmon-Cadences-and-Phrase-Endings.docx",
+    "status": 200,
+    "bytes": 557347,
+    "sha256": "1505d0b93dd694c593c7237c04008f4049ea65c16dece835805257c5893175c8",
+    "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2023/08/WK-Introduction-to-Harmon-Cadences-and-Phrase-Endings-2.pdf",
+    "chapter_indexes": [
+      44
+    ],
+    "file": ".local-library/omt-assets/85d4dd3ac6e9-WK-Introduction-to-Harmon-Cadences-and-Phrase-Endings-2.pdf",
+    "status": 200,
+    "bytes": 423673,
+    "sha256": "49348014de8559e77008a85ea1afcab0a36afec5e4724e2415d879986adc88a1",
+    "content_type": "application/pdf"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2023/08/WK-Introduction-to-Harmon-Cadences-and-Phrase-Endings-2.mscz",
+    "chapter_indexes": [
+      44
+    ],
+    "file": ".local-library/omt-assets/e1d9a64d9213-WK-Introduction-to-Harmon-Cadences-and-Phrase-Endings-2.mscz",
+    "status": 200,
+    "bytes": 32317,
+    "sha256": "f43389f954734175a18ab0dc063d93b32e9ce891b9dc5a46da98ae5cab143f96",
+    "content_type": "application/octet-stream"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/07/WK-Strengthening-Endings-with-V7.pdf",
+    "chapter_indexes": [
+      45
+    ],
+    "file": ".local-library/omt-assets/c07a5335a2af-WK-Strengthening-Endings-with-V7.pdf",
+    "status": 200,
+    "bytes": 1238647,
+    "sha256": "9b6cc5528720c3e0e0263d6e2482d057f8addd7aec43f41e9161f32029fe565b",
+    "content_type": "application/pdf"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/07/WK-Strengthening-Endings-with-V7.docx",
+    "chapter_indexes": [
+      45
+    ],
+    "file": ".local-library/omt-assets/fc19c88f209e-WK-Strengthening-Endings-with-V7.docx",
+    "status": 200,
+    "bytes": 1148836,
+    "sha256": "d67ab2d522f5a33e4bbf695e124a48de1c44079e3259453df908d6a5afbb4946",
+    "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2020/07/Generic_Embellishing_Tone_Layout.png",
+    "chapter_indexes": [
+      47
+    ],
+    "file": ".local-library/omt-assets/d4e239b379ff-Generic_Embellishing_Tone_Layout.png",
+    "status": 200,
+    "bytes": 33380,
+    "sha256": "80a77b61c103e926fd312b54250311bf81f48b8622f690a6d6ad54750ec36d36",
+    "content_type": "image/png"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2020/07/Generic_Embellishing_Tone_Layout-300x91.png",
+    "chapter_indexes": [
+      47
+    ],
+    "file": ".local-library/omt-assets/14846ba14838-Generic_Embellishing_Tone_Layout-300x91.png",
+    "status": 200,
+    "bytes": 12168,
+    "sha256": "4249ad8cb50547f245ac79fe9d7e71772534428ddbac849f3ccb22f99e3748b9",
+    "content_type": "image/png"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/07/WK-Embellishing-Tones.pdf",
+    "chapter_indexes": [
+      47
+    ],
+    "file": ".local-library/omt-assets/f21dc7d6f971-WK-Embellishing-Tones.pdf",
+    "status": 200,
+    "bytes": 364045,
+    "sha256": "ddba48f3d15e0bc71903a88fa2e9f5ec7af1f1c67a58d3acc4dfa6abfd7245dc",
+    "content_type": "application/pdf"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2025/01/WK-embellishing-tones.mscz",
+    "chapter_indexes": [
+      47
+    ],
+    "file": ".local-library/omt-assets/bf900db53718-WK-embellishing-tones.mscz",
+    "status": 200,
+    "bytes": 29022,
+    "sha256": "2dd1f1e6972264385c2afc6a7dcc661c88217ba437c7e90125273351b8e7e3d8",
+    "content_type": "application/octet-stream"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2025/01/johnson-cotillions-william.mp3",
+    "chapter_indexes": [
+      47
+    ],
+    "file": ".local-library/omt-assets/4f680468461b-johnson-cotillions-william.mp3",
+    "status": 200,
+    "bytes": 580792,
+    "sha256": "e7d283ab97b7297a01fc0db90227e6999a4f6838eb1e11d1e26c36e461e50378",
+    "content_type": "audio/mpeg"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/resolving.png",
+    "chapter_indexes": [
+      58
+    ],
+    "file": ".local-library/omt-assets/3ae44b2e0eeb-resolving.png",
+    "status": 200,
+    "bytes": 37919,
+    "sha256": "df1f0183a8ef885e8ff3a6f0707b13e7e4ed5183cc3911638c05e2f137c11c59",
+    "content_type": "image/png"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/resolving-300x145.png",
+    "chapter_indexes": [
+      58
+    ],
+    "file": ".local-library/omt-assets/f0f53f87924b-resolving-300x145.png",
+    "status": 200,
+    "bytes": 18910,
+    "sha256": "ef2649f8b7226c6ea3cf1efbda87baa4137e29a9c92d3faaf938e1a8d974a2c1",
+    "content_type": "image/png"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/WK-Applied-Chords-A.pdf",
+    "chapter_indexes": [
+      58
+    ],
+    "file": ".local-library/omt-assets/0262807a6ddd-WK-Applied-Chords-A.pdf",
+    "status": 200,
+    "bytes": 121653,
+    "sha256": "43bfdffec24ee5d859f54aa1b25f623e5c4648d8316803590d28655f2ff723d2",
+    "content_type": "application/pdf"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/WK-Applied-Chords-A.mscx",
+    "chapter_indexes": [
+      58
+    ],
+    "file": ".local-library/omt-assets/ba0c84cc74bc-WK-Applied-Chords-A.mscx",
+    "error": "404 Client Error: Not Found for url: https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/WK-Applied-Chords-A.mscx"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2020/10/WK-Applied-Chords-B.pdf",
+    "chapter_indexes": [
+      58
+    ],
+    "file": ".local-library/omt-assets/977f9014f299-WK-Applied-Chords-B.pdf",
+    "status": 200,
+    "bytes": 121478,
+    "sha256": "8fc3df696a3d1dfa79c8739cd9f97516e096eb285a14d99a4d7d6d5f655206fd",
+    "content_type": "application/pdf"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2020/10/WK-Applied-Chords-B.mscz",
+    "chapter_indexes": [
+      58
+    ],
+    "file": ".local-library/omt-assets/570aea8ae834-WK-Applied-Chords-B.mscz",
+    "status": 200,
+    "bytes": 21728,
+    "sha256": "ddaa9fc87fc1c1364c142f20c3bc1feb409a25dd7ef814e2063273b6a28f1595",
+    "content_type": "application/octet-stream"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2023/02/WK-Applied-Chords-C.pdf",
+    "chapter_indexes": [
+      58
+    ],
+    "file": ".local-library/omt-assets/c229fc2c605f-WK-Applied-Chords-C.pdf",
+    "status": 200,
+    "bytes": 342960,
+    "sha256": "1b6eb25137be3e9b78a387309f28cba27c198767a18b90c1c49eaee03f34b27f",
+    "content_type": "application/pdf"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2023/02/WK-Applied-Chords-C.mscz",
+    "chapter_indexes": [
+      58
+    ],
+    "file": ".local-library/omt-assets/130de8fb704c-WK-Applied-Chords-C.mscz",
+    "status": 200,
+    "bytes": 25928,
+    "sha256": "e5d35ea613516b8bd25b65546f51d8f4755ffa2da7e9c8ba6a3ba117ae0da043",
+    "content_type": "application/octet-stream"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/07/WK-Tonicization.pdf",
+    "chapter_indexes": [
+      58
+    ],
+    "file": ".local-library/omt-assets/bc26d52f2c4a-WK-Tonicization.pdf",
+    "status": 200,
+    "bytes": 692427,
+    "sha256": "caed84dfab039b0eb5e0a537f656307d82f31ed1ae9cc440dbdc7cd89928f678",
+    "content_type": "application/pdf"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/07/WK-Tonicization.docx",
+    "chapter_indexes": [
+      58
+    ],
+    "file": ".local-library/omt-assets/ce73d83957b7-WK-Tonicization.docx",
+    "status": 200,
+    "bytes": 699778,
+    "sha256": "baa7d43507f0033ff69b33736a83741a069a799ea6505250e191374390ae8592",
+    "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2020/07/jarvis_modal_mixture_assignment_1-06-29-2020.pdf",
+    "chapter_indexes": [
+      72
+    ],
+    "file": ".local-library/omt-assets/6cea70c1f859-jarvis_modal_mixture_assignment_1-06-29-2020.pdf",
+    "status": 200,
+    "bytes": 525218,
+    "sha256": "6e5e673c4c3776efcbe5e38bfa4565ebc37f94809e0848020da8814be2ae5b1a",
+    "content_type": "application/pdf"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2020/07/jarvis_modal_mixture_assignment_1-06-29-2020.docx",
+    "chapter_indexes": [
+      72
+    ],
+    "file": ".local-library/omt-assets/93d6fbd84d4e-jarvis_modal_mixture_assignment_1-06-29-2020.docx",
+    "status": 200,
+    "bytes": 3149602,
+    "sha256": "15d014cf4373ab653bfa61497c91b697babfa6c0b188b619a0393ddc2ee70d36",
+    "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/08/swung-eighths.png",
+    "chapter_indexes": [
+      85
+    ],
+    "file": ".local-library/omt-assets/d5f58f574fe0-swung-eighths.png",
+    "status": 200,
+    "bytes": 2519,
+    "sha256": "0c7e1f53c1e90d59fb58aec5aa5585f46c7c8ecd94b72a5a39a6879e334b5a42",
+    "content_type": "image/png"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/08/anything-goes-1.png",
+    "chapter_indexes": [
+      85
+    ],
+    "file": ".local-library/omt-assets/f9529a107ade-anything-goes-1.png",
+    "status": 200,
+    "bytes": 41287,
+    "sha256": "43099b442e82f4aa46cdf7432e0dc7a60ad6f9fecf730d9bc15f86807bf95c37",
+    "content_type": "image/png"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/08/anything-goes-1-296x300.png",
+    "chapter_indexes": [
+      85
+    ],
+    "file": ".local-library/omt-assets/3536aad22531-anything-goes-1-296x300.png",
+    "status": 200,
+    "bytes": 50832,
+    "sha256": "b11e01e6cda3800973f08d71702be8bf7fdf2401872455d1c7c2198119bc743f",
+    "content_type": "image/png"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/08/anything-goes-2.png",
+    "chapter_indexes": [
+      85
+    ],
+    "file": ".local-library/omt-assets/29d8fa694046-anything-goes-2.png",
+    "status": 200,
+    "bytes": 17329,
+    "sha256": "412d8f729b4908ebf9fa9ecaf3a5b1cf5c7a471cf991816d8e4779c15f4ff064",
+    "content_type": "image/png"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/08/anything-goes-2-300x149.png",
+    "chapter_indexes": [
+      85
+    ],
+    "file": ".local-library/omt-assets/e7479d55d6db-anything-goes-2-300x149.png",
+    "status": 200,
+    "bytes": 15420,
+    "sha256": "825e06778c06cc355447450fe80ba9e076b80f7de4084db1c73cfcec8181499f",
+    "content_type": "image/png"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2022/07/WK-swing-rhythms.mscz",
+    "chapter_indexes": [
+      85
+    ],
+    "file": ".local-library/omt-assets/351a67aee2d9-WK-swing-rhythms.mscz",
+    "status": 200,
+    "bytes": 120015,
+    "sha256": "b1b036025abfaff859bc75d80ea501421ece00561f4c55c7e2ec2843f8ab80c6",
+    "content_type": "application/octet-stream"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2022/07/WK-swing-rhythms-C_instruments.pdf",
+    "chapter_indexes": [
+      85
+    ],
+    "file": ".local-library/omt-assets/c1014199c697-WK-swing-rhythms-C_instruments.pdf",
+    "status": 200,
+    "bytes": 378127,
+    "sha256": "46582a01771156144653d4bdc8bdfcc177490984af3ee2817528441ba9628aa5",
+    "content_type": "application/pdf"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2022/07/WK-swing-rhythms-Bb_instruments.pdf",
+    "chapter_indexes": [
+      85
+    ],
+    "file": ".local-library/omt-assets/182bb998621a-WK-swing-rhythms-Bb_instruments.pdf",
+    "status": 200,
+    "bytes": 510120,
+    "sha256": "075461b26c3c6e3945e586ca9a41322459a82917e833848a97078dae3714e022",
+    "content_type": "application/pdf"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2022/07/WK-swing-rhythms-Eb_Instruments.pdf",
+    "chapter_indexes": [
+      85
+    ],
+    "file": ".local-library/omt-assets/33b86e6ef6f9-WK-swing-rhythms-Eb_Instruments.pdf",
+    "status": 200,
+    "bytes": 510432,
+    "sha256": "8a5745441ca000aa7c41901a0e3a6d7eb06ceece5c09fa34dd53004e84ffd057",
+    "content_type": "application/pdf"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2022/07/WK-swing-rhythms-F_instruments.pdf",
+    "chapter_indexes": [
+      85
+    ],
+    "file": ".local-library/omt-assets/d2ccdc3af82e-WK-swing-rhythms-F_instruments.pdf",
+    "status": 200,
+    "bytes": 377674,
+    "sha256": "453f062ed883641abf55dbb6f7d551b654d973a4a037f2754ac8193b0cf04fdf",
+    "content_type": "application/pdf"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2022/07/WK-swing-rhythms-Bass_clef_instruments.pdf",
+    "chapter_indexes": [
+      85
+    ],
+    "file": ".local-library/omt-assets/ed22b9fc8028-WK-swing-rhythms-Bass_clef_instruments.pdf",
+    "status": 200,
+    "bytes": 378404,
+    "sha256": "e14db514de1f5a8ff667e264e3e6e38f6cacb6d8067cbf719723989c93085ece",
+    "content_type": "application/pdf"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/08/WK-Aebersold-rhythms.pdf",
+    "chapter_indexes": [
+      85
+    ],
+    "file": ".local-library/omt-assets/89f04160097e-WK-Aebersold-rhythms.pdf",
+    "status": 200,
+    "bytes": 356535,
+    "sha256": "90eae2146aac5f3b57cf3b2c23a2b2bf368b0573334f0440a2c59dc7fc93e606",
+    "content_type": "application/pdf"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2023/09/WK-Aebersold-rhythms.docx",
+    "chapter_indexes": [
+      85
+    ],
+    "file": ".local-library/omt-assets/e976f850814e-WK-Aebersold-rhythms.docx",
+    "status": 200,
+    "bytes": 356243,
+    "sha256": "020c129986e76e8d8f6f1b9b63310302d5a400491f60c600ec7148ebcd24a8a4",
+    "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/08/lead-sheet-components.png",
+    "chapter_indexes": [
+      86
+    ],
+    "file": ".local-library/omt-assets/35c57e35b19b-lead-sheet-components.png",
+    "status": 200,
+    "bytes": 120213,
+    "sha256": "4148c5ff17a36480f18be6255129d617f591aecddbdc57262c0ebda5ae08ebe1",
+    "content_type": "image/png"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/08/lead-sheet-components-300x223.png",
+    "chapter_indexes": [
+      86
+    ],
+    "file": ".local-library/omt-assets/f4efe88875bc-lead-sheet-components-300x223.png",
+    "status": 200,
+    "bytes": 26119,
+    "sha256": "efa9914491c0f28909e4ec993694310c589f0b78cdb1f4c1eb899aafcf4c2a14",
+    "content_type": "image/png"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/08/extensions.png",
+    "chapter_indexes": [
+      86
+    ],
+    "file": ".local-library/omt-assets/7371821b93a8-extensions.png",
+    "status": 200,
+    "bytes": 7221,
+    "sha256": "dd06b192057d78da7b9fda323ace6690c98c739407d248926f630b182d77c820",
+    "content_type": "image/png"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/08/altered_exts.png",
+    "chapter_indexes": [
+      86
+    ],
+    "file": ".local-library/omt-assets/b4aba8768be1-altered_exts.png",
+    "status": 200,
+    "bytes": 43174,
+    "sha256": "3f76b0653693da8db91e58d4b94d348237d82537d506245251eae1e347ac7efb",
+    "content_type": "image/png"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/08/altered_exts-300x95.png",
+    "chapter_indexes": [
+      86
+    ],
+    "file": ".local-library/omt-assets/5b9690072b1b-altered_exts-300x95.png",
+    "status": 200,
+    "bytes": 18647,
+    "sha256": "f882150f18fbbdc8956112c7204fb9ce0d9e5a9f87c7c7945b2dd8ed84edf583",
+    "content_type": "image/png"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/08/adds.png",
+    "chapter_indexes": [
+      86
+    ],
+    "file": ".local-library/omt-assets/f496f06318be-adds.png",
+    "status": 200,
+    "bytes": 40595,
+    "sha256": "247286b1aa0430c2db3b9f75c50ae01ae12edc327acb08e1137d32c19daf0436",
+    "content_type": "image/png"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/08/adds-300x102.png",
+    "chapter_indexes": [
+      86
+    ],
+    "file": ".local-library/omt-assets/cb015aa579e9-adds-300x102.png",
+    "status": 200,
+    "bytes": 17231,
+    "sha256": "a99dfe748b9520cee75463134cde00ebfa2d96b7f22ee8d9070eb293ba8cfdc0",
+    "content_type": "image/png"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/08/sus.png",
+    "chapter_indexes": [
+      86
+    ],
+    "file": ".local-library/omt-assets/c667a74180ff-sus.png",
+    "status": 200,
+    "bytes": 15480,
+    "sha256": "99d6451555f0409b65aff46bda0799fd9e6f99dd4da9026609906e2fe61ea617",
+    "content_type": "image/png"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/08/sus-300x80.png",
+    "chapter_indexes": [
+      86
+    ],
+    "file": ".local-library/omt-assets/8b460d851a48-sus-300x80.png",
+    "status": 200,
+    "bytes": 9543,
+    "sha256": "e89a9255da570e70e994b6f6429a661e1f3b3413b5051b2ed8de05df35103485",
+    "content_type": "image/png"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/07/WK-Chord-Symbols.pdf",
+    "chapter_indexes": [
+      86
+    ],
+    "file": ".local-library/omt-assets/6128a5876a59-WK-Chord-Symbols.pdf",
+    "status": 200,
+    "bytes": 103731,
+    "sha256": "020dbde2de61c1e25f3a37ac2cdb39f9f8cddb0f005cbd0b1cd91c97e14f7fa5",
+    "content_type": "application/pdf"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/07/WK-Chord-Symbols.mscz",
+    "chapter_indexes": [
+      86
+    ],
+    "file": ".local-library/omt-assets/4990891f0e87-WK-Chord-Symbols.mscz",
+    "status": 200,
+    "bytes": 17554,
+    "sha256": "7fd3d617fafb633385415e68499e7588287606801afc24a1714c4b602a4d9e16",
+    "content_type": "application/octet-stream"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/07/WK-Chord-Symbols-with-Extensions.pdf",
+    "chapter_indexes": [
+      86
+    ],
+    "file": ".local-library/omt-assets/f895377ec5ff-WK-Chord-Symbols-with-Extensions.pdf",
+    "status": 200,
+    "bytes": 253238,
+    "sha256": "136c84cdaf063fa9122138fff0cd56173ab0686d98c763abedae9130ed53b441",
+    "content_type": "application/pdf"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/07/WK-Chord-Symbols-with-Extensions.mscz",
+    "chapter_indexes": [
+      86
+    ],
+    "file": ".local-library/omt-assets/8db76fcd38a8-WK-Chord-Symbols-with-Extensions.mscz",
+    "status": 200,
+    "bytes": 26163,
+    "sha256": "538c53fa27cca80400dcecc1d1d1ddb9a779374701ebe02e93dc8dc1d304e155",
+    "content_type": "application/octet-stream"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/08/harmonic-series_0001.png",
+    "chapter_indexes": [
+      87
+    ],
+    "file": ".local-library/omt-assets/16aaa97619f4-harmonic-series_0001.png",
+    "status": 200,
+    "bytes": 430090,
+    "sha256": "00cd6fb7350a7f58889ecd8c4b24e141ad293373de8ab5311921e36da0d4a346",
+    "content_type": "image/png"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/08/harmonic-series_0001-150x150.png",
+    "chapter_indexes": [
+      87
+    ],
+    "file": ".local-library/omt-assets/0d5f16a79bb7-harmonic-series_0001-150x150.png",
+    "status": 200,
+    "bytes": 4977,
+    "sha256": "68d8242abdcfdb9589fca7502e25e158283a52513676da0ad798b23b7dcb4841",
+    "content_type": "image/png"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/08/Common-chord-ext.pdf",
+    "chapter_indexes": [
+      87
+    ],
+    "file": ".local-library/omt-assets/5d2778f1f3b2-Common-chord-ext.pdf",
+    "status": 200,
+    "bytes": 221237,
+    "sha256": "91aa7b05e680fa0c239d265f9da771a9eece39ff87ab0ceaaadbabd6d469431d",
+    "content_type": "application/pdf"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/08/WK-voicing.pdf",
+    "chapter_indexes": [
+      87
+    ],
+    "file": ".local-library/omt-assets/9fd154bf99ff-WK-voicing.pdf",
+    "status": 200,
+    "bytes": 342219,
+    "sha256": "20a5d18a7db952ada9fef5a35332aa1ee2e14f7e294b965bd6a676fd0dd9985c",
+    "content_type": "application/pdf"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/08/WK-voicing.mscz",
+    "chapter_indexes": [
+      87
+    ],
+    "file": ".local-library/omt-assets/9830e568907b-WK-voicing.mscz",
+    "status": 200,
+    "bytes": 34626,
+    "sha256": "d3608b9169b954bd5a2c68761bdd0359ddf0bcd9c1ca6b99146d6f497dd5cf1c",
+    "content_type": "application/octet-stream"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/08/afternoon-in-paris.png",
+    "chapter_indexes": [
+      88
+    ],
+    "file": ".local-library/omt-assets/9ade86c7d1c2-afternoon-in-paris.png",
+    "status": 200,
+    "bytes": 75323,
+    "sha256": "b587743e9955c759131dde0f4373a6e20f739dda03679fbd3ac8196c526b823b",
+    "content_type": "image/png"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/08/afternoon-in-paris-1024x505.png",
+    "chapter_indexes": [
+      88
+    ],
+    "file": ".local-library/omt-assets/50f4306e308b-afternoon-in-paris-1024x505.png",
+    "status": 200,
+    "bytes": 34401,
+    "sha256": "3259eab1511e04b3cbc5b2da2f5f178ef5680cbae8acb639ef585b3df04859d8",
+    "content_type": "image/png"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/08/mcclimon_fig06.png",
+    "chapter_indexes": [
+      88
+    ],
+    "file": ".local-library/omt-assets/562cd9a55145-mcclimon_fig06.png",
+    "status": 200,
+    "bytes": 148688,
+    "sha256": "638a52ec5d178e2505c7ea4365d063098240667b42a600f9f77ca89a1f016ff7",
+    "content_type": "image/png"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/08/music-61-2.jpg",
+    "chapter_indexes": [
+      88
+    ],
+    "file": ".local-library/omt-assets/ff7833afdd46-music-61-2.jpg",
+    "status": 200,
+    "bytes": 223530,
+    "sha256": "4a470c151f2ae563865beec396cf0bdba46be851b7e9bfeb1049beae5e14e823",
+    "content_type": "image/jpeg"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/08/music-61-2-150x150.jpg",
+    "chapter_indexes": [
+      88
+    ],
+    "file": ".local-library/omt-assets/bf7e8616526a-music-61-2-150x150.jpg",
+    "status": 200,
+    "bytes": 5094,
+    "sha256": "32efa6afab5a063b6655ffbf6ddd95f5aa737260f8de5788c4fdd3139455563d",
+    "content_type": "image/jpeg"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/08/WK-ii-V-I.pdf",
+    "chapter_indexes": [
+      88
+    ],
+    "file": ".local-library/omt-assets/2306234ea5a8-WK-ii-V-I.pdf",
+    "status": 200,
+    "bytes": 65985,
+    "sha256": "1696ae600821b25117b370da6a698ffd5849d5e42489b2b898d12c8b066aad77",
+    "content_type": "application/pdf"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/08/WK-ii-V-I.docx",
+    "chapter_indexes": [
+      88
+    ],
+    "file": ".local-library/omt-assets/1114e29e0b93-WK-ii-V-I.docx",
+    "status": 200,
+    "bytes": 16604,
+    "sha256": "cbf802d53c932c88ad74d73c995cbfdbe0721995016192a99742051772de4ad4",
+    "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/08/WK-composing-with-ii-v-i.pdf",
+    "chapter_indexes": [
+      88
+    ],
+    "file": ".local-library/omt-assets/5b6b2d2e1e25-WK-composing-with-ii-v-i.pdf",
+    "status": 200,
+    "bytes": 166300,
+    "sha256": "a07e992154b0ab48604931b52a3eb8f702abc76bc417bf30da9c717a9379f5aa",
+    "content_type": "application/pdf"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/08/WK-composing-with-ii-v-i.mscz",
+    "chapter_indexes": [
+      88
+    ],
+    "file": ".local-library/omt-assets/87a1f3397d3b-WK-composing-with-ii-v-i.mscz",
+    "status": 200,
+    "bytes": 19502,
+    "sha256": "a45eb9238d497a915ca5cfa08956dd9a5dd6315df353276a604d78661cfd650b",
+    "content_type": "application/octet-stream"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/08/16-bar-blues.png",
+    "chapter_indexes": [
+      92
+    ],
+    "file": ".local-library/omt-assets/fb03ecefd068-16-bar-blues.png",
+    "status": 200,
+    "bytes": 79197,
+    "sha256": "3a3a4175559a62d46deda829aab67d492ecfafc1002e26620f0ccbab51dcb4cc",
+    "content_type": "image/png"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/08/16-bar-blues-300x186.png",
+    "chapter_indexes": [
+      92
+    ],
+    "file": ".local-library/omt-assets/631455592174-16-bar-blues-300x186.png",
+    "status": 200,
+    "bytes": 5865,
+    "sha256": "31a6345d300a9d44cc8b4c1f31dd34407a909dd134065968bbf1413aec2376a4",
+    "content_type": "image/png"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/08/WK-12-bar-blues.pdf",
+    "chapter_indexes": [
+      92
+    ],
+    "file": ".local-library/omt-assets/9090d38c2da2-WK-12-bar-blues.pdf",
+    "status": 200,
+    "bytes": 103726,
+    "sha256": "c4bfce4ed6e925e8303a25b2870c5a5cd3af455551573d41f17bb877d386b54a",
+    "content_type": "application/pdf"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/08/WK-12-bar-blues.mscz",
+    "chapter_indexes": [
+      92
+    ],
+    "file": ".local-library/omt-assets/a803bbb95e4c-WK-12-bar-blues.mscz",
+    "status": 200,
+    "bytes": 55837,
+    "sha256": "b4f94de84f882b91f1a27540a1cdddea3a105df02d6bb229f035569ff0bc7bd5",
+    "content_type": "application/octet-stream"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2023/01/WK-12-bar-blues-no-jazz.pdf",
+    "chapter_indexes": [
+      92
+    ],
+    "file": ".local-library/omt-assets/acee5f511aeb-WK-12-bar-blues-no-jazz.pdf",
+    "status": 200,
+    "bytes": 94555,
+    "sha256": "1ac2145c54634d6f3823a67cfa5e2d615d4c4793c84d3bafa1796e6d443b934a",
+    "content_type": "application/pdf"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2023/01/WK-12-bar-blues-no-jazz.mscz",
+    "chapter_indexes": [
+      92
+    ],
+    "file": ".local-library/omt-assets/9d1e06fa5530-WK-12-bar-blues-no-jazz.mscz",
+    "status": 200,
+    "bytes": 55932,
+    "sha256": "1fa38a41727aa133fc4f7248656cd0e65b38b2f9783e23012c94369ed7beef32",
+    "content_type": "application/octet-stream"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/08/WK-Blues_Scales-2.pdf",
+    "chapter_indexes": [
+      93
+    ],
+    "file": ".local-library/omt-assets/3ca9a1c5d55d-WK-Blues_Scales-2.pdf",
+    "status": 200,
+    "bytes": 183384,
+    "sha256": "d8050ee3a5dc1d30c602872f2b954205056aa41bb2f46cad084c69a327e5b037",
+    "content_type": "application/pdf"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/08/WK-Blues_Scales.mscz",
+    "chapter_indexes": [
+      93
+    ],
+    "file": ".local-library/omt-assets/f46902173b67-WK-Blues_Scales.mscz",
+    "status": 200,
+    "bytes": 19954,
+    "sha256": "6d49708a77f1140bb7fac3c22001ecf0744d8107d8610e9e55b0efb86be8e9ea",
+    "content_type": "application/octet-stream"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/08/WK-improv.pdf",
+    "chapter_indexes": [
+      93
+    ],
+    "file": ".local-library/omt-assets/f5c3db5863de-WK-improv.pdf",
+    "status": 200,
+    "bytes": 301505,
+    "sha256": "623c6f86cdcd2c5556b748e8b7c1a82eb658b2c240d08b343c31c42299791125",
+    "content_type": "application/pdf"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/08/WK-improv.mscz",
+    "chapter_indexes": [
+      93
+    ],
+    "file": ".local-library/omt-assets/b5bd9cd1d702-WK-improv.mscz",
+    "status": 200,
+    "bytes": 24928,
+    "sha256": "affe299a7356682099ff39a04286b9b7481ce961a659065c283f08a222f667ae",
+    "content_type": "application/octet-stream"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/08/improv-backing-track.mp3",
+    "chapter_indexes": [
+      93
+    ],
+    "file": ".local-library/omt-assets/184164961cb7-improv-backing-track.mp3",
+    "status": 200,
+    "bytes": 896939,
+    "sha256": "1eabed769a3f5d96394e472d931cedd7b35ffc49edcba1a732fa3b47cd5977d0",
+    "content_type": "audio/mpeg"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/08/COMP-blues.pdf",
+    "chapter_indexes": [
+      93
+    ],
+    "file": ".local-library/omt-assets/57aec9005d2a-COMP-blues.pdf",
+    "status": 200,
+    "bytes": 457861,
+    "sha256": "06f17ec4c7861ac53fbdf953c1b8c1e1782245ac2e350f6d998ab38cb0f0e6f1",
+    "content_type": "application/pdf"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/08/COMP-blues.docx",
+    "chapter_indexes": [
+      93
+    ],
+    "file": ".local-library/omt-assets/d5fdb83694f3-COMP-blues.docx",
+    "status": 200,
+    "bytes": 12102,
+    "sha256": "334a978a78e445609eb5b22d74078e7e743878507edb7d4f39bd958e843c285b",
+    "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2025/02/COMP-blues-audio-option.pdf",
+    "chapter_indexes": [
+      93
+    ],
+    "file": ".local-library/omt-assets/b4734a71fe9b-COMP-blues-audio-option.pdf",
+    "status": 200,
+    "bytes": 526179,
+    "sha256": "5ef036c018b6f53edfe850acafcb868f10e53e1aad60bf7c5921f9e03d45aa66",
+    "content_type": "application/pdf"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2025/02/COMP-blues-audio-option.docx",
+    "chapter_indexes": [
+      93
+    ],
+    "file": ".local-library/omt-assets/6a8a0e98d3cf-COMP-blues-audio-option.docx",
+    "status": 200,
+    "bytes": 26817,
+    "sha256": "37f2d6845f8db47ec3a5a3e77ba3b3bcc783b6fcd9e0d126fbd86983a497d059",
+    "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/Transcribing-Rhythms-worksheet.pdf",
+    "chapter_indexes": [
+      94
+    ],
+    "file": ".local-library/omt-assets/646e5fae12f2-Transcribing-Rhythms-worksheet.pdf",
+    "status": 200,
+    "bytes": 314676,
+    "sha256": "d7bef360596e41030c1c27c542b758f069d8e668c5274ba497a90315d8d986cc",
+    "content_type": "application/pdf"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2023/01/WK-rhythm-and-meter-in-pop-music-transcription.mscz",
+    "chapter_indexes": [
+      94
+    ],
+    "file": ".local-library/omt-assets/4674214455d6-WK-rhythm-and-meter-in-pop-music-transcription.mscz",
+    "status": 200,
+    "bytes": 28236,
+    "sha256": "2cffee4180c2320e6a6265e7ac546bb34a792155be49ea06e10974aac98f04d4",
+    "content_type": "application/octet-stream"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2022/12/drum_set.png",
+    "chapter_indexes": [
+      95
+    ],
+    "file": ".local-library/omt-assets/e0591d41df4d-drum_set.png",
+    "status": 200,
+    "bytes": 227086,
+    "sha256": "72728952f50bef5d2acbb98f217159d3e703921a645226cfe348d66894a18708",
+    "content_type": "image/png"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2022/12/drum_set-1024x772.png",
+    "chapter_indexes": [
+      95
+    ],
+    "file": ".local-library/omt-assets/ac9cce6d5336-drum_set-1024x772.png",
+    "status": 200,
+    "bytes": 274176,
+    "sha256": "765f7de2afbb4ace838b7857f678f3942acc60e1e1799c956a2510685ef05c16",
+    "content_type": "image/png"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2023/07/snare.mp3",
+    "chapter_indexes": [
+      95
+    ],
+    "file": ".local-library/omt-assets/e17e1314bd0b-snare.mp3",
+    "status": 200,
+    "bytes": 375066,
+    "sha256": "dea84ef7625f5fd5a2cbe00670e9de539c821f0e2edaffdc747c9c6542b76c24",
+    "content_type": "audio/mpeg"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2023/07/kick.mp3",
+    "chapter_indexes": [
+      95
+    ],
+    "file": ".local-library/omt-assets/7159711dc895-kick.mp3",
+    "status": 200,
+    "bytes": 396615,
+    "sha256": "71f3463aefd4a9a4471fbe20a38689ca4bedaa3c04443b9b8dd7f794aa4ce63e",
+    "content_type": "audio/mpeg"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2023/07/toms.mp3",
+    "chapter_indexes": [
+      95
+    ],
+    "file": ".local-library/omt-assets/0371ab6e64f6-toms.mp3",
+    "status": 200,
+    "bytes": 358368,
+    "sha256": "ef2e98b017117c8c518cd547797756fc147bf820455febbc3cac9ccb59a98cab",
+    "content_type": "audio/mpeg"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2023/07/ride.mp3",
+    "chapter_indexes": [
+      95
+    ],
+    "file": ".local-library/omt-assets/aa8a92cb86e7-ride.mp3",
+    "status": 200,
+    "bytes": 458783,
+    "sha256": "030cef84364d19e747195cf01c7f0e7d89e12f2ec38f2bc7fdbe13dc2a27c9c6",
+    "content_type": "audio/mpeg"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2023/07/hi-hat.mp3",
+    "chapter_indexes": [
+      95
+    ],
+    "file": ".local-library/omt-assets/9c381c4be0b8-hi-hat.mp3",
+    "status": 200,
+    "bytes": 305129,
+    "sha256": "a367c38baf5cd1c4613ead90e20066783e07010ba0596bce3587e697be3c8c92",
+    "content_type": "audio/mpeg"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2023/07/crash.mp3",
+    "chapter_indexes": [
+      95
+    ],
+    "file": ".local-library/omt-assets/ffb9b74c17fd-crash.mp3",
+    "status": 200,
+    "bytes": 350216,
+    "sha256": "bf713f18daeb1e1cfe6ed7f0ef28eaa227dd7b5888d6164d3dd96bb1a6098f05",
+    "content_type": "audio/mpeg"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2022/12/drum_key-e1687967119512.png",
+    "chapter_indexes": [
+      95
+    ],
+    "file": ".local-library/omt-assets/37ffe845f7be-drum_key-e1687967119512.png",
+    "status": 200,
+    "bytes": 64438,
+    "sha256": "8a823dbda82be13017ef78da13242464cc4040a6f4419000c8513152a9bfa017",
+    "content_type": "image/png"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2022/12/drum_key-e1687967119512-1024x195.png",
+    "chapter_indexes": [
+      95
+    ],
+    "file": ".local-library/omt-assets/6cf07de14aac-drum_key-e1687967119512-1024x195.png",
+    "status": 200,
+    "bytes": 30031,
+    "sha256": "4a754952f76e0516ee08b9e48a42aca8cb2ca8168dc619216e3900cc294da079",
+    "content_type": "image/png"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2022/12/feel-chart.001.png",
+    "chapter_indexes": [
+      95
+    ],
+    "file": ".local-library/omt-assets/3b9859a03e7b-feel-chart.001.png",
+    "status": 200,
+    "bytes": 75004,
+    "sha256": "19eb90322ae19a8223d087be6f2ea8c01ad88c079b86540411ceeb7c2f354ca0",
+    "content_type": "image/png"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2022/12/feel-chart.001-e1681063845474-1024x319.png",
+    "chapter_indexes": [
+      95
+    ],
+    "file": ".local-library/omt-assets/b104b3067de1-feel-chart.001-e1681063845474-1024x319.png",
+    "status": 200,
+    "bytes": 39020,
+    "sha256": "7ee187654997859e010ade2b4fb396d26a26a42e87183d1ec2682414745233dc",
+    "content_type": "image/png"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2023/07/WK-Drumbeats.pdf",
+    "chapter_indexes": [
+      95
+    ],
+    "file": ".local-library/omt-assets/a24db8e47576-WK-Drumbeats.pdf",
+    "status": 200,
+    "bytes": 311433,
+    "sha256": "152eb048e03f77cb36366c549febe440cc808fa5bfe035d265003b2d1243de68",
+    "content_type": "application/pdf"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2023/07/WK-Drumbeats.mscz",
+    "chapter_indexes": [
+      95
+    ],
+    "file": ".local-library/omt-assets/d17a05d3fdfd-WK-Drumbeats.mscz",
+    "status": 200,
+    "bytes": 33603,
+    "sha256": "bfdf6f97ae216ef29289c0be963a6ffa33cc2b0f17985b0db9c68e8da13d9e9d",
+    "content_type": "application/octet-stream"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/11/WK-section-phrases.pdf",
+    "chapter_indexes": [
+      96
+    ],
+    "file": ".local-library/omt-assets/2b902ac66cb2-WK-section-phrases.pdf",
+    "status": 200,
+    "bytes": 391763,
+    "sha256": "2d43377bfb3b295099ece5870b72a60cfd71bfb5f1f9b3b485fbb53c390f1b8a",
+    "content_type": "application/pdf"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/11/WK-section-phrases.docx",
+    "chapter_indexes": [
+      96
+    ],
+    "file": ".local-library/omt-assets/de5d56f2f54f-WK-section-phrases.docx",
+    "status": 200,
+    "bytes": 20978,
+    "sha256": "2c63269c76306b2d93425fcdb59ad05ee171f003b61daf40812424e4e49e0f5a",
+    "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/08/WK-AABA-and-strophic-forms.pdf",
+    "chapter_indexes": [
+      98
+    ],
+    "file": ".local-library/omt-assets/4ad28be18873-WK-AABA-and-strophic-forms.pdf",
+    "status": 200,
+    "bytes": 372149,
+    "sha256": "aed4ed95a82b33e99426310329a4cc3f67b5812d384e135335cc73b084219da7",
+    "content_type": "application/pdf"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/WK-AABA-and-strophic-forms.docx",
+    "chapter_indexes": [
+      98
+    ],
+    "file": ".local-library/omt-assets/b76844dcac87-WK-AABA-and-strophic-forms.docx",
+    "status": 200,
+    "bytes": 17331,
+    "sha256": "9a87942bde23ba92ff37afd04ec4f48b55247570eec755de0f291a192b53a765",
+    "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/typical-verse-chorus-form.png",
+    "chapter_indexes": [
+      99
+    ],
+    "file": ".local-library/omt-assets/a0cbd7121e33-typical-verse-chorus-form.png",
+    "status": 200,
+    "bytes": 13517,
+    "sha256": "491db4f7ff1a093f61157d529c43d52f6b74110f5ea05be57d52873cb63e3acc",
+    "content_type": "image/png"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2022/08/RG-summach-prechorus.pdf",
+    "chapter_indexes": [
+      99
+    ],
+    "file": ".local-library/omt-assets/70cd5dddc7dc-RG-summach-prechorus.pdf",
+    "status": 200,
+    "bytes": 89549,
+    "sha256": "020d151afa1027a26c4110832f63560450869d3c6d33d4ba7622afc5813c79a5",
+    "content_type": "application/pdf"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2023/09/WK-verse-chorus-form-The-Shape-of-Music-around-You.pdf",
+    "chapter_indexes": [
+      99
+    ],
+    "file": ".local-library/omt-assets/9a8cca0e2401-WK-verse-chorus-form-The-Shape-of-Music-around-You.pdf",
+    "status": 200,
+    "bytes": 116393,
+    "sha256": "3cb551175e91d09e3d1d07acf3f53de9a4538e6a5c2bd2cc0fdb4babb8620b1a",
+    "content_type": "application/pdf"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2023/08/WK-verse-chorus-form-briformer.pdf",
+    "chapter_indexes": [
+      99
+    ],
+    "file": ".local-library/omt-assets/0e88d00b8c77-WK-verse-chorus-form-briformer.pdf",
+    "status": 200,
+    "bytes": 394286,
+    "sha256": "b837c883dc46bc9a15f95f755c5753169daedf31db11ac2817b40d79f6ae30d7",
+    "content_type": "application/pdf"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2023/08/WK-verse-chorus-form-briformer.docx",
+    "chapter_indexes": [
+      99
+    ],
+    "file": ".local-library/omt-assets/b07700a167ad-WK-verse-chorus-form-briformer.docx",
+    "status": 200,
+    "bytes": 17417,
+    "sha256": "7f2ccd56128a324802bcc5edddca0094c3520b42d502aa37cc959222d3258b11",
+    "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2025/07/RG-summach-prechorus.pdf",
+    "chapter_indexes": [
+      99
+    ],
+    "file": ".local-library/omt-assets/5a8d855299bf-RG-summach-prechorus.pdf",
+    "status": 200,
+    "bytes": 89549,
+    "sha256": "020d151afa1027a26c4110832f63560450869d3c6d33d4ba7622afc5813c79a5",
+    "content_type": "application/pdf"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2025/07/RG-summach-prechorus.docx",
+    "chapter_indexes": [
+      99
+    ],
+    "file": ".local-library/omt-assets/fe85c255e8a8-RG-summach-prechorus.docx",
+    "status": 200,
+    "bytes": 11852,
+    "sha256": "3f99a91d0d404128cf2ff3e4c78e6819317cf697b87773c19e70743b096281ab",
+    "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2024/08/identifying-functional-layers.pdf",
+    "chapter_indexes": [
+      100
+    ],
+    "file": ".local-library/omt-assets/95680219a918-identifying-functional-layers.pdf",
+    "status": 200,
+    "bytes": 127107,
+    "sha256": "0d34660c15376f22ded6bb2d9111209ce39e22747b285fc3e6369066516e04e1",
+    "content_type": "application/pdf"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2024/08/identifying-functional-layers.docx",
+    "chapter_indexes": [
+      100
+    ],
+    "file": ".local-library/omt-assets/cebd63e7cda5-identifying-functional-layers.docx",
+    "status": 200,
+    "bytes": 37271,
+    "sha256": "0eb6f8c2d15b1a2a31236d314478ca5d7809dcca235fcd5dc0e494e63abaebf2",
+    "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2024/01/wk-visualizing-texture.pdf",
+    "chapter_indexes": [
+      100
+    ],
+    "file": ".local-library/omt-assets/6bfc359e87eb-wk-visualizing-texture.pdf",
+    "status": 200,
+    "bytes": 348013,
+    "sha256": "903d8e0a87b56c33099244d2033410b6526024b98834f80812d5e55c584c4e3b",
+    "content_type": "application/pdf"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2024/01/wk-visualizing-texture.docx",
+    "chapter_indexes": [
+      100
+    ],
+    "file": ".local-library/omt-assets/975b6e7bcb52-wk-visualizing-texture.docx",
+    "status": 200,
+    "bytes": 12857,
+    "sha256": "58cf6c91f0971efa88fc8e186894ef2df84f73f10ef7e0338d42554ef6848631",
+    "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/sparrow-2760021_640.jpg",
+    "chapter_indexes": [
+      101
+    ],
+    "file": ".local-library/omt-assets/5f78cfac17c8-sparrow-2760021_640.jpg",
+    "status": 200,
+    "bytes": 72158,
+    "sha256": "0fa316d71d72692724de353f1dfdfd0af60172f8731266117ad981837f84b8d3",
+    "content_type": "image/jpeg"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/turdus-migratorius-875977_640.jpg",
+    "chapter_indexes": [
+      101
+    ],
+    "file": ".local-library/omt-assets/04f1bb5976d0-turdus-migratorius-875977_640.jpg",
+    "status": 200,
+    "bytes": 125512,
+    "sha256": "fd7f9b1309a0136332c4e30d59d30cea9f5d064741f826abd3ec0a3929c0c5bf",
+    "content_type": "image/jpeg"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2023/12/WK-identifying-schemas.pdf",
+    "chapter_indexes": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "file": ".local-library/omt-assets/aa21bf7f6f72-WK-identifying-schemas.pdf",
+    "status": 200,
+    "bytes": 440108,
+    "sha256": "773613ff48cfc1a14d8d46f94ff5f174f844f9d57f0f884b9c365dc02ec0406c",
+    "content_type": "application/pdf"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2023/12/WK-identifying-schemas.docx",
+    "chapter_indexes": [
+      101,
+      102,
+      103,
+      104,
+      105
+    ],
+    "file": ".local-library/omt-assets/ecbf93aae5fb-WK-identifying-schemas.docx",
+    "status": 200,
+    "bytes": 20276,
+    "sha256": "de0ccb2c325ec95d3c5305a4a0314a4fbfed1418e16afa7e991fd94f3df98080",
+    "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/06/WK-Blues-based-schemas-1.pdf",
+    "chapter_indexes": [
+      102
+    ],
+    "file": ".local-library/omt-assets/335feed94c33-WK-Blues-based-schemas-1.pdf",
+    "status": 200,
+    "bytes": 104656,
+    "sha256": "4e67d5cc9d97b58553586930bef770dee63ee9d0b6db7beccbcde2608f0802a2",
+    "content_type": "application/pdf"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/06/WK-Blues-based-schemas-1.docx",
+    "chapter_indexes": [
+      102
+    ],
+    "file": ".local-library/omt-assets/9dbadb289f78-WK-Blues-based-schemas-1.docx",
+    "status": 200,
+    "bytes": 26765,
+    "sha256": "cc174647e16380d92e8f6eeb924cc109d697a671823725e88baeef8e7c913792",
+    "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/06/WK-4-chord-Schemas-no-variations.pdf",
+    "chapter_indexes": [
+      103
+    ],
+    "file": ".local-library/omt-assets/a613ea1eef8a-WK-4-chord-Schemas-no-variations.pdf",
+    "status": 200,
+    "bytes": 341100,
+    "sha256": "4e0eef17cdd967988ea4b9fb24461631d8d8aec17a3cc73ba8be9bd850f2dc40",
+    "content_type": "application/pdf"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/06/WK-4-chord-Schemas-no-variations.docx",
+    "chapter_indexes": [
+      103
+    ],
+    "file": ".local-library/omt-assets/676584a00b54-WK-4-chord-Schemas-no-variations.docx",
+    "status": 200,
+    "bytes": 19429,
+    "sha256": "b78094a7db7e0f8698da0c3358dbffbeeeaa1a1312029f30fb89ef31c1a06cc8",
+    "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/06/WK-4-chord-Schemas-with-variations.pdf",
+    "chapter_indexes": [
+      103
+    ],
+    "file": ".local-library/omt-assets/3e563000a4c7-WK-4-chord-Schemas-with-variations.pdf",
+    "status": 200,
+    "bytes": 323463,
+    "sha256": "a7b439b929e8da947f87438bce58bd306843c83a46e12ec6ab1211934c1a1d4f",
+    "content_type": "application/pdf"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/06/WK-4-chord-Schemas-with-variations.docx",
+    "chapter_indexes": [
+      103
+    ],
+    "file": ".local-library/omt-assets/54ccf1608e9f-WK-4-chord-Schemas-with-variations.docx",
+    "status": 200,
+    "bytes": 19687,
+    "sha256": "926e4255b9e7d1372f74df11eab578a2e7c418e6796b7ae7fd31df58eaa619fc",
+    "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/06/WK-Classical-schemas.pdf",
+    "chapter_indexes": [
+      104
+    ],
+    "file": ".local-library/omt-assets/ac7852b95820-WK-Classical-schemas.pdf",
+    "status": 200,
+    "bytes": 124243,
+    "sha256": "fd34b1008aea7b3a23b29def19e069de77ca6d2cf049a33f54dd861fc03fa306",
+    "content_type": "application/pdf"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/06/WK-Classical-schemas.docx",
+    "chapter_indexes": [
+      104
+    ],
+    "file": ".local-library/omt-assets/a6eb8f7942c9-WK-Classical-schemas.docx",
+    "status": 200,
+    "bytes": 33853,
+    "sha256": "7dc8682f4711eb28c78037c0fcc48878342dff814e7d26927ad2f0446f6ab005",
+    "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/06/WK-Puff-schema.pdf",
+    "chapter_indexes": [
+      105
+    ],
+    "file": ".local-library/omt-assets/804ae11664f9-WK-Puff-schema.pdf",
+    "status": 200,
+    "bytes": 111715,
+    "sha256": "899c20da9713ea5f1ca20e14d10bac6f29e6044f4418c2665513ea2038b607f8",
+    "content_type": "application/pdf"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/06/WK-Puff-schema.docx",
+    "chapter_indexes": [
+      105
+    ],
+    "file": ".local-library/omt-assets/470affcc2b94-WK-Puff-schema.docx",
+    "status": 200,
+    "bytes": 35980,
+    "sha256": "ba0811d1c06cb581634645ace8ece0a7c11ca853c1790bf1abd3a33e79ef16aa",
+    "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/modal_harmonic_function.png",
+    "chapter_indexes": [
+      106
+    ],
+    "file": ".local-library/omt-assets/5dc8f65c2395-modal_harmonic_function.png",
+    "status": 200,
+    "bytes": 177984,
+    "sha256": "a2aabb31b457f0e33da12d349375bf95221cc827b62a9f8e4fa6cc2459ad8ab9",
+    "content_type": "image/png"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/modal_harmonic_function-1024x881.png",
+    "chapter_indexes": [
+      106
+    ],
+    "file": ".local-library/omt-assets/b833d87f0817-modal_harmonic_function-1024x881.png",
+    "status": 200,
+    "bytes": 85197,
+    "sha256": "878654417cb7591d21383233e007b9b9f5288c0620e21b0d4b6bb02ddb17e232",
+    "content_type": "image/png"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/mixolydian-1.png",
+    "chapter_indexes": [
+      106
+    ],
+    "file": ".local-library/omt-assets/4e685eb0b99d-mixolydian-1.png",
+    "status": 200,
+    "bytes": 64709,
+    "sha256": "52252f0a4cd12cec64f5dda866c8a1233df624304814fef611a0057a85af0a0c",
+    "content_type": "image/png"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/mixolydian-1-1024x274.png",
+    "chapter_indexes": [
+      106
+    ],
+    "file": ".local-library/omt-assets/26914d3b4748-mixolydian-1-1024x274.png",
+    "status": 200,
+    "bytes": 34297,
+    "sha256": "9d5550ca5aafb827c0937c95d615c3b8250bd6fdb6d427412c44f18212efb726",
+    "content_type": "image/png"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/tired_of_waiting.png",
+    "chapter_indexes": [
+      106
+    ],
+    "file": ".local-library/omt-assets/664f3b32037e-tired_of_waiting.png",
+    "status": 200,
+    "bytes": 86007,
+    "sha256": "c4b7307829565271e94fdb3ba2196c0c83e6b0df43c86b19ef29de45fcc452f7",
+    "content_type": "image/png"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/tired_of_waiting-300x88.png",
+    "chapter_indexes": [
+      106
+    ],
+    "file": ".local-library/omt-assets/3be8e596e030-tired_of_waiting-300x88.png",
+    "status": 200,
+    "bytes": 8541,
+    "sha256": "259f1f7b5dd6276f0ff7af2fa7db55c2efefd4d2ae8e80dad62283f0dcb1b755",
+    "content_type": "image/png"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/somebody_that_I_used_to_know-2.png",
+    "chapter_indexes": [
+      106
+    ],
+    "file": ".local-library/omt-assets/539b530f6eb8-somebody_that_I_used_to_know-2.png",
+    "status": 200,
+    "bytes": 158716,
+    "sha256": "4d6efc0d61bd19bb9ab936f6d57cc2e4208a7d6f384b12a373c1feadadd6020b",
+    "content_type": "image/png"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/somebody_that_I_used_to_know-2-300x215.png",
+    "chapter_indexes": [
+      106
+    ],
+    "file": ".local-library/omt-assets/07e952aff174-somebody_that_I_used_to_know-2-300x215.png",
+    "status": 200,
+    "bytes": 16824,
+    "sha256": "b1ea9d74227f2de0c2658f320163930a10659deed0af72e3da9444bb24e1c36a",
+    "content_type": "image/png"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/lotr.png",
+    "chapter_indexes": [
+      106
+    ],
+    "file": ".local-library/omt-assets/c9af0cdcf6c2-lotr.png",
+    "status": 200,
+    "bytes": 72204,
+    "sha256": "5b60040895c1362a78ef39b1cad8548e856fa627e685ca6b395ee9d31ddac5ed",
+    "content_type": "image/png"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/lotr-300x80.png",
+    "chapter_indexes": [
+      106
+    ],
+    "file": ".local-library/omt-assets/42712c1b0d45-lotr-300x80.png",
+    "status": 200,
+    "bytes": 7849,
+    "sha256": "a9858e13f07a2a4801c263ed0d81b0e80ddfe557159827f65b5bee6b81820c52",
+    "content_type": "image/png"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/I-dont-like-you.png",
+    "chapter_indexes": [
+      106
+    ],
+    "file": ".local-library/omt-assets/375924bc6c38-I-dont-like-you.png",
+    "status": 200,
+    "bytes": 94634,
+    "sha256": "b12f6f3c02aa8f357cf22f8299c9d03147990ce74f78c8747a9dc1ffd98ace2f",
+    "content_type": "image/png"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/I-dont-like-you-300x109.png",
+    "chapter_indexes": [
+      106
+    ],
+    "file": ".local-library/omt-assets/305e1feb9c52-I-dont-like-you-300x109.png",
+    "status": 200,
+    "bytes": 11275,
+    "sha256": "84952f459e71102a28cc1ba91bf4586d0c82a7a3a56322798b8fa6f72770adcc",
+    "content_type": "image/png"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/dorian-1.png",
+    "chapter_indexes": [
+      106
+    ],
+    "file": ".local-library/omt-assets/ca8140b45439-dorian-1.png",
+    "status": 200,
+    "bytes": 61702,
+    "sha256": "b4b10eb80501cbf2a80167e6de39f42adb962880b713e46d06a12164588fa1c0",
+    "content_type": "image/png"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/dorian-1-1024x313.png",
+    "chapter_indexes": [
+      106
+    ],
+    "file": ".local-library/omt-assets/d753c078f1ef-dorian-1-1024x313.png",
+    "status": 200,
+    "bytes": 40093,
+    "sha256": "32c8dc54f6f8b3ef508e3e2fd22d1493b191d168233b87c73205be6034a82ba4",
+    "content_type": "image/png"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/get_lucky.png",
+    "chapter_indexes": [
+      106
+    ],
+    "file": ".local-library/omt-assets/d3add9a52f98-get_lucky.png",
+    "status": 200,
+    "bytes": 95844,
+    "sha256": "a24bce17657aa499db277e5f6c47e37cf03aea43f2609e4ffc4364185074c78a",
+    "content_type": "image/png"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/get_lucky-300x86.png",
+    "chapter_indexes": [
+      106
+    ],
+    "file": ".local-library/omt-assets/32faeb51187f-get_lucky-300x86.png",
+    "status": 200,
+    "bytes": 8450,
+    "sha256": "da6772b800690d9db44d6f012dddf1cfdeadba6c5652f661a695f598493d4a1e",
+    "content_type": "image/png"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/lydian-1.png",
+    "chapter_indexes": [
+      106
+    ],
+    "file": ".local-library/omt-assets/47bcf63d5827-lydian-1.png",
+    "status": 200,
+    "bytes": 57413,
+    "sha256": "3c49a5e607460e9264893ee7405a9fd59f63d5b38b17bf0148fa6807dc1da66c",
+    "content_type": "image/png"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/lydian-1-300x87.png",
+    "chapter_indexes": [
+      106
+    ],
+    "file": ".local-library/omt-assets/a4e8fb2c3fda-lydian-1-300x87.png",
+    "status": 200,
+    "bytes": 6964,
+    "sha256": "b1b37a5309582d6490e966ad285ed39f8ef69c44692c3b6ce9c1029c44a6124a",
+    "content_type": "image/png"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/forget-you.png",
+    "chapter_indexes": [
+      106
+    ],
+    "file": ".local-library/omt-assets/96b9403b51c2-forget-you.png",
+    "status": 200,
+    "bytes": 136334,
+    "sha256": "62229c2a9abf08d4d036ce1396b11c67c64083e45b325543bd52196f56c137a0",
+    "content_type": "image/png"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/forget-you-300x130.png",
+    "chapter_indexes": [
+      106
+    ],
+    "file": ".local-library/omt-assets/d39f0b7fde1a-forget-you-300x130.png",
+    "status": 200,
+    "bytes": 13187,
+    "sha256": "e1958f1df0df165cc6ef5cbe2f12bb17df436bda4adc791e4596eb0325c66c49",
+    "content_type": "image/png"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/mode_flow_chart-3.jpg",
+    "chapter_indexes": [
+      106
+    ],
+    "file": ".local-library/omt-assets/599624e6c537-mode_flow_chart-3.jpg",
+    "status": 200,
+    "bytes": 92348,
+    "sha256": "28060e27f71c2805de41bfaa64d15c3be4937f361f550cf73ac37b1cd53847e9",
+    "content_type": "image/jpeg"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/mode_flow_chart-3-150x150.jpg",
+    "chapter_indexes": [
+      106
+    ],
+    "file": ".local-library/omt-assets/bcf0dd1fb2b2-mode_flow_chart-3-150x150.jpg",
+    "status": 200,
+    "bytes": 5403,
+    "sha256": "ae00f986f4fcb346ec97aa060533eb2de55518edb4f50ba7938ba1049380b983",
+    "content_type": "image/jpeg"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/WK-Modal-Schemas.pdf",
+    "chapter_indexes": [
+      106
+    ],
+    "file": ".local-library/omt-assets/0fe315a670ca-WK-Modal-Schemas.pdf",
+    "status": 200,
+    "bytes": 528383,
+    "sha256": "2947751ae0c9fbf3b195b4bd9043b878f61612334a1231fe4ece0889cea1a58d",
+    "content_type": "application/pdf"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/WK-Modal-Schemas.docx",
+    "chapter_indexes": [
+      106
+    ],
+    "file": ".local-library/omt-assets/60904562a4bd-WK-Modal-Schemas.docx",
+    "status": 200,
+    "bytes": 41712,
+    "sha256": "766ee74040441c3f1eccebe38ff71e97dcd42e464eb5b27c962ce05381f175d9",
+    "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/COMP-Modal_Reharmonization_print.pdf",
+    "chapter_indexes": [
+      106
+    ],
+    "file": ".local-library/omt-assets/2fefff4c1095-COMP-Modal_Reharmonization_print.pdf",
+    "status": 200,
+    "bytes": 310458,
+    "sha256": "287cfb1621666a6195efa6f101d366714d5a2ab498b88a91e659ba333afd61e8",
+    "content_type": "application/pdf"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2023/06/WK-modal-schemas_Reharmonization.mscz",
+    "chapter_indexes": [
+      106
+    ],
+    "file": ".local-library/omt-assets/f239aa739133-WK-modal-schemas_Reharmonization.mscz",
+    "status": 200,
+    "bytes": 19481,
+    "sha256": "680dba1d2f2fa594340c01e706fd7fbbb5d64e4445e32c9819aa0907bf5e5cfa",
+    "content_type": "application/octet-stream"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2023/01/WK-fragile-absent-emergent.pdf",
+    "chapter_indexes": [
+      108
+    ],
+    "file": ".local-library/omt-assets/beac1be5ed8b-WK-fragile-absent-emergent.pdf",
+    "status": 200,
+    "bytes": 316483,
+    "sha256": "7eebd7f09f7eee561c39836920bef53620ef5573526ffde74db9d24ff4a7b342",
+    "content_type": "application/pdf"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2023/01/WK-fragile-absent-emergent.mscz",
+    "chapter_indexes": [
+      108
+    ],
+    "file": ".local-library/omt-assets/30fb5a889e15-WK-fragile-absent-emergent.mscz",
+    "status": 200,
+    "bytes": 15226,
+    "sha256": "67c398d47e7f341e37590894c27e0e07086eb503022131ad60fc19d865fb1c2a",
+    "content_type": "application/octet-stream"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/11/untitled-2.mp3?_=1",
+    "chapter_indexes": [
+      143
+    ],
+    "file": ".local-library/omt-assets/d53b2efb0e65-untitled-2.mp3",
+    "status": 200,
+    "bytes": 271314,
+    "sha256": "2eb12ed69f74b4bc9f2274906e1c2c3f0a85ef12660f1cc1cb34a80edd9810f3",
+    "content_type": "audio/mpeg"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/11/untitled-2.mp3",
+    "chapter_indexes": [
+      143
+    ],
+    "file": ".local-library/omt-assets/ea61199eb1dc-untitled-2.mp3",
+    "status": 200,
+    "bytes": 271314,
+    "sha256": "2eb12ed69f74b4bc9f2274906e1c2c3f0a85ef12660f1cc1cb34a80edd9810f3",
+    "content_type": "audio/mpeg"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/11/Screen-Shot-2020-07-03-at-10.01.23-AM-300x42.png",
+    "chapter_indexes": [
+      143
+    ],
+    "file": ".local-library/omt-assets/fbac9a399144-Screen-Shot-2020-07-03-at-10.01.23-AM-300x42.png",
+    "status": 200,
+    "bytes": 2082,
+    "sha256": "61c01c90482a7b98f3e6f82ff663cbeee45f1a398a5cdf20d2b5e559f2f30c74",
+    "content_type": "image/png"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/11/untitled-2-1.mp3?_=2",
+    "chapter_indexes": [
+      143
+    ],
+    "file": ".local-library/omt-assets/657f70a6e383-untitled-2-1.mp3",
+    "status": 200,
+    "bytes": 271731,
+    "sha256": "4cb94497b20e3cd0ec54d9398ca0294179d377a1f84413ddf020602e6cb8315a",
+    "content_type": "audio/mpeg"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/11/untitled-2-1.mp3",
+    "chapter_indexes": [
+      143
+    ],
+    "file": ".local-library/omt-assets/63e4d82657e2-untitled-2-1.mp3",
+    "status": 200,
+    "bytes": 271731,
+    "sha256": "4cb94497b20e3cd0ec54d9398ca0294179d377a1f84413ddf020602e6cb8315a",
+    "content_type": "audio/mpeg"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/11/Screen-Shot-2020-07-03-at-10.45.42-AM.png",
+    "chapter_indexes": [
+      143
+    ],
+    "file": ".local-library/omt-assets/45e0b4a3ef02-Screen-Shot-2020-07-03-at-10.45.42-AM.png",
+    "status": 200,
+    "bytes": 17768,
+    "sha256": "e544743ed0b8d2b6941e09d22fa1a8236e034767dc5a7d40228e87e90ababd7d",
+    "content_type": "image/png"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/11/Screen-Shot-2020-07-03-at-10.45.42-AM-300x101.png",
+    "chapter_indexes": [
+      143
+    ],
+    "file": ".local-library/omt-assets/2f354e4ea991-Screen-Shot-2020-07-03-at-10.45.42-AM-300x101.png",
+    "status": 200,
+    "bytes": 15649,
+    "sha256": "c8ce092cba7ebbb997084c28c633d99da0954ccca6e3baf8b3e795266af8e64b",
+    "content_type": "image/png"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/11/Screen-Shot-2021-07-02-at-12.01.06-PM.png",
+    "chapter_indexes": [
+      143
+    ],
+    "file": ".local-library/omt-assets/4e6421a7cb41-Screen-Shot-2021-07-02-at-12.01.06-PM.png",
+    "status": 200,
+    "bytes": 48582,
+    "sha256": "800ec7c66c504bc939b4e107cdcd3f612dcb7764a655f53276bd1ca1506c5b9e",
+    "content_type": "image/png"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/11/Screen-Shot-2021-07-02-at-12.01.06-PM-300x68.png",
+    "chapter_indexes": [
+      143
+    ],
+    "file": ".local-library/omt-assets/ef8cb8be68f0-Screen-Shot-2021-07-02-at-12.01.06-PM-300x68.png",
+    "status": 200,
+    "bytes": 11187,
+    "sha256": "7b3af70e7557ab3fddf36e27abae2a0e2175860c6293690ac5fd5f4ac097d562",
+    "content_type": "image/png"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/duple.png",
+    "chapter_indexes": [
+      143
+    ],
+    "file": ".local-library/omt-assets/8ed2b60a2d95-duple.png",
+    "status": 200,
+    "bytes": 2686,
+    "sha256": "bb8c6166853dfc72be06ad228d892132003f4958dc21923983ba07950c5fb4bf",
+    "content_type": "image/png"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/duple-300x43.png",
+    "chapter_indexes": [
+      143
+    ],
+    "file": ".local-library/omt-assets/a0ba2f4283ac-duple-300x43.png",
+    "status": 200,
+    "bytes": 4259,
+    "sha256": "490fab5527afc2e52cf897e6de1519c465746eed72a286966ad19d230a071571",
+    "content_type": "image/png"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/triple.png",
+    "chapter_indexes": [
+      143
+    ],
+    "file": ".local-library/omt-assets/eac7ff1f04b0-triple.png",
+    "status": 200,
+    "bytes": 3576,
+    "sha256": "31e67dc02b8279a67a53554e5b53ef7c8ce04b3a09f85bc30518fbbe211c6df8",
+    "content_type": "image/png"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/triple-300x34.png",
+    "chapter_indexes": [
+      143
+    ],
+    "file": ".local-library/omt-assets/cadfad10b73b-triple-300x34.png",
+    "status": 200,
+    "bytes": 3316,
+    "sha256": "8b1604692980ec0f78673452d94239b88fcf4d5cd4e03ccdf76e9ecfd5b4bcec",
+    "content_type": "image/png"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/quadruple.png",
+    "chapter_indexes": [
+      143
+    ],
+    "file": ".local-library/omt-assets/b0d7eb3b9193-quadruple.png",
+    "status": 200,
+    "bytes": 3227,
+    "sha256": "00e8413b1d2f8be8b340055dac6a63933be5ddafa9e0b68d19461ae82744376a",
+    "content_type": "image/png"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/quadruple-300x34.png",
+    "chapter_indexes": [
+      143
+    ],
+    "file": ".local-library/omt-assets/4d0124c06449-quadruple-300x34.png",
+    "status": 200,
+    "bytes": 3260,
+    "sha256": "4befb6d5ea2fcb1a5265ee98d42bb0707037e75882b907c85f885e33d9d4e516",
+    "content_type": "image/png"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/10/WK-Basics-of-Sight-Singing-and-Dictation-1.pdf",
+    "chapter_indexes": [
+      143
+    ],
+    "file": ".local-library/omt-assets/1e81d7c5ad11-WK-Basics-of-Sight-Singing-and-Dictation-1.pdf",
+    "status": 200,
+    "bytes": 253333,
+    "sha256": "ddbbcf16dac05bb8f82e04cd04a2b3c8720645259a2238a2a6d6cb2b2e759592",
+    "content_type": "application/pdf"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/10/WK-Basics-of-Sight-Singing-and-Dictation-1.docx",
+    "chapter_indexes": [
+      143
+    ],
+    "file": ".local-library/omt-assets/4d3d56ab818a-WK-Basics-of-Sight-Singing-and-Dictation-1.docx",
+    "status": 200,
+    "bytes": 308464,
+    "sha256": "db53ced3f3a9a50522c4415b48231dbec5e11b72c389e44d2b929925590fd367",
+    "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/10/WK-Basics-of-Sight-Singing-and-Dictation-2-1.pdf",
+    "chapter_indexes": [
+      143
+    ],
+    "file": ".local-library/omt-assets/d3298519998d-WK-Basics-of-Sight-Singing-and-Dictation-2-1.pdf",
+    "status": 200,
+    "bytes": 268999,
+    "sha256": "74e715843ba522d957c169f75e5868c1395d73777752ff60b2abdd10a216291e",
+    "content_type": "application/pdf"
+  },
+  {
+    "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2021/10/WK-Basics-of-Sight-Singing-and-Dictation-2-1.docx",
+    "chapter_indexes": [
+      143
+    ],
+    "file": ".local-library/omt-assets/4055c1c67c5a-WK-Basics-of-Sight-Singing-and-Dictation-2-1.docx",
+    "status": 200,
+    "bytes": 626017,
+    "sha256": "37295ea7153a3cec584c191c995460af06ed25f2540d032d0ce316a9e1a2eb3a",
+    "content_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document"
+  }
+]

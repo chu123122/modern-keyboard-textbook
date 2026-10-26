@@ -1,0 +1,184 @@
+{
+  "lessons": [
+    {
+      "id": 23,
+      "url": "https://pulse.berklee.edu/?id=4&lesson=23",
+      "pdf_links": [
+        "https://pulse.berklee.edu/content/public/pub_unit_assets/Casio_Video_Series/video_1/Planning for an Effective Practice Routine_video transcript.pdf",
+        "https://pulse.berklee.edu/content/public/pub_unit_assets/Casio_Video_Series/video_1/PracticeJournal.pdf",
+        "https://pulse.berklee.edu/content/public/pub_unit_assets/Casio_Video_Series/video_1/Video1 Key Points Quiz_Scavenger Hunt.pdf"
+      ]
+    },
+    {
+      "id": 25,
+      "url": "https://pulse.berklee.edu/?id=4&lesson=25",
+      "pdf_links": [
+        "https://pulse.berklee.edu/content/public/pub_unit_assets/Casio_Video_Series/video_1/PracticeJournal.pdf",
+        "https://pulse.berklee.edu/content/public/pub_unit_assets/Casio_Video_Series/video_2/Practicing Technique_video transcript.pdf",
+        "https://pulse.berklee.edu/content/public/pub_unit_assets/Casio_Video_Series/video_2/Video2 Key Points Quiz_Scavenger Hunt.pdf"
+      ]
+    },
+    {
+      "id": 26,
+      "url": "https://pulse.berklee.edu/?id=4&lesson=26",
+      "pdf_links": [
+        "https://pulse.berklee.edu/content/public/pub_unit_assets/Casio_Video_Series/video_1/PracticeJournal.pdf",
+        "https://pulse.berklee.edu/content/public/pub_unit_assets/Casio_Video_Series/video_3/Practicing Repertoire_video transcript.pdf",
+        "https://pulse.berklee.edu/content/public/pub_unit_assets/Casio_Video_Series/video_3/TR_Rhythm_Changes.pdf",
+        "https://pulse.berklee.edu/content/public/pub_unit_assets/Casio_Video_Series/video_3/Video3 Key Points Quiz_Scavenger Hunt.pdf"
+      ]
+    },
+    {
+      "id": 27,
+      "url": "https://pulse.berklee.edu/?id=4&lesson=27",
+      "pdf_links": [
+        "https://pulse.berklee.edu/content/public/pub_unit_assets/Casio_Video_Series/video_1/PracticeJournal.pdf",
+        "https://pulse.berklee.edu/content/public/pub_unit_assets/Casio_Video_Series/video_4/Practicing Improvisation_video transcript.pdf",
+        "https://pulse.berklee.edu/content/public/pub_unit_assets/Casio_Video_Series/video_4/Video4 Key Points Quiz_Scavenger Hunt.pdf"
+      ]
+    },
+    {
+      "id": 28,
+      "url": "https://pulse.berklee.edu/?id=4&lesson=28",
+      "pdf_links": [
+        "https://pulse.berklee.edu/content/public/pub_unit_assets/Casio_Video_Series/video_1/PracticeJournal.pdf",
+        "https://pulse.berklee.edu/content/public/pub_unit_assets/Casio_Video_Series/video_5/Self_Assessment As A Way To Improve_video transcript.pdf",
+        "https://pulse.berklee.edu/content/public/pub_unit_assets/Casio_Video_Series/video_5/can_you_dig_it.pdf"
+      ]
+    }
+  ],
+  "downloads": [
+    {
+      "id": "S5-EXTRA-1",
+      "url": "https://pulse.berklee.edu/content/public/pub_unit_assets/Casio_Video_Series/video_1/Planning for an Effective Practice Routine_video transcript.pdf",
+      "file": ".local-library/raw/pulse-extra-01.pdf",
+      "retrieved_at": "2026-10-26T13:47:42.616602+00:00",
+      "status": 200,
+      "final_url": "https://pulse.berklee.edu/content/public/pub_unit_assets/Casio_Video_Series/video_1/Planning%20for%20an%20Effective%20Practice%20Routine_video%20transcript.pdf",
+      "content_type": "application/pdf",
+      "bytes": 82520,
+      "sha256": "d05552b3677e9b6bde58c5b993119a7740054bc3e4cbe547fbaac7bd6e8bebdc"
+    },
+    {
+      "id": "S5-EXTRA-2",
+      "url": "https://pulse.berklee.edu/content/public/pub_unit_assets/Casio_Video_Series/video_1/PracticeJournal.pdf",
+      "file": ".local-library/raw/pulse-extra-02.pdf",
+      "retrieved_at": "2026-10-26T13:47:42.617785+00:00",
+      "status": 200,
+      "final_url": "https://pulse.berklee.edu/content/public/pub_unit_assets/Casio_Video_Series/video_1/PracticeJournal.pdf",
+      "content_type": "application/pdf",
+      "bytes": 228940,
+      "sha256": "bb09c7fe596a9adb82adc3fd0dfc54decbe899a185e0cf7751600b51969b3a71"
+    },
+    {
+      "id": "S5-EXTRA-3",
+      "url": "https://pulse.berklee.edu/content/public/pub_unit_assets/Casio_Video_Series/video_1/Video1 Key Points Quiz_Scavenger Hunt.pdf",
+      "file": ".local-library/raw/pulse-extra-03.pdf",
+      "retrieved_at": "2026-10-26T13:47:42.619035+00:00",
+      "status": 200,
+      "final_url": "https://pulse.berklee.edu/content/public/pub_unit_assets/Casio_Video_Series/video_1/Video1%20Key%20Points%20Quiz_Scavenger%20Hunt.pdf",
+      "content_type": "application/pdf",
+      "bytes": 95717,
+      "sha256": "631c9e1f8ad3c26af31cadc21ec2945c937ef4ed42b596f31a629e41e1b0cfcf"
+    },
+    {
+      "id": "S5-EXTRA-4",
+      "url": "https://pulse.berklee.edu/content/public/pub_unit_assets/Casio_Video_Series/video_2/Practicing Technique_video transcript.pdf",
+      "file": ".local-library/raw/pulse-extra-04.pdf",
+      "retrieved_at": "2026-10-26T13:47:42.619390+00:00",
+      "status": 200,
+      "final_url": "https://pulse.berklee.edu/content/public/pub_unit_assets/Casio_Video_Series/video_2/Practicing%20Technique_video%20transcript.pdf",
+      "content_type": "application/pdf",
+      "bytes": 80792,
+      "sha256": "5bc5c6043f4d9f32dfb840e8fc63f3b2f1501ce5b8c289cec3a87220182f1f53"
+    },
+    {
+      "id": "S5-EXTRA-5",
+      "url": "https://pulse.berklee.edu/content/public/pub_unit_assets/Casio_Video_Series/video_2/Video2 Key Points Quiz_Scavenger Hunt.pdf",
+      "file": ".local-library/raw/pulse-extra-05.pdf",
+      "retrieved_at": "2026-10-26T13:47:45.397996+00:00",
+      "status": 200,
+      "final_url": "https://pulse.berklee.edu/content/public/pub_unit_assets/Casio_Video_Series/video_2/Video2%20Key%20Points%20Quiz_Scavenger%20Hunt.pdf",
+      "content_type": "application/pdf",
+      "bytes": 112578,
+      "sha256": "91bf7065bb1c7c725f73fd130ef7817cfb3136e2242a96ec8a310ee702ea6b4e"
+    },
+    {
+      "id": "S5-EXTRA-6",
+      "url": "https://pulse.berklee.edu/content/public/pub_unit_assets/Casio_Video_Series/video_3/Practicing Repertoire_video transcript.pdf",
+      "file": ".local-library/raw/pulse-extra-06.pdf",
+      "retrieved_at": "2026-10-26T13:47:45.744544+00:00",
+      "status": 200,
+      "final_url": "https://pulse.berklee.edu/content/public/pub_unit_assets/Casio_Video_Series/video_3/Practicing%20Repertoire_video%20transcript.pdf",
+      "content_type": "application/pdf",
+      "bytes": 76933,
+      "sha256": "d76f3ab7aa1b6d575f4160241c5891dd6ae3c3c4489a40055f8f244dba9b3bad"
+    },
+    {
+      "id": "S5-EXTRA-7",
+      "url": "https://pulse.berklee.edu/content/public/pub_unit_assets/Casio_Video_Series/video_3/TR_Rhythm_Changes.pdf",
+      "file": ".local-library/raw/pulse-extra-07.pdf",
+      "retrieved_at": "2026-10-26T13:47:45.747405+00:00",
+      "status": 200,
+      "final_url": "https://pulse.berklee.edu/content/public/pub_unit_assets/Casio_Video_Series/video_3/TR_Rhythm_Changes.pdf",
+      "content_type": "application/pdf",
+      "bytes": 260912,
+      "sha256": "9488251462ba5bd72e69655e642b223ec43defe589973ccfbf2e4fa108b0307a"
+    },
+    {
+      "id": "S5-EXTRA-8",
+      "url": "https://pulse.berklee.edu/content/public/pub_unit_assets/Casio_Video_Series/video_3/Video3 Key Points Quiz_Scavenger Hunt.pdf",
+      "file": ".local-library/raw/pulse-extra-08.pdf",
+      "retrieved_at": "2026-10-26T13:47:46.572249+00:00",
+      "status": 200,
+      "final_url": "https://pulse.berklee.edu/content/public/pub_unit_assets/Casio_Video_Series/video_3/Video3%20Key%20Points%20Quiz_Scavenger%20Hunt.pdf",
+      "content_type": "application/pdf",
+      "bytes": 79535,
+      "sha256": "d98a050d11159953eb0b827f02242be7b4fc132c385cbcd35890db9bf46bf63e"
+    },
+    {
+      "id": "S5-EXTRA-9",
+      "url": "https://pulse.berklee.edu/content/public/pub_unit_assets/Casio_Video_Series/video_4/Practicing Improvisation_video transcript.pdf",
+      "file": ".local-library/raw/pulse-extra-09.pdf",
+      "retrieved_at": "2026-10-26T13:47:48.133243+00:00",
+      "status": 200,
+      "final_url": "https://pulse.berklee.edu/content/public/pub_unit_assets/Casio_Video_Series/video_4/Practicing%20Improvisation_video%20transcript.pdf",
+      "content_type": "application/pdf",
+      "bytes": 94265,
+      "sha256": "e3cb6b99775dc2883c9aed94f2199f4e2c02a79163ac4eff2dc8180d36c7371e"
+    },
+    {
+      "id": "S5-EXTRA-10",
+      "url": "https://pulse.berklee.edu/content/public/pub_unit_assets/Casio_Video_Series/video_4/Video4 Key Points Quiz_Scavenger Hunt.pdf",
+      "file": ".local-library/raw/pulse-extra-10.pdf",
+      "retrieved_at": "2026-10-26T13:47:48.486452+00:00",
+      "status": 200,
+      "final_url": "https://pulse.berklee.edu/content/public/pub_unit_assets/Casio_Video_Series/video_4/Video4%20Key%20Points%20Quiz_Scavenger%20Hunt.pdf",
+      "content_type": "application/pdf",
+      "bytes": 78796,
+      "sha256": "ca9cf00c3ad652cc30c4f8eb7258cb02fa925aeec05147a4e8a2716f91258ea9"
+    },
+    {
+      "id": "S5-EXTRA-11",
+      "url": "https://pulse.berklee.edu/content/public/pub_unit_assets/Casio_Video_Series/video_5/Self_Assessment As A Way To Improve_video transcript.pdf",
+      "file": ".local-library/raw/pulse-extra-11.pdf",
+      "retrieved_at": "2026-10-26T13:47:49.256422+00:00",
+      "status": 200,
+      "final_url": "https://pulse.berklee.edu/content/public/pub_unit_assets/Casio_Video_Series/video_5/Self_Assessment%20As%20A%20Way%20To%20Improve_video%20transcript.pdf",
+      "content_type": "application/pdf",
+      "bytes": 80176,
+      "sha256": "38ebf188d24cab039bc9dcec86117ca2b60882a6f606c4d0706d9b6672c86834"
+    },
+    {
+      "id": "S5-EXTRA-12",
+      "url": "https://pulse.berklee.edu/content/public/pub_unit_assets/Casio_Video_Series/video_5/can_you_dig_it.pdf",
+      "file": ".local-library/raw/pulse-extra-12.pdf",
+      "retrieved_at": "2026-10-26T13:47:50.176212+00:00",
+      "status": 200,
+      "final_url": "https://pulse.berklee.edu/content/public/pub_unit_assets/Casio_Video_Series/video_5/can_you_dig_it.pdf",
+      "content_type": "application/pdf",
+      "bytes": 144998,
+      "sha256": "8e8ad1b9aea2f7345cde01c7a86968413ee47be4c0b2b6fc3d1913b83d9b62cc"
+    }
+  ]
+}

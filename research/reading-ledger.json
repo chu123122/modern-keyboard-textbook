@@ -1,0 +1,702 @@
+{
+  "date": "2026-10-26",
+  "reader": "AI assistant in this task; no human reading claim",
+  "meaning": "Reading statuses are explicit records of the current task, never inferred from extraction or file existence.",
+  "pdf_reading": [
+    {
+      "source_id": "S1",
+      "file": ".local-library/raw/berklee-theory.pdf",
+      "pages": 76,
+      "scope": "all_extractable_text",
+      "status": "read",
+      "audio_verified": false,
+      "performance_verified": false
+    },
+    {
+      "source_id": "S2",
+      "file": ".local-library/raw/berklee-piano.pdf",
+      "pages": 90,
+      "scope": "all_extractable_text",
+      "status": "read",
+      "audio_verified": false,
+      "performance_verified": false
+    },
+    {
+      "source_id": "S4",
+      "file": ".local-library/raw/berklee-sound-design.pdf",
+      "pages": 100,
+      "scope": "all_extractable_text",
+      "status": "read",
+      "audio_verified": false,
+      "performance_verified": false
+    }
+  ],
+  "pdf_visual_inspections": {
+    "S1": [
+      7,
+      8,
+      9,
+      10,
+      25,
+      27,
+      43,
+      44,
+      45,
+      59,
+      60,
+      61
+    ],
+    "S2": [
+      7,
+      25,
+      47,
+      48,
+      49,
+      51,
+      52,
+      54,
+      78,
+      79,
+      80,
+      81,
+      82,
+      83,
+      84,
+      85,
+      86
+    ],
+    "S4": [
+      36
+    ],
+    "S5": {
+      "pulse-extra-02.pdf": [
+        1
+      ],
+      "pulse-extra-07.pdf": [
+        1
+      ]
+    }
+  },
+  "omt_reading": [
+    {
+      "source_id": "S3",
+      "chapter_index": 1,
+      "title": "Read",
+      "url": "https://viva.pressbooks.pub/openmusictheory/front-matter/introduction/",
+      "snapshot_sha256": "096cb1aff14b63f3a2e973881e177fe89360a1cb9e3de7fc5a81df951595870f",
+      "text_file": ".local-library/text/omt-web/001-introduction.txt",
+      "reading_status": "expository_text_and_captions_read",
+      "scope": "正文文字与图例说明已实际阅读；不含所有书目研究、音视频、交互完成或演奏验收。",
+      "finding": "版本、模块化使用与媒体边界；V1 与 V2 分开。",
+      "media_verified": false
+    },
+    {
+      "source_id": "S3",
+      "chapter_index": 11,
+      "title": "The Keyboard and the Grand Staff",
+      "url": "https://viva.pressbooks.pub/openmusictheory/chapter/the-keyboard-and-grand-staff/",
+      "snapshot_sha256": "51142ced601e19900a7b9510662365e94e4392db506310a88c1e930c5b00c670",
+      "text_file": ".local-library/text/omt-web/011-the-keyboard-and-grand-staff.txt",
+      "reading_status": "expository_text_and_captions_read",
+      "scope": "正文文字与图例说明已实际阅读；不含所有书目研究、音视频、交互完成或演奏验收。",
+      "finding": "键盘黑键分组、大谱表、中音 C；字母度数从起音算 1。",
+      "media_verified": false
+    },
+    {
+      "source_id": "S3",
+      "chapter_index": 12,
+      "title": "Half Steps, Whole Steps, and Accidentals",
+      "url": "https://viva.pressbooks.pub/openmusictheory/chapter/half-and-whole-steps/",
+      "snapshot_sha256": "f50f6c4d6d3a47fdd06daca443fe69c2c317dbcb66119ac58a1b5e509eb6105a",
+      "text_file": ".local-library/text/omt-web/012-half-and-whole-steps.txt",
+      "reading_status": "expository_text_and_captions_read",
+      "scope": "正文文字与图例说明已实际阅读；不含所有书目研究、音视频、交互完成或演奏验收。",
+      "finding": "全音半音、临时记号与等音拼写；键位相同不等于名称可随意换。",
+      "media_verified": false
+    },
+    {
+      "source_id": "S3",
+      "chapter_index": 13,
+      "title": "American Standard Pitch Notation (ASPN)",
+      "url": "https://viva.pressbooks.pub/openmusictheory/chapter/aspn/",
+      "snapshot_sha256": "a33e939a5a85280d6d73ada8712f34d482061ca5fce571f753f6cc14f2d13e9f",
+      "text_file": ".local-library/text/omt-web/013-aspn.txt",
+      "reading_status": "expository_text_and_captions_read",
+      "scope": "正文文字与图例说明已实际阅读；不含所有书目研究、音视频、交互完成或演奏验收。",
+      "finding": "具体音高与音级类别不同；统一以 C4 表示中音 C。",
+      "media_verified": false
+    },
+    {
+      "source_id": "S3",
+      "chapter_index": 15,
+      "title": "Texture",
+      "url": "https://viva.pressbooks.pub/openmusictheory/chapter/texture/",
+      "snapshot_sha256": "e90b254bdbc2d6604f2806da4c44c64d8606605d8019455158a4dde756181bc5",
+      "text_file": ".local-library/text/omt-web/015-texture.txt",
+      "reading_status": "expository_text_and_captions_read",
+      "scope": "正文文字与图例说明已实际阅读；不含所有书目研究、音视频、交互完成或演奏验收。",
+      "finding": "单声、异声、主调、复调是纹理分类；同曲可变换。",
+      "media_verified": false
+    },
+    {
+      "source_id": "S3",
+      "chapter_index": 16,
+      "title": "Notating Rhythm",
+      "url": "https://viva.pressbooks.pub/openmusictheory/chapter/notating-rhythm/",
+      "snapshot_sha256": "dee4fcfbe1bace31d03f9e4fab03f4d999e1d06000073db615af4d32d334bf10",
+      "text_file": ".local-library/text/omt-web/016-notating-rhythm.txt",
+      "reading_status": "expository_text_and_captions_read",
+      "scope": "正文文字与图例说明已实际阅读；不含所有书目研究、音视频、交互完成或演奏验收。",
+      "finding": "时值层级、附点、延音线；区分延音与连奏线。",
+      "media_verified": false
+    },
+    {
+      "source_id": "S3",
+      "chapter_index": 17,
+      "title": "Simple Meter and Time Signatures",
+      "url": "https://viva.pressbooks.pub/openmusictheory/chapter/simple-meter-and-time-signatures/",
+      "snapshot_sha256": "6ce3d9bcd6f63217811a782f2cc6d1c633f7176fbdf9b434e1371b8b59be2fc6",
+      "text_file": ".local-library/text/omt-web/017-simple-meter-and-time-signatures.txt",
+      "reading_status": "expository_text_and_captions_read",
+      "scope": "正文文字与图例说明已实际阅读；不含所有书目研究、音视频、交互完成或演奏验收。",
+      "finding": "单拍子、拍单位、细分与记谱分组；不能将强弱拍等同于一律重敲。",
+      "media_verified": false
+    },
+    {
+      "source_id": "S3",
+      "chapter_index": 18,
+      "title": "Compound Meter and Time Signatures",
+      "url": "https://viva.pressbooks.pub/openmusictheory/chapter/compound-meters-and-time-signatures/",
+      "snapshot_sha256": "845517fcf1d691eded2bff9f5ba6cc9b9c6d258e918519423935f186e969b6b6",
+      "text_file": ".local-library/text/omt-web/018-compound-meters-and-time-signatures.txt",
+      "reading_status": "expository_text_and_captions_read",
+      "scope": "正文文字与图例说明已实际阅读；不含所有书目研究、音视频、交互完成或演奏验收。",
+      "finding": "复拍子的拍内三分；6/8 常作两大拍，不把上方数字一律当大拍数。",
+      "media_verified": false
+    },
+    {
+      "source_id": "S3",
+      "chapter_index": 19,
+      "title": "Other Rhythmic Essentials",
+      "url": "https://viva.pressbooks.pub/openmusictheory/chapter/other-rhythmic-essentials/",
+      "snapshot_sha256": "e91b8aa81e76a96fc5c9bb5a296cc6932348d39b0fc25dc3b7fdf0d87d5e3746",
+      "text_file": ".local-library/text/omt-web/019-other-rhythmic-essentials.txt",
+      "reading_status": "expository_text_and_captions_read",
+      "scope": "正文文字与图例说明已实际阅读；不含所有书目研究、音视频、交互完成或演奏验收。",
+      "finding": "三连音、二连音、切分与超小节；切分可由休止、延音、力度形成。",
+      "media_verified": false
+    },
+    {
+      "source_id": "S3",
+      "chapter_index": 20,
+      "title": "Major Scales, Scale Degrees, and Key Signatures",
+      "url": "https://viva.pressbooks.pub/openmusictheory/chapter/major-scales/",
+      "snapshot_sha256": "a5726bb2610497349cceffcb37cb2c348983fd7a3840045a44cc389a0332627e",
+      "text_file": ".local-library/text/omt-web/020-major-scales.txt",
+      "reading_status": "expository_text_and_captions_read",
+      "scope": "正文文字与图例说明已实际阅读；不含所有书目研究、音视频、交互完成或演奏验收。",
+      "finding": "大调音阶、音级、调号与五度圈；移调保留关系。",
+      "media_verified": false
+    },
+    {
+      "source_id": "S3",
+      "chapter_index": 21,
+      "title": "Minor Scales, Scale Degrees, and Key Signatures",
+      "url": "https://viva.pressbooks.pub/openmusictheory/chapter/minor-scales/",
+      "snapshot_sha256": "3f59a60b38dbedc8364ef6dcbeab5085d593601835c2d9a946d7cbe95f7e4ada",
+      "text_file": ".local-library/text/omt-web/021-minor-scales.txt",
+      "reading_status": "expository_text_and_captions_read",
+      "scope": "正文文字与图例说明已实际阅读；不含所有书目研究、音视频、交互完成或演奏验收。",
+      "finding": "三类小调音阶、同主音与关系调；小调实践不等于永远只用自然小调。",
+      "media_verified": false
+    },
+    {
+      "source_id": "S3",
+      "chapter_index": 22,
+      "title": "Introduction to Diatonic Modes and the Chromatic Scale",
+      "url": "https://viva.pressbooks.pub/openmusictheory/chapter/intro-to-diatonic-modes-and-the-chromatic-scale/",
+      "snapshot_sha256": "52dc060c5b7f26c270cdb1d3beaa4e49aead337f30635a66361871a108339b48",
+      "text_file": ".local-library/text/omt-web/022-intro-to-diatonic-modes-and-the-chromatic-scale.txt",
+      "reading_status": "expository_text_and_captions_read",
+      "scope": "正文文字与图例说明已实际阅读；不含所有书目研究、音视频、交互完成或演奏验收。",
+      "finding": "以同主音比较调式、五声音列与半音阶；保留色彩与语境。",
+      "media_verified": false
+    },
+    {
+      "source_id": "S3",
+      "chapter_index": 24,
+      "title": "Intervals",
+      "url": "https://viva.pressbooks.pub/openmusictheory/chapter/intervals/",
+      "snapshot_sha256": "c9d55804ca626fe754478f3ab0b1ed23d47894f8973542f51ba4257b0adba3cc",
+      "text_file": ".local-library/text/omt-web/024-intervals.txt",
+      "reading_status": "expository_text_and_captions_read",
+      "scope": "正文文字与图例说明已实际阅读；不含所有书目研究、音视频、交互完成或演奏验收。",
+      "finding": "音程度数与性质要分开；等音、复音程与转位不同。",
+      "media_verified": false
+    },
+    {
+      "source_id": "S3",
+      "chapter_index": 25,
+      "title": "Triads",
+      "url": "https://viva.pressbooks.pub/openmusictheory/chapter/triads/",
+      "snapshot_sha256": "1db1e2aefdbbf00468609e1aff6cd3dc9ab5cabe93520f5d41b02d27ba55a9ca",
+      "text_file": ".local-library/text/omt-web/025-triads.txt",
+      "reading_status": "expository_text_and_captions_read",
+      "scope": "正文文字与图例说明已实际阅读；不含所有书目研究、音视频、交互完成或演奏验收。",
+      "finding": "三和弦按三度重排识别；重复、开放排列不改变根音和性质。",
+      "media_verified": false
+    },
+    {
+      "source_id": "S3",
+      "chapter_index": 26,
+      "title": "Seventh Chords",
+      "url": "https://viva.pressbooks.pub/openmusictheory/chapter/seventh-chords/",
+      "snapshot_sha256": "03faab27bc524d295302bf09c5287e68d58420d35104db6e363a2cc0041631db",
+      "text_file": ".local-library/text/omt-web/026-seventh-chords.txt",
+      "reading_status": "expository_text_and_captions_read",
+      "scope": "正文文字与图例说明已实际阅读；不含所有书目研究、音视频、交互完成或演奏验收。",
+      "finding": "七和弦由三和弦性质及七度性质共同决定；半减与减七分开。",
+      "media_verified": false
+    },
+    {
+      "source_id": "S3",
+      "chapter_index": 27,
+      "title": "Inversion",
+      "url": "https://viva.pressbooks.pub/openmusictheory/chapter/inversion/",
+      "snapshot_sha256": "be2148b12ad66aa937ae2a5c7facd5724a2266426222308353f072cff193fb7a",
+      "text_file": ".local-library/text/omt-web/027-inversion.txt",
+      "reading_status": "expository_text_and_captions_read",
+      "scope": "正文文字与图例说明已实际阅读；不含所有书目研究、音视频、交互完成或演奏验收。",
+      "finding": "整体最低音决定转位；A♭mi/C 标签和 C♭ 步骤矛盾已登记。",
+      "media_verified": false
+    },
+    {
+      "source_id": "S3",
+      "chapter_index": 28,
+      "title": "Roman Numerals",
+      "url": "https://viva.pressbooks.pub/openmusictheory/chapter/roman-numerals/",
+      "snapshot_sha256": "437882ecae780f89e43348eee6c15234d7dce702a5e537f04ed2da64bd33aec3",
+      "text_file": ".local-library/text/omt-web/028-roman-numerals.txt",
+      "reading_status": "expository_text_and_captions_read",
+      "scope": "正文文字与图例说明已实际阅读；不含所有书目研究、音视频、交互完成或演奏验收。",
+      "finding": "罗马数字依调性/根音；排列、配器和节奏不由级数标签充分表达。",
+      "media_verified": false
+    },
+    {
+      "source_id": "S3",
+      "chapter_index": 44,
+      "title": "Introduction to Harmony, Cadences, and Phrase Endings",
+      "url": "https://viva.pressbooks.pub/openmusictheory/chapter/intro-to-harmony/",
+      "snapshot_sha256": "747035fb6785e96bf546d3c5ca7d1b9da8d27b9b081ca0de0b4c77240f8933da",
+      "text_file": ".local-library/text/omt-web/044-intro-to-harmony.txt",
+      "reading_status": "expository_text_and_captions_read",
+      "scope": "正文文字与图例说明已实际阅读；不含所有书目研究、音视频、交互完成或演奏验收。",
+      "finding": "古典功能和乐句终止框架；需限定风格，不作为所有 pop 的强制句法。",
+      "media_verified": false
+    },
+    {
+      "source_id": "S3",
+      "chapter_index": 45,
+      "title": "Strengthening Endings with V⁷",
+      "url": "https://viva.pressbooks.pub/openmusictheory/chapter/strengthening-endings-with-v7/",
+      "snapshot_sha256": "1ca8580d3b7289bf23ed6fd3b6118fbe77ef71cbb7310df80c7049facbd25159",
+      "text_file": ".local-library/text/omt-web/045-strengthening-endings-with-v7.txt",
+      "reading_status": "expository_text_and_captions_read",
+      "scope": "正文文字与图例说明已实际阅读；不含所有书目研究、音视频、交互完成或演奏验收。",
+      "finding": "V7 的倾向音与不完整解决；属于四声部教学语境。",
+      "media_verified": false
+    },
+    {
+      "source_id": "S3",
+      "chapter_index": 47,
+      "title": "Embellishing Tones",
+      "url": "https://viva.pressbooks.pub/openmusictheory/chapter/embellishing-tones/",
+      "snapshot_sha256": "0ef244d755d771faab38e02b7358a4f2ae1f61cd4d157348a387576dcb508bf6",
+      "text_file": ".local-library/text/omt-web/047-embellishing-tones.txt",
+      "reading_status": "expository_text_and_captions_read",
+      "scope": "正文文字与图例说明已实际阅读；不含所有书目研究、音视频、交互完成或演奏验收。",
+      "finding": "经过、辅助、倚音、逃音、挂留、先现、持续音；用于解释旋律与和弦关系。",
+      "media_verified": false
+    },
+    {
+      "source_id": "S3",
+      "chapter_index": 58,
+      "title": "Tonicization",
+      "url": "https://viva.pressbooks.pub/openmusictheory/chapter/tonicization/",
+      "snapshot_sha256": "c8745919f5af6840f7ff2aa7d0f92ba7cc4e5aba6a3aef13199a4ca721cfdd92",
+      "text_file": ".local-library/text/omt-web/058-tonicization.txt",
+      "reading_status": "expository_text_and_captions_read",
+      "scope": "正文文字与图例说明已实际阅读；不含所有书目研究、音视频、交互完成或演奏验收。",
+      "finding": "副属与主音化；先找目标和弦，再推导临时属和弦。",
+      "media_verified": false
+    },
+    {
+      "source_id": "S3",
+      "chapter_index": 72,
+      "title": "Modal Mixture",
+      "url": "https://viva.pressbooks.pub/openmusictheory/chapter/modal-mixture/",
+      "snapshot_sha256": "a68893c4d26bc1e7272fe04d95465e2d1ec5f2b4ffa0af8f4c42462770345147",
+      "text_file": ".local-library/text/omt-web/072-modal-mixture.txt",
+      "reading_status": "expository_text_and_captions_read",
+      "scope": "正文文字与图例说明已实际阅读；不含所有书目研究、音视频、交互完成或演奏验收。",
+      "finding": "借自同主音调式；区别根音变化前置记号与和弦性质。",
+      "media_verified": false
+    },
+    {
+      "source_id": "S3",
+      "chapter_index": 85,
+      "title": "Swing Rhythms",
+      "url": "https://viva.pressbooks.pub/openmusictheory/chapter/swing-rhythms/",
+      "snapshot_sha256": "b2824ac1814e8e2ff46a4572d1ad6361b0ecc0afbb5f3b5d11a55061fa30f144",
+      "text_file": ".local-library/text/omt-web/085-swing-rhythms.txt",
+      "reading_status": "expository_text_and_captions_read",
+      "scope": "正文文字与图例说明已实际阅读；不含所有书目研究、音视频、交互完成或演奏验收。",
+      "finding": "Swing 比例会随风格/速度变化；2:1 是教学近似。",
+      "media_verified": false
+    },
+    {
+      "source_id": "S3",
+      "chapter_index": 86,
+      "title": "Chord Symbols",
+      "url": "https://viva.pressbooks.pub/openmusictheory/chapter/chord-symbols/",
+      "snapshot_sha256": "e647ed5f130d0b1ee0616c57fd7c421d3d7a5e51b807f9ed1e847fccd095dd0a",
+      "text_file": ".local-library/text/omt-web/086-chord-symbols.txt",
+      "reading_status": "expository_text_and_captions_read",
+      "scope": "正文文字与图例说明已实际阅读；不含所有书目研究、音视频、交互完成或演奏验收。",
+      "finding": "和弦符号是演奏标签；add、sus、扩展及非和弦低音要分开。",
+      "media_verified": false
+    },
+    {
+      "source_id": "S3",
+      "chapter_index": 87,
+      "title": "Jazz Voicings",
+      "url": "https://viva.pressbooks.pub/openmusictheory/chapter/jazz-voicings/",
+      "snapshot_sha256": "12a7664eabf54c027a6fb1c84c0ffca005d0937338d4f89cdfbefe98eefbfd2a",
+      "text_file": ".local-library/text/omt-web/087-jazz-voicings.txt",
+      "reading_status": "expository_text_and_captions_read",
+      "scope": "正文文字与图例说明已实际阅读；不含所有书目研究、音视频、交互完成或演奏验收。",
+      "finding": "低音区疏、上方相对密；共同音与小幅移动；省略音依编制与风格。",
+      "media_verified": false
+    },
+    {
+      "source_id": "S3",
+      "chapter_index": 88,
+      "title": "ii–V–I",
+      "url": "https://viva.pressbooks.pub/openmusictheory/chapter/ii-v-i/",
+      "snapshot_sha256": "71dfafcac82e7224271f730fe9088e438d6f6dfd736ad3189a27699894516737",
+      "text_file": ".local-library/text/omt-web/088-ii-v-i.txt",
+      "reading_status": "expository_text_and_captions_read",
+      "scope": "正文文字与图例说明已实际阅读；不含所有书目研究、音视频、交互完成或演奏验收。",
+      "finding": "ii–V–I 可作为可变的 schema；包含副 ii–V 和 turnaround。",
+      "media_verified": false
+    },
+    {
+      "source_id": "S3",
+      "chapter_index": 91,
+      "title": "Chord-Scale Theory",
+      "url": "https://viva.pressbooks.pub/openmusictheory/chapter/chord-scale-theory/",
+      "snapshot_sha256": "4b907ce43fde4633d93c4ac147af19cf44ae98c1ce989cc661c57dfdd7df5060",
+      "text_file": ".local-library/text/omt-web/091-chord-scale-theory.txt",
+      "reading_status": "expository_text_and_captions_read",
+      "scope": "正文文字与图例说明已实际阅读；不含所有书目研究、音视频、交互完成或演奏验收。",
+      "finding": "和弦—音阶是即兴选择框架；同性质有多种音阶，且本章明确其局限。",
+      "media_verified": false
+    },
+    {
+      "source_id": "S3",
+      "chapter_index": 92,
+      "title": "Blues Harmony",
+      "url": "https://viva.pressbooks.pub/openmusictheory/chapter/blues-harmony/",
+      "snapshot_sha256": "faa2ee0d97bcfff5990a64316c5664137241baaefc3fa3f53bdc4fce5da75386",
+      "text_file": ".local-library/text/omt-web/092-blues-harmony.txt",
+      "reading_status": "expository_text_and_captions_read",
+      "scope": "正文文字与图例说明已实际阅读；不含所有书目研究、音视频、交互完成或演奏验收。",
+      "finding": "Blues 的属七性质可以承担 I/IV/V 功能，不能把性质等同于功能。",
+      "media_verified": false
+    },
+    {
+      "source_id": "S3",
+      "chapter_index": 93,
+      "title": "Blues Melodies and the Blues Scale",
+      "url": "https://viva.pressbooks.pub/openmusictheory/chapter/blues-melodies-and-the-blues-scale/",
+      "snapshot_sha256": "c8ccd95489b14a746016096033382654b33a5659a3ed3b4227f412601d58cdb9",
+      "text_file": ".local-library/text/omt-web/093-blues-melodies-and-the-blues-scale.txt",
+      "reading_status": "expository_text_and_captions_read",
+      "scope": "正文文字与图例说明已实际阅读；不含所有书目研究、音视频、交互完成或演奏验收。",
+      "finding": "问答与留白、大小 blues scale、blue notes；键盘固定音高只是近似。",
+      "media_verified": false
+    },
+    {
+      "source_id": "S3",
+      "chapter_index": 94,
+      "title": "Rhythm and Meter in Pop Music",
+      "url": "https://viva.pressbooks.pub/openmusictheory/chapter/rhythm-and-meter-in-pop-music/",
+      "snapshot_sha256": "616d28db3072e2d28b172f36d5024a7d0dfddcc3fb60fcc5f32bd52ebaccb5ca",
+      "text_file": ".local-library/text/omt-web/094-rhythm-and-meter-in-pop-music.txt",
+      "reading_status": "expository_text_and_captions_read",
+      "scope": "正文文字与图例说明已实际阅读；不含所有书目研究、音视频、交互完成或演奏验收。",
+      "finding": "规则切分移位与 tresillo 分组不同；3+3+2 不等于三连音。",
+      "media_verified": false
+    },
+    {
+      "source_id": "S3",
+      "chapter_index": 95,
+      "title": "Drumbeats",
+      "url": "https://viva.pressbooks.pub/openmusictheory/chapter/drumbeats/",
+      "snapshot_sha256": "23061942c2b4de52093d5ec186171727ba7c54d6121f3962e3f3c61fed3e884b",
+      "text_file": ".local-library/text/omt-web/095-drumbeats.txt",
+      "reading_status": "expository_text_and_captions_read",
+      "scope": "正文文字与图例说明已实际阅读；不含所有书目研究、音视频、交互完成或演奏验收。",
+      "finding": "鼓组记谱、backbeat、half/double time、kick/cymbal 分层；为合奏配合服务。",
+      "media_verified": false
+    },
+    {
+      "source_id": "S3",
+      "chapter_index": 96,
+      "title": "Melody and Phrasing",
+      "url": "https://viva.pressbooks.pub/openmusictheory/chapter/melody-and-phrasing/",
+      "snapshot_sha256": "bba1ce1e236b91dad06b4e7a14624c5d42ac2eac873e797936dad7d0e4f61fff",
+      "text_file": ".local-library/text/omt-web/096-melody-and-phrasing.txt",
+      "reading_status": "expository_text_and_captions_read",
+      "scope": "正文文字与图例说明已实际阅读；不含所有书目研究、音视频、交互完成或演奏验收。",
+      "finding": "乐句重复/回应/离开/结尾；不是只增加音符数量。",
+      "media_verified": false
+    },
+    {
+      "source_id": "S3",
+      "chapter_index": 97,
+      "title": "Introduction to Form in Popular Music",
+      "url": "https://viva.pressbooks.pub/openmusictheory/chapter/intro-to-form-in-popular-music/",
+      "snapshot_sha256": "d0eeda51fb3878a59319bc48f85bc174ffa3c527db16451ff81a9a902cc6aa10",
+      "text_file": ".local-library/text/omt-web/097-intro-to-form-in-popular-music.txt",
+      "reading_status": "expository_text_and_captions_read",
+      "scope": "正文文字与图例说明已实际阅读；不含所有书目研究、音视频、交互完成或演奏验收。",
+      "finding": "核心/辅助段落、歌词与音乐变化、开闭性；结构边界有多类证据。",
+      "media_verified": false
+    },
+    {
+      "source_id": "S3",
+      "chapter_index": 98,
+      "title": "AABA Form and Strophic Form",
+      "url": "https://viva.pressbooks.pub/openmusictheory/chapter/aaba-and-strophic-form/",
+      "snapshot_sha256": "a097b12e9485dca17e863cc2c75907f35e62c29c012cd9a5751397742e9c24ee",
+      "text_file": ".local-library/text/omt-web/098-aaba-and-strophic-form.txt",
+      "reading_status": "expository_text_and_captions_read",
+      "scope": "正文文字与图例说明已实际阅读；不含所有书目研究、音视频、交互完成或演奏验收。",
+      "finding": "Strophic 与 AABA；refrain 是段内材料，不能与完整 chorus 混同。",
+      "media_verified": false
+    },
+    {
+      "source_id": "S3",
+      "chapter_index": 99,
+      "title": "Verse-Chorus Form",
+      "url": "https://viva.pressbooks.pub/openmusictheory/chapter/verse-chorus-form/",
+      "snapshot_sha256": "4e77c28b2f63fe30af66c4015d9cc19946ae89ca1846f4323070a7066f64165e",
+      "text_file": ".local-library/text/omt-web/099-verse-chorus-form.txt",
+      "reading_status": "expository_text_and_captions_read",
+      "scope": "正文文字与图例说明已实际阅读；不含所有书目研究、音视频、交互完成或演奏验收。",
+      "finding": "Verse、prechorus、chorus、postchorus、bridge 及循环组织。",
+      "media_verified": false
+    },
+    {
+      "source_id": "S3",
+      "chapter_index": 100,
+      "title": "Texture in Pop Music",
+      "url": "https://viva.pressbooks.pub/openmusictheory/chapter/texture-in-pop-music/",
+      "snapshot_sha256": "79aba7212f3edc3f2f8e28dcaf9db236faf0cdd2ecc00256d626a9c97fc6f9c0",
+      "text_file": ".local-library/text/omt-web/100-texture-in-pop-music.txt",
+      "reading_status": "expository_text_and_captions_read",
+      "scope": "正文文字与图例说明已实际阅读；不含所有书目研究、音视频、交互完成或演奏验收。",
+      "finding": "按节拍、低音、和声、旋律、novelty 功能层组织编配，乐器可换角色。",
+      "media_verified": false
+    },
+    {
+      "source_id": "S3",
+      "chapter_index": 101,
+      "title": "Introduction to Harmonic Schemas in Pop Music",
+      "url": "https://viva.pressbooks.pub/openmusictheory/chapter/intro-to-pop-schemas/",
+      "snapshot_sha256": "bbafebcd954ac8e9c20ae57fdcf243b8a157714539b4267cf633b73e6bb04862",
+      "text_file": ".local-library/text/omt-web/101-intro-to-pop-schemas.txt",
+      "reading_status": "expository_text_and_captions_read",
+      "scope": "正文文字与图例说明已实际阅读；不含所有书目研究、音视频、交互完成或演奏验收。",
+      "finding": "常用和声 schema 的总览及变体；不是唯一和弦进行词典。",
+      "media_verified": false
+    },
+    {
+      "source_id": "S3",
+      "chapter_index": 102,
+      "title": "Blues-Based Schemas",
+      "url": "https://viva.pressbooks.pub/openmusictheory/chapter/blues-based-schemas/",
+      "snapshot_sha256": "bdf58d91e0a651a9df40887d618b16ddc0cfd2a3438eab22316554c3bf04b9b2",
+      "text_file": ".local-library/text/omt-web/102-blues-based-schemas.txt",
+      "reading_status": "expository_text_and_captions_read",
+      "scope": "正文文字与图例说明已实际阅读；不含所有书目研究、音视频、交互完成或演奏验收。",
+      "finding": "I–IV、IV–iv–I、double/extended plagal；下属方向可形成流行推进。",
+      "media_verified": false
+    },
+    {
+      "source_id": "S3",
+      "chapter_index": 103,
+      "title": "Four-Chord Schemas",
+      "url": "https://viva.pressbooks.pub/openmusictheory/chapter/4-chord-schemas/",
+      "snapshot_sha256": "d2517910fd657ba579985c857e2fa251721e4c9484de1096169d5e7dbd5b2af7",
+      "text_file": ".local-library/text/omt-web/103-4-chord-schemas.txt",
+      "reading_status": "expository_text_and_captions_read",
+      "scope": "正文文字与图例说明已实际阅读；不含所有书目研究、音视频、交互完成或演奏验收。",
+      "finding": "Doo-wop、singer/songwriter、hopscotch 的顺序/旋转与调性歧义。",
+      "media_verified": false
+    },
+    {
+      "source_id": "S3",
+      "chapter_index": 104,
+      "title": "Classical Schemas (in a Pop Context)",
+      "url": "https://viva.pressbooks.pub/openmusictheory/chapter/classical-schemas/",
+      "snapshot_sha256": "5d28d3cc94c9d136423ce50eb2ea765bb32a0dab18eb2e7baaebc685a39e3efb",
+      "text_file": ".local-library/text/omt-web/104-classical-schemas.txt",
+      "reading_status": "expository_text_and_captions_read",
+      "scope": "正文文字与图例说明已实际阅读；不含所有书目研究、音视频、交互完成或演奏验收。",
+      "finding": "Lament 与五度链；低音、根音与分析标签可能并非一一对应。",
+      "media_verified": false
+    },
+    {
+      "source_id": "S3",
+      "chapter_index": 105,
+      "title": "Puff Schemas",
+      "url": "https://viva.pressbooks.pub/openmusictheory/chapter/puff-schemas/",
+      "snapshot_sha256": "48638263edb8bc46ddc2b7caa2b4352dfef87d1e44bfb0f502a9fe83a3cb3be4",
+      "text_file": ".local-library/text/omt-web/105-puff-schemas.txt",
+      "reading_status": "expository_text_and_captions_read",
+      "scope": "正文文字与图例说明已实际阅读；不含所有书目研究、音视频、交互完成或演奏验收。",
+      "finding": "I–iii–IV 与大 III 变体；副属与欺骗式走向取决于前后文。",
+      "media_verified": false
+    },
+    {
+      "source_id": "S3",
+      "chapter_index": 106,
+      "title": "Modal Schemas",
+      "url": "https://viva.pressbooks.pub/openmusictheory/chapter/modal-schemas/",
+      "snapshot_sha256": "633fe40c1000f6c178fe9a415a85732d8d2fd3cf9ce9436b261e54e6d5782cda",
+      "text_file": ".local-library/text/omt-web/106-modal-schemas.txt",
+      "reading_status": "expository_text_and_captions_read",
+      "scope": "正文文字与图例说明已实际阅读；不含所有书目研究、音视频、交互完成或演奏验收。",
+      "finding": "Mixolydian/Aeolian/Dorian/Lydian 色彩与和声模式；不能只凭音集决定主音。",
+      "media_verified": false
+    },
+    {
+      "source_id": "S3",
+      "chapter_index": 107,
+      "title": "Pentatonic Harmony",
+      "url": "https://viva.pressbooks.pub/openmusictheory/chapter/pentatonic-harmony/",
+      "snapshot_sha256": "3f0af2cd0ce8c58aedfab016036a43ac01a855d198d3f7490fd050a748e9cddc",
+      "text_file": ".local-library/text/omt-web/107-pentatonic-harmony.txt",
+      "reading_status": "expository_text_and_captions_read",
+      "scope": "正文文字与图例说明已实际阅读；不含所有书目研究、音视频、交互完成或演奏验收。",
+      "finding": "五声根音进行不要求全曲只用五音；根音集合与整体和声音集分开。",
+      "media_verified": false
+    },
+    {
+      "source_id": "S3",
+      "chapter_index": 108,
+      "title": "Fragile, Absent, and Emergent Tonics",
+      "url": "https://viva.pressbooks.pub/openmusictheory/chapter/fragile-absent-and-emergent-tonics/",
+      "snapshot_sha256": "29230feb9ee49ebb97f27e4c516f3e6a7d7dd1c912d5343cd1033a2c083dd2ae",
+      "text_file": ".local-library/text/omt-web/108-fragile-absent-and-emergent-tonics.txt",
+      "reading_status": "expository_text_and_captions_read",
+      "scope": "正文文字与图例说明已实际阅读；不含所有书目研究、音视频、交互完成或演奏验收。",
+      "finding": "主音可以脆弱、延后出现或和声缺席；提供多种可论证分析。",
+      "media_verified": false
+    },
+    {
+      "source_id": "S3",
+      "chapter_index": 143,
+      "title": "The Basics of Sight-Singing and Dictation",
+      "url": "https://viva.pressbooks.pub/openmusictheory/chapter/the-basics-of-sight-singing-and-dictation/",
+      "snapshot_sha256": "424c85cb890e9d9ecdac264d854e438beb5e20a5374cb5dc5786548aa42a8a03",
+      "text_file": ".local-library/text/omt-web/143-the-basics-of-sight-singing-and-dictation.txt",
+      "reading_status": "expository_text_and_captions_read",
+      "scope": "正文文字与图例说明已实际阅读；不含所有书目研究、音视频、交互完成或演奏验收。",
+      "finding": "视唱、数拍、听写、dot grid 与 protonotation；节奏和音高可拆分训练。",
+      "media_verified": false
+    }
+  ],
+  "not_claimed": [
+    "OMT2 full-book reading",
+    "all worksheets read",
+    "all figures reviewed",
+    "audio/video listened",
+    "instrument performance verified",
+    "all third-party repository code audited"
+  ],
+  "omt_visual_inspections": [
+    {
+      "chapter_index": 27,
+      "asset": ".local-library/omt-assets/f91acebf6c2d-Ab-Minor-Triad-in-Inversion.png",
+      "scope": "A-flat minor triad construction/inversion figure; not all figures in chapter"
+    }
+  ],
+  "pulse_reading": {
+    "lesson_plans": [
+      {
+        "file": ".local-library/raw/pulse-2.pdf",
+        "scope": "all_extractable_text",
+        "status": "read"
+      },
+      {
+        "file": ".local-library/raw/pulse-3.pdf",
+        "scope": "all_extractable_text",
+        "status": "read"
+      },
+      {
+        "file": ".local-library/raw/pulse-4.pdf",
+        "scope": "all_extractable_text",
+        "status": "read"
+      },
+      {
+        "file": ".local-library/raw/pulse-5.pdf",
+        "scope": "all_extractable_text",
+        "status": "read"
+      },
+      {
+        "file": ".local-library/raw/pulse-6.pdf",
+        "scope": "all_extractable_text",
+        "status": "read"
+      }
+    ],
+    "transcripts": [
+      {
+        "file": ".local-library/raw/pulse-extra-01.pdf",
+        "scope": "all_extractable_text",
+        "status": "read"
+      },
+      {
+        "file": ".local-library/raw/pulse-extra-04.pdf",
+        "scope": "all_extractable_text",
+        "status": "read"
+      },
+      {
+        "file": ".local-library/raw/pulse-extra-06.pdf",
+        "scope": "all_extractable_text",
+        "status": "read"
+      },
+      {
+        "file": ".local-library/raw/pulse-extra-09.pdf",
+        "scope": "all_extractable_text",
+        "status": "read"
+      },
+      {
+        "file": ".local-library/raw/pulse-extra-11.pdf",
+        "scope": "all_extractable_text",
+        "status": "read"
+      }
+    ],
+    "other_text_read": [
+      "pulse-extra-03.pdf",
+      "pulse-extra-05.pdf",
+      "pulse-extra-08.pdf",
+      "pulse-extra-10.pdf",
+      "pulse-extra-12.pdf"
+    ],
+    "standards_pdf": "pulse-1.pdf: introductory pp. 1–3 read; remainder not fully read",
+    "videos": "not watched or listened"
+  }
+}

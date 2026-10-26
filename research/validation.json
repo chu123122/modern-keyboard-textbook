@@ -1,0 +1,29 @@
+{
+  "date": "2026-10-26",
+  "scope": "file integrity, parseability and reading-copy presence; no audio, playing, pedagogy or full semantic verification",
+  "verified_unique_files": 606,
+  "pdf_files": 23,
+  "pdf_pages": 2135,
+  "github_archives": 3,
+  "omt_reading_entries": 45,
+  "known_acquisition_failures": [
+    {
+      "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2025/08/WK-half-and-whole-steps-in-staff-notation.mscz",
+      "error": "404 Client Error: Not Found for url: https://viva.pressbooks.pub/app/uploads/sites/12/2025/08/WK-half-and-whole-steps-in-staff-notation.mscz"
+    },
+    {
+      "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2025/08/WK-enharmonic-equivalence.pdf",
+      "error": "404 Client Error: Not Found for url: https://viva.pressbooks.pub/app/uploads/sites/12/2025/08/WK-enharmonic-equivalence.pdf"
+    },
+    {
+      "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2025/08/WK-diatonic-modes-A-TB.mscz",
+      "error": "404 Client Error: Not Found for url: https://viva.pressbooks.pub/app/uploads/sites/12/2025/08/WK-diatonic-modes-A-TB.mscz"
+    },
+    {
+      "url": "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/WK-Applied-Chords-A.mscx",
+      "error": "404 Client Error: Not Found for url: https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/WK-Applied-Chords-A.mscx"
+    }
+  ],
+  "integrity_errors": [],
+  "integrity_status": "passed"
+}

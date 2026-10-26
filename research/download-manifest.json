@@ -1,0 +1,146 @@
+[
+  {
+    "id": "S1",
+    "url": "https://assets.online.berklee.edu/handbooks/berklee-online-music-theory-harmony-and-ear-training-handbook.pdf",
+    "file": ".local-library/raw/berklee-theory.pdf",
+    "retrieved_at": "2026-10-26T13:33:15.470016+00:00",
+    "status": 200,
+    "final_url": "https://assets.online.berklee.edu/handbooks/berklee-online-music-theory-harmony-and-ear-training-handbook.pdf",
+    "content_type": "application/pdf",
+    "bytes": 19347141,
+    "sha256": "6b773ccd4c757cccff553b38bed99284c9ed076c4471473c2591186531a3da6c"
+  },
+  {
+    "id": "S2",
+    "url": "https://assets.online.berklee.edu/handbooks/berklee-online-piano-handbook.pdf",
+    "file": ".local-library/raw/berklee-piano.pdf",
+    "retrieved_at": "2026-10-26T13:33:15.470576+00:00",
+    "status": 200,
+    "final_url": "https://assets.online.berklee.edu/handbooks/berklee-online-piano-handbook.pdf",
+    "content_type": "application/pdf",
+    "bytes": 24784740,
+    "sha256": "866a921ad9bcb8fe0341f466d0b757a55589ca1f69ba0ed1d7fb5db9df46bdec"
+  },
+  {
+    "id": "S4",
+    "url": "https://assets.online.berklee.edu/handbooks/berklee-online-electronic-music-production-and-sound-design-handbook.pdf",
+    "file": ".local-library/raw/berklee-sound-design.pdf",
+    "retrieved_at": "2026-10-26T13:33:15.471115+00:00",
+    "status": 200,
+    "final_url": "https://assets.online.berklee.edu/handbooks/berklee-online-electronic-music-production-and-sound-design-handbook.pdf",
+    "content_type": "application/pdf",
+    "bytes": 20174859,
+    "sha256": "a4444849d8425517ca7096bd93a35f0b59509608e0fdbb0da89bacea48d82cc9"
+  },
+  {
+    "id": "S3",
+    "url": "https://viva.pressbooks.pub/openmusictheory/",
+    "file": ".local-library/raw/omt2-viva.html",
+    "retrieved_at": "2026-10-26T13:33:15.471440+00:00",
+    "status": 200,
+    "final_url": "https://viva.pressbooks.pub/openmusictheory/",
+    "content_type": "text/html; charset=UTF-8",
+    "bytes": 208798,
+    "sha256": "7984fc21c1170e7e0e571ab911632959c5a43dd9ac748c1bb2f175e106b2cddc"
+  },
+  {
+    "id": "S3-MIRROR",
+    "url": "https://pressbooks.nebraska.edu/openmusictheory/",
+    "file": ".local-library/raw/omt2-nebraska.html",
+    "retrieved_at": "2026-10-26T13:33:18.429491+00:00",
+    "status": 200,
+    "final_url": "https://pressbooks.nebraska.edu/openmusictheory/",
+    "content_type": "text/html; charset=UTF-8",
+    "bytes": 110084,
+    "sha256": "744168a70ed4baefd14253ad3751e0be62bf08add0a552b5df87c8193c4250a3"
+  },
+  {
+    "id": "S3-CATALOG",
+    "url": "https://open.umn.edu/opentextbooks/textbooks/1254",
+    "file": ".local-library/raw/omt2-catalog.html",
+    "retrieved_at": "2026-10-26T13:33:22.465623+00:00",
+    "status": 200,
+    "final_url": "https://open.umn.edu/opentextbooks/textbooks/1254",
+    "content_type": "application/atom+xml; charset=utf-8",
+    "bytes": 1135,
+    "sha256": "87f1169620810b8101381b91bb73255585d14ebb356494254d271c6109fd371e",
+    "validation": "HTTP 200 returned Atom XML, not the textbook catalog page; not used as evidence."
+  },
+  {
+    "id": "S5",
+    "url": "https://pulse.berklee.edu/casio?id=5&lang=en",
+    "file": ".local-library/raw/pulse-practice.html",
+    "retrieved_at": "2026-10-26T13:33:24.643680+00:00",
+    "status": 200,
+    "final_url": "https://pulse.berklee.edu/casio?id=5&lang=en",
+    "content_type": "text/html; charset=UTF-8",
+    "bytes": 18171,
+    "sha256": "ad1ae9bbce6102f19d75766bcfc654a50f86813ad8c74be088f2d5dbe0419503"
+  },
+  {
+    "id": "HUB",
+    "url": "https://online.berklee.edu/handbooks",
+    "file": ".local-library/raw/berklee-handbooks.html",
+    "retrieved_at": "2026-10-26T13:33:24.766792+00:00",
+    "status": 200,
+    "final_url": "https://online.berklee.edu/handbooks",
+    "content_type": "text/html; charset=utf-8",
+    "bytes": 200189,
+    "sha256": "48913c61d22643c777618eb61b94f8ed8f4fd866a1c1a8aa6b51a9b1ef77841d"
+  },
+  {
+    "id": "C1",
+    "url": "https://online.berklee.edu/courses/piano-chords-101",
+    "file": ".local-library/raw/piano-chords-101.html",
+    "retrieved_at": "2026-10-26T13:33:28.226124+00:00",
+    "status": 200,
+    "final_url": "https://online.berklee.edu/courses/piano-chords-101",
+    "content_type": "text/html; charset=utf-8",
+    "bytes": 218365,
+    "sha256": "013475f7ced1a28e36aeac9103d532117262c642f59356cea838ed00fe534443"
+  },
+  {
+    "id": "C2",
+    "url": "https://online.berklee.edu/courses/pop-rock-keyboard",
+    "file": ".local-library/raw/pop-rock-keyboard.html",
+    "retrieved_at": "2026-10-26T13:33:29.677695+00:00",
+    "status": 200,
+    "final_url": "https://online.berklee.edu/courses/pop-rock-keyboard",
+    "content_type": "text/html; charset=utf-8",
+    "bytes": 223240,
+    "sha256": "161343e24893b4b4bf80b9c012517ebf06cda124cc10446fa0b9de267ef28ac5"
+  },
+  {
+    "id": "C3",
+    "url": "https://online.berklee.edu/courses/berklee-keyboard-method",
+    "file": ".local-library/raw/berklee-keyboard-method.html",
+    "retrieved_at": "2026-10-26T13:33:30.206606+00:00",
+    "status": 200,
+    "final_url": "https://online.berklee.edu/courses/berklee-keyboard-method",
+    "content_type": "text/html; charset=utf-8",
+    "bytes": 235224,
+    "sha256": "1e54f4fd1af228e939d947fca170ddb1ec1027ce6afeb934e1e834138b0a2ab7"
+  },
+  {
+    "id": "C4",
+    "url": "https://online.berklee.edu/courses/arranging-1-rhythm-section",
+    "file": ".local-library/raw/arranging-1.html",
+    "retrieved_at": "2026-10-26T13:33:32.930219+00:00",
+    "status": 200,
+    "final_url": "https://online.berklee.edu/courses/arranging-1-rhythm-section",
+    "content_type": "text/html; charset=utf-8",
+    "bytes": 220741,
+    "sha256": "be35d737f1a6de60fe0b83fe03fbfa937b88aab3a750c55c2116ae1461628bac"
+  },
+  {
+    "id": "C5",
+    "url": "https://online.berklee.edu/courses/keyboards-for-live-performance-techniques-and-technology",
+    "file": ".local-library/raw/live-performance.html",
+    "retrieved_at": "2026-10-26T13:33:33.005818+00:00",
+    "status": 200,
+    "final_url": "https://online.berklee.edu/courses/keyboards-for-live-performance-techniques-and-technology",
+    "content_type": "text/html; charset=utf-8",
+    "bytes": 222599,
+    "sha256": "ed2aa664b18decb910eaa3b50824c75ef2c84dc5593ed1e40528b80d9d75dd81"
+  }
+]

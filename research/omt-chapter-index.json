@@ -1,0 +1,3902 @@
+[
+  {
+    "index": 1,
+    "title": "Glossary",
+    "slug": "glossary",
+    "url": "https://viva.pressbooks.pub/openmusictheory/back-matter/glossary/",
+    "kind": "back-matter",
+    "status": "publish",
+    "author": "meganlavengood",
+    "characters": 0,
+    "file": ".local-library/text/omt2/001-glossary.txt",
+    "images": [],
+    "media": [],
+    "headings": []
+  },
+  {
+    "index": 20,
+    "title": "Suggestions and Feedback",
+    "slug": "feedback",
+    "url": "https://viva.pressbooks.pub/openmusictheory/back-matter/feedback/",
+    "kind": "back-matter",
+    "status": "publish",
+    "author": "meganlavengood",
+    "characters": 67,
+    "file": ".local-library/text/omt2/020-feedback.txt",
+    "images": [],
+    "media": [
+      "https://docs.google.com/forms/d/e/1FAIpQLScaKzwYndPWtsV8y30LZ1wWssMjsBfxjDkUEfPPBfju86qWaw/viewform?embedded=true"
+    ],
+    "headings": []
+  },
+  {
+    "index": 21,
+    "title": "Adopting this text?",
+    "slug": "adopting-this-text",
+    "url": "https://viva.pressbooks.pub/openmusictheory/back-matter/adopting-this-text/",
+    "kind": "back-matter",
+    "status": "publish",
+    "author": "meganlavengood",
+    "characters": 144,
+    "file": ".local-library/text/omt2/021-adopting-this-text.txt",
+    "images": [],
+    "media": [
+      "https://docs.google.com/forms/d/e/1FAIpQLSfWUqxaUunqZQK5IcSe-UMxDUv2YFp4c-IJ8t_5_l7X-szTFA/viewform?embedded=true"
+    ],
+    "headings": []
+  },
+  {
+    "index": 22,
+    "title": "Notation of Notes, Clefs, and Ledger Lines",
+    "slug": "notation-of-notes-clefs-and-ledger-lines",
+    "url": "https://viva.pressbooks.pub/openmusictheory/chapter/notation-of-notes-clefs-and-ledger-lines/",
+    "kind": "chapter",
+    "status": "publish",
+    "author": "brynhughes",
+    "characters": 11589,
+    "file": ".local-library/text/omt2/022-notation-of-notes-clefs-and-ledger-lines.txt",
+    "images": [
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/noteillustration-1-300x132.png",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/Staff-300x111.png",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2022/07/Correct-Noteheads-300x58.jpg",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/Incorrect-Noteheads-300x58.jpeg",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2022/07/Stemming-Directions-300x46.jpg",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2022/07/Correct-Seconds-1-e1657554954232.jpg",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2022/07/Incorrect-Seconds-1-e1657554935562.jpg",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/clefs-300x100.png",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2019/11/DrawTrebleClef-300x69.png",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2019/11/DrawBassClef-300x63.png",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2019/11/DrawAltoClef-300x51.png",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2019/11/DrawTenorClef-300x53.png",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2022/07/K-Clefs-300x76.jpg",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/ledger-lines-for-chelsey_0006-300x248.png",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/LedgerLineswithNotes-300x59.png",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2019/12/ch2-ex13-ledger_lines-300x89.jpg"
+    ],
+    "media": [],
+    "headings": [
+      "Notation of Notes",
+      "Staff Notation",
+      "Placing Notes on a Staff",
+      "Stems and Beams",
+      "Drawing Seconds",
+      "Clefs",
+      "Drawing Clefs",
+      "Writing Ledger Lines"
+    ]
+  },
+  {
+    "index": 23,
+    "title": "American Standard Pitch Notation (ASPN)",
+    "slug": "aspn",
+    "url": "https://viva.pressbooks.pub/openmusictheory/chapter/aspn/",
+    "kind": "chapter",
+    "status": "publish",
+    "author": "brynhughes",
+    "characters": 5020,
+    "file": ".local-library/text/omt2/023-aspn.txt",
+    "images": [
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/Scientific_pitch_notation_octaves_of_C-300x183.png",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/Screen-Shot-2019-07-24-at-3.50.53-PM-300x71.png",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/1040px-Piano_Frequencies.svg_-300x58.png"
+    ],
+    "media": [
+      "https://musescore.com/user/32728834/scores/8395191/s/5sFqPN/embed"
+    ],
+    "headings": [
+      "American Standard Pitch Notation and Pitch versus Pitch Class",
+      "ASPN and Octave Designations",
+      "ASPN and the Keyboard",
+      "ASPN and Staff Notation"
+    ]
+  },
+  {
+    "index": 24,
+    "title": "Rhythmic and Rest Values",
+    "slug": "rhythmic-rest-values",
+    "url": "https://viva.pressbooks.pub/openmusictheory/chapter/rhythmic-rest-values/",
+    "kind": "chapter",
+    "status": "publish",
+    "author": "brynhughes",
+    "characters": 9201,
+    "file": ".local-library/text/omt2/024-rhythmic-rest-values.txt",
+    "images": [
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/noteillustration-1-300x132.png",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/durations-1-264x300.png",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2021/06/Example-3-Chapter-8-300x133.png",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/rests-1-264x300.png",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/Breve-Rest-300x139.png",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/dots-1-300x244.png"
+    ],
+    "media": [
+      "https://musescore.com/user/32728834/scores/6805289/s/Qwz0ek/embed"
+    ],
+    "headings": [
+      "Note Values",
+      "Rest Values",
+      "Dots and ties"
+    ]
+  },
+  {
+    "index": 25,
+    "title": "Other Rhythmic Essentials",
+    "slug": "other-rhythmic-essentials",
+    "url": "https://viva.pressbooks.pub/openmusictheory/chapter/other-rhythmic-essentials/",
+    "kind": "chapter",
+    "status": "publish",
+    "author": "brynhughes",
+    "characters": 4562,
+    "file": ".local-library/text/omt2/025-other-rhythmic-essentials.txt",
+    "images": [],
+    "media": [
+      "https://musescore.com/user/32728834/scores/8422541/embed",
+      "https://musescore.com/user/32728834/scores/8422571/embed",
+      "https://musescore.com/user/32728834/scores/8422604/embed",
+      "https://musescore.com/user/32728834/scores/6296167/embed"
+    ],
+    "headings": [
+      "Borrowed Divisions",
+      "Meter Beyond Measure (Hypermeter)",
+      "Syncopation"
+    ]
+  },
+  {
+    "index": 42,
+    "title": "Major Scales, Scale Degrees, and Key Signatures",
+    "slug": "major-scales",
+    "url": "https://viva.pressbooks.pub/openmusictheory/chapter/major-scales/",
+    "kind": "chapter",
+    "status": "publish",
+    "author": "brynhughes",
+    "characters": 14227,
+    "file": ".local-library/text/omt2/042-major-scales.txt",
+    "images": [
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/sd_names_deriv-e1661879638423-1024x267.png",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/Screen-Shot-2020-06-08-at-12.17.31-PM-300x121.png",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/Screen-Shot-2020-06-08-at-12.28.24-PM-300x99.png",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/Screen-Shot-2020-06-08-at-1.11.04-PM-300x109.png",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/sharp-sigs-300x63.png",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/flat-sigs-300x63.png",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/cmajfmaj-e1659817325208-150x150.png",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2021/06/Sharp-Key-Signatures-300x245.png",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/Screen-Shot-2020-06-08-at-1.57.09-PM-300x225.png",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/Circle-of-Fifths-294x300.png"
+    ],
+    "media": [
+      "https://musescore.com/user/32728834/scores/6815731/embed",
+      "https://musescore.com/user/32728834/scores/6823280/embed",
+      "https://musescore.com/user/32728834/scores/8452298/embed",
+      "https://musescore.com/user/32728834/scores/8452340/embed",
+      "https://musescore.com/user/32728834/scores/6817049/embed"
+    ],
+    "headings": [
+      "Major Scales",
+      "Scale Degrees, Solfège, and Scale-Degree Names",
+      "Key Signatures",
+      "The Circle of Fifths",
+      ""
+    ]
+  },
+  {
+    "index": 43,
+    "title": "Triads",
+    "slug": "triads",
+    "url": "https://viva.pressbooks.pub/openmusictheory/chapter/triads/",
+    "kind": "chapter",
+    "status": "publish",
+    "author": "brynhughes",
+    "characters": 13719,
+    "file": ".local-library/text/omt2/043-triads.txt",
+    "images": [
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2022/07/Snowperson-300x300.png",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/Screen-Shot-2020-08-17-at-1.39.09-PM-300x75.png",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/d-major-1024x188.png",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/ab-minor-1024x119.png"
+    ],
+    "media": [
+      "https://musescore.com/user/32728834/scores/6839451/embed",
+      "https://musescore.com/user/32728834/scores/6839452/embed",
+      "https://musescore.com/user/32728834/scores/6839453/embed",
+      "https://musescore.com/user/32728834/scores/8514212/embed",
+      "https://musescore.com/user/32728834/scores/8456477/s/Orwx2V/embed",
+      "https://musescore.com/user/32728834/scores/6876492/embed",
+      "https://musescore.com/user/32728834/scores/6839467/embed",
+      "https://musescore.com/user/32728834/scores/6839470/embed"
+    ],
+    "headings": [
+      "Triads",
+      "Triadic Qualities and Listening to Triads",
+      "Chord Symbols",
+      "Triad Qualities in Major and Minor",
+      "Spelling Triads",
+      "Identifying Triads, Doubling, and Spacing"
+    ]
+  },
+  {
+    "index": 44,
+    "title": "Introduction to Species Counterpoint",
+    "slug": "species-counterpoint",
+    "url": "https://viva.pressbooks.pub/openmusictheory/chapter/species-counterpoint/",
+    "kind": "chapter",
+    "status": "publish",
+    "author": "brynhughes",
+    "characters": 15205,
+    "file": ".local-library/text/omt2/044-species-counterpoint.txt",
+    "images": [
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/Consonance-1024x135.png",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/Motion-1.png",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/Outlining-1.png"
+    ],
+    "media": [
+      "https://musescore.com/user/30425053/scores/5335420/embed"
+    ],
+    "headings": [
+      "Consonance and dissonance",
+      "The elusive perfect fourth",
+      "Types of motion",
+      "Composing a Cantus Firmus",
+      "Melodic tendencies",
+      "Rules for melodic and harmonic writing",
+      "Melodic writing (horizontal intervals)",
+      "Harmonic writing (vertical intervals and the combination of parts)",
+      "The Psychology of Counterpoint"
+    ]
+  },
+  {
+    "index": 45,
+    "title": "Rondo",
+    "slug": "rondo",
+    "url": "https://viva.pressbooks.pub/openmusictheory/chapter/rondo/",
+    "kind": "chapter",
+    "status": "publish",
+    "author": "brynhughes",
+    "characters": 14214,
+    "file": ".local-library/text/omt2/045-rondo.txt",
+    "images": [
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/rondo-combined-300x211.png"
+    ],
+    "media": [
+      "https://musescore.com/user/32728834/scores/8404601/embed"
+    ],
+    "headings": [
+      "Refrains, Episodes, and Auxiliary Sections in Rondo Form",
+      "Analytical Challenges with Episodes: Transition ⇒ Episode or Episode ⇒ Retransition",
+      "Five-Part Rondo Example",
+      "Sonata Rondo Example"
+    ]
+  },
+  {
+    "index": 46,
+    "title": "Galant Schemas",
+    "slug": "galant-schemas",
+    "url": "https://viva.pressbooks.pub/openmusictheory/chapter/galant-schemas/",
+    "kind": "chapter",
+    "status": "publish",
+    "author": "brynhughes",
+    "characters": 8745,
+    "file": ".local-library/text/omt2/046-galant-schemas.txt",
+    "images": [],
+    "media": [
+      "https://musescore.com/user/30425053/scores/5350117/embed"
+    ],
+    "headings": [
+      "Opening Gambits Such as the Meyer",
+      "Closing Gestures Such as the Prinner",
+      "Other"
+    ]
+  },
+  {
+    "index": 47,
+    "title": "Galant Schemas – Summary",
+    "slug": "galant-schemas-summary",
+    "url": "https://viva.pressbooks.pub/openmusictheory/chapter/galant-schemas-summary/",
+    "kind": "chapter",
+    "status": "publish",
+    "author": "brynhughes",
+    "characters": 11621,
+    "file": ".local-library/text/omt2/047-galant-schemas-summary.txt",
+    "images": [],
+    "media": [],
+    "headings": [
+      "Overall Short Summary",
+      "Musical notation",
+      "Summarizing table",
+      "Itemized List",
+      "Opening Gambits",
+      "Romanesca",
+      "Do–Re–Mi",
+      "Sol–Fa–Mi",
+      "Meyer",
+      "Aprile",
+      "Jupiter",
+      "Pastorella",
+      "Answer/Process/Transition",
+      "Prinner and Modulating Prinner",
+      "Fonte",
+      "Monte",
+      "Ponte",
+      "Pre-Cadential / Incomplete Cadences",
+      "Fenaroli",
+      "Indugio",
+      "Deceptive Cadence",
+      "Evaded Cadence",
+      "Passo Indietro",
+      "Comma",
+      "Converging Cadence",
+      "Cadences and Post-Cadential",
+      "Cadenza Semplice",
+      "Cadenza Composta",
+      "Cadenza Doppia",
+      "Quiescenza"
+    ]
+  },
+  {
+    "index": 48,
+    "title": "Introduction to Western Musical Notation",
+    "slug": "introduction-to-western-musical-notation",
+    "url": "https://viva.pressbooks.pub/openmusictheory/chapter/introduction-to-western-musical-notation/",
+    "kind": "chapter",
+    "status": "publish",
+    "author": "chelseyhamm",
+    "characters": 2406,
+    "file": ".local-library/text/omt2/048-introduction-to-western-musical-notation.txt",
+    "images": [],
+    "media": [],
+    "headings": []
+  },
+  {
+    "index": 49,
+    "title": "Rhythm and Meter in Pop Music",
+    "slug": "rhythm-and-meter-in-pop-music",
+    "url": "https://viva.pressbooks.pub/openmusictheory/chapter/rhythm-and-meter-in-pop-music/",
+    "kind": "chapter",
+    "status": "publish",
+    "author": "brynhughes",
+    "characters": 6759,
+    "file": ".local-library/text/omt2/049-rhythm-and-meter-in-pop-music.txt",
+    "images": [],
+    "media": [
+      "https://musescore.com/user/32728834/scores/5846453/embed",
+      "https://musescore.com/user/32728834/scores/8674701/embed",
+      "https://musescore.com/user/32728834/scores/8674494/embed",
+      "https://musescore.com/user/32728834/scores/8515040/embed"
+    ],
+    "headings": [
+      "Straight Syncopation",
+      "Transcribing straight syncopations",
+      "Tresillo"
+    ]
+  },
+  {
+    "index": 50,
+    "title": "Introduction to Harmonic Schemas in Pop Music",
+    "slug": "intro-to-pop-schemas",
+    "url": "https://viva.pressbooks.pub/openmusictheory/chapter/intro-to-pop-schemas/",
+    "kind": "chapter",
+    "status": "publish",
+    "author": "brynhughes",
+    "characters": 2449,
+    "file": ".local-library/text/omt2/050-intro-to-pop-schemas.txt",
+    "images": [],
+    "media": [],
+    "headings": []
+  },
+  {
+    "index": 51,
+    "title": "Pitch and Pitch Class",
+    "slug": "pitch-and-pitch-class",
+    "url": "https://viva.pressbooks.pub/openmusictheory/chapter/pitch-and-pitch-class/",
+    "kind": "chapter",
+    "status": "publish",
+    "author": "brynhughes",
+    "characters": 4060,
+    "file": ".local-library/text/omt2/051-pitch-and-pitch-class.txt",
+    "images": [
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/Pitch-Space.jpg",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/Pitch-class-Space.jpg"
+    ],
+    "media": [],
+    "headings": [
+      "Pitch",
+      "Pitch Class",
+      "Integer Notation"
+    ]
+  },
+  {
+    "index": 52,
+    "title": "Intervals in Integer Notation",
+    "slug": "intervals-in-integer-notation",
+    "url": "https://viva.pressbooks.pub/openmusictheory/chapter/intervals-in-integer-notation/",
+    "kind": "chapter",
+    "status": "publish",
+    "author": "brynhughes",
+    "characters": 6702,
+    "file": ".local-library/text/omt2/052-intervals-in-integer-notation.txt",
+    "images": [
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/ordered-vs-unordered-pitch-interval-300x176.png",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/Screen-Shot-2019-09-10-at-12.27.55-PM-300x203.png",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/Screen-Shot-2019-09-10-at-12.36.47-PM-300x193.png"
+    ],
+    "media": [
+      "https://musescore.com/user/32728834/scores/5706820/embed"
+    ],
+    "headings": [
+      "Pitch Intervals (ordered and unordered)",
+      "Ordered Pitch-Class Intervals",
+      "Interval Classes (IC)",
+      "Summary"
+    ]
+  },
+  {
+    "index": 53,
+    "title": "Pitch-Class Sets, Normal Order, and Transformations",
+    "slug": "pc-sets-normal-order-and-transformations",
+    "url": "https://viva.pressbooks.pub/openmusictheory/chapter/pc-sets-normal-order-and-transformations/",
+    "kind": "chapter",
+    "status": "publish",
+    "author": "brynhughes",
+    "characters": 9817,
+    "file": ".local-library/text/omt2/053-pc-sets-normal-order-and-transformations.txt",
+    "images": [
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/inversion-2-1-300x200.png",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/Inversional-pairs-300x249.png",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/Cross-addition-for-inversion-300x290.png"
+    ],
+    "media": [
+      "https://coursemedia.gmu.edu/embed/secure/iframe/entryId/1_axkf6ow8/uiConfId/+44431031/st/0",
+      "https://musescore.com/user/32728834/scores/8391225/s/-79eyZ/embed",
+      "https://musescore.com/user/32728834/scores/8391513/embed",
+      "https://coursemedia.gmu.edu/embed/secure/iframe/entryId/1_wuclkc6h/uiConfId/+44431031/st/0"
+    ],
+    "headings": [
+      "Pitch-Class Sets",
+      "Normal Order",
+      "Mathematical method",
+      "Visual method (clock face method)",
+      "Transposition",
+      "Transposing a set",
+      "Identifying transpositions and calculating the index number",
+      "Inversion",
+      "General inversion",
+      "I n : Invert-then-transpose method",
+      "I n : Subtraction method",
+      "Identifying inversions and their index numbers",
+      "Using the Clock Face to Transpose and Invert"
+    ]
+  },
+  {
+    "index": 54,
+    "title": "Set Class and Prime Form",
+    "slug": "set-class-and-prime-form",
+    "url": "https://viva.pressbooks.pub/openmusictheory/chapter/set-class-and-prime-form/",
+    "kind": "chapter",
+    "status": "publish",
+    "author": "brynhughes",
+    "characters": 7133,
+    "file": ".local-library/text/omt2/054-set-class-and-prime-form.txt",
+    "images": [],
+    "media": [
+      "https://musescore.com/user/32728834/scores/8648514/embed",
+      "https://coursemedia.gmu.edu/embed/secure/iframe/entryId/1_kkxttm1i/uiConfId/+42945861"
+    ],
+    "headings": [
+      "Introduction",
+      "Why transposition and inversion?",
+      "Prime Form",
+      "Mathematical process",
+      "Using the clock face",
+      "The Set Class Table"
+    ]
+  },
+  {
+    "index": 55,
+    "title": "Analyzing with Set Theory (or not!)",
+    "slug": "analyzing-with-set-theory",
+    "url": "https://viva.pressbooks.pub/openmusictheory/chapter/analyzing-with-set-theory/",
+    "kind": "chapter",
+    "status": "publish",
+    "author": "brynhughes",
+    "characters": 7240,
+    "file": ".local-library/text/omt2/055-analyzing-with-set-theory.txt",
+    "images": [],
+    "media": [],
+    "headings": [
+      "Segmentation",
+      "Relationships Between Sets",
+      "Theory Following Practice",
+      "What Set Theory Won't Tell You"
+    ]
+  },
+  {
+    "index": 56,
+    "title": "Basics of Twelve-Tone Theory",
+    "slug": "basics-of-twelve-tone-theory",
+    "url": "https://viva.pressbooks.pub/openmusictheory/chapter/basics-of-twelve-tone-theory/",
+    "kind": "chapter",
+    "status": "publish",
+    "author": "brynhughes",
+    "characters": 13882,
+    "file": ".local-library/text/omt2/056-basics-of-twelve-tone-theory.txt",
+    "images": [],
+    "media": [
+      "https://musescore.com/user/32728834/scores/6591448/embed",
+      "https://musescore.com/user/32728834/scores/6591521/s/kMwC4y/embed"
+    ],
+    "headings": [
+      "Rows",
+      "Operations",
+      "A fake example",
+      "Prime form",
+      "Retrograde form",
+      "Inversion form",
+      "Retrograde inversion form",
+      "A real example",
+      "Enter the Matrix",
+      "From Theory to Practice",
+      "Twelve-tone serial, but not so strict",
+      "Serial but not twelve-tone",
+      "What do we know?"
+    ]
+  },
+  {
+    "index": 57,
+    "title": "Introduction to Form in Popular Music",
+    "slug": "intro-to-form-in-popular-music",
+    "url": "https://viva.pressbooks.pub/openmusictheory/chapter/intro-to-form-in-popular-music/",
+    "kind": "chapter",
+    "status": "publish",
+    "author": "brynhughes",
+    "characters": 7431,
+    "file": ".local-library/text/omt2/057-intro-to-form-in-popular-music.txt",
+    "images": [],
+    "media": [],
+    "headings": [
+      "Sections within Pop Forms",
+      "Terminology and Basic Concepts",
+      "Analytical Notation",
+      "Capital letters",
+      "Lowercase letters"
+    ]
+  },
+  {
+    "index": 58,
+    "title": "Intervals",
+    "slug": "intervals",
+    "url": "https://viva.pressbooks.pub/openmusictheory/chapter/intervals/",
+    "kind": "chapter",
+    "status": "publish",
+    "author": "brynhughes",
+    "characters": 20950,
+    "file": ".local-library/text/omt2/058-intervals.txt",
+    "images": [
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/simple-v-compound-300x140.png",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/inversion-3-300x148.png",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/imaginary-300x113.png",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/white-key-sevenths-1024x123.png",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/enh-eq-300x115.png"
+    ],
+    "media": [
+      "https://musescore.com/user/32728834/scores/8418647/s/H5aOaq/embed",
+      "https://musescore.com/user/32728834/scores/8418638/s/e4jxEI/embed",
+      "https://musescore.com/user/32728834/scores/8418665/s/n71TMI/embed",
+      "https://musescore.com/user/32728834/scores/6836733/s/wud8Ld/embed",
+      "https://musescore.com/user/32728834/scores/8418677/s/-x_9Yz/embed",
+      "https://musescore.com/user/32728834/scores/6836745/embed",
+      "https://musescore.com/user/32728834/scores/8418728/s/SPtiOU/embed",
+      "https://musescore.com/user/32728834/scores/6836757/embed"
+    ],
+    "headings": [
+      "Size",
+      "Perfect, Major, and Minor Qualities",
+      "The \"Major Scale\" Method for Determining Quality",
+      "Augmented and Diminished Qualities",
+      "Doubly and Triply Augmented and Diminished Intervals",
+      "Compound Intervals",
+      "Intervallic Inversion",
+      "Consonance and Dissonance",
+      "Another Method for Intervals: The White-Key Method",
+      "Intervallic Enharmonic Equivalence"
+    ]
+  },
+  {
+    "index": 59,
+    "title": "Modal Schemas",
+    "slug": "modal-schemas",
+    "url": "https://viva.pressbooks.pub/openmusictheory/chapter/modal-schemas/",
+    "kind": "chapter",
+    "status": "publish",
+    "author": "meganlavengood",
+    "characters": 18080,
+    "file": ".local-library/text/omt2/059-modal-schemas.txt",
+    "images": [
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/modal_harmonic_function-1024x881.png",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/mixolydian-1-1024x274.png",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/tired_of_waiting-300x88.png",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/somebody_that_I_used_to_know-2-300x215.png",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/lotr-300x80.png",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/I-dont-like-you-300x109.png",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/dorian-1-1024x313.png",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/get_lucky-300x86.png",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/lydian-1-300x87.png",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/forget-you-300x130.png",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/mode_flow_chart-3-150x150.jpg"
+    ],
+    "media": [
+      "https://musescore.com/user/32728834/scores/5973262/embed",
+      "https://musescore.com/user/32728834/scores/8521067/embed",
+      "https://musescore.com/user/32728834/scores/8520971/embed",
+      "https://musescore.com/user/32728834/scores/8521022/embed",
+      "https://musescore.com/user/32728834/scores/8521043/embed"
+    ],
+    "headings": [
+      "Function of Modal Harmonies",
+      "Mixolydian: ♭VII",
+      "Double plagal",
+      "Subtonic shuttle",
+      "Aeolian: ♭VII and ♭VI",
+      "Subtonic shuttle",
+      "Aeolian shuttle",
+      "Aeolian cadence",
+      "Lament",
+      "Dorian: IV with a Minor Tonic",
+      "Dorian shuttle",
+      "Lydian: II♯",
+      "Lydian shuttle",
+      "Lydian cadence",
+      "Identifying Modes by Ear",
+      "1. Identify the quality of tonic.",
+      "2. Listen for [latex]\\hat{7}[/latex] ( ti or te ).",
+      "3. Listen for other raised color notes— fi [latex](\\uparrow\\hat4)[/latex] in major, and la [latex](\\uparrow\\hat6)[/latex] in minor."
+    ]
+  },
+  {
+    "index": 60,
+    "title": "Pentatonic Harmony",
+    "slug": "pentatonic-harmony",
+    "url": "https://viva.pressbooks.pub/openmusictheory/chapter/pentatonic-harmony/",
+    "kind": "chapter",
+    "status": "publish",
+    "author": "meganlavengood",
+    "characters": 2070,
+    "file": ".local-library/text/omt2/060-pentatonic-harmony.txt",
+    "images": [],
+    "media": [
+      "https://musescore.com/user/32728834/scores/5863931/embed",
+      "https://musescore.com/user/32728834/scores/5863947/embed",
+      "https://musescore.com/user/32728834/scores/5863978/embed"
+    ],
+    "headings": []
+  },
+  {
+    "index": 61,
+    "title": "AABA Form and Strophic Form",
+    "slug": "aaba-and-strophic-form",
+    "url": "https://viva.pressbooks.pub/openmusictheory/chapter/aaba-and-strophic-form/",
+    "kind": "chapter",
+    "status": "publish",
+    "author": "meganlavengood",
+    "characters": 10682,
+    "file": ".local-library/text/omt2/061-aaba-and-strophic-form.txt",
+    "images": [],
+    "media": [],
+    "headings": [
+      "Strophic Form",
+      "32-Bar Song Form (AABA)",
+      "Sections of AABA and Strophic Forms",
+      "Strophe ( A )",
+      "Bridge ( B )",
+      "Introduction ( I )",
+      "Outros ( O ) and Codas ( X )",
+      "Refrains"
+    ]
+  },
+  {
+    "index": 62,
+    "title": "Verse-Chorus Form",
+    "slug": "verse-chorus-form",
+    "url": "https://viva.pressbooks.pub/openmusictheory/chapter/verse-chorus-form/",
+    "kind": "chapter",
+    "status": "publish",
+    "author": "meganlavengood",
+    "characters": 8110,
+    "file": ".local-library/text/omt2/062-verse-chorus-form.txt",
+    "images": [
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/typical-verse-chorus-form.png"
+    ],
+    "media": [],
+    "headings": [
+      "Sections within Verse-Chorus Form",
+      "Verse ( V )",
+      "Prechorus ( P )",
+      "Chorus ( C )",
+      "Postchorus ( Z )",
+      "Bridge ( B )",
+      "Standout Lyrics within Sections",
+      "Refrain",
+      "Climb"
+    ]
+  },
+  {
+    "index": 63,
+    "title": "Melody and Phrasing",
+    "slug": "melody-and-phrasing",
+    "url": "https://viva.pressbooks.pub/openmusictheory/chapter/melody-and-phrasing/",
+    "kind": "chapter",
+    "status": "publish",
+    "author": "meganlavengood",
+    "characters": 3845,
+    "file": ".local-library/text/omt2/063-melody-and-phrasing.txt",
+    "images": [],
+    "media": [],
+    "headings": [
+      "Two-Part",
+      "Three-Part",
+      "Four-Part"
+    ]
+  },
+  {
+    "index": 64,
+    "title": "Fragile, Absent, and Emergent Tonics",
+    "slug": "fragile-absent-and-emergent-tonics",
+    "url": "https://viva.pressbooks.pub/openmusictheory/chapter/fragile-absent-and-emergent-tonics/",
+    "kind": "chapter",
+    "status": "publish",
+    "author": "meganlavengood",
+    "characters": 6180,
+    "file": ".local-library/text/omt2/064-fragile-absent-and-emergent-tonics.txt",
+    "images": [],
+    "media": [
+      "https://musescore.com/user/32728834/scores/5873668/s/s-CN6x/embed",
+      "https://musescore.com/user/32728834/scores/5873719/embed"
+    ],
+    "headings": [
+      "Fragile tonic",
+      "Emergent Tonics",
+      "Absent Tonics"
+    ]
+  },
+  {
+    "index": 65,
+    "title": "Galant schemas – The Rule of the Octave and Harmonizing the Scale with Sequences",
+    "slug": "rule-of-the-octave",
+    "url": "https://viva.pressbooks.pub/openmusictheory/chapter/rule-of-the-octave/",
+    "kind": "chapter",
+    "status": "publish",
+    "author": "markgotham",
+    "characters": 7613,
+    "file": ".local-library/text/omt2/065-rule-of-the-octave.txt",
+    "images": [],
+    "media": [
+      "https://musescore.com/user/30425053/scores/5350123/embed",
+      "https://musescore.com/user/30425053/scores/5350126/embed",
+      "https://musescore.com/user/30425053/scores/5350121/embed"
+    ],
+    "headings": [
+      "The Rule of the Octave",
+      "Approaching the \"Rule\" from parallel [latex]^6_3[/latex]s",
+      "Examining the Rule part by part",
+      "Harmonizing the Scale with Sequences",
+      "5–6 patterns",
+      "7–6 patterns: chains of suspensions",
+      "Cycles of fifths",
+      "2–3: more chains of suspensions"
+    ]
+  },
+  {
+    "index": 66,
+    "title": "Gradus ad Parnassum Exercises",
+    "slug": "gradus-ad-parnassum-exercises",
+    "url": "https://viva.pressbooks.pub/openmusictheory/chapter/gradus-ad-parnassum-exercises/",
+    "kind": "chapter",
+    "status": "publish",
+    "author": "markgotham",
+    "characters": 5070,
+    "file": ".local-library/text/omt2/066-gradus-ad-parnassum-exercises.txt",
+    "images": [],
+    "media": [],
+    "headings": [
+      "View Online and/or Download",
+      "Gradus ad Parnassum Data",
+      "Part I (Two Voices)",
+      "Part II (Three Voices)",
+      "Part III (Four Voices)"
+    ]
+  },
+  {
+    "index": 67,
+    "title": "16th-Century Contrapuntal Style",
+    "slug": "16th-century-contrapuntal-style",
+    "url": "https://viva.pressbooks.pub/openmusictheory/chapter/16th-century-contrapuntal-style/",
+    "kind": "chapter",
+    "status": "publish",
+    "author": "markgotham",
+    "characters": 14084,
+    "file": ".local-library/text/omt2/067-16th-century-contrapuntal-style.txt",
+    "images": [],
+    "media": [
+      "https://musescore.com/user/32728834/scores/8877717/embed"
+    ],
+    "headings": [
+      "Imitation",
+      "Melody",
+      "Rhythm and Meter",
+      "Text Setting",
+      "Texture",
+      "Harmony"
+    ]
+  },
+  {
+    "index": 68,
+    "title": "High Baroque Fugal Exposition",
+    "slug": "high-baroque-fugal-exposition",
+    "url": "https://viva.pressbooks.pub/openmusictheory/chapter/high-baroque-fugal-exposition/",
+    "kind": "chapter",
+    "status": "publish",
+    "author": "markgotham",
+    "characters": 13933,
+    "file": ".local-library/text/omt2/068-high-baroque-fugal-exposition.txt",
+    "images": [],
+    "media": [
+      "https://musescore.com/user/32728834/scores/8534750/embed"
+    ],
+    "headings": [
+      "Basic Definitions",
+      "Structure / Voice Entries",
+      "Subject",
+      "Answer",
+      "Countersubject",
+      "Free Counterpoint",
+      "Links",
+      "General Matters",
+      "Example"
+    ]
+  },
+  {
+    "index": 69,
+    "title": "Harmony Anthology",
+    "slug": "anthology-harmony",
+    "url": "https://viva.pressbooks.pub/openmusictheory/chapter/anthology-harmony/",
+    "kind": "chapter",
+    "status": "publish",
+    "author": "markgotham",
+    "characters": 6157,
+    "file": ".local-library/text/omt2/069-anthology-harmony.txt",
+    "images": [],
+    "media": [],
+    "headings": [
+      "Augmented Sixth chords",
+      "Augmented Triads",
+      "Common Tone Diminished Sevenths",
+      "Modal Mixture",
+      "Neapolitan Sixth Chords",
+      "... and many more",
+      ""
+    ]
+  },
+  {
+    "index": 70,
+    "title": "Ground Bass",
+    "slug": "ground-bass",
+    "url": "https://viva.pressbooks.pub/openmusictheory/chapter/ground-bass/",
+    "kind": "chapter",
+    "status": "publish",
+    "author": "markgotham",
+    "characters": 9428,
+    "file": ".local-library/text/omt2/070-ground-bass.txt",
+    "images": [],
+    "media": [
+      "https://musescore.com/user/32728834/scores/8559071/embed"
+    ],
+    "headings": [
+      "Multiple Harmonizations of a Given Bass",
+      "Analysis: Purcell's Sonata in G Minor (Z 807)",
+      "Harmony",
+      "Imitation",
+      "Rhythm and Meter"
+    ]
+  },
+  {
+    "index": 71,
+    "title": "Reading Clefs",
+    "slug": "clefs",
+    "url": "https://viva.pressbooks.pub/openmusictheory/chapter/clefs/",
+    "kind": "chapter",
+    "status": "publish",
+    "author": "chelseyhamm",
+    "characters": 7950,
+    "file": ".local-library/text/omt2/071-clefs.txt",
+    "images": [
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/Screen-Shot-2019-05-29-at-10.28.19-AM-300x82.png",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/Screen-Shot-2019-05-29-at-10.28.23-AM-300x83.png",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/Screen-Shot-2019-05-29-at-11.00.29-AM-300x66.png",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/Screen-Shot-2019-05-29-at-11.00.34-AM-300x79.png",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/Screen-Shot-2019-05-29-at-11.10.40-AM-300x69.png",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/Screen-Shot-2019-05-29-at-11.10.45-AM-300x69.png",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/Screen-Shot-2019-05-29-at-11.27.17-AM-300x72.png",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/Screen-Shot-2019-05-29-at-11.27.22-AM-300x78.png",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/Screen-Shot-2019-05-29-at-12.05.34-PM-300x71.png",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/Screen-Shot-2019-05-29-at-12.14.51-PM-300x81.png"
+    ],
+    "media": [],
+    "headings": [
+      "Clefs and Ranges",
+      "Reading Treble Clef",
+      "Reading Bass Clef",
+      "Reading Alto Clef",
+      "Reading Tenor Clef",
+      "Ledger Lines",
+      "Easy",
+      "Medium",
+      "Advanced"
+    ]
+  },
+  {
+    "index": 72,
+    "title": "Meter Anthology",
+    "slug": "anthology-meter",
+    "url": "https://viva.pressbooks.pub/openmusictheory/chapter/anthology-meter/",
+    "kind": "chapter",
+    "status": "publish",
+    "author": "markgotham",
+    "characters": 604,
+    "file": ".local-library/text/omt2/072-anthology-meter.txt",
+    "images": [],
+    "media": [],
+    "headings": []
+  },
+  {
+    "index": 73,
+    "title": "Foundational Concepts for Phrase-Level Forms",
+    "slug": "foundational-concepts",
+    "url": "https://viva.pressbooks.pub/openmusictheory/chapter/foundational-concepts/",
+    "kind": "chapter",
+    "status": "publish",
+    "author": "johnpeterson",
+    "characters": 8037,
+    "file": ".local-library/text/omt2/073-foundational-concepts.txt",
+    "images": [
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/Form_Hierarchy-300x208.png",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/Not_a_Motive-1-1024x404.png"
+    ],
+    "media": [],
+    "headings": [
+      "Hierarchy",
+      "Motives",
+      "The Idea Level, the Phrase, and Segmentation Analysis"
+    ]
+  },
+  {
+    "index": 74,
+    "title": "The Keyboard and the Grand Staff",
+    "slug": "the-keyboard-and-grand-staff",
+    "url": "https://viva.pressbooks.pub/openmusictheory/chapter/the-keyboard-and-grand-staff/",
+    "kind": "chapter",
+    "status": "publish",
+    "author": "chelseyhamm",
+    "characters": 8379,
+    "file": ".local-library/text/omt2/074-the-keyboard-and-grand-staff.txt",
+    "images": [
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/Piano-Keyboard-300x211.jpg",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/Piano-Keyboard-Full-300x225.jpg",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2019/12/ch4-ex4-white_keys_labeled-300x98.jpg",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2019/11/brace_line-1-300x149.jpg",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2019/12/ch4-ex6-grand_staff-labeled-300x116.jpg",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2019/11/Screen-Shot-2019-11-23-at-11.48.12-AM-300x180.png",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/Screen-Shot-2019-05-30-at-2.03.57-PM-300x94.png",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2019/12/ch4-ex9-middle_c-1-300x124.jpg",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2019/11/vertically_expanded_example_9-revised-300x109.jpg",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2019/12/ch4-ex11-fifth-300x148.jpg"
+    ],
+    "media": [],
+    "headings": [
+      "The Piano Keyboard",
+      "Playing the Piano",
+      "Octave Equivalence and White-Key Letter Names on the Piano Keyboard",
+      "The Grand Staff",
+      "Generic Intervals (Interval Size)"
+    ]
+  },
+  {
+    "index": 75,
+    "title": "Half Steps, Whole Steps, and Accidentals",
+    "slug": "half-and-whole-steps",
+    "url": "https://viva.pressbooks.pub/openmusictheory/chapter/half-and-whole-steps/",
+    "kind": "chapter",
+    "status": "publish",
+    "author": "chelseyhamm",
+    "characters": 8016,
+    "file": ".local-library/text/omt2/075-half-and-whole-steps.txt",
+    "images": [
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2019/12/ch5-ex1-piano-half_steps-300x191.jpg",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2019/12/ch5-ex2-piano-whole_steps-300x205.jpg",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2019/12/ch5-ex4-accidental_placement-300x76.jpg",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2019/12/ch5-ex5-piano-black_keys-300x227.jpg",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2019/12/ch5-ex6-double_accidentals-300x226.jpg"
+    ],
+    "media": [],
+    "headings": [
+      "Half Steps and Whole Steps",
+      "Sharps, Flats, and Naturals",
+      "The Black Keys on the Piano Keyboard",
+      "Enharmonic equivalence"
+    ]
+  },
+  {
+    "index": 76,
+    "title": "Blues-Based Schemas",
+    "slug": "blues-based-schemas",
+    "url": "https://viva.pressbooks.pub/openmusictheory/chapter/blues-based-schemas/",
+    "kind": "chapter",
+    "status": "publish",
+    "author": "meganlavengood",
+    "characters": 4872,
+    "file": ".local-library/text/omt2/076-blues-based-schemas.txt",
+    "images": [],
+    "media": [
+      "https://musescore.com/user/32728834/scores/5804531/embed",
+      "https://musescore.com/user/32728834/scores/5804559/embed",
+      "https://musescore.com/user/32728834/scores/5804585/embed",
+      "https://musescore.com/user/32728834/scores/5804779/embed",
+      "https://musescore.com/user/32728834/scores/5804789/embed",
+      "https://musescore.com/user/32728834/scores/5810544/embed",
+      "https://musescore.com/user/32728834/scores/5807341/embed",
+      "https://musescore.com/user/32728834/scores/5807378/embed"
+    ],
+    "headings": [
+      "Plagal Motion",
+      "Minor iv",
+      "Double-Plagal",
+      "Extended Plagal",
+      "Recognizing Blues-Based Schemas"
+    ]
+  },
+  {
+    "index": 77,
+    "title": "Four-Chord Schemas",
+    "slug": "4-chord-schemas",
+    "url": "https://viva.pressbooks.pub/openmusictheory/chapter/4-chord-schemas/",
+    "kind": "chapter",
+    "status": "publish",
+    "author": "meganlavengood",
+    "characters": 9279,
+    "file": ".local-library/text/omt2/077-4-chord-schemas.txt",
+    "images": [],
+    "media": [
+      "https://musescore.com/user/32728834/scores/5769539/embed",
+      "https://musescore.com/user/32728834/scores/5769536/embed",
+      "https://musescore.com/user/32728834/scores/5769538/embed",
+      "https://musescore.com/user/32728834/scores/5810723/embed",
+      "https://musescore.com/user/32728834/scores/5769529/embed",
+      "https://musescore.com/user/32728834/scores/5769537/embed",
+      "https://musescore.com/user/32728834/scores/5769540/embed"
+    ],
+    "headings": [
+      "Doo-wop",
+      "Substituting ii for IV",
+      "Rotation",
+      "Singer/Songwriter",
+      "Tonal ambiguity",
+      "Rotations",
+      "Hopscotch",
+      "Replacing VII in minor with V",
+      "Recognizing by Ear"
+    ]
+  },
+  {
+    "index": 78,
+    "title": "Classical Schemas (in a Pop Context)",
+    "slug": "classical-schemas",
+    "url": "https://viva.pressbooks.pub/openmusictheory/chapter/classical-schemas/",
+    "kind": "chapter",
+    "status": "publish",
+    "author": "meganlavengood",
+    "characters": 3997,
+    "file": ".local-library/text/omt2/078-classical-schemas.txt",
+    "images": [],
+    "media": [
+      "https://musescore.com/user/32728834/scores/5826636/embed",
+      "https://musescore.com/user/32728834/scores/5825283/embed",
+      "https://musescore.com/user/32728834/scores/5825400/embed",
+      "https://musescore.com/user/32728834/scores/8520380/embed"
+    ],
+    "headings": [
+      "Lament",
+      "Circle-of-Fifths"
+    ]
+  },
+  {
+    "index": 79,
+    "title": "Puff Schemas",
+    "slug": "puff-schemas",
+    "url": "https://viva.pressbooks.pub/openmusictheory/chapter/puff-schemas/",
+    "kind": "chapter",
+    "status": "publish",
+    "author": "meganlavengood",
+    "characters": 3487,
+    "file": ".local-library/text/omt2/079-puff-schemas.txt",
+    "images": [],
+    "media": [
+      "https://musescore.com/user/32728834/scores/6837912/embed"
+    ],
+    "headings": [
+      "I–III♯–IV",
+      "III♯–IV as Deceptive Motion"
+    ]
+  },
+  {
+    "index": 80,
+    "title": "Analysis Examples - Webern Op. 21 and 24",
+    "slug": "twelve-tone-analysis-examples-webern-op-21-and-24",
+    "url": "https://viva.pressbooks.pub/openmusictheory/chapter/twelve-tone-analysis-examples-webern-op-21-and-24/",
+    "kind": "chapter",
+    "status": "publish",
+    "author": "markgotham",
+    "characters": 17282,
+    "file": ".local-library/text/omt2/080-twelve-tone-analysis-examples-webern-op-21-and-24.txt",
+    "images": [
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2019/06/Screen-Shot-2022-10-23-at-7.47.12-PM-276x300.png"
+    ],
+    "media": [
+      "https://musescore.com/user/30425053/scores/8171934/embed",
+      "https://musescore.com/user/30425053/scores/8171973/embed"
+    ],
+    "headings": [
+      "Webern: Symphonie Op. 21 (1928)",
+      "Row form",
+      "Movement 1",
+      "Movement 2: Variations; a double canon with retrograde",
+      "Issues",
+      "Webern: Konzert Op. 24 (1934)",
+      "The row",
+      "Cell",
+      "Discussion"
+    ]
+  },
+  {
+    "index": 81,
+    "title": "History and Context of Serialism",
+    "slug": "history-and-context-of-serialism",
+    "url": "https://viva.pressbooks.pub/openmusictheory/chapter/history-and-context-of-serialism/",
+    "kind": "chapter",
+    "status": "publish",
+    "author": "markgotham",
+    "characters": 6405,
+    "file": ".local-library/text/omt2/081-history-and-context-of-serialism.txt",
+    "images": [],
+    "media": [
+      "https://musescore.com/user/30425053/scores/184326268247666/embed"
+    ],
+    "headings": [
+      "Why Serialism? What’s the Attraction?",
+      "A Series of Precedents?",
+      "The Emergence and Evolution of the Twelve-Tone Technique"
+    ]
+  },
+  {
+    "index": 82,
+    "title": "Analyzing with Modes, Scales, and Collections",
+    "slug": "analyzing-with-collections-scales-and-modes",
+    "url": "https://viva.pressbooks.pub/openmusictheory/chapter/analyzing-with-collections-scales-and-modes/",
+    "kind": "chapter",
+    "status": "publish",
+    "author": "markgotham",
+    "characters": 9933,
+    "file": ".local-library/text/omt2/082-analyzing-with-collections-scales-and-modes.txt",
+    "images": [
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2019/06/Bartok1.png",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2019/06/Bartok2.png",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2019/06/Bartok3.png"
+    ],
+    "media": [],
+    "headings": [
+      "In Theory",
+      "In Practice",
+      "Modes, Collections and Musical Meaning"
+    ]
+  },
+  {
+    "index": 83,
+    "title": "Binary Form",
+    "slug": "binary-form",
+    "url": "https://viva.pressbooks.pub/openmusictheory/chapter/binary-form/",
+    "kind": "chapter",
+    "status": "publish",
+    "author": "brianjarvis",
+    "characters": 11777,
+    "file": ".local-library/text/omt2/083-binary-form.txt",
+    "images": [
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2020/04/reprises-diagram-300x170.png",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2020/04/binary-form-diagrams-overview-300x199.png",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2020/04/rounded-binary-diagram-300x68.png",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2019/06/Mozart_Symphony_No_25_3rd_Minuetto_Only-239x300.jpg",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2020/04/simple-binary-a-b-300x62.png",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2020/04/simple-binary-a-a-300x62.png",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2019/06/Bach_Bourree_BWV_996_Score-290x300.jpg",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2020/04/simple-binary-a-a-balanced-300x62.png",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2020/04/simple-binary-a-b-balanced-300x62.png",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2020/04/rounded-binary-diagram-balanced-300x66.png"
+    ],
+    "media": [],
+    "headings": [
+      "Repeat Structure and Types of Binary Form",
+      "Rounded Binary Form",
+      "Rounded Binary Example",
+      "Simple Binary Form",
+      "Simple Binary Example",
+      "Balancing a Binary Form",
+      "Simple Binary (Balanced) Example",
+      "Harmonic Expectations",
+      "Cadences",
+      "Harmonically Open or Closed",
+      "Keys",
+      "Beginning, Middle, End - Stability Expectations"
+    ]
+  },
+  {
+    "index": 84,
+    "title": "The Phrase, Archetypes, and Unique Forms",
+    "slug": "phrase-archetypes-unique-forms",
+    "url": "https://viva.pressbooks.pub/openmusictheory/chapter/phrase-archetypes-unique-forms/",
+    "kind": "chapter",
+    "status": "publish",
+    "author": "johnpeterson",
+    "characters": 18324,
+    "file": ".local-library/text/omt2/084-phrase-archetypes-unique-forms.txt",
+    "images": [
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2019/06/Example_001-e1623944080164-150x150.png",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2019/06/Example_002-e1623944015483-150x150.png",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2019/06/Example_004-e1623944801914.png",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2019/06/Example_005_Spectrum-e1623945151228.png",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2019/06/Example_005-150x150.png",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2019/06/Example_006-e1659277976559-150x150.png",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2019/06/Example_007-e1623945514247-150x150.png",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2019/06/Example_008-e1623945581474-150x150.png",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2019/06/Example_009-e1623945687930-150x150.png",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2019/06/Example_010-e1623945819436-150x150.png",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2019/06/Example_011-150x150.png",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2019/06/Example_012-150x150.png",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2019/06/Example_013-e1623946067355-150x150.png"
+    ],
+    "media": [],
+    "headings": [
+      "The Phrase",
+      "Two Categories: Archetypes vs. Unique Forms",
+      "Archetype 1: The Sentence (A Special Kind of Phrase)",
+      "The Basics",
+      "More Detail: The Presentation",
+      "More Detail: The Continuation",
+      "Summary: The Archetypal Sentence and Its Variants",
+      "Archetype 2: The Period (A Combination of Two Phrases)",
+      "The Basics",
+      "More Detail: The Antecedent",
+      "More Detail: The Consequent",
+      "The Repeated Phrase (Another Way to Combine Two Phrases)",
+      "Compound Phrase-Level Forms (Combining Archetypes)",
+      "Unique Phrase-Level Forms"
+    ]
+  },
+  {
+    "index": 85,
+    "title": "Ternary Form",
+    "slug": "ternary-form",
+    "url": "https://viva.pressbooks.pub/openmusictheory/chapter/ternary-form/",
+    "kind": "chapter",
+    "status": "publish",
+    "author": "brianjarvis",
+    "characters": 4869,
+    "file": ".local-library/text/omt2/085-ternary-form.txt",
+    "images": [],
+    "media": [
+      "https://musescore.com/user/32728834/scores/8414264/embed"
+    ],
+    "headings": [
+      "Structure of Individual Sections (Simple vs. Compound)",
+      "Contrasting Characteristics of B",
+      "Stability of Each Section",
+      "Keys and Harmony",
+      "Closed and Open Harmonic Endings",
+      "Modulation within a Section",
+      "Auxiliary Sections",
+      "Example Analyses"
+    ]
+  },
+  {
+    "index": 86,
+    "title": "Formal Sections in General",
+    "slug": "formal-sections-in-general",
+    "url": "https://viva.pressbooks.pub/openmusictheory/chapter/formal-sections-in-general/",
+    "kind": "chapter",
+    "status": "publish",
+    "author": "brianjarvis",
+    "characters": 16304,
+    "file": ".local-library/text/omt2/086-formal-sections-in-general.txt",
+    "images": [
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2021/07/hierarchy_of_form_jarvis_02-1024x592.png"
+    ],
+    "media": [],
+    "headings": [
+      "Overview of Formal Sections in General",
+      "Core Sections",
+      "Main Sections",
+      "Terminology",
+      "Contrasting Sections",
+      "Stability",
+      "Terminology",
+      "Auxiliary Formal Sections",
+      "External Auxiliary Sections",
+      "Prefix",
+      "Suffix",
+      "Connective Auxiliary Sections",
+      "Transition",
+      "Retransition"
+    ]
+  },
+  {
+    "index": 87,
+    "title": "Neo-Riemannian Triadic Progressions",
+    "slug": "neo-riemannian-triadic-progressions",
+    "url": "https://viva.pressbooks.pub/openmusictheory/chapter/neo-riemannian-triadic-progressions/",
+    "kind": "chapter",
+    "status": "publish",
+    "author": "brynhughes",
+    "characters": 21180,
+    "file": ".local-library/text/omt2/087-neo-riemannian-triadic-progressions.txt",
+    "images": [
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2019/07/brahms-concerto-for-vln-vc-268-79-1024x636.png",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2019/07/brahms_vc_vln_concerto_reduction-1024x166.png",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2019/07/NROs_-_basic_voice_leading_examples-PLR-1024x121.png",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2019/07/multiple-L-transforms-1024x119.png",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2019/07/tonnetz-300x206.png",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2019/07/tonnetz-with-NROs-in-color-300x206.png",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2019/07/Brahms-analysis-on-the-tonnetz-300x206.png",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2019/07/PL-and-RP-cycles-1024x243.png",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2019/07/RL-cycle-1024x111.png",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2019/07/PLR-cycle-1024x111.png",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2019/07/PL-RP-and-PLR-cycles-150x150.png",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2019/07/SNH-transformations-1024x112.png",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2019/07/augmented-triads-300x100.png",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2019/07/augmented_triads2-1024x113.png",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2019/07/augmented_triads3-1024x113.png",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2019/07/weintzmann-regions-300x300.png",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2019/07/individual-cubes-300x300.png",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2019/07/cube-dance-300x300.png"
+    ],
+    "media": [],
+    "headings": [
+      "Neo-Riemannian Transformations",
+      "The Tonnetz",
+      "Chains or Cycles of Transformations",
+      "Other Transformations",
+      "More Networks of Neo-Riemannian Transformations",
+      "Augmented triads",
+      "The Cube Dance"
+    ]
+  },
+  {
+    "index": 88,
+    "title": "Hybrid Phrase-Level Forms",
+    "slug": "hybrid-phrase-level-forms",
+    "url": "https://viva.pressbooks.pub/openmusictheory/chapter/hybrid-phrase-level-forms/",
+    "kind": "chapter",
+    "status": "publish",
+    "author": "johnpeterson",
+    "characters": 8357,
+    "file": ".local-library/text/omt2/088-hybrid-phrase-level-forms.txt",
+    "images": [
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2019/07/Example_001_AntCont-e1623950650588-150x150.png",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2019/07/Example_002a_compound_basic_idea-e1623951301511-150x150.png",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2019/07/Example_004a_cadential-e1623951336715-150x150.png",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2019/07/Example_013a_Listening_Diagram_Caplin-1024x978.png"
+    ],
+    "media": [],
+    "headings": [
+      "What's a hybrid form?",
+      "Beginnings",
+      "New: The Compound Basic Idea (c.b.i.)",
+      "Summary: The Three Beginning Types",
+      "Endings",
+      "New: Cadential (cad.)",
+      "Summary: The Three Ending Types",
+      "Hybrid Possibilities and Examples",
+      "Listening to Phrase-level Forms"
+    ]
+  },
+  {
+    "index": 89,
+    "title": "Core Principles of Orchestration",
+    "slug": "core-principles-of-orchestration",
+    "url": "https://viva.pressbooks.pub/openmusictheory/chapter/core-principles-of-orchestration/",
+    "kind": "chapter",
+    "status": "publish",
+    "author": "markgotham",
+    "characters": 11848,
+    "file": ".local-library/text/omt2/089-core-principles-of-orchestration.txt",
+    "images": [
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2019/07/C3-Chord-Spacing-Types-300x49.png"
+    ],
+    "media": [
+      "https://musescore.com/user/32728834/scores/11095075/embed",
+      "https://musescore.com/user/32728834/scores/11093566/embed"
+    ],
+    "headings": [
+      "Simultaneous (Vertical) Combinations",
+      "Voicing chords",
+      "Doubling lines",
+      "Texture",
+      "Successive (Horizontal) Combinations",
+      "Crescendos",
+      "Holding a timbre back for effect",
+      "Dovetailing parts"
+    ]
+  },
+  {
+    "index": 90,
+    "title": "Subtle Color Changes",
+    "slug": "subtle-color-changes",
+    "url": "https://viva.pressbooks.pub/openmusictheory/chapter/subtle-color-changes/",
+    "kind": "chapter",
+    "status": "publish",
+    "author": "markgotham",
+    "characters": 10766,
+    "file": ".local-library/text/omt2/090-subtle-color-changes.txt",
+    "images": [
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2019/07/Ciii-Britten.png",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2019/07/Diii-Berg-Wozzeck.png"
+    ],
+    "media": [],
+    "headings": [
+      "For a timbral cadence",
+      "To finesse a structural boundary",
+      "For the \"attack-sustain\" (\"resonance\") effect",
+      "For a seamless orchestral crescendo",
+      "For timbrally nuanced melodies"
+    ]
+  },
+  {
+    "index": 91,
+    "title": "Transcription from Piano",
+    "slug": "transcription-from-piano",
+    "url": "https://viva.pressbooks.pub/openmusictheory/chapter/transcription-from-piano/",
+    "kind": "chapter",
+    "status": "publish",
+    "author": "markgotham",
+    "characters": 25466,
+    "file": ".local-library/text/omt2/091-transcription-from-piano.txt",
+    "images": [],
+    "media": [],
+    "headings": [
+      "Basic Principles",
+      "Brief examples",
+      "Transcription Case Studies",
+      "Mahler 4/iv (piano and orchestral versions both by Mahler)",
+      "Bach: Partita BWV1006 (for violin) orchestrated as Cantata 29, mvt 1 (orch. Bach)",
+      "Mussorgsky: \"Gnomus\" from Pictures at an Exhibition (orch. Ravel and Stokowski)",
+      "Stravinsky: \"Danse Sacrale\" from The Rite of Spring (bass part) (orch. Stravinky)",
+      "Bartók: Eight Improvisations on Hungarian Peasant Songs (orch. Gotham)"
+    ]
+  },
+  {
+    "index": 92,
+    "title": "Expansion and Contraction at the Phrase Level",
+    "slug": "expansion-and-contraction",
+    "url": "https://viva.pressbooks.pub/openmusictheory/chapter/expansion-and-contraction/",
+    "kind": "chapter",
+    "status": "publish",
+    "author": "johnpeterson",
+    "characters": 13555,
+    "file": ".local-library/text/omt2/092-expansion-and-contraction.txt",
+    "images": [
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2019/07/Example_001_Repetition_Sheldon_Bright_Lights-150x150.png",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2021/06/combined-Example_002b_Repetition_Mozart_447-3-150x150.png",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2019/07/Example_003a_Stretching_Schubert_459-150x150.png",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2019/07/Slide5-6-150x150.png",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2019/07/Slide8-10-150x150.png",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2019/07/Slide10-11-150x150.png",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2019/07/Slide12-13-150x150.png",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2019/07/Example_013_Contraction_Elmas_PC_1_III-150x150.png"
+    ],
+    "media": [],
+    "headings": [
+      "Internal Expansions",
+      "Repetition",
+      "Stretching",
+      "One-More-Time Technique (o.m.t.)",
+      "Alternative Paths",
+      "External Expansions",
+      "The Prefix",
+      "The Suffix",
+      "Contraction"
+    ]
+  },
+  {
+    "index": 93,
+    "title": "Swing Rhythms",
+    "slug": "swing-rhythms",
+    "url": "https://viva.pressbooks.pub/openmusictheory/chapter/swing-rhythms/",
+    "kind": "chapter",
+    "status": "publish",
+    "author": "meganlavengood",
+    "characters": 6494,
+    "file": ".local-library/text/omt2/093-swing-rhythms.txt",
+    "images": [
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2019/08/swung-eighths.png",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2019/08/anything-goes-1-296x300.png",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2019/08/anything-goes-2-300x149.png"
+    ],
+    "media": [
+      "https://musescore.com/user/32728834/scores/8514608/embed",
+      "https://musescore.com/user/32728834/scores/6842546/embed"
+    ],
+    "headings": [
+      "The Basic Swing Groove",
+      "Swing eighths",
+      "Backbeat",
+      "Syncopation"
+    ]
+  },
+  {
+    "index": 94,
+    "title": "Chord Symbols",
+    "slug": "chord-symbols",
+    "url": "https://viva.pressbooks.pub/openmusictheory/chapter/chord-symbols/",
+    "kind": "chapter",
+    "status": "publish",
+    "author": "meganlavengood",
+    "characters": 12128,
+    "file": ".local-library/text/omt2/094-chord-symbols.txt",
+    "images": [
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2019/08/lead-sheet-components-300x223.png",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2019/08/extensions.png",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2019/08/altered_exts-300x95.png",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2019/08/adds-300x102.png",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2019/08/sus-300x80.png",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2019/08/less-confusing-2-300x123.png"
+    ],
+    "media": [],
+    "headings": [
+      "Basics of Chord Symbols",
+      "Triads",
+      "Seventh chords",
+      "Bass notes",
+      "Extensions",
+      "Interval size",
+      "Interval quality and alterations to extensions",
+      "Added Notes (add) and Suspensions (sus)",
+      "add",
+      "sus",
+      "Chord Symbols vs. Roman Numerals"
+    ]
+  },
+  {
+    "index": 95,
+    "title": "Jazz Voicings",
+    "slug": "jazz-voicings",
+    "url": "https://viva.pressbooks.pub/openmusictheory/chapter/jazz-voicings/",
+    "kind": "chapter",
+    "status": "publish",
+    "author": "meganlavengood",
+    "characters": 11638,
+    "file": ".local-library/text/omt2/095-jazz-voicings.txt",
+    "images": [
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2019/08/harmonic-series_0001-150x150.png"
+    ],
+    "media": [
+      "https://musescore.com/user/32728834/scores/5689622/embed",
+      "https://musescore.com/user/32728834/scores/8514797/s/3GztpI/embed",
+      "https://musescore.com/user/32728834/scores/11095687/s/HZz7a0/embed",
+      "https://musescore.com/user/32728834/scores/11096065/embed",
+      "https://musescore.com/user/32728834/scores/8514740/embed"
+    ],
+    "headings": [
+      "Spacing",
+      "Doubling",
+      "Omitting Notes",
+      "Smooth Voice Leading",
+      "Jazz Voice Leading Paradigms",
+      "Two upper voices: the 3–7 voice leading paradigm",
+      "Three upper voices: adding extensions",
+      "Guidelines versus Rules"
+    ]
+  },
+  {
+    "index": 96,
+    "title": "ii–V–I",
+    "slug": "ii-v-i",
+    "url": "https://viva.pressbooks.pub/openmusictheory/chapter/ii-v-i/",
+    "kind": "chapter",
+    "status": "publish",
+    "author": "meganlavengood",
+    "characters": 8402,
+    "file": ".local-library/text/omt2/096-ii-v-i.txt",
+    "images": [
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2019/08/afternoon-in-paris-1024x505.png",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2019/08/mcclimon_fig06.png",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2019/08/music-61-2-150x150.jpg"
+    ],
+    "media": [
+      "https://musescore.com/user/32728834/scores/8519939/embed",
+      "https://musescore.com/user/32728834/scores/5709329/embed",
+      "https://musescore.com/user/32728834/scores/8519966/embed",
+      "https://musescore.com/user/32728834/scores/5711118/embed"
+    ],
+    "headings": [
+      "ii–V–I as Schema",
+      "Applied ii–Vs",
+      "ii–V space",
+      "Understanding a piece through the ii–V schema",
+      "Turnarounds"
+    ]
+  },
+  {
+    "index": 97,
+    "title": "Embellishing Chords",
+    "slug": "jazz-embellishing-chords",
+    "url": "https://viva.pressbooks.pub/openmusictheory/chapter/jazz-embellishing-chords/",
+    "kind": "chapter",
+    "status": "publish",
+    "author": "meganlavengood",
+    "characters": 6208,
+    "file": ".local-library/text/omt2/097-jazz-embellishing-chords.txt",
+    "images": [
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2019/08/cto72-150x150.png"
+    ],
+    "media": [
+      "https://musescore.com/user/32728834/scores/10006141/embed",
+      "https://musescore.com/user/32728834/scores/5719733/embed",
+      "https://musescore.com/user/32728834/scores/5719690/embed",
+      "https://musescore.com/user/32728834/scores/10006099/s/O6ycuv/embed",
+      "https://musescore.com/user/32728834/scores/6656170/embed"
+    ],
+    "headings": [
+      "Embellishing Applied Chords",
+      "Applied V 7",
+      "Applied ii",
+      "Common-Tone Diminished Seventh Chords (CT o7 )",
+      "Embellishing Chords in a Lead Sheet"
+    ]
+  },
+  {
+    "index": 98,
+    "title": "Substitutions",
+    "slug": "substitutions",
+    "url": "https://viva.pressbooks.pub/openmusictheory/chapter/substitutions/",
+    "kind": "chapter",
+    "status": "publish",
+    "author": "meganlavengood",
+    "characters": 8150,
+    "file": ".local-library/text/omt2/098-substitutions.txt",
+    "images": [
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2019/08/music-4-e1568913641107-150x150.jpg",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2019/08/mcclimon_fig10-150x150.png",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2019/08/parentheses-1-e1677584256731-1024x651.png"
+    ],
+    "media": [
+      "https://musescore.com/user/32728834/scores/5719601/embed",
+      "https://musescore.com/user/32728834/scores/5719610/embed",
+      "https://musescore.com/user/32728834/scores/5721622/embed",
+      "https://musescore.com/user/32728834/scores/5721771/embed"
+    ],
+    "headings": [
+      "Applied Chords as Substitutions",
+      "Mode Mixture",
+      "Tritone Substitutions",
+      "Substitutions in a Lead Sheet"
+    ]
+  },
+  {
+    "index": 99,
+    "title": "Blues Harmony",
+    "slug": "blues-harmony",
+    "url": "https://viva.pressbooks.pub/openmusictheory/chapter/blues-harmony/",
+    "kind": "chapter",
+    "status": "publish",
+    "author": "meganlavengood",
+    "characters": 8022,
+    "file": ".local-library/text/omt2/099-blues-harmony.txt",
+    "images": [
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2019/08/16-bar-blues-300x186.png"
+    ],
+    "media": [
+      "https://musescore.com/user/32728834/scores/6595108/embed",
+      "https://musescore.com/user/32728834/scores/6610362/embed",
+      "https://musescore.com/user/32728834/scores/6595125/embed"
+    ],
+    "headings": [
+      "12-Bar Blues",
+      "Jazz Blues",
+      "Examples of Variations"
+    ]
+  },
+  {
+    "index": 100,
+    "title": "Blues Melodies and the Blues Scale",
+    "slug": "blues-melodies-and-the-blues-scale",
+    "url": "https://viva.pressbooks.pub/openmusictheory/chapter/blues-melodies-and-the-blues-scale/",
+    "kind": "chapter",
+    "status": "publish",
+    "author": "meganlavengood",
+    "characters": 5464,
+    "file": ".local-library/text/omt2/100-blues-melodies-and-the-blues-scale.txt",
+    "images": [],
+    "media": [
+      "https://musescore.com/user/32728834/scores/5742815/embed",
+      "https://musescore.com/user/32728834/scores/8515004/embed",
+      "https://musescore.com/user/32728834/scores/8515049/embed"
+    ],
+    "headings": [
+      "Phrase and Lyric Structure",
+      "The Blues Scale",
+      "The \"major\" blues scale"
+    ]
+  },
+  {
+    "index": 101,
+    "title": "Sonata Form",
+    "slug": "sonata-form",
+    "url": "https://viva.pressbooks.pub/openmusictheory/chapter/sonata-form/",
+    "kind": "chapter",
+    "status": "publish",
+    "author": "brianjarvis",
+    "characters": 19597,
+    "file": ".local-library/text/omt2/101-sonata-form.txt",
+    "images": [
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2020/04/sonata-largest-level-2-300x89.png",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2020/04/sonata-form-complete-300x111.png",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2020/04/sonata-exposition-264x300.png",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2020/04/sonata-form-mc-eec-esc-300x157.png"
+    ],
+    "media": [
+      "https://musescore.com/user/32728834/scores/8412926/embed"
+    ],
+    "headings": [
+      "Exposition",
+      "Dependent and Independent Transitions",
+      "Development",
+      "Recapitulation",
+      "Similarity to Binary Form",
+      "Additional Sonata Terminology: MC, EEC, ESC",
+      "Medial Caesura (MC)",
+      "Essential Expositional Closure (EEC) and Essential Structural Closure (ESC)",
+      "External Auxiliary Sections: Introduction and Closing Area",
+      "Introduction",
+      "Closing area",
+      "Sonata Form Analysis Example"
+    ]
+  },
+  {
+    "index": 102,
+    "title": "Introduction to Harmony, Cadences, and Phrase Endings",
+    "slug": "intro-to-harmony",
+    "url": "https://viva.pressbooks.pub/openmusictheory/chapter/intro-to-harmony/",
+    "kind": "chapter",
+    "status": "publish",
+    "author": "johnpeterson",
+    "characters": 12340,
+    "file": ".local-library/text/omt2/102-intro-to-harmony.txt",
+    "images": [
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2019/09/Phrase_Model.png",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2019/09/Example_3_Cadence_Strength_Spectrum.png"
+    ],
+    "media": [
+      "https://musescore.com/user/32728834/scores/6827779/embed",
+      "https://musescore.com/user/32728834/scores/6617197/embed",
+      "https://musescore.com/user/32728834/scores/8391384/embed",
+      "https://musescore.com/user/32728834/scores/8391423/embed",
+      "https://musescore.com/user/32728834/scores/5772942/embed",
+      "https://musescore.com/user/32728834/scores/5772904/embed",
+      "https://musescore.com/user/32728834/scores/5772922/embed",
+      "https://musescore.com/user/32728834/scores/5772955/embed",
+      "https://musescore.com/user/32728834/scores/5772954/embed",
+      "https://musescore.com/user/32728834/scores/5772897/embed"
+    ],
+    "headings": [
+      "Introduction to Harmony",
+      "Introduction to Cadences",
+      "Authentic Cadences (they sound conclusive!)",
+      "Half Cadences (they sound inconclusive!)",
+      "Cadential Strength and the IAC",
+      "Hearing Cadences",
+      "Writing Authentic Cadences (with triads only)",
+      "Writing Half Cadences (using I and V only)"
+    ]
+  },
+  {
+    "index": 103,
+    "title": "The Basics of Sight-Singing and Dictation",
+    "slug": "the-basics-of-sight-singing-and-dictation",
+    "url": "https://viva.pressbooks.pub/openmusictheory/chapter/the-basics-of-sight-singing-and-dictation/",
+    "kind": "chapter",
+    "status": "publish",
+    "author": "chelseyhamm",
+    "characters": 13349,
+    "file": ".local-library/text/omt2/103-the-basics-of-sight-singing-and-dictation.txt",
+    "images": [
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2019/11/Screen-Shot-2020-07-03-at-10.01.23-AM-300x42.png",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2019/11/Screen-Shot-2020-07-03-at-10.45.42-AM-300x101.png",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2019/11/Screen-Shot-2021-07-02-at-12.01.06-PM-300x68.png"
+    ],
+    "media": [
+      "https://musescore.com/user/32728834/scores/8455859/embed",
+      "https://musescore.com/user/32728834/scores/8455769/embed",
+      "https://musescore.com/user/32728834/scores/8455748/embed",
+      "https://musescore.com/user/32728834/scores/8455691/embed",
+      "https://musescore.com/user/32728834/scores/8455655/embed"
+    ],
+    "headings": [
+      "Strategies for Sight-Singing and Sight-Counting",
+      "Strategies for Dictation",
+      "Rhythmic Dictation",
+      "Melodic Dictation",
+      "Protonotation",
+      "Elements of Protonotation",
+      "Converting Protonotation to Staff Notation"
+    ]
+  },
+  {
+    "index": 104,
+    "title": "First-Species Counterpoint",
+    "slug": "first-species-counterpoint",
+    "url": "https://viva.pressbooks.pub/openmusictheory/chapter/first-species-counterpoint/",
+    "kind": "chapter",
+    "status": "publish",
+    "author": "markgotham",
+    "characters": 8807,
+    "file": ".local-library/text/omt2/104-first-species-counterpoint.txt",
+    "images": [],
+    "media": [
+      "https://musescore.com/user/32728834/scores/8488049/embed",
+      "https://musescore.com/user/32728834/scores/8513480/embed"
+    ],
+    "headings": [
+      "The Counterpoint Line",
+      "Beginning and Ending",
+      "Beginning a first-species counterpoint",
+      "Ending a first-species counterpoint",
+      "Independence of the Lines",
+      "Intervals and Motion"
+    ]
+  },
+  {
+    "index": 105,
+    "title": "Second-Species Counterpoint",
+    "slug": "second-species-counterpoint",
+    "url": "https://viva.pressbooks.pub/openmusictheory/chapter/second-species-counterpoint/",
+    "kind": "chapter",
+    "status": "publish",
+    "author": "markgotham",
+    "characters": 13113,
+    "file": ".local-library/text/omt2/105-second-species-counterpoint.txt",
+    "images": [
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2020/01/consonant-311x1024.png"
+    ],
+    "media": [
+      "https://musescore.com/user/32728834/scores/8488187/embed"
+    ],
+    "headings": [
+      "The Counterpoint Line",
+      "Beginning and Ending",
+      "Beginning a second-species counterpoint",
+      "Ending a second-species counterpoint",
+      "Strong Beats",
+      "Weak Beats",
+      "Dissonant passing tones (weak beats only)",
+      "Consonant weak beats",
+      "Demonstration"
+    ]
+  },
+  {
+    "index": 106,
+    "title": "Third-Species Counterpoint",
+    "slug": "third-species-counterpoint",
+    "url": "https://viva.pressbooks.pub/openmusictheory/chapter/third-species-counterpoint/",
+    "kind": "chapter",
+    "status": "publish",
+    "author": "markgotham",
+    "characters": 9162,
+    "file": ".local-library/text/omt2/106-third-species-counterpoint.txt",
+    "images": [
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2020/01/Dissonance.png"
+    ],
+    "media": [
+      "https://musescore.com/user/32728834/scores/8488217/embed",
+      "https://musescore.com/user/32728834/scores/8487176/embed"
+    ],
+    "headings": [
+      "The Counterpoint Line",
+      "Beginning and Ending",
+      "Beginning a third-species counterpoint",
+      "Ending a third-species counterpoint",
+      "Strong Beats",
+      "Other Beats",
+      "Consonance",
+      "Dissonance"
+    ]
+  },
+  {
+    "index": 107,
+    "title": "Fourth-Species Counterpoint",
+    "slug": "fourth-species-counterpoint",
+    "url": "https://viva.pressbooks.pub/openmusictheory/chapter/fourth-species-counterpoint/",
+    "kind": "chapter",
+    "status": "publish",
+    "author": "markgotham",
+    "characters": 7177,
+    "file": ".local-library/text/omt2/107-fourth-species-counterpoint.txt",
+    "images": [
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2020/01/Suspensions.png"
+    ],
+    "media": [
+      "https://musescore.com/user/32728834/scores/8488241/embed"
+    ],
+    "headings": [
+      "The Suspension",
+      "Types of suspensions",
+      "Using suspensions",
+      "The Fourth-Species Counterpoint Line",
+      "Beginning and Ending",
+      "Beginning a fourth-species counterpoint",
+      "Ending a fourth-species counterpoint",
+      "Demonstration"
+    ]
+  },
+  {
+    "index": 108,
+    "title": "Simple Meter and Time Signatures",
+    "slug": "simple-meter-and-time-signatures",
+    "url": "https://viva.pressbooks.pub/openmusictheory/chapter/simple-meter-and-time-signatures/",
+    "kind": "chapter",
+    "status": "publish",
+    "author": "markgotham",
+    "characters": 17107,
+    "file": ".local-library/text/omt2/108-simple-meter-and-time-signatures.txt",
+    "images": [
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2020/01/Measures-and-Barlines-300x63.png",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2020/05/Screen-Shot-2020-05-12-at-3.32.33-PM-1-300x102.png",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2020/01/pickup-300x44.png",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2020/01/withoutbeams-300x146.png",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2020/01/beaming-beat-unit-1024x609.png",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2021/05/Stemming2-300x58.png",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2020/01/Flag-Direction-300x119.png",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2020/01/Multi-Measure-Rest-300x95.png",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2020/01/ties-clarify-beat-1024x158.png"
+    ],
+    "media": [
+      "https://musescore.com/user/32728834/scores/6293132/embed",
+      "https://musescore.com/user/32728834/scores/6296048/embed",
+      "https://musescore.com/user/32728834/scores/6296065/embed",
+      "https://musescore.com/user/32728834/scores/8422379/embed",
+      "https://musescore.com/user/32728834/scores/6296072/embed",
+      "https://musescore.com/user/32728834/scores/8422418/embed"
+    ],
+    "headings": [
+      "Terminology",
+      "Listening to Simple Meters",
+      "Conducting Patterns",
+      "Time Signatures",
+      "Counting in Simple Meter",
+      "Counting with Beat Units of 2, 8, and 16",
+      "Beaming, Stems, Flags, and Multi-Measure Rests",
+      "A Note on Ties"
+    ]
+  },
+  {
+    "index": 109,
+    "title": "Texture",
+    "slug": "texture",
+    "url": "https://viva.pressbooks.pub/openmusictheory/chapter/texture/",
+    "kind": "chapter",
+    "status": "publish",
+    "author": "markgotham",
+    "characters": 8184,
+    "file": ".local-library/text/omt2/109-texture.txt",
+    "images": [],
+    "media": [],
+    "headings": [
+      "Monophony",
+      "Heterophony",
+      "Homophony",
+      "Homorhythm",
+      "Melody and Accompaniment",
+      "Polyphony"
+    ]
+  },
+  {
+    "index": 110,
+    "title": "Equal Divisions of the Octave",
+    "slug": "equal-divisions-of-the-octave",
+    "url": "https://viva.pressbooks.pub/openmusictheory/chapter/equal-divisions-of-the-octave/",
+    "kind": "chapter",
+    "status": "publish",
+    "author": "brynhughes",
+    "characters": 3850,
+    "file": ".local-library/text/omt2/110-equal-divisions-of-the-octave.txt",
+    "images": [],
+    "media": [
+      "https://musescore.com/user/32728834/scores/6263572/embed",
+      "https://musescore.com/user/32728834/scores/6263580/embed",
+      "https://musescore.com/user/32728834/scores/6263587/embed",
+      "https://musescore.com/user/32728834/scores/6263592/embed",
+      "https://musescore.com/user/32728834/scores/6263596/embed"
+    ],
+    "headings": [
+      "Ways to divide the octave equally",
+      "Minor 2 nd",
+      "Major 2 nd",
+      "Minor Third",
+      "Major Third",
+      "Tritone"
+    ]
+  },
+  {
+    "index": 111,
+    "title": "Chromatic Modulation",
+    "slug": "reinterpreting-augmented-sixth-chords",
+    "url": "https://viva.pressbooks.pub/openmusictheory/chapter/reinterpreting-augmented-sixth-chords/",
+    "kind": "chapter",
+    "status": "publish",
+    "author": "brynhughes",
+    "characters": 4354,
+    "file": ".local-library/text/omt2/111-reinterpreting-augmented-sixth-chords.txt",
+    "images": [
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2020/01/chromatic-modulation-closely-related-keys-1024x491.png",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2020/01/distantly-related-keys-mixture-to-diatonic-1024x562.png",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2020/01/distantly-related-keys-diatonic-to-mixture-1024x540.png"
+    ],
+    "media": [
+      "https://musescore.com/user/32728834/scores/8935623/embed",
+      "https://musescore.com/user/32728834/scores/8935767/embed",
+      "https://musescore.com/user/32728834/scores/8935728/embed",
+      "https://musescore.com/user/32728834/scores/9010358/embed",
+      "https://musescore.com/user/32728834/scores/9014891/embed"
+    ],
+    "headings": [
+      "Chromatic Modulation",
+      "Common-Tone Modulation"
+    ]
+  },
+  {
+    "index": 112,
+    "title": "Reinterpreting Diminished Seventh Chords",
+    "slug": "reinterpreting-diminished-seventh-chords",
+    "url": "https://viva.pressbooks.pub/openmusictheory/chapter/reinterpreting-diminished-seventh-chords/",
+    "kind": "chapter",
+    "status": "publish",
+    "author": "brynhughes",
+    "characters": 364,
+    "file": ".local-library/text/omt2/112-reinterpreting-diminished-seventh-chords.txt",
+    "images": [],
+    "media": [],
+    "headings": [
+      "Chromatic Modulation Using Enharmonically Reinterpreted Diminished-Seventh Chords"
+    ]
+  },
+  {
+    "index": 113,
+    "title": "Chromatic Sequences",
+    "slug": "chromatic-sequences",
+    "url": "https://viva.pressbooks.pub/openmusictheory/chapter/chromatic-sequences/",
+    "kind": "chapter",
+    "status": "publish",
+    "author": "brynhughes",
+    "characters": 8733,
+    "file": ".local-library/text/omt2/113-chromatic-sequences.txt",
+    "images": [],
+    "media": [
+      "https://musescore.com/user/32728834/scores/5937554/embed",
+      "https://musescore.com/user/32728834/scores/5937594/embed",
+      "https://musescore.com/user/32728834/scores/5937629/embed",
+      "https://musescore.com/user/32728834/scores/5937661/embed",
+      "https://musescore.com/user/32728834/scores/5937751/embed",
+      "https://musescore.com/user/32728834/scores/5937755/embed",
+      "https://musescore.com/user/32728834/scores/5937772/embed",
+      "https://musescore.com/user/32728834/scores/5937785/embed",
+      "https://musescore.com/user/32728834/scores/5937816/embed",
+      "https://musescore.com/user/32728834/scores/5937812/embed"
+    ],
+    "headings": [
+      "Descending-Fifths Sequence",
+      "Ascending 5–6 Sequence",
+      "Descending 5–6 Sequence"
+    ]
+  },
+  {
+    "index": 114,
+    "title": "Altered and Extended Dominant Chords",
+    "slug": "altered-and-extended-dominant-chords",
+    "url": "https://viva.pressbooks.pub/openmusictheory/chapter/altered-and-extended-dominant-chords/",
+    "kind": "chapter",
+    "status": "publish",
+    "author": "brynhughes",
+    "characters": 2340,
+    "file": ".local-library/text/omt2/114-altered-and-extended-dominant-chords.txt",
+    "images": [],
+    "media": [
+      "https://musescore.com/user/32728834/scores/9088466/embed",
+      "https://musescore.com/user/32728834/scores/9101633/embed"
+    ],
+    "headings": [
+      "Altered dominant chords",
+      "Dominant with an augmented fifth",
+      "The Dominant with Diminished Fifth",
+      "Extended dominant chords"
+    ]
+  },
+  {
+    "index": 115,
+    "title": "Collections",
+    "slug": "collections",
+    "url": "https://viva.pressbooks.pub/openmusictheory/chapter/collections/",
+    "kind": "chapter",
+    "status": "publish",
+    "author": "markgotham",
+    "characters": 14551,
+    "file": ".local-library/text/omt2/115-collections.txt",
+    "images": [],
+    "media": [
+      "https://musescore.com/user/32728834/scores/5990266/embed",
+      "https://musescore.com/user/32728834/scores/5990278/embed",
+      "https://musescore.com/user/32728834/scores/5990299/embed",
+      "https://musescore.com/user/32728834/scores/5992271/embed",
+      "https://musescore.com/user/32728834/scores/5992316/embed",
+      "https://musescore.com/user/32728834/scores/6925856/embed",
+      "https://musescore.com/user/32728834/scores/6925866/embed",
+      "https://musescore.com/user/32728834/scores/5992286/embed",
+      "https://musescore.com/user/32728834/scores/6925817/s/nEWWaR/embed"
+    ],
+    "headings": [
+      "Diatonic Collection and Pandiatonicism",
+      "Pentatonic Collection",
+      "Whole-Tone Collection",
+      "Octatonic Collection",
+      "Hexatonic Collection",
+      "Acoustic Collection",
+      "New Ways of Organizing Pitch",
+      "Messiaen's modes of limited transposition",
+      "Distance model modes",
+      "Other modes",
+      "Important Considerations with Collections"
+    ]
+  },
+  {
+    "index": 116,
+    "title": "The Omnibus Progression",
+    "slug": "the-omnibus-progression",
+    "url": "https://viva.pressbooks.pub/openmusictheory/chapter/the-omnibus-progression/",
+    "kind": "chapter",
+    "status": "publish",
+    "author": "brynhughes",
+    "characters": 2044,
+    "file": ".local-library/text/omt2/116-the-omnibus-progression.txt",
+    "images": [],
+    "media": [
+      "https://musescore.com/user/32728834/scores/5941409/embed"
+    ],
+    "headings": []
+  },
+  {
+    "index": 117,
+    "title": "Parallel Chromatic Sequences",
+    "slug": "parallel-chromatic-sequences",
+    "url": "https://viva.pressbooks.pub/openmusictheory/chapter/parallel-chromatic-sequences/",
+    "kind": "chapter",
+    "status": "publish",
+    "author": "brynhughes",
+    "characters": 95,
+    "file": ".local-library/text/omt2/117-parallel-chromatic-sequences.txt",
+    "images": [],
+    "media": [],
+    "headings": [
+      "Parallel 6/3 Chords",
+      "Parallel Dominant Chords",
+      "Parallel Augmented Triads"
+    ]
+  },
+  {
+    "index": 118,
+    "title": "Augmented Options",
+    "slug": "augmented-options",
+    "url": "https://viva.pressbooks.pub/openmusictheory/chapter/augmented-options/",
+    "kind": "chapter",
+    "status": "publish",
+    "author": "markgotham",
+    "characters": 12259,
+    "file": ".local-library/text/omt2/118-augmented-options.txt",
+    "images": [
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2020/01/Atlas.png",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2020/01/Bach.png",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2020/01/Hensel-Extract.png"
+    ],
+    "media": [
+      "https://musescore.com/user/27638568/scores/4985985/embed",
+      "https://musescore.com/user/27638568/scores/5101361/embed"
+    ],
+    "headings": [
+      "Always Chromatic?",
+      "Rarely focal",
+      "Chromatic passing chord",
+      "The Augmented Triad​ as Figure or Ground in Liszt’s R. W. Venezia",
+      "Anthology Examples"
+    ]
+  },
+  {
+    "index": 119,
+    "title": "Other Aspects of Notation",
+    "slug": "other-aspects-of-notation",
+    "url": "https://viva.pressbooks.pub/openmusictheory/chapter/other-aspects-of-notation/",
+    "kind": "chapter",
+    "status": "publish",
+    "author": "chelseyhamm",
+    "characters": 10739,
+    "file": ".local-library/text/omt2/119-other-aspects-of-notation.txt",
+    "images": [
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2020/02/96292654_667667213778088_2752956277322678272_n-300x38.png",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2020/02/CrescendoandDecrescendoChapter6-1-300x76.png",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2020/02/tempi-300x27.png",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2020/02/96422265_232053788221736_2295624173914947584_n-300x34.png"
+    ],
+    "media": [
+      "https://musescore.com/user/32728834/scores/6275123/embed",
+      "https://musescore.com/user/32728834/scores/6275124/embed"
+    ],
+    "headings": [
+      "Dynamics",
+      "Articulations",
+      "Tempo",
+      "Structural Features",
+      "Stylistic Periods"
+    ]
+  },
+  {
+    "index": 120,
+    "title": "Diatonic Modes",
+    "slug": "diatonic-modes",
+    "url": "https://viva.pressbooks.pub/openmusictheory/chapter/diatonic-modes/",
+    "kind": "chapter",
+    "status": "publish",
+    "author": "markgotham",
+    "characters": 11946,
+    "file": ".local-library/text/omt2/120-diatonic-modes.txt",
+    "images": [
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2020/02/modes-with-phryg-150x150.png"
+    ],
+    "media": [
+      "https://musescore.com/user/32728834/scores/8631327/embed",
+      "https://musescore.com/user/32728834/scores/5973262/embed"
+    ],
+    "headings": [
+      "Church Modes",
+      "Diatonic Modes in the 20 th and 21 st centuries",
+      "Color notes",
+      "Hearing modal tonics",
+      "Identifying modes",
+      "1. Identify the quality of tonic.",
+      "2. Listen and look for [latex]\\hat{\\mathsf{7}}[/latex] ( ti or te ).",
+      "3. Listen and look for other color notes— fi ([latex]\\uparrow\\hat{\\mathsf{4}}[/latex]) in major, la ([latex]\\uparrow\\hat{\\mathsf{6}}[/latex]) in minor, or ra [latex](\\downarrow\\hat2)[/latex] in minor.",
+      "Modes in a Global Context"
+    ]
+  },
+  {
+    "index": 121,
+    "title": "Fifth-Species Counterpoint",
+    "slug": "fifth-species-counterpoint",
+    "url": "https://viva.pressbooks.pub/openmusictheory/chapter/fifth-species-counterpoint/",
+    "kind": "chapter",
+    "status": "publish",
+    "author": "markgotham",
+    "characters": 3146,
+    "file": ".local-library/text/omt2/121-fifth-species-counterpoint.txt",
+    "images": [
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2020/04/Suspensions_Chain.png"
+    ],
+    "media": [
+      "https://musescore.com/user/32728834/scores/8488244/embed"
+    ],
+    "headings": [
+      "Beginning and Ending",
+      "Embellishing Suspensions",
+      "Eighth notes",
+      "Gradus ad Parnassum Examples"
+    ]
+  },
+  {
+    "index": 122,
+    "title": "Compound Meter and Time Signatures",
+    "slug": "compound-meters-and-time-signatures",
+    "url": "https://viva.pressbooks.pub/openmusictheory/chapter/compound-meters-and-time-signatures/",
+    "kind": "chapter",
+    "status": "publish",
+    "author": "chelseyhamm",
+    "characters": 11226,
+    "file": ".local-library/text/omt2/122-compound-meters-and-time-signatures.txt",
+    "images": [
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2020/05/Compound-Meter-Time-Signature-300x101.png",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2020/05/3-4_6-8-1024x86.png"
+    ],
+    "media": [
+      "https://musescore.com/user/32728834/scores/8394558/embed",
+      "https://musescore.com/user/32728834/scores/8394447/embed",
+      "https://musescore.com/user/32728834/scores/6296091/embed",
+      "https://musescore.com/user/32728834/scores/8394456/embed",
+      "https://musescore.com/user/32728834/scores/8394474/embed",
+      "https://musescore.com/user/32728834/scores/6296096/embed"
+    ],
+    "headings": [
+      "Listening to and Conducting Compound Meters",
+      "Time Signatures",
+      "Counting in Compound Meter",
+      "Counting with Division Units of 4 and 16",
+      "Beaming, Stems, and Flags"
+    ]
+  },
+  {
+    "index": 123,
+    "title": "Minor Scales, Scale Degrees, and Key Signatures",
+    "slug": "minor-scales",
+    "url": "https://viva.pressbooks.pub/openmusictheory/chapter/minor-scales/",
+    "kind": "chapter",
+    "status": "publish",
+    "author": "chelseyhamm",
+    "characters": 15741,
+    "file": ".local-library/text/omt2/123-minor-scales.txt",
+    "images": [
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2020/05/Screen-Shot-2020-06-11-at-11.20.05-AM-300x112.png",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2020/05/Screen-Shot-2020-06-08-at-1.11.04-PM-300x109.png",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2020/05/Circle_of_fifths_deluxe_de-1024x863.jpg",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2020/05/reichardt-300x92.png"
+    ],
+    "media": [
+      "https://musescore.com/user/32728834/scores/6825960/embed",
+      "https://musescore.com/user/32728834/scores/6826003/embed",
+      "https://musescore.com/user/32728834/scores/8455586/embed",
+      "https://musescore.com/user/32728834/scores/8383329/s/WuOIXN/embed",
+      "https://musescore.com/user/32728834/scores/8383293/embed"
+    ],
+    "headings": [
+      "The Minor Scale",
+      "Natural Minor",
+      "Harmonic Minor",
+      "Melodic Minor",
+      "Minor Scale Degrees, Solfège, and Scale-Degree Names",
+      "The Parallel and Relative Relationships",
+      "Minor Key Signatures",
+      "Minor Keys and the Circle of Fifths",
+      "Major or Minor?"
+    ]
+  },
+  {
+    "index": 124,
+    "title": "Introduction to Diatonic Modes and the Chromatic \"Scale\"",
+    "slug": "intro-to-diatonic-modes-and-the-chromatic-scale",
+    "url": "https://viva.pressbooks.pub/openmusictheory/chapter/intro-to-diatonic-modes-and-the-chromatic-scale/",
+    "kind": "chapter",
+    "status": "publish",
+    "author": "chelseyhamm",
+    "characters": 7451,
+    "file": ".local-library/text/omt2/124-intro-to-diatonic-modes-and-the-chromatic-scale.txt",
+    "images": [
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2020/05/Examples-for-OMT-05-1024x152.png"
+    ],
+    "media": [
+      "https://musescore.com/user/32728834/scores/6824392/embed",
+      "https://musescore.com/user/32728834/scores/6824424/embed",
+      "https://musescore.com/user/32728834/scores/6824469/embed",
+      "https://musescore.com/user/32728834/scores/6824501/embed",
+      "https://musescore.com/user/32728834/scores/6824523/embed",
+      "https://musescore.com/user/32728834/scores/6824675/embed",
+      "https://musescore.com/user/32728834/scores/6824710/embed",
+      "https://musescore.com/user/32728834/scores/6824854/embed",
+      "https://musescore.com/user/32728834/scores/6824732/embed"
+    ],
+    "headings": [
+      "Modes and the Parallel Relationship",
+      "Chromatic \"Scales\""
+    ]
+  },
+  {
+    "index": 125,
+    "title": "Seventh Chords",
+    "slug": "seventh-chords",
+    "url": "https://viva.pressbooks.pub/openmusictheory/chapter/seventh-chords/",
+    "kind": "chapter",
+    "status": "publish",
+    "author": "chelseyhamm",
+    "characters": 14826,
+    "file": ".local-library/text/omt2/125-seventh-chords.txt",
+    "images": [
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2020/05/chord-members-300x79.png",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2020/05/dmaj-300x45.png",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2020/05/abdim7-300x31.png"
+    ],
+    "media": [
+      "https://musescore.com/user/32728834/scores/6843767/embed",
+      "https://musescore.com/user/32728834/scores/6850641/embed",
+      "https://musescore.com/user/32728834/scores/6843772/embed",
+      "https://musescore.com/user/32728834/scores/8514077/embed",
+      "https://musescore.com/user/32728834/scores/6843776/embed",
+      "https://musescore.com/user/32728834/scores/6843785/s/Ml4Mxs/embed",
+      "https://musescore.com/user/32728834/scores/6843788/embed"
+    ],
+    "headings": [
+      "Seventh Chords",
+      "Seventh Chord Qualities and Nomenclature",
+      "Listening to Seventh Chords",
+      "Seventh Chord Qualities in Major and Minor",
+      "Spelling Seventh Chords",
+      "Identifying Seventh Chords, Doubling, and Spacing"
+    ]
+  },
+  {
+    "index": 126,
+    "title": "Roman Numerals and SATB Chord Construction",
+    "slug": "roman-numerals",
+    "url": "https://viva.pressbooks.pub/openmusictheory/chapter/roman-numerals/",
+    "kind": "chapter",
+    "status": "publish",
+    "author": "chelseyhamm",
+    "characters": 15027,
+    "file": ".local-library/text/omt2/126-roman-numerals.txt",
+    "images": [
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2020/05/Misc-47-scaled-e1658431640933-300x108.jpg",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2022/08/stemming-300x130.png",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2022/08/wrong-notes-300x143.png",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2022/08/range-300x118.png",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2020/05/too-high-300x149.png",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2022/08/spacing-300x147.png",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2022/08/voice-crossing-300x152.png",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2022/08/doubled_lt-300x150.png"
+    ],
+    "media": [
+      "https://musescore.com/user/32728834/scores/8514239/embed",
+      "https://musescore.com/user/32728834/scores/8514287/embed",
+      "https://musescore.com/user/32728834/scores/6869635/embed",
+      "https://musescore.com/user/32728834/scores/6867245/embed",
+      "https://musescore.com/user/32728834/scores/6867246/embed"
+    ],
+    "headings": [
+      "Writing Roman Numerals",
+      "Roman Numerals and Triad Quality",
+      "Roman Numerals and Seventh Chord Quality",
+      "Inversion",
+      "Roman Numeral Analysis",
+      "Writing Chords in SATB Style",
+      "Stem Direction",
+      "Chord Construction",
+      "Range",
+      "Spacing",
+      "Voice Crossing",
+      "Doubling"
+    ]
+  },
+  {
+    "index": 127,
+    "title": "Neapolitan 6th (♭II6)",
+    "slug": "bii6",
+    "url": "https://viva.pressbooks.pub/openmusictheory/chapter/bii6/",
+    "kind": "chapter",
+    "status": "publish",
+    "author": "brianjarvis",
+    "characters": 4278,
+    "file": ".local-library/text/omt2/127-bii6.txt",
+    "images": [],
+    "media": [
+      "https://musescore.com/user/32728834/scores/6218556/embed",
+      "https://musescore.com/user/32728834/scores/6218757/embed",
+      "https://musescore.com/user/32728834/scores/8403830/embed",
+      "https://musescore.com/user/32728834/scores/6220107/embed",
+      "https://musescore.com/user/32728834/scores/8451335/embed"
+    ],
+    "headings": [
+      "Context",
+      "Voice Leading",
+      "Associated Progressions",
+      "Common progressions",
+      "Less Common Uses"
+    ]
+  },
+  {
+    "index": 128,
+    "title": "Augmented Sixth Chords",
+    "slug": "augmented-sixth-chords",
+    "url": "https://viva.pressbooks.pub/openmusictheory/chapter/augmented-sixth-chords/",
+    "kind": "chapter",
+    "status": "publish",
+    "author": "brianjarvis",
+    "characters": 6755,
+    "file": ".local-library/text/omt2/128-augmented-sixth-chords.txt",
+    "images": [
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2020/07/nazareth_remando_annotated-273x300.png"
+    ],
+    "media": [
+      "https://musescore.com/user/32728834/scores/6221729/embed",
+      "https://musescore.com/user/32728834/scores/6221834/embed",
+      "https://musescore.com/user/32728834/scores/6221757/embed",
+      "https://musescore.com/user/32728834/scores/6221776/embed",
+      "https://musescore.com/user/32728834/scores/6221772/embed",
+      "https://musescore.com/user/32728834/scores/6221766/embed"
+    ],
+    "headings": [
+      "Brief Overview",
+      "Context",
+      "Connection to the lament-bass progression",
+      "Recognizing augmented sixth chords when analyzing",
+      "Ger +6 in major keys: me vs. ri [latex](\\downarrow\\hat3[/latex] vs. [latex]\\uparrow\\hat2)[/latex]",
+      "The German Diminished Third Chord",
+      "Musical Example"
+    ]
+  },
+  {
+    "index": 129,
+    "title": "Modal Mixture",
+    "slug": "modal-mixture",
+    "url": "https://viva.pressbooks.pub/openmusictheory/chapter/modal-mixture/",
+    "kind": "chapter",
+    "status": "publish",
+    "author": "brianjarvis",
+    "characters": 6463,
+    "file": ".local-library/text/omt2/129-modal-mixture.txt",
+    "images": [],
+    "media": [
+      "https://musescore.com/user/32728834/scores/6223755/embed",
+      "https://musescore.com/user/32728834/scores/6223743/embed",
+      "https://musescore.com/user/32728834/scores/6223761/embed",
+      "https://musescore.com/user/32728834/scores/6223765/embed",
+      "https://musescore.com/user/32728834/scores/6223773/embed",
+      "https://musescore.com/user/32728834/scores/6223780/embed",
+      "https://musescore.com/user/32728834/scores/6223782/embed",
+      "https://musescore.com/user/32728834/scores/6223786/embed",
+      "https://musescore.com/user/32728834/scores/6223788/embed",
+      "https://musescore.com/user/32728834/scores/6223789/embed",
+      "https://musescore.com/user/32728834/scores/8403632/embed",
+      "https://musescore.com/user/32728834/scores/8403782/embed"
+    ],
+    "headings": [
+      "Melody and Harmony",
+      "Common Progressions",
+      "Chords with le [latex](\\downarrow\\hat6)[/latex] only: ii o6 , ii ∅7 , and iv",
+      "Altering Chord Roots",
+      "Tonic and Dominant",
+      "Using Modal Mixture",
+      "Picardy Third",
+      "Large-Scale Modal Mixture",
+      "Musical Examples"
+    ]
+  },
+  {
+    "index": 130,
+    "title": "Common-Tone Chords (CTº7 &amp; CT+6)",
+    "slug": "common-tone-chords",
+    "url": "https://viva.pressbooks.pub/openmusictheory/chapter/common-tone-chords/",
+    "kind": "chapter",
+    "status": "publish",
+    "author": "brianjarvis",
+    "characters": 9773,
+    "file": ".local-library/text/omt2/130-common-tone-chords.txt",
+    "images": [],
+    "media": [
+      "https://musescore.com/user/32728834/scores/6224659/embed",
+      "https://musescore.com/user/32728834/scores/6224667/embed",
+      "https://musescore.com/user/32728834/scores/6224768/embed",
+      "https://musescore.com/user/32728834/scores/6224771/embed",
+      "https://musescore.com/user/32728834/scores/6224775/embed",
+      "https://musescore.com/user/32728834/scores/8395287/embed",
+      "https://musescore.com/user/32728834/scores/8395353/embed"
+    ],
+    "headings": [
+      "Deriving a CT o7 chord from multiple neighbor tones",
+      "Creating a CT o7 chord",
+      "Recognizing CT o7 when analyzing",
+      "Resolving CT o7 to V 7",
+      "CT o7 with incomplete neighbors",
+      "Creating a CT +6 chord",
+      "Musical Examples"
+    ]
+  },
+  {
+    "index": 131,
+    "title": "Strengthening Endings with V7",
+    "slug": "strengthening-endings-with-v7",
+    "url": "https://viva.pressbooks.pub/openmusictheory/chapter/strengthening-endings-with-v7/",
+    "kind": "chapter",
+    "status": "publish",
+    "author": "johnpeterson",
+    "characters": 6022,
+    "file": ".local-library/text/omt2/131-strengthening-endings-with-v7.txt",
+    "images": [],
+    "media": [
+      "https://musescore.com/user/32728834/scores/6224806/embed",
+      "https://musescore.com/user/32728834/scores/6224809/embed",
+      "https://musescore.com/user/32728834/scores/6224872/embed",
+      "https://musescore.com/user/32728834/scores/6224803/embed",
+      "https://musescore.com/user/32728834/scores/6224804/embed",
+      "https://musescore.com/user/32728834/scores/6224814/embed"
+    ],
+    "headings": [
+      "The Default Resolution of V 7 to I",
+      "Alternative Resolutions of V 7 to I",
+      "Incomplete V 7",
+      "Leading-Tone Drop",
+      "Summary"
+    ]
+  },
+  {
+    "index": 132,
+    "title": "Harmonic Elision",
+    "slug": "harmonic-elision",
+    "url": "https://viva.pressbooks.pub/openmusictheory/chapter/harmonic-elision/",
+    "kind": "chapter",
+    "status": "publish",
+    "author": "brianjarvis",
+    "characters": 8443,
+    "file": ".local-library/text/omt2/132-harmonic-elision.txt",
+    "images": [],
+    "media": [
+      "https://musescore.com/user/32728834/scores/6225476/embed",
+      "https://musescore.com/user/32728834/scores/6225477/embed",
+      "https://musescore.com/user/32728834/scores/6225479/embed",
+      "https://musescore.com/user/32728834/scores/6225480/embed",
+      "https://musescore.com/user/32728834/scores/6225481/embed",
+      "https://musescore.com/user/32728834/scores/6225482/embed",
+      "https://musescore.com/user/32728834/scores/6225483/embed",
+      "https://musescore.com/user/32728834/scores/8395434/embed"
+    ],
+    "headings": [
+      "Context",
+      "Leading-tone elision with a dominant seventh chord",
+      "Leading-tone elision with a fully diminished seventh chord",
+      "Voice leading with leading-tone elision",
+      "When the leading tone is in the bass",
+      "Raised-Root Elision",
+      "The [latex]\\mathrm{cad.^6_4}[/latex] version",
+      "",
+      "Finding Harmonic Elision",
+      "Musical Example"
+    ]
+  },
+  {
+    "index": 133,
+    "title": "Strengthening Endings with Strong Predominants",
+    "slug": "strong-predominants",
+    "url": "https://viva.pressbooks.pub/openmusictheory/chapter/strong-predominants/",
+    "kind": "chapter",
+    "status": "publish",
+    "author": "johnpeterson",
+    "characters": 5038,
+    "file": ".local-library/text/omt2/133-strong-predominants.txt",
+    "images": [],
+    "media": [
+      "https://musescore.com/user/32728834/scores/6230930/embed",
+      "https://musescore.com/user/32728834/scores/6230934/embed",
+      "https://musescore.com/user/32728834/scores/6230937/embed",
+      "https://musescore.com/user/32728834/scores/6230943/embed",
+      "https://musescore.com/user/32728834/scores/6230948/embed",
+      "https://musescore.com/user/32728834/scores/6230949/embed",
+      "https://musescore.com/user/32728834/scores/6230956/embed",
+      "https://musescore.com/user/32728834/scores/6230968/embed"
+    ],
+    "headings": [
+      "Writing with ii 6",
+      "Steps for writing with ii 6",
+      "Writing with IV",
+      "Root position ii",
+      "Using IV and ii (6) in combination"
+    ]
+  },
+  {
+    "index": 134,
+    "title": "Embellishing Tones",
+    "slug": "embellishing-tones",
+    "url": "https://viva.pressbooks.pub/openmusictheory/chapter/embellishing-tones/",
+    "kind": "chapter",
+    "status": "publish",
+    "author": "johnpeterson",
+    "characters": 5387,
+    "file": ".local-library/text/omt2/134-embellishing-tones.txt",
+    "images": [
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2020/07/Generic_Embellishing_Tone_Layout-300x91.png"
+    ],
+    "media": [
+      "https://musescore.com/user/32728834/scores/6233992/embed",
+      "https://musescore.com/user/32728834/scores/6234000/embed",
+      "https://musescore.com/user/32728834/scores/6234003/embed",
+      "https://musescore.com/user/32728834/scores/6234074/embed",
+      "https://musescore.com/user/32728834/scores/6234078/embed",
+      "https://musescore.com/user/32728834/scores/6234081/embed",
+      "https://musescore.com/user/32728834/scores/6234083/embed",
+      "https://musescore.com/user/32728834/scores/6234088/embed",
+      "https://musescore.com/user/32728834/scores/6234093/embed",
+      "https://musescore.com/user/32728834/scores/6234090/embed",
+      "https://musescore.com/user/32728834/scores/6234812/embed"
+    ],
+    "headings": [
+      "Overview",
+      "Category 1: Embellishing tones that move by step",
+      "Category 2: Embellishing tones that involve a leap",
+      "Category 3: Embellishing tones involving static notes",
+      "Anticipations",
+      "Summary"
+    ]
+  },
+  {
+    "index": 135,
+    "title": "Strengthening Endings with Cadential 6/4",
+    "slug": "cadential-64",
+    "url": "https://viva.pressbooks.pub/openmusictheory/chapter/cadential-64/",
+    "kind": "chapter",
+    "status": "publish",
+    "author": "johnpeterson",
+    "characters": 6620,
+    "file": ".local-library/text/omt2/135-cadential-64.txt",
+    "images": [],
+    "media": [
+      "https://musescore.com/user/32728834/scores/6238932/embed",
+      "https://musescore.com/user/32728834/scores/6239193/embed",
+      "https://musescore.com/user/32728834/scores/6239528/embed",
+      "https://musescore.com/user/32728834/scores/6239535/embed"
+    ],
+    "headings": [
+      "Labeling cadential 6/4",
+      "Writing with cadential 6/4",
+      "Spelling cadential 6/4 in four voices",
+      "Voice leading with cadential 6/4",
+      "Resolution",
+      "Approaching cadential 6/4"
+    ]
+  },
+  {
+    "index": 136,
+    "title": "Prolonging Tonic at Phrase Beginnings with V6 and Inverted V7s",
+    "slug": "inverted-v7s",
+    "url": "https://viva.pressbooks.pub/openmusictheory/chapter/inverted-v7s/",
+    "kind": "chapter",
+    "status": "publish",
+    "author": "johnpeterson",
+    "characters": 5813,
+    "file": ".local-library/text/omt2/136-inverted-v7s.txt",
+    "images": [],
+    "media": [
+      "https://musescore.com/user/32728834/scores/6240782/embed",
+      "https://musescore.com/user/32728834/scores/6240788/embed",
+      "https://musescore.com/user/32728834/scores/6240806/embed",
+      "https://musescore.com/user/32728834/scores/6243345/embed",
+      "https://musescore.com/user/32728834/scores/6240813/embed",
+      "https://musescore.com/user/32728834/scores/6240818/embed",
+      "https://musescore.com/user/32728834/scores/6240825/embed",
+      "https://musescore.com/user/32728834/scores/6240833/embed",
+      "https://musescore.com/user/32728834/scores/6240837/embed"
+    ],
+    "headings": [
+      "Overview",
+      "Writing Tonic Prolongations",
+      "Prolonging with V6/5 and V6",
+      "Prolonging with V4/2",
+      "Prolonging with V4/3",
+      "Combining Progressions",
+      "Bass Line Summary"
+    ]
+  },
+  {
+    "index": 137,
+    "title": "Performing Harmonic Analysis Using the Phrase Model",
+    "slug": "performing-harmonic-analysis-using-the-phrase-model",
+    "url": "https://viva.pressbooks.pub/openmusictheory/chapter/performing-harmonic-analysis-using-the-phrase-model/",
+    "kind": "chapter",
+    "status": "publish",
+    "author": "johnpeterson",
+    "characters": 3465,
+    "file": ".local-library/text/omt2/137-performing-harmonic-analysis-using-the-phrase-model.txt",
+    "images": [],
+    "media": [],
+    "headings": [
+      "Overview",
+      "Performing a Harmonic Analysis",
+      "Identifying the Phrase Model in Harmonic Analysis"
+    ]
+  },
+  {
+    "index": 138,
+    "title": "Prolongation at Phrase Beginnings using the Leading-Tone Chord",
+    "slug": "leading-tone-chord",
+    "url": "https://viva.pressbooks.pub/openmusictheory/chapter/leading-tone-chord/",
+    "kind": "chapter",
+    "status": "publish",
+    "author": "johnpeterson",
+    "characters": 7114,
+    "file": ".local-library/text/omt2/138-leading-tone-chord.txt",
+    "images": [],
+    "media": [
+      "https://musescore.com/user/32728834/scores/6245135/embed",
+      "https://musescore.com/user/32728834/scores/6245147/embed",
+      "https://musescore.com/user/32728834/scores/6245159/embed",
+      "https://musescore.com/user/32728834/scores/6245161/embed",
+      "https://musescore.com/user/32728834/scores/6245166/embed"
+    ],
+    "headings": [
+      "Overview",
+      "Substituting the leading-tone chord in place of V (7)",
+      "vii o 4/2",
+      "Using the leading-tone chord as a half-diminished seventh chord"
+    ]
+  },
+  {
+    "index": 139,
+    "title": "6/4 Chords as Forms of Prolongation",
+    "slug": "64-chords-as-prolongations",
+    "url": "https://viva.pressbooks.pub/openmusictheory/chapter/64-chords-as-prolongations/",
+    "kind": "chapter",
+    "status": "publish",
+    "author": "johnpeterson",
+    "characters": 7459,
+    "file": ".local-library/text/omt2/139-64-chords-as-prolongations.txt",
+    "images": [],
+    "media": [
+      "https://musescore.com/user/32728834/scores/6250658/embed",
+      "https://musescore.com/user/32728834/scores/6250667/embed",
+      "https://musescore.com/user/32728834/scores/6250673/embed",
+      "https://musescore.com/user/32728834/scores/6250679/embed",
+      "https://musescore.com/user/32728834/scores/6250685/embed"
+    ],
+    "headings": [
+      "Passing [latex]^6_4[/latex]",
+      "To write with pass[latex]^6_4[/latex]:",
+      "Neighbor [latex]^6_4[/latex]",
+      "To write with [latex]\\mathrm{n.^6_4}[/latex]:",
+      "Arpeggiating [latex]^6_4[/latex]",
+      "Summary: 6/4 chord types"
+    ]
+  },
+  {
+    "index": 140,
+    "title": "Plagal Motion as a Form of Prolongation",
+    "slug": "plagal-motion",
+    "url": "https://viva.pressbooks.pub/openmusictheory/chapter/plagal-motion/",
+    "kind": "chapter",
+    "status": "publish",
+    "author": "johnpeterson",
+    "characters": 4490,
+    "file": ".local-library/text/omt2/140-plagal-motion.txt",
+    "images": [],
+    "media": [
+      "https://musescore.com/user/32728834/scores/6252227/embed",
+      "https://musescore.com/user/32728834/scores/6252232/embed",
+      "https://musescore.com/user/32728834/scores/6252238/embed"
+    ],
+    "headings": [
+      "Writing plagal motion after an authentic cadence",
+      "Writing plagal motion at a phrase beginning"
+    ]
+  },
+  {
+    "index": 141,
+    "title": "La (Scale Degree 6) in the Bass at Beginnings, Middles, and Endings",
+    "slug": "la-in-the-bass",
+    "url": "https://viva.pressbooks.pub/openmusictheory/chapter/la-in-the-bass/",
+    "kind": "chapter",
+    "status": "publish",
+    "author": "johnpeterson",
+    "characters": 7717,
+    "file": ".local-library/text/omt2/141-la-in-the-bass.txt",
+    "images": [],
+    "media": [
+      "https://musescore.com/user/32728834/scores/6254923/embed",
+      "https://musescore.com/user/32728834/scores/6254927/embed",
+      "https://musescore.com/user/32728834/scores/6254942/embed",
+      "https://musescore.com/user/32728834/scores/6254982/embed",
+      "https://musescore.com/user/32728834/scores/6254992/embed",
+      "https://musescore.com/user/32728834/scores/6254997/embed",
+      "https://musescore.com/user/32728834/scores/6255078/embed",
+      "https://musescore.com/user/32728834/scores/6255083/embed",
+      "https://musescore.com/user/32728834/scores/6255087/embed",
+      "https://musescore.com/user/32728834/scores/6255089/embed",
+      "https://musescore.com/user/32728834/scores/6255090/embed"
+    ],
+    "headings": [
+      "Overview: uses of la (scale degree 6)",
+      "At phrase beginnings",
+      "Using IV 6 as a predominant",
+      "Using plagal (IV 6 )",
+      "At phrase middles",
+      "Deceptive motion",
+      "vi as a weak predominant",
+      "At phrase endings",
+      "The phrygian half cadence (PHC)",
+      "La [latex](\\hat6)[/latex] harmonized with a predominant at a cadence"
+    ]
+  },
+  {
+    "index": 143,
+    "title": "The Mediant Harmonizing Mi (Scale Degree 3) in the Bass",
+    "slug": "the-mediant",
+    "url": "https://viva.pressbooks.pub/openmusictheory/chapter/the-mediant/",
+    "kind": "chapter",
+    "status": "publish",
+    "author": "johnpeterson",
+    "characters": 3527,
+    "file": ".local-library/text/omt2/143-the-mediant.txt",
+    "images": [],
+    "media": [
+      "https://musescore.com/user/32728834/scores/6258824/embed",
+      "https://musescore.com/user/32728834/scores/6258834/embed",
+      "https://musescore.com/user/32728834/scores/6258844/embed"
+    ],
+    "headings": [
+      "Overview: the iii chord",
+      "Writing with iii"
+    ]
+  },
+  {
+    "index": 144,
+    "title": "Predominant Seventh Chords",
+    "slug": "predominant-seventh-chords",
+    "url": "https://viva.pressbooks.pub/openmusictheory/chapter/predominant-seventh-chords/",
+    "kind": "chapter",
+    "status": "publish",
+    "author": "johnpeterson",
+    "characters": 4335,
+    "file": ".local-library/text/omt2/144-predominant-seventh-chords.txt",
+    "images": [],
+    "media": [
+      "https://musescore.com/user/32728834/scores/6260230/embed",
+      "https://musescore.com/user/32728834/scores/6260497/embed",
+      "https://musescore.com/user/32728834/scores/6260500/embed",
+      "https://musescore.com/user/32728834/scores/6260504/embed",
+      "https://musescore.com/user/32728834/scores/6260506/embed",
+      "https://musescore.com/user/32728834/scores/6260511/embed"
+    ],
+    "headings": [
+      "Adding a chordal seventh to ii",
+      "ii[latex]^6_5[/latex]",
+      "ii 7",
+      "ii[latex]^4_2[/latex]",
+      "ii[latex]^4_3[/latex]",
+      "Other predominant sevenths"
+    ]
+  },
+  {
+    "index": 145,
+    "title": "Extended Tonicization and Modulation to Closely Related Keys",
+    "slug": "extended-tonicization-and-modulation-to-closely-related-keys",
+    "url": "https://viva.pressbooks.pub/openmusictheory/chapter/extended-tonicization-and-modulation-to-closely-related-keys/",
+    "kind": "chapter",
+    "status": "publish",
+    "author": "johnpeterson",
+    "characters": 9368,
+    "file": ".local-library/text/omt2/145-extended-tonicization-and-modulation-to-closely-related-keys.txt",
+    "images": [
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2020/05/Circle_of_fifths_deluxe_de-150x150.jpg",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2020/08/pivots.png",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2020/08/spectrum.png"
+    ],
+    "media": [
+      "https://musescore.com/user/32728834/scores/6279080/embed",
+      "https://musescore.com/user/32728834/scores/6279089/embed",
+      "https://musescore.com/user/32728834/scores/6279114/embed",
+      "https://musescore.com/user/32728834/scores/6279128/embed"
+    ],
+    "headings": [
+      "Analyzing Modulations",
+      "Direct modulations (these are abrupt)",
+      "Pivot chord modulations (these are subtle)",
+      "Closely related keys",
+      "Writing modulations with pivot chords",
+      "Identifying potential pivots",
+      "Choosing a progression",
+      "Tonicization versus modulation"
+    ]
+  },
+  {
+    "index": 146,
+    "title": "Chord-Scale Theory",
+    "slug": "chord-scale-theory",
+    "url": "https://viva.pressbooks.pub/openmusictheory/chapter/chord-scale-theory/",
+    "kind": "chapter",
+    "status": "publish",
+    "author": "meganlavengood",
+    "characters": 8382,
+    "file": ".local-library/text/omt2/146-chord-scale-theory.txt",
+    "images": [],
+    "media": [
+      "https://musescore.com/user/32728834/scores/6300405/embed",
+      "https://musescore.com/user/32728834/scores/6300394/embed",
+      "https://musescore.com/user/32728834/scores/6300392/embed",
+      "https://musescore.com/user/32728834/scores/6300399/embed",
+      "https://musescore.com/user/32728834/scores/6300396/embed",
+      "https://musescore.com/user/32728834/scores/6301594/embed",
+      "https://musescore.com/user/32728834/scores/6300401/embed"
+    ],
+    "headings": [
+      "Basic Chord-Scale Relationships",
+      "Chord-Scales and Major Keys",
+      "Applying Chord-Scales to Progressions within a Key",
+      "Limitations of Chord-Scale Theory"
+    ]
+  },
+  {
+    "index": 147,
+    "title": "Twelve-Tone Anthology",
+    "slug": "anthology-twelve-tone",
+    "url": "https://viva.pressbooks.pub/openmusictheory/chapter/anthology-twelve-tone/",
+    "kind": "chapter",
+    "status": "publish",
+    "author": "markgotham",
+    "characters": 1976,
+    "file": ".local-library/text/omt2/147-anthology-twelve-tone.txt",
+    "images": [],
+    "media": [
+      "https://musescore.com/user/30425053/scores/727981229895898/embed"
+    ],
+    "headings": [
+      "Tabular List",
+      "Musical Notation",
+      "Anthology"
+    ]
+  },
+  {
+    "index": 148,
+    "title": "Tonicization",
+    "slug": "tonicization",
+    "url": "https://viva.pressbooks.pub/openmusictheory/chapter/tonicization/",
+    "kind": "chapter",
+    "status": "publish",
+    "author": "johnpeterson",
+    "characters": 12864,
+    "file": ".local-library/text/omt2/148-tonicization.txt",
+    "images": [
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/resolving-300x145.png",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2019/05/altered-chords-summary-300x292.png"
+    ],
+    "media": [
+      "https://musescore.com/user/32728834/scores/6268930/embed",
+      "https://musescore.com/user/32728834/scores/6268934/embed",
+      "https://musescore.com/user/32728834/scores/6268967/embed",
+      "https://musescore.com/user/32728834/scores/6268972/embed",
+      "https://musescore.com/user/32728834/scores/6270521/embed",
+      "https://musescore.com/user/32728834/scores/6270540/embed",
+      "https://musescore.com/user/32728834/scores/6270545/embed",
+      "https://musescore.com/user/32728834/scores/6270553/embed"
+    ],
+    "headings": [
+      "Tonicizing V",
+      "Analyzing tonicization",
+      "Secondary dominant chords (V (7) /V)",
+      "Secondary leading-tone chords (vii o(7) /V)",
+      "Summary: Steps for analyzing tonicization",
+      "Writing applied chords",
+      "Spelling",
+      "Resolving",
+      "Tonicizing chords other than V",
+      "Overview",
+      "Analyzing various tonicizations",
+      "Tonicizing strong predominants",
+      "Tonicized deceptive motion",
+      "Adding tonicization to diatonic progressions",
+      "Secondary dominants as altered diatonic chords"
+    ]
+  },
+  {
+    "index": 149,
+    "title": "Naming Conventions for Rows",
+    "slug": "naming-conventions-for-rows",
+    "url": "https://viva.pressbooks.pub/openmusictheory/chapter/naming-conventions-for-rows/",
+    "kind": "chapter",
+    "status": "publish",
+    "author": "markgotham",
+    "characters": 8864,
+    "file": ".local-library/text/omt2/149-naming-conventions-for-rows.txt",
+    "images": [],
+    "media": [],
+    "headings": [
+      "Pitch",
+      "Rows",
+      "Option 1: P 0 starts on C (fixed zero)",
+      "Option 2: P 0 starts wherever we chose (moveable zero)",
+      "Same? Different? Better? Worse?",
+      "Matrices",
+      "Type 1",
+      "Type 2",
+      "Type 3",
+      "Summary"
+    ]
+  },
+  {
+    "index": 150,
+    "title": "Row Properties",
+    "slug": "row-properties",
+    "url": "https://viva.pressbooks.pub/openmusictheory/chapter/row-properties/",
+    "kind": "chapter",
+    "status": "publish",
+    "author": "markgotham",
+    "characters": 15752,
+    "file": ".local-library/text/omt2/150-row-properties.txt",
+    "images": [],
+    "media": [
+      "https://musescore.com/user/32728834/scores/8862120/embed",
+      "https://musescore.com/user/32728834/scores/8862261/embed",
+      "https://musescore.com/user/32728834/scores/8862222/embed",
+      "https://musescore.com/user/32728834/scores/8862252/embed"
+    ],
+    "headings": [
+      "Overlapping Segments and the \"All-Interval\" Row",
+      "Discrete Segments and \"Derived\" Rows",
+      "(Segmental) Invariance",
+      "Hexachords",
+      "Hexachordal combinatoriality",
+      "(014589): The \"magic hexachord\"",
+      "\"Partially ordered\" sets",
+      "Other Special Types of Row Forms"
+    ]
+  },
+  {
+    "index": 151,
+    "title": "Composing with Twelve Tones",
+    "slug": "composing-with-twelve-tones",
+    "url": "https://viva.pressbooks.pub/openmusictheory/chapter/composing-with-twelve-tones/",
+    "kind": "chapter",
+    "status": "publish",
+    "author": "markgotham",
+    "characters": 14237,
+    "file": ".local-library/text/omt2/151-composing-with-twelve-tones.txt",
+    "images": [
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2021/05/Solo.png",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2021/05/Moto-perpetuo.png",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2021/05/Rows_and_rotations.png",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2021/05/Rhythmic-cycles.png"
+    ],
+    "media": [
+      "https://musescore.com/user/30425053/scores/403299860346169/embed",
+      "https://musescore.com/user/8641586/scores/6803044/embed"
+    ],
+    "headings": [
+      "Choosing Rows",
+      "Example Compositions",
+      "A (relatively) free fantasia",
+      "A process-driven \"moto perpetuo\"",
+      "A strict, fixed fugue",
+      "Combinatoriality in practice",
+      "Actual music!",
+      "Next steps",
+      "Putting it all together"
+    ]
+  },
+  {
+    "index": 152,
+    "title": "Digital Workbook",
+    "slug": "digital-workbook",
+    "url": "https://viva.pressbooks.pub/openmusictheory/chapter/digital-workbook/",
+    "kind": "chapter",
+    "status": "publish",
+    "author": "kylegullings",
+    "characters": 380,
+    "file": ".local-library/text/omt2/152-digital-workbook.txt",
+    "images": [],
+    "media": [],
+    "headings": []
+  },
+  {
+    "index": 153,
+    "title": "PDF Workbook",
+    "slug": "pdf-workbook",
+    "url": "https://viva.pressbooks.pub/openmusictheory/chapter/pdf-workbook/",
+    "kind": "chapter",
+    "status": "publish",
+    "author": "meganlavengood",
+    "characters": 684,
+    "file": ".local-library/text/omt2/153-pdf-workbook.txt",
+    "images": [],
+    "media": [],
+    "headings": []
+  },
+  {
+    "index": 154,
+    "title": "Inversion and Figured Bass",
+    "slug": "inversion-and-figured-bass",
+    "url": "https://viva.pressbooks.pub/openmusictheory/chapter/inversion-and-figured-bass/",
+    "kind": "chapter",
+    "status": "publish",
+    "author": "chelseyhamm",
+    "characters": 18414,
+    "file": ".local-library/text/omt2/154-inversion-and-figured-bass.txt",
+    "images": [
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2021/05/Real-Example-12-300x142.png"
+    ],
+    "media": [
+      "https://musescore.com/user/32728834/scores/6839459/embed",
+      "https://musescore.com/user/32728834/scores/6839460/embed",
+      "https://musescore.com/user/32728834/scores/6839461/embed",
+      "https://musescore.com/user/32728834/scores/6839462/embed",
+      "https://musescore.com/user/32728834/scores/6839464/embed",
+      "https://musescore.com/user/32728834/scores/6839465/embed",
+      "https://musescore.com/user/32728834/scores/6839468/embed",
+      "https://musescore.com/user/32728834/scores/6876514/embed",
+      "https://musescore.com/user/32728834/scores/6843779/embed",
+      "https://musescore.com/user/32728834/scores/6843780/embed",
+      "https://musescore.com/user/32728834/scores/6843782/s/mesgHK/embed",
+      "https://musescore.com/user/32728834/scores/6843784/embed",
+      "https://musescore.com/user/32728834/scores/6876603/embed",
+      "https://musescore.com/user/32728834/scores/6843787/embed",
+      "https://musescore.com/user/32728834/scores/6876617/embed",
+      "https://musescore.com/user/32728834/scores/6877976/embed",
+      "https://musescore.com/user/32728834/scores/6878013/embed",
+      "https://musescore.com/user/32728834/scores/6878023/embed"
+    ],
+    "headings": [
+      "Triadic Inversion and Figures",
+      "Identifying Triads",
+      "Seventh Chord Inversion and Figures",
+      "Identifying Seventh Chords",
+      "Other Figured Bass Symbols"
+    ]
+  },
+  {
+    "index": 155,
+    "title": "Twentieth-Century Rhythmic Techniques",
+    "slug": "twentieth-century-rhythmic-techniques",
+    "url": "https://viva.pressbooks.pub/openmusictheory/chapter/twentieth-century-rhythmic-techniques/",
+    "kind": "chapter",
+    "status": "publish",
+    "author": "chelseyhamm",
+    "characters": 18937,
+    "file": ".local-library/text/omt2/155-twentieth-century-rhythmic-techniques.txt",
+    "images": [
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2021/12/Screen-Shot-2022-07-11-at-10.52.08-AM-300x22.png",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2021/12/Screen-Shot-2022-07-11-at-11.09.51-AM-300x21.png"
+    ],
+    "media": [
+      "https://musescore.com/user/32728834/scores/7243425/s/GS6p1r/embed",
+      "https://musescore.com/user/32728834/scores/7397384/embed",
+      "https://musescore.com/user/32728834/scores/7244349/embed",
+      "https://musescore.com/user/32728834/scores/7249470/embed",
+      "https://musescore.com/user/32728834/scores/7930598/embed",
+      "https://musescore.com/user/32728834/scores/8318699/embed",
+      "https://musescore.com/user/32728834/scores/8009242/embed",
+      "https://musescore.com/user/32728834/scores/7268387/s/ORHlO6/embed",
+      "https://musescore.com/user/32728834/scores/8208440/embed",
+      "https://musescore.com/user/32728834/scores/7370069/embed",
+      "https://musescore.com/user/32728834/scores/7370258/embed",
+      "https://musescore.com/user/32728834/scores/7370744/embed",
+      "https://musescore.com/user/32728834/scores/7375673/embed",
+      "https://musescore.com/user/32728834/scores/7365281/embed"
+    ],
+    "headings": [
+      "Asymmetrical Meter",
+      "Ametric Music",
+      "Perceived vs. Notated meter",
+      "Changing Meter",
+      "Polymeter",
+      "Metric Modulation",
+      "Timeline Notation",
+      "Feathered Notes",
+      "Ostinato"
+    ]
+  },
+  {
+    "index": 156,
+    "title": "Mediants",
+    "slug": "mediants",
+    "url": "https://viva.pressbooks.pub/openmusictheory/chapter/mediants/",
+    "kind": "chapter",
+    "status": "publish",
+    "author": "markgotham",
+    "characters": 6813,
+    "file": ".local-library/text/omt2/156-mediants.txt",
+    "images": [],
+    "media": [
+      "https://musescore.com/user/30425053/scores/8135649/embed",
+      "https://musescore.com/user/27638568/scores/5879039/embed"
+    ],
+    "headings": [
+      "Grade 1 (a.k.a. Diatonic)",
+      "Grade 2 (a.k.a. Chromatic)",
+      "Grade 3 (a.k.a. Disjunct, Doubly-Chromatic)",
+      "Summary",
+      "Function and Transformations",
+      "An Example"
+    ]
+  },
+  {
+    "index": 157,
+    "title": "Examples for Sight-counting and Sight-singing: Level 1",
+    "slug": "examples-for-sight-counting-and-sight-singing",
+    "url": "https://viva.pressbooks.pub/openmusictheory/chapter/examples-for-sight-counting-and-sight-singing/",
+    "kind": "chapter",
+    "status": "publish",
+    "author": "chelseyhamm",
+    "characters": 4819,
+    "file": ".local-library/text/omt2/157-examples-for-sight-counting-and-sight-singing.txt",
+    "images": [
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2022/06/OMT-SDR-e1656617611791-287x300.jpg",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2022/07/OMT-T1-CC-e1656706984911-300x68.jpg",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2022/07/OMT-S1-Maj-3-e1657114644431-300x140.jpg",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2022/07/OMT-S1-Min-2-e1657116759903-300x143.jpg",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2022/07/OMT-S1-2PM-e1657120594452-300x126.jpg",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2022/06/OMT-SQR-e1656618135193-290x300.jpg",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2022/07/OMT-S2-2PR-e1657131309755-300x72.jpg",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2020/01/Screen-Shot-2020-05-12-at-3.56.02-PM.png",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2022/07/OMT-S2-Maj-2-e1657135052359-300x218.jpg",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2022/07/OMT-S2-Min-3-e1657202939938-300x221.jpg",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2022/07/OMT-S2-2PM-1-e1657304186640-300x195.jpg",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2022/07/OMT-S3-R-e1657569179616-300x296.jpg",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2022/07/OMT-S3-2PR-e1657305442179-300x70.jpg",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2022/07/OMT-S3-Maj-2-e1657569450534-300x216.jpg",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2022/07/OMT-S3-Min-4-e1657563213827-298x300.jpg",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2022/07/OMT-S3-2PM-3-e1657563731166-300x200.jpg"
+    ],
+    "media": [],
+    "headings": [
+      "Section 1",
+      "Section 2",
+      "Section 3"
+    ]
+  },
+  {
+    "index": 158,
+    "title": "Examples for Sight-counting and Sight-singing: Level 2",
+    "slug": "examples-for-sight-counting-and-sight-singing-level-2",
+    "url": "https://viva.pressbooks.pub/openmusictheory/chapter/examples-for-sight-counting-and-sight-singing-level-2/",
+    "kind": "chapter",
+    "status": "publish",
+    "author": "chelseyhamm",
+    "characters": 3131,
+    "file": ".local-library/text/omt2/158-examples-for-sight-counting-and-sight-singing-level-2.txt",
+    "images": [
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2022/07/OMT-S4-R-2-e1657652011988-290x300.jpg",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2022/07/OMT-S4-2PR-3-e1657652422328-300x75.jpg",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2022/07/OMT-S4-Maj-4-copy-1-e1657895292228-300x266.jpg",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2022/07/OMT-S4-Min-2-copy-e1658341159739-300x264.jpg",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2022/07/OMT-S4-2PM-3-e1659019793142-300x270.jpg",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2022/07/OMT-S5-Rhythms-2-e1658412568382-300x291.jpg",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2022/07/OMT-S5-2PR-e1658412890155-300x68.jpg",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2022/07/OMT-S5-Maj-4-e1658757688843-300x268.jpg",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2022/07/OMT-S5-Min-2--e1658759374812-300x257.jpg",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2022/07/OMT-S5-2PM-2-2-e1659014467286-290x300.jpg",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2022/07/OMT-S6-R-2-e1658760305190-296x300.jpg",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2022/07/OMT-S6-2PR--e1658774921802-300x115.jpg",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2022/07/OMT-S6-Maj-2-1-e1659022418621-300x269.jpg",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2022/07/OMT-S6-Min-2-e1658950414559-294x300.jpg",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2022/07/OMT-S6-2PM-2-1-e1659022671424-300x214.jpg"
+    ],
+    "media": [],
+    "headings": [
+      "Section 4",
+      "Section 5",
+      "Section 6"
+    ]
+  },
+  {
+    "index": 159,
+    "title": "Hypermeter",
+    "slug": "hypermeter",
+    "url": "https://viva.pressbooks.pub/openmusictheory/chapter/hypermeter/",
+    "kind": "chapter",
+    "status": "publish",
+    "author": "markgotham",
+    "characters": 6982,
+    "file": ".local-library/text/omt2/159-hypermeter.txt",
+    "images": [],
+    "media": [
+      "https://musescore.com/user/32728834/scores/8422604/embed",
+      "https://musescore.com/user/32728834/scores/8891598/embed",
+      "https://musescore.com/user/32728834/scores/11018989/embed",
+      "https://musescore.com/user/32728834/scores/11019235/embed",
+      "https://musescore.com/user/8641586/scores/8920656/embed"
+    ],
+    "headings": [
+      "Hypermeter in 3s: \"ritmo de tre battute\"",
+      "Additional levels of 3s at the Fast End?",
+      "Sensible Limits",
+      "Not limited, and perhaps not so sensible either"
+    ]
+  },
+  {
+    "index": 160,
+    "title": "Metrical Dissonance",
+    "slug": "metrical-dissonance",
+    "url": "https://viva.pressbooks.pub/openmusictheory/chapter/metrical-dissonance/",
+    "kind": "chapter",
+    "status": "publish",
+    "author": "markgotham",
+    "characters": 9038,
+    "file": ".local-library/text/omt2/160-metrical-dissonance.txt",
+    "images": [
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2022/10/Lean-300x119.png"
+    ],
+    "media": [
+      "https://musescore.com/user/32728834/scores/8897292/embed",
+      "https://musescore.com/user/32728834/scores/8896674/embed",
+      "https://musescore.com/user/32728834/scores/8897547/embed"
+    ],
+    "headings": [
+      "Types of Metrical Dissonance",
+      "\"Displacement\" Dissonance",
+      "“Grouping” dissonance",
+      "Changing Dissonance"
+    ]
+  },
+  {
+    "index": 161,
+    "title": "Drumbeats",
+    "slug": "drumbeats",
+    "url": "https://viva.pressbooks.pub/openmusictheory/chapter/drumbeats/",
+    "kind": "chapter",
+    "status": "publish",
+    "author": "meganlavengood",
+    "characters": 19208,
+    "file": ".local-library/text/omt2/161-drumbeats.txt",
+    "images": [
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2022/12/drum_set-1024x772.png",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2022/12/drum_key-e1687967119512-1024x195.png",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2022/12/feel-chart.001-e1681063845474-1024x319.png"
+    ],
+    "media": [
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2023/07/snare.mp3",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2023/07/kick.mp3",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2023/07/toms.mp3",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2023/07/ride.mp3",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2023/07/hi-hat.mp3",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2023/07/crash.mp3",
+      "https://musescore.com/user/32728834/scores/10460137/embed",
+      "https://musescore.com/user/32728834/scores/11302333/embed",
+      "https://musescore.com/user/32728834/scores/11302186/embed",
+      "https://musescore.com/user/32728834/scores/11302207/embed",
+      "https://musescore.com/user/32728834/scores/11302228/embed",
+      "https://musescore.com/user/32728834/scores/11346568/embed",
+      "https://musescore.com/user/32728834/scores/11302264/embed",
+      "https://musescore.com/user/32728834/scores/11302255/embed",
+      "https://musescore.com/user/32728834/scores/11302321/embed",
+      "https://musescore.com/user/32728834/scores/10461091/embed",
+      "https://musescore.com/user/32728834/scores/11302192/embed"
+    ],
+    "headings": [
+      "The Acoustic Drum Kit",
+      "Five-Line Staff Notation for Drum Kit",
+      "The Snare Drum and the Backbeat",
+      "Non-Snare Backbeats",
+      "Half- and Double-Time Feels",
+      "Dembow",
+      "The Kick Drum",
+      "Cymbals",
+      "Compound Quadruple and Simple Triple Drumbeats"
+    ]
+  },
+  {
+    "index": 162,
+    "title": "Introduction",
+    "slug": "introduction",
+    "url": "https://viva.pressbooks.pub/openmusictheory/front-matter/introduction/",
+    "kind": "front-matter",
+    "status": "publish",
+    "author": "meganlavengood",
+    "characters": 6015,
+    "file": ".local-library/text/omt2/162-introduction.txt",
+    "images": [
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2021/07/OMT-cover-lower-res-1-683x1024.png",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2019/04/table-of-contents-150x150.png",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2019/04/musescore-embed-150x150.png",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2021/06/interactive-content-150x150.png",
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2019/04/workbook-150x150.png"
+    ],
+    "media": [],
+    "headings": [
+      "Features",
+      "Version 2",
+      "Accessibility",
+      "Updates",
+      "Resources and Community for Instructors"
+    ]
+  },
+  {
+    "index": 163,
+    "title": "Acknowledgments",
+    "slug": "acknowledgments",
+    "url": "https://viva.pressbooks.pub/openmusictheory/front-matter/acknowledgments/",
+    "kind": "front-matter",
+    "status": "publish",
+    "author": "meganlavengood",
+    "characters": 2885,
+    "file": ".local-library/text/omt2/163-acknowledgments.txt",
+    "images": [],
+    "media": [],
+    "headings": [
+      "Authorship",
+      "Contributors",
+      "Artwork",
+      "Financial Support",
+      "Version 2",
+      "Version 1"
+    ]
+  },
+  {
+    "index": 164,
+    "title": "Statement on Spotify Usage",
+    "slug": "statement-on-spotify-usage",
+    "url": "https://viva.pressbooks.pub/openmusictheory/front-matter/statement-on-spotify-usage/",
+    "kind": "front-matter",
+    "status": "publish",
+    "author": "meganlavengood",
+    "characters": 596,
+    "file": ".local-library/text/omt2/164-statement-on-spotify-usage.txt",
+    "images": [
+      "https://viva.pressbooks.pub/app/uploads/sites/12/2019/06/twitter-screenshot-300x193.png"
+    ],
+    "media": [],
+    "headings": []
+  },
+  {
+    "index": 173,
+    "title": "Instructor Resources",
+    "slug": "instructor-resources",
+    "url": "https://viva.pressbooks.pub/openmusictheory/front-matter/instructor-resources/",
+    "kind": "front-matter",
+    "status": "publish",
+    "author": "meganlavengood",
+    "characters": 468,
+    "file": ".local-library/text/omt2/173-instructor-resources.txt",
+    "images": [],
+    "media": [
+      "https://docs.google.com/forms/d/e/1FAIpQLSeyFYqmFuRvcdvZb-xmP2vjBtE1g7IwVf1BrKFEOoTogNQZ_Q/viewform?embedded=true"
+    ],
+    "headings": []
+  },
+  {
+    "index": 176,
+    "title": "Changelog",
+    "slug": "changelog",
+    "url": "https://viva.pressbooks.pub/openmusictheory/front-matter/changelog/",
+    "kind": "front-matter",
+    "status": "publish",
+    "author": "meganlavengood",
+    "characters": 963,
+    "file": ".local-library/text/omt2/176-changelog.txt",
+    "images": [],
+    "media": [],
+    "headings": [
+      "Summer 2022"
+    ]
+  },
+  {
+    "index": 177,
+    "title": "Für Deutschsprachige",
+    "slug": "fuer-deutschsprachige",
+    "url": "https://viva.pressbooks.pub/openmusictheory/front-matter/fuer-deutschsprachige/",
+    "kind": "front-matter",
+    "status": "publish",
+    "author": "meganlavengood",
+    "characters": 5249,
+    "file": ".local-library/text/omt2/177-fuer-deutschsprachige.txt",
+    "images": [],
+    "media": [],
+    "headings": [
+      "Herzlich willkommen zu Open Music Theory!",
+      "Welcome to Open Music Theory!"
+    ]
+  },
+  {
+    "index": 178,
+    "title": "Pour les francophones",
+    "slug": "pour-les-francophones",
+    "url": "https://viva.pressbooks.pub/openmusictheory/front-matter/pour-les-francophones/",
+    "kind": "front-matter",
+    "status": "publish",
+    "author": "markgotham",
+    "characters": 4865,
+    "file": ".local-library/text/omt2/178-pour-les-francophones.txt",
+    "images": [],
+    "media": [],
+    "headings": [
+      "Bienvenue dans l’Open Music Theory!",
+      "Welcome to Open Music Theory!"
+    ]
+  },
+  {
+    "index": 179,
+    "title": "Helpful documents",
+    "slug": "helpful-documents",
+    "url": "https://viva.pressbooks.pub/openmusictheory/front-matter/helpful-documents/",
+    "kind": "front-matter",
+    "status": "publish",
+    "author": "meganlavengood",
+    "characters": 365,
+    "file": ".local-library/text/omt2/179-helpful-documents.txt",
+    "images": [],
+    "media": [],
+    "headings": [
+      "Staff paper",
+      "Set Theory",
+      "Technology"
+    ]
+  },
+  {
+    "index": 181,
+    "title": "I. Fundamentals",
+    "slug": "fundamentals",
+    "url": "https://viva.pressbooks.pub/openmusictheory/part/fundamentals/",
+    "kind": "part",
+    "status": "publish",
+    "author": "meganlavengood",
+    "characters": 3024,
+    "file": ".local-library/text/omt2/181-fundamentals.txt",
+    "images": [],
+    "media": [],
+    "headings": [
+      "Prerequisites",
+      "Organization",
+      "Audience"
+    ]
+  },
+  {
+    "index": 182,
+    "title": "II. Counterpoint and Galant Schemas",
+    "slug": "counterpoint",
+    "url": "https://viva.pressbooks.pub/openmusictheory/part/counterpoint/",
+    "kind": "part",
+    "status": "publish",
+    "author": "brynhughes",
+    "characters": 2136,
+    "file": ".local-library/text/omt2/182-counterpoint.txt",
+    "images": [],
+    "media": [],
+    "headings": [
+      "Prerequisites",
+      "Organization"
+    ]
+  },
+  {
+    "index": 183,
+    "title": "Strict Four-Voice Composition, Partimenti, and Schemata",
+    "slug": "strict-four-voice-composition",
+    "url": "https://viva.pressbooks.pub/openmusictheory/part/strict-four-voice-composition/",
+    "kind": "part",
+    "status": "publish",
+    "author": "brynhughes",
+    "characters": 0,
+    "file": ".local-library/text/omt2/183-strict-four-voice-composition.txt",
+    "images": [],
+    "media": [],
+    "headings": []
+  },
+  {
+    "index": 184,
+    "title": "IV. Diatonic Harmony, Tonicization, and Modulation",
+    "slug": "diatonic-harmony",
+    "url": "https://viva.pressbooks.pub/openmusictheory/part/diatonic-harmony/",
+    "kind": "part",
+    "status": "publish",
+    "author": "brynhughes",
+    "characters": 2321,
+    "file": ".local-library/text/omt2/184-diatonic-harmony.txt",
+    "images": [],
+    "media": [],
+    "headings": [
+      "Prerequisites",
+      "Organization"
+    ]
+  },
+  {
+    "index": 185,
+    "title": "III. Form",
+    "slug": "form",
+    "url": "https://viva.pressbooks.pub/openmusictheory/part/form/",
+    "kind": "part",
+    "status": "publish",
+    "author": "brynhughes",
+    "characters": 1662,
+    "file": ".local-library/text/omt2/185-form.txt",
+    "images": [],
+    "media": [],
+    "headings": [
+      "Prerequisites",
+      "Organization"
+    ]
+  },
+  {
+    "index": 186,
+    "title": "VII. Popular Music",
+    "slug": "popular-music",
+    "url": "https://viva.pressbooks.pub/openmusictheory/part/popular-music/",
+    "kind": "part",
+    "status": "publish",
+    "author": "brynhughes",
+    "characters": 1438,
+    "file": ".local-library/text/omt2/186-popular-music.txt",
+    "images": [],
+    "media": [],
+    "headings": [
+      "Prerequisites",
+      "Organization"
+    ]
+  },
+  {
+    "index": 187,
+    "title": "VIII. 20th- and 21st-Century Techniques",
+    "slug": "20th-and-21st-century-techniques",
+    "url": "https://viva.pressbooks.pub/openmusictheory/part/20th-and-21st-century-techniques/",
+    "kind": "part",
+    "status": "publish",
+    "author": "brynhughes",
+    "characters": 1303,
+    "file": ".local-library/text/omt2/187-20th-and-21st-century-techniques.txt",
+    "images": [],
+    "media": [],
+    "headings": [
+      "Prerequisites",
+      "Organization"
+    ]
+  },
+  {
+    "index": 188,
+    "title": "IX. Twelve-Tone Music",
+    "slug": "twelve-tone-music",
+    "url": "https://viva.pressbooks.pub/openmusictheory/part/twelve-tone-music/",
+    "kind": "part",
+    "status": "publish",
+    "author": "brynhughes",
+    "characters": 1996,
+    "file": ".local-library/text/omt2/188-twelve-tone-music.txt",
+    "images": [],
+    "media": [],
+    "headings": [
+      "Prerequisites",
+      "Organization",
+      "Anthology"
+    ]
+  },
+  {
+    "index": 189,
+    "title": "Developer",
+    "slug": "developer",
+    "url": "https://viva.pressbooks.pub/openmusictheory/part/developer/",
+    "kind": "part",
+    "status": "publish",
+    "author": "meganlavengood",
+    "characters": 56,
+    "file": ".local-library/text/omt2/189-developer.txt",
+    "images": [],
+    "media": [],
+    "headings": []
+  },
+  {
+    "index": 190,
+    "title": "Anthology",
+    "slug": "anthology",
+    "url": "https://viva.pressbooks.pub/openmusictheory/part/anthology/",
+    "kind": "part",
+    "status": "publish",
+    "author": "markgotham",
+    "characters": 838,
+    "file": ".local-library/text/omt2/190-anthology.txt",
+    "images": [],
+    "media": [],
+    "headings": [
+      "Prerequisites",
+      "Organization",
+      "Other info"
+    ]
+  },
+  {
+    "index": 191,
+    "title": "X. Orchestration",
+    "slug": "orchestration",
+    "url": "https://viva.pressbooks.pub/openmusictheory/part/orchestration/",
+    "kind": "part",
+    "status": "publish",
+    "author": "markgotham",
+    "characters": 1776,
+    "file": ".local-library/text/omt2/191-orchestration.txt",
+    "images": [],
+    "media": [],
+    "headings": [
+      "Prerequisites",
+      "Organization",
+      "Repertoire"
+    ]
+  },
+  {
+    "index": 192,
+    "title": "VI. Jazz",
+    "slug": "jazz",
+    "url": "https://viva.pressbooks.pub/openmusictheory/part/jazz/",
+    "kind": "part",
+    "status": "publish",
+    "author": "meganlavengood",
+    "characters": 1636,
+    "file": ".local-library/text/omt2/192-jazz.txt",
+    "images": [],
+    "media": [],
+    "headings": [
+      "Prerequisites",
+      "Organization"
+    ]
+  },
+  {
+    "index": 193,
+    "title": "V. Chromaticism",
+    "slug": "chromaticism",
+    "url": "https://viva.pressbooks.pub/openmusictheory/part/chromaticism/",
+    "kind": "part",
+    "status": "publish",
+    "author": "meganlavengood",
+    "characters": 3695,
+    "file": ".local-library/text/omt2/193-chromaticism.txt",
+    "images": [],
+    "media": [],
+    "headings": [
+      "Prerequisites",
+      "Organization"
+    ]
+  },
+  {
+    "index": 195,
+    "title": "ideas for new chapters",
+    "slug": "ideas",
+    "url": "https://viva.pressbooks.pub/openmusictheory/part/ideas/",
+    "kind": "part",
+    "status": "publish",
+    "author": "meganlavengood",
+    "characters": 0,
+    "file": ".local-library/text/omt2/195-ideas.txt",
+    "images": [],
+    "media": [],
+    "headings": []
+  },
+  {
+    "index": 196,
+    "title": "Workbook",
+    "slug": "workbook",
+    "url": "https://viva.pressbooks.pub/openmusictheory/part/workbook/",
+    "kind": "part",
+    "status": "publish",
+    "author": "meganlavengood",
+    "characters": 0,
+    "file": ".local-library/text/omt2/196-workbook.txt",
+    "images": [],
+    "media": [],
+    "headings": []
+  },
+  {
+    "index": 198,
+    "title": "scrapyard",
+    "slug": "scrapyard",
+    "url": "https://viva.pressbooks.pub/openmusictheory/part/scrapyard/",
+    "kind": "part",
+    "status": "publish",
+    "author": "meganlavengood",
+    "characters": 74,
+    "file": ".local-library/text/omt2/198-scrapyard.txt",
+    "images": [],
+    "media": [],
+    "headings": []
+  },
+  {
+    "index": 199,
+    "title": "Chapters in Development",
+    "slug": "chapters-in-development",
+    "url": "https://viva.pressbooks.pub/openmusictheory/part/chapters-in-development/",
+    "kind": "part",
+    "status": "publish",
+    "author": "meganlavengood",
+    "characters": 363,
+    "file": ".local-library/text/omt2/199-chapters-in-development.txt",
+    "images": [],
+    "media": [],
+    "headings": []
+  }
+]

@@ -1,0 +1,327 @@
+project: 现代流行键盘中文自学教材
+audit_date: '2026-10-26'
+phase: source_reading_only_no_textbook_prose
+primary_whitelist:
+- S1
+- S2
+- S3
+sources:
+- id: S1
+  title: Berklee Online Music Theory, Harmony & Ear Training Handbook
+  role: PRIMARY_TEXT
+  license: copyrighted_no_open_redistribution_permission_identified
+  read_status: all_extractable_text_read
+  pdf_pages: 76
+  raw_publication: false
+  downloads:
+  - id: S1
+    url: https://assets.online.berklee.edu/handbooks/berklee-online-music-theory-harmony-and-ear-training-handbook.pdf
+    file: .local-library/raw/berklee-theory.pdf
+    retrieved_at: '2026-10-26T13:33:15.470016+00:00'
+    status: 200
+    final_url: https://assets.online.berklee.edu/handbooks/berklee-online-music-theory-harmony-and-ear-training-handbook.pdf
+    content_type: application/pdf
+    bytes: 19347141
+    sha256: 6b773ccd4c757cccff553b38bed99284c9ed076c4471473c2591186531a3da6c
+- id: S2
+  title: Berklee Online Piano Handbook
+  role: PRIMARY_TEXT
+  license: copyrighted_no_open_redistribution_permission_identified
+  read_status: all_extractable_text_read
+  pdf_pages: 90
+  raw_publication: false
+  downloads:
+  - id: S2
+    url: https://assets.online.berklee.edu/handbooks/berklee-online-piano-handbook.pdf
+    file: .local-library/raw/berklee-piano.pdf
+    retrieved_at: '2026-10-26T13:33:15.470576+00:00'
+    status: 200
+    final_url: https://assets.online.berklee.edu/handbooks/berklee-online-piano-handbook.pdf
+    content_type: application/pdf
+    bytes: 24784740
+    sha256: 866a921ad9bcb8fe0341f466d0b757a55589ca1f69ba0ed1d7fb5db9df46bdec
+- id: S3
+  title: Open Music Theory Version 2
+  role: PRIMARY_TEXT
+  license: CC-BY-SA-4.0-except-otherwise-noted
+  read_status: selected_expository_text_read
+  pdf_pages: 1297
+  raw_publication: false
+  downloads:
+  - id: S3
+    url: https://viva.pressbooks.pub/openmusictheory/
+    file: .local-library/raw/omt2-viva.html
+    retrieved_at: '2026-10-26T13:33:15.471440+00:00'
+    status: 200
+    final_url: https://viva.pressbooks.pub/openmusictheory/
+    content_type: text/html; charset=UTF-8
+    bytes: 208798
+    sha256: 7984fc21c1170e7e0e571ab911632959c5a43dd9ac748c1bb2f175e106b2cddc
+  - id: S3-PDF
+    url: https://viva.pressbooks.pub/openmusictheory/open/download?type=pdf
+    file: .local-library/raw/omt2.pdf
+    retrieved_at: '2026-10-26T13:34:30.020035+00:00'
+    status: 200
+    final_url: https://viva.pressbooks.pub/openmusictheory/open/download?type=pdf
+    content_type: application/pdf; charset=binary
+    bytes: 17906219
+    sha256: 7ec47f487b1d4d8a1e128a6e35045fed9da8ae61b7a9c2d9e8b12d4a43544293
+  - id: S3-XML
+    url: https://viva.pressbooks.pub/openmusictheory/open/download?type=wxr
+    file: .local-library/raw/omt2.xml
+    retrieved_at: '2026-10-26T13:34:41.976213+00:00'
+    status: 200
+    final_url: https://viva.pressbooks.pub/openmusictheory/open/download?type=wxr
+    content_type: text/xml; charset=utf-8
+    bytes: 11548867
+    sha256: a97f3b526b7ffa59c91b06601225938fcd16820dd14b2971bec56b5960f964b2
+- id: S4
+  title: Berklee Online Electronic Music Production & Sound Design Handbook
+  role: LATER_SPECIALTY
+  license: copyrighted_no_open_redistribution_permission_identified
+  read_status: all_extractable_text_read
+  pdf_pages: 100
+  raw_publication: false
+  downloads:
+  - id: S4
+    url: https://assets.online.berklee.edu/handbooks/berklee-online-electronic-music-production-and-sound-design-handbook.pdf
+    file: .local-library/raw/berklee-sound-design.pdf
+    retrieved_at: '2026-10-26T13:33:15.471115+00:00'
+    status: 200
+    final_url: https://assets.online.berklee.edu/handbooks/berklee-online-electronic-music-production-and-sound-design-handbook.pdf
+    content_type: application/pdf
+    bytes: 20174859
+    sha256: a4444849d8425517ca7096bd93a35f0b59509608e0fdbb0da89bacea48d82cc9
+- id: S5
+  title: Berklee PULSE Effective Practice
+  role: PEDAGOGY
+  license: copyrighted_no_open_redistribution_permission_identified
+  read_status: five_lesson_plans_and_five_transcripts_read
+  pdf_pages: null
+  raw_publication: false
+  downloads:
+  - id: S5
+    url: https://pulse.berklee.edu/casio?id=5&lang=en
+    file: .local-library/raw/pulse-practice.html
+    retrieved_at: '2026-10-26T13:33:24.643680+00:00'
+    status: 200
+    final_url: https://pulse.berklee.edu/casio?id=5&lang=en
+    content_type: text/html; charset=UTF-8
+    bytes: 18171
+    sha256: ad1ae9bbce6102f19d75766bcfc654a50f86813ad8c74be088f2d5dbe0419503
+  - id: S5-PDF-1
+    url: https://pulse.berklee.edu/content/public/pub_unit_assets/Casio_Video_Series/Effective
+      Practice Unit_National_Standards.pdf
+    file: .local-library/raw/pulse-1.pdf
+    retrieved_at: '2026-10-26T13:39:53.412712+00:00'
+    status: 200
+    final_url: https://pulse.berklee.edu/content/public/pub_unit_assets/Casio_Video_Series/Effective%20Practice%20Unit_National_Standards.pdf
+    content_type: application/pdf
+    bytes: 185641
+    sha256: 81d51f76faa2eaf9b50f7b9242be518aac479fcd51f94620bcb65d6b22fc506a
+  - id: S5-PDF-2
+    url: https://pulse.berklee.edu/content/public/pub_unit_assets/Casio_Video_Series/video_1/Lesson1_planning_practice_routine.pdf
+    file: .local-library/raw/pulse-2.pdf
+    retrieved_at: '2026-10-26T13:39:56.858118+00:00'
+    status: 200
+    final_url: https://pulse.berklee.edu/content/public/pub_unit_assets/Casio_Video_Series/video_1/Lesson1_planning_practice_routine.pdf
+    content_type: application/pdf
+    bytes: 108911
+    sha256: 34faf90f9308d7707f29184904d524faa75c79207843793fc086e97fbba7f35a
+  - id: S5-PDF-3
+    url: https://pulse.berklee.edu/content/public/pub_unit_assets/Casio_Video_Series/video_2/Lesson2_practicing_technique.pdf
+    file: .local-library/raw/pulse-3.pdf
+    retrieved_at: '2026-10-26T13:40:00.343616+00:00'
+    status: 200
+    final_url: https://pulse.berklee.edu/content/public/pub_unit_assets/Casio_Video_Series/video_2/Lesson2_practicing_technique.pdf
+    content_type: application/pdf
+    bytes: 116786
+    sha256: 91b398322e0dc3a8705e81dce8c3c305ffb530af8709612ac911444f58745131
+  - id: S5-PDF-4
+    url: https://pulse.berklee.edu/content/public/pub_unit_assets/Casio_Video_Series/video_3/Lesson
+      3_practicing repertoire.pdf
+    file: .local-library/raw/pulse-4.pdf
+    retrieved_at: '2026-10-26T13:40:04.721070+00:00'
+    status: 200
+    final_url: https://pulse.berklee.edu/content/public/pub_unit_assets/Casio_Video_Series/video_3/Lesson%203_practicing%20repertoire.pdf
+    content_type: application/pdf
+    bytes: 117948
+    sha256: 0eebd3a045081270c21b912c561d1e655d386e55b81ea509c0cd0efd723d757e
+  - id: S5-PDF-5
+    url: https://pulse.berklee.edu/content/public/pub_unit_assets/Casio_Video_Series/video_4/lesson4_practicing_improv.pdf
+    file: .local-library/raw/pulse-5.pdf
+    retrieved_at: '2026-10-26T13:40:08.937551+00:00'
+    status: 200
+    final_url: https://pulse.berklee.edu/content/public/pub_unit_assets/Casio_Video_Series/video_4/lesson4_practicing_improv.pdf
+    content_type: application/pdf
+    bytes: 97764
+    sha256: e5fbdb484c726c9f710e45a22f340bdd4b8dd41f217f90c6935f573b7c381059
+  - id: S5-PDF-6
+    url: https://pulse.berklee.edu/content/public/pub_unit_assets/Casio_Video_Series/video_5/lesson5_self_assessment.pdf
+    file: .local-library/raw/pulse-6.pdf
+    retrieved_at: '2026-10-26T13:40:13.574305+00:00'
+    status: 200
+    final_url: https://pulse.berklee.edu/content/public/pub_unit_assets/Casio_Video_Series/video_5/lesson5_self_assessment.pdf
+    content_type: application/pdf
+    bytes: 104874
+    sha256: cea8df75a7e38f85506dd60205ca32250773bb10f15a242f6b60cd249d7a0cac
+  - id: S5-EXTRA-1
+    url: https://pulse.berklee.edu/content/public/pub_unit_assets/Casio_Video_Series/video_1/Planning
+      for an Effective Practice Routine_video transcript.pdf
+    file: .local-library/raw/pulse-extra-01.pdf
+    retrieved_at: '2026-10-26T13:47:42.616602+00:00'
+    status: 200
+    final_url: https://pulse.berklee.edu/content/public/pub_unit_assets/Casio_Video_Series/video_1/Planning%20for%20an%20Effective%20Practice%20Routine_video%20transcript.pdf
+    content_type: application/pdf
+    bytes: 82520
+    sha256: d05552b3677e9b6bde58c5b993119a7740054bc3e4cbe547fbaac7bd6e8bebdc
+  - id: S5-EXTRA-2
+    url: https://pulse.berklee.edu/content/public/pub_unit_assets/Casio_Video_Series/video_1/PracticeJournal.pdf
+    file: .local-library/raw/pulse-extra-02.pdf
+    retrieved_at: '2026-10-26T13:47:42.617785+00:00'
+    status: 200
+    final_url: https://pulse.berklee.edu/content/public/pub_unit_assets/Casio_Video_Series/video_1/PracticeJournal.pdf
+    content_type: application/pdf
+    bytes: 228940
+    sha256: bb09c7fe596a9adb82adc3fd0dfc54decbe899a185e0cf7751600b51969b3a71
+  - id: S5-EXTRA-3
+    url: https://pulse.berklee.edu/content/public/pub_unit_assets/Casio_Video_Series/video_1/Video1
+      Key Points Quiz_Scavenger Hunt.pdf
+    file: .local-library/raw/pulse-extra-03.pdf
+    retrieved_at: '2026-10-26T13:47:42.619035+00:00'
+    status: 200
+    final_url: https://pulse.berklee.edu/content/public/pub_unit_assets/Casio_Video_Series/video_1/Video1%20Key%20Points%20Quiz_Scavenger%20Hunt.pdf
+    content_type: application/pdf
+    bytes: 95717
+    sha256: 631c9e1f8ad3c26af31cadc21ec2945c937ef4ed42b596f31a629e41e1b0cfcf
+  - id: S5-EXTRA-4
+    url: https://pulse.berklee.edu/content/public/pub_unit_assets/Casio_Video_Series/video_2/Practicing
+      Technique_video transcript.pdf
+    file: .local-library/raw/pulse-extra-04.pdf
+    retrieved_at: '2026-10-26T13:47:42.619390+00:00'
+    status: 200
+    final_url: https://pulse.berklee.edu/content/public/pub_unit_assets/Casio_Video_Series/video_2/Practicing%20Technique_video%20transcript.pdf
+    content_type: application/pdf
+    bytes: 80792
+    sha256: 5bc5c6043f4d9f32dfb840e8fc63f3b2f1501ce5b8c289cec3a87220182f1f53
+  - id: S5-EXTRA-5
+    url: https://pulse.berklee.edu/content/public/pub_unit_assets/Casio_Video_Series/video_2/Video2
+      Key Points Quiz_Scavenger Hunt.pdf
+    file: .local-library/raw/pulse-extra-05.pdf
+    retrieved_at: '2026-10-26T13:47:45.397996+00:00'
+    status: 200
+    final_url: https://pulse.berklee.edu/content/public/pub_unit_assets/Casio_Video_Series/video_2/Video2%20Key%20Points%20Quiz_Scavenger%20Hunt.pdf
+    content_type: application/pdf
+    bytes: 112578
+    sha256: 91bf7065bb1c7c725f73fd130ef7817cfb3136e2242a96ec8a310ee702ea6b4e
+  - id: S5-EXTRA-6
+    url: https://pulse.berklee.edu/content/public/pub_unit_assets/Casio_Video_Series/video_3/Practicing
+      Repertoire_video transcript.pdf
+    file: .local-library/raw/pulse-extra-06.pdf
+    retrieved_at: '2026-10-26T13:47:45.744544+00:00'
+    status: 200
+    final_url: https://pulse.berklee.edu/content/public/pub_unit_assets/Casio_Video_Series/video_3/Practicing%20Repertoire_video%20transcript.pdf
+    content_type: application/pdf
+    bytes: 76933
+    sha256: d76f3ab7aa1b6d575f4160241c5891dd6ae3c3c4489a40055f8f244dba9b3bad
+  - id: S5-EXTRA-7
+    url: https://pulse.berklee.edu/content/public/pub_unit_assets/Casio_Video_Series/video_3/TR_Rhythm_Changes.pdf
+    file: .local-library/raw/pulse-extra-07.pdf
+    retrieved_at: '2026-10-26T13:47:45.747405+00:00'
+    status: 200
+    final_url: https://pulse.berklee.edu/content/public/pub_unit_assets/Casio_Video_Series/video_3/TR_Rhythm_Changes.pdf
+    content_type: application/pdf
+    bytes: 260912
+    sha256: 9488251462ba5bd72e69655e642b223ec43defe589973ccfbf2e4fa108b0307a
+  - id: S5-EXTRA-8
+    url: https://pulse.berklee.edu/content/public/pub_unit_assets/Casio_Video_Series/video_3/Video3
+      Key Points Quiz_Scavenger Hunt.pdf
+    file: .local-library/raw/pulse-extra-08.pdf
+    retrieved_at: '2026-10-26T13:47:46.572249+00:00'
+    status: 200
+    final_url: https://pulse.berklee.edu/content/public/pub_unit_assets/Casio_Video_Series/video_3/Video3%20Key%20Points%20Quiz_Scavenger%20Hunt.pdf
+    content_type: application/pdf
+    bytes: 79535
+    sha256: d98a050d11159953eb0b827f02242be7b4fc132c385cbcd35890db9bf46bf63e
+  - id: S5-EXTRA-9
+    url: https://pulse.berklee.edu/content/public/pub_unit_assets/Casio_Video_Series/video_4/Practicing
+      Improvisation_video transcript.pdf
+    file: .local-library/raw/pulse-extra-09.pdf
+    retrieved_at: '2026-10-26T13:47:48.133243+00:00'
+    status: 200
+    final_url: https://pulse.berklee.edu/content/public/pub_unit_assets/Casio_Video_Series/video_4/Practicing%20Improvisation_video%20transcript.pdf
+    content_type: application/pdf
+    bytes: 94265
+    sha256: e3cb6b99775dc2883c9aed94f2199f4e2c02a79163ac4eff2dc8180d36c7371e
+  - id: S5-EXTRA-10
+    url: https://pulse.berklee.edu/content/public/pub_unit_assets/Casio_Video_Series/video_4/Video4
+      Key Points Quiz_Scavenger Hunt.pdf
+    file: .local-library/raw/pulse-extra-10.pdf
+    retrieved_at: '2026-10-26T13:47:48.486452+00:00'
+    status: 200
+    final_url: https://pulse.berklee.edu/content/public/pub_unit_assets/Casio_Video_Series/video_4/Video4%20Key%20Points%20Quiz_Scavenger%20Hunt.pdf
+    content_type: application/pdf
+    bytes: 78796
+    sha256: ca9cf00c3ad652cc30c4f8eb7258cb02fa925aeec05147a4e8a2716f91258ea9
+  - id: S5-EXTRA-11
+    url: https://pulse.berklee.edu/content/public/pub_unit_assets/Casio_Video_Series/video_5/Self_Assessment
+      As A Way To Improve_video transcript.pdf
+    file: .local-library/raw/pulse-extra-11.pdf
+    retrieved_at: '2026-10-26T13:47:49.256422+00:00'
+    status: 200
+    final_url: https://pulse.berklee.edu/content/public/pub_unit_assets/Casio_Video_Series/video_5/Self_Assessment%20As%20A%20Way%20To%20Improve_video%20transcript.pdf
+    content_type: application/pdf
+    bytes: 80176
+    sha256: 38ebf188d24cab039bc9dcec86117ca2b60882a6f606c4d0706d9b6672c86834
+  - id: S5-EXTRA-12
+    url: https://pulse.berklee.edu/content/public/pub_unit_assets/Casio_Video_Series/video_5/can_you_dig_it.pdf
+    file: .local-library/raw/pulse-extra-12.pdf
+    retrieved_at: '2026-10-26T13:47:50.176212+00:00'
+    status: 200
+    final_url: https://pulse.berklee.edu/content/public/pub_unit_assets/Casio_Video_Series/video_5/can_you_dig_it.pdf
+    content_type: application/pdf
+    bytes: 144998
+    sha256: 8e8ad1b9aea2f7345cde01c7a86968413ee47be4c0b2b6fc3d1913b83d9b62cc
+- id: C1
+  role: CURRICULUM_SPEC
+  url: https://online.berklee.edu/courses/piano-chords-101
+  read_status: description_syllabus_prerequisites_and_textbook_requirements_read
+  raw_publication: false
+- id: C2
+  role: CURRICULUM_SPEC
+  url: https://online.berklee.edu/courses/pop-rock-keyboard
+  read_status: description_syllabus_prerequisites_and_textbook_requirements_read
+  raw_publication: false
+- id: C3
+  role: CURRICULUM_SPEC
+  url: https://online.berklee.edu/courses/berklee-keyboard-method
+  read_status: description_syllabus_prerequisites_and_textbook_requirements_read
+  raw_publication: false
+- id: C4
+  role: CURRICULUM_SPEC
+  url: https://online.berklee.edu/courses/arranging-1-rhythm-section
+  read_status: description_syllabus_prerequisites_and_textbook_requirements_read
+  raw_publication: false
+- id: C5
+  role: CURRICULUM_SPEC
+  url: https://online.berklee.edu/courses/keyboards-for-live-performance-techniques-and-technology
+  read_status: description_syllabus_prerequisites_and_textbook_requirements_read
+  raw_publication: false
+- id: G1
+  role: PRODUCTION_WORKFLOW
+  repository: xx-hub/craft-your-textbook
+  commit: 3f7a2a7739766e91c2b2d1e0e70f705494241288
+  read_status: selected_workflow_documents_read_see_github_review
+  raw_publication: false
+- id: G2
+  role: PRODUCTION_WORKFLOW
+  repository: dmccreary/ibook-skills
+  commit: 1f6a90ad8bd547a25f77656a5ccf49fd8e89edda
+  read_status: selected_workflow_documents_read_see_github_review
+  raw_publication: false
+- id: G3
+  role: PRODUCTION_WORKFLOW
+  repository: anthropics/skills
+  commit: dbd4588f9e1033efb41dad4bef2f7947c8993d44
+  read_status: selected_workflow_documents_read_see_github_review
+  raw_publication: false

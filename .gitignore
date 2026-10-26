@@ -1,0 +1,7 @@
+.local-library/
+.local-inputs/
+__pycache__/
+.venv/
+.env
+.env.*
+*.log

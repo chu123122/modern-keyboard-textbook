@@ -1,0 +1,68 @@
+[
+  {
+    "id": "S5-PDF-1",
+    "url": "https://pulse.berklee.edu/content/public/pub_unit_assets/Casio_Video_Series/Effective Practice Unit_National_Standards.pdf",
+    "file": ".local-library/raw/pulse-1.pdf",
+    "retrieved_at": "2026-10-26T13:39:53.412712+00:00",
+    "status": 200,
+    "final_url": "https://pulse.berklee.edu/content/public/pub_unit_assets/Casio_Video_Series/Effective%20Practice%20Unit_National_Standards.pdf",
+    "content_type": "application/pdf",
+    "bytes": 185641,
+    "sha256": "81d51f76faa2eaf9b50f7b9242be518aac479fcd51f94620bcb65d6b22fc506a"
+  },
+  {
+    "id": "S5-PDF-2",
+    "url": "https://pulse.berklee.edu/content/public/pub_unit_assets/Casio_Video_Series/video_1/Lesson1_planning_practice_routine.pdf",
+    "file": ".local-library/raw/pulse-2.pdf",
+    "retrieved_at": "2026-10-26T13:39:56.858118+00:00",
+    "status": 200,
+    "final_url": "https://pulse.berklee.edu/content/public/pub_unit_assets/Casio_Video_Series/video_1/Lesson1_planning_practice_routine.pdf",
+    "content_type": "application/pdf",
+    "bytes": 108911,
+    "sha256": "34faf90f9308d7707f29184904d524faa75c79207843793fc086e97fbba7f35a"
+  },
+  {
+    "id": "S5-PDF-3",
+    "url": "https://pulse.berklee.edu/content/public/pub_unit_assets/Casio_Video_Series/video_2/Lesson2_practicing_technique.pdf",
+    "file": ".local-library/raw/pulse-3.pdf",
+    "retrieved_at": "2026-10-26T13:40:00.343616+00:00",
+    "status": 200,
+    "final_url": "https://pulse.berklee.edu/content/public/pub_unit_assets/Casio_Video_Series/video_2/Lesson2_practicing_technique.pdf",
+    "content_type": "application/pdf",
+    "bytes": 116786,
+    "sha256": "91b398322e0dc3a8705e81dce8c3c305ffb530af8709612ac911444f58745131"
+  },
+  {
+    "id": "S5-PDF-4",
+    "url": "https://pulse.berklee.edu/content/public/pub_unit_assets/Casio_Video_Series/video_3/Lesson 3_practicing repertoire.pdf",
+    "file": ".local-library/raw/pulse-4.pdf",
+    "retrieved_at": "2026-10-26T13:40:04.721070+00:00",
+    "status": 200,
+    "final_url": "https://pulse.berklee.edu/content/public/pub_unit_assets/Casio_Video_Series/video_3/Lesson%203_practicing%20repertoire.pdf",
+    "content_type": "application/pdf",
+    "bytes": 117948,
+    "sha256": "0eebd3a045081270c21b912c561d1e655d386e55b81ea509c0cd0efd723d757e"
+  },
+  {
+    "id": "S5-PDF-5",
+    "url": "https://pulse.berklee.edu/content/public/pub_unit_assets/Casio_Video_Series/video_4/lesson4_practicing_improv.pdf",
+    "file": ".local-library/raw/pulse-5.pdf",
+    "retrieved_at": "2026-10-26T13:40:08.937551+00:00",
+    "status": 200,
+    "final_url": "https://pulse.berklee.edu/content/public/pub_unit_assets/Casio_Video_Series/video_4/lesson4_practicing_improv.pdf",
+    "content_type": "application/pdf",
+    "bytes": 97764,
+    "sha256": "e5fbdb484c726c9f710e45a22f340bdd4b8dd41f217f90c6935f573b7c381059"
+  },
+  {
+    "id": "S5-PDF-6",
+    "url": "https://pulse.berklee.edu/content/public/pub_unit_assets/Casio_Video_Series/video_5/lesson5_self_assessment.pdf",
+    "file": ".local-library/raw/pulse-6.pdf",
+    "retrieved_at": "2026-10-26T13:40:13.574305+00:00",
+    "status": 200,
+    "final_url": "https://pulse.berklee.edu/content/public/pub_unit_assets/Casio_Video_Series/video_5/lesson5_self_assessment.pdf",
+    "content_type": "application/pdf",
+    "bytes": 104874,
+    "sha256": "cea8df75a7e38f85506dd60205ca32250773bb10f15a242f6b60cd249d7a0cac"
+  }
+]

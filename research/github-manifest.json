@@ -1,0 +1,41 @@
+[
+  {
+    "repository": "xx-hub/craft-your-textbook",
+    "url": "https://github.com/xx-hub/craft-your-textbook",
+    "commit": "3f7a2a7739766e91c2b2d1e0e70f705494241288",
+    "branch": "main",
+    "license": {
+      "key": "mit",
+      "name": "MIT License",
+      "spdx_id": "MIT",
+      "url": "https://api.github.com/licenses/mit",
+      "node_id": "MDc6TGljZW5zZTEz"
+    },
+    "archive_url": "https://codeload.github.com/xx-hub/craft-your-textbook/zip/3f7a2a7739766e91c2b2d1e0e70f705494241288",
+    "archive_bytes": 140369,
+    "archive_sha256": "49db588aca8c2d6ed0cf1ad1199350a36745da097186bfa1d7f86839066727f6",
+    "local_directory": ".local-library/github/xx-hub--craft-your-textbook"
+  },
+  {
+    "repository": "dmccreary/ibook-skills",
+    "url": "https://github.com/dmccreary/ibook-skills",
+    "commit": "1f6a90ad8bd547a25f77656a5ccf49fd8e89edda",
+    "branch": "main",
+    "license": null,
+    "archive_url": "https://codeload.github.com/dmccreary/ibook-skills/zip/1f6a90ad8bd547a25f77656a5ccf49fd8e89edda",
+    "archive_bytes": 36064736,
+    "archive_sha256": "54607372ac360c9d09edc481fe1acdfedb344272c040eb9078be5150b34e5c1a",
+    "local_directory": ".local-library/github/dmccreary--ibook-skills"
+  },
+  {
+    "repository": "anthropics/skills",
+    "url": "https://github.com/anthropics/skills",
+    "commit": "dbd4588f9e1033efb41dad4bef2f7947c8993d44",
+    "branch": "main",
+    "license": null,
+    "archive_url": "https://codeload.github.com/anthropics/skills/zip/dbd4588f9e1033efb41dad4bef2f7947c8993d44",
+    "archive_bytes": 4343662,
+    "archive_sha256": "2f81fe0297244f9e4fa7673f17a0196009657a08bd1094e9e673c70163ce7d6e",
+    "local_directory": ".local-library/github/anthropics--skills"
+  }
+]

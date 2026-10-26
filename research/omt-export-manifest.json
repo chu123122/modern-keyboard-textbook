@@ -1,0 +1,24 @@
+[
+  {
+    "id": "S3-PDF",
+    "url": "https://viva.pressbooks.pub/openmusictheory/open/download?type=pdf",
+    "file": ".local-library/raw/omt2.pdf",
+    "retrieved_at": "2026-10-26T13:34:30.020035+00:00",
+    "status": 200,
+    "final_url": "https://viva.pressbooks.pub/openmusictheory/open/download?type=pdf",
+    "content_type": "application/pdf; charset=binary",
+    "bytes": 17906219,
+    "sha256": "7ec47f487b1d4d8a1e128a6e35045fed9da8ae61b7a9c2d9e8b12d4a43544293"
+  },
+  {
+    "id": "S3-XML",
+    "url": "https://viva.pressbooks.pub/openmusictheory/open/download?type=wxr",
+    "file": ".local-library/raw/omt2.xml",
+    "retrieved_at": "2026-10-26T13:34:41.976213+00:00",
+    "status": 200,
+    "final_url": "https://viva.pressbooks.pub/openmusictheory/open/download?type=wxr",
+    "content_type": "text/xml; charset=utf-8",
+    "bytes": 11548867,
+    "sha256": "a97f3b526b7ffa59c91b06601225938fcd16820dd14b2971bec56b5960f964b2"
+  }
+]

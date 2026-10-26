@@ -1,0 +1,140 @@
+[
+  {
+    "file": ".local-library/raw/berklee-piano.pdf",
+    "pages": 90,
+    "bytes": 24784740,
+    "sha256": "866a921ad9bcb8fe0341f466d0b757a55589ca1f69ba0ed1d7fb5db9df46bdec"
+  },
+  {
+    "file": ".local-library/raw/berklee-sound-design.pdf",
+    "pages": 100,
+    "bytes": 20174859,
+    "sha256": "a4444849d8425517ca7096bd93a35f0b59509608e0fdbb0da89bacea48d82cc9"
+  },
+  {
+    "file": ".local-library/raw/berklee-theory.pdf",
+    "pages": 76,
+    "bytes": 19347141,
+    "sha256": "6b773ccd4c757cccff553b38bed99284c9ed076c4471473c2591186531a3da6c"
+  },
+  {
+    "file": ".local-library/raw/omt2-workbook.pdf",
+    "pages": 520,
+    "bytes": 59459566,
+    "sha256": "c33d9f2a5ba27a2fc504a076785fbf355426345fd7bb271e4dc34af867d8cb51"
+  },
+  {
+    "file": ".local-library/raw/omt2.pdf",
+    "pages": 1297,
+    "bytes": 17906219,
+    "sha256": "7ec47f487b1d4d8a1e128a6e35045fed9da8ae61b7a9c2d9e8b12d4a43544293"
+  },
+  {
+    "file": ".local-library/raw/pulse-1.pdf",
+    "pages": 10,
+    "bytes": 185641,
+    "sha256": "81d51f76faa2eaf9b50f7b9242be518aac479fcd51f94620bcb65d6b22fc506a"
+  },
+  {
+    "file": ".local-library/raw/pulse-2.pdf",
+    "pages": 4,
+    "bytes": 108911,
+    "sha256": "34faf90f9308d7707f29184904d524faa75c79207843793fc086e97fbba7f35a"
+  },
+  {
+    "file": ".local-library/raw/pulse-3.pdf",
+    "pages": 4,
+    "bytes": 116786,
+    "sha256": "91b398322e0dc3a8705e81dce8c3c305ffb530af8709612ac911444f58745131"
+  },
+  {
+    "file": ".local-library/raw/pulse-4.pdf",
+    "pages": 5,
+    "bytes": 117948,
+    "sha256": "0eebd3a045081270c21b912c561d1e655d386e55b81ea509c0cd0efd723d757e"
+  },
+  {
+    "file": ".local-library/raw/pulse-5.pdf",
+    "pages": 4,
+    "bytes": 97764,
+    "sha256": "e5fbdb484c726c9f710e45a22f340bdd4b8dd41f217f90c6935f573b7c381059"
+  },
+  {
+    "file": ".local-library/raw/pulse-6.pdf",
+    "pages": 3,
+    "bytes": 104874,
+    "sha256": "cea8df75a7e38f85506dd60205ca32250773bb10f15a242f6b60cd249d7a0cac"
+  },
+  {
+    "file": ".local-library/raw/pulse-extra-01.pdf",
+    "pages": 2,
+    "bytes": 82520,
+    "sha256": "d05552b3677e9b6bde58c5b993119a7740054bc3e4cbe547fbaac7bd6e8bebdc"
+  },
+  {
+    "file": ".local-library/raw/pulse-extra-02.pdf",
+    "pages": 1,
+    "bytes": 228940,
+    "sha256": "bb09c7fe596a9adb82adc3fd0dfc54decbe899a185e0cf7751600b51969b3a71"
+  },
+  {
+    "file": ".local-library/raw/pulse-extra-03.pdf",
+    "pages": 2,
+    "bytes": 95717,
+    "sha256": "631c9e1f8ad3c26af31cadc21ec2945c937ef4ed42b596f31a629e41e1b0cfcf"
+  },
+  {
+    "file": ".local-library/raw/pulse-extra-04.pdf",
+    "pages": 2,
+    "bytes": 80792,
+    "sha256": "5bc5c6043f4d9f32dfb840e8fc63f3b2f1501ce5b8c289cec3a87220182f1f53"
+  },
+  {
+    "file": ".local-library/raw/pulse-extra-05.pdf",
+    "pages": 2,
+    "bytes": 112578,
+    "sha256": "91bf7065bb1c7c725f73fd130ef7817cfb3136e2242a96ec8a310ee702ea6b4e"
+  },
+  {
+    "file": ".local-library/raw/pulse-extra-06.pdf",
+    "pages": 2,
+    "bytes": 76933,
+    "sha256": "d76f3ab7aa1b6d575f4160241c5891dd6ae3c3c4489a40055f8f244dba9b3bad"
+  },
+  {
+    "file": ".local-library/raw/pulse-extra-07.pdf",
+    "pages": 1,
+    "bytes": 260912,
+    "sha256": "9488251462ba5bd72e69655e642b223ec43defe589973ccfbf2e4fa108b0307a"
+  },
+  {
+    "file": ".local-library/raw/pulse-extra-08.pdf",
+    "pages": 2,
+    "bytes": 79535,
+    "sha256": "d98a050d11159953eb0b827f02242be7b4fc132c385cbcd35890db9bf46bf63e"
+  },
+  {
+    "file": ".local-library/raw/pulse-extra-09.pdf",
+    "pages": 2,
+    "bytes": 94265,
+    "sha256": "e3cb6b99775dc2883c9aed94f2199f4e2c02a79163ac4eff2dc8180d36c7371e"
+  },
+  {
+    "file": ".local-library/raw/pulse-extra-10.pdf",
+    "pages": 2,
+    "bytes": 78796,
+    "sha256": "ca9cf00c3ad652cc30c4f8eb7258cb02fa925aeec05147a4e8a2716f91258ea9"
+  },
+  {
+    "file": ".local-library/raw/pulse-extra-11.pdf",
+    "pages": 2,
+    "bytes": 80176,
+    "sha256": "38ebf188d24cab039bc9dcec86117ca2b60882a6f606c4d0706d9b6672c86834"
+  },
+  {
+    "file": ".local-library/raw/pulse-extra-12.pdf",
+    "pages": 2,
+    "bytes": 144998,
+    "sha256": "8e8ad1b9aea2f7345cde01c7a86968413ee47be4c0b2b6fc3d1913b83d9b62cc"
+  }
+]
