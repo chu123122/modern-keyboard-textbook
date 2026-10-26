@@ -1,0 +1,8779 @@
+[
+  {
+    "id": "E01",
+    "title": "五个相邻音",
+    "rh": [
+      [
+        {
+          "pitches": [
+            "C4"
+          ],
+          "duration": 1,
+          "finger": 1
+        },
+        {
+          "pitches": [
+            "D4"
+          ],
+          "duration": 1,
+          "finger": 2
+        },
+        {
+          "pitches": [
+            "E4"
+          ],
+          "duration": 1,
+          "finger": 3
+        },
+        {
+          "pitches": [
+            "F4"
+          ],
+          "duration": 1,
+          "finger": 4
+        }
+      ],
+      [
+        {
+          "pitches": [
+            "G4"
+          ],
+          "duration": 1,
+          "finger": 5
+        },
+        {
+          "pitches": [
+            "F4"
+          ],
+          "duration": 1,
+          "finger": 4
+        },
+        {
+          "pitches": [
+            "E4"
+          ],
+          "duration": 1,
+          "finger": 3
+        },
+        {
+          "pitches": [
+            "D4"
+          ],
+          "duration": 1,
+          "finger": 2
+        }
+      ],
+      [
+        {
+          "pitches": [
+            "C4"
+          ],
+          "duration": 4,
+          "finger": 1
+        }
+      ]
+    ],
+    "lh": [
+      [
+        {
+          "pitches": [],
+          "duration": 4.0
+        }
+      ],
+      [
+        {
+          "pitches": [],
+          "duration": 4.0
+        }
+      ],
+      [
+        {
+          "pitches": [],
+          "duration": 4.0
+        }
+      ]
+    ],
+    "chords": [],
+    "key": 0,
+    "meter": [
+      4,
+      4
+    ],
+    "bpm": 60,
+    "note": "右手。中央 C 为 C4。先认黑键分组，再找到 C4。",
+    "pedal": false,
+    "left_role": "left-hand",
+    "events": [
+      {
+        "start": 0.0,
+        "duration": 1,
+        "pitch": 60,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 1.0,
+        "duration": 1,
+        "pitch": 62,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 2.0,
+        "duration": 1,
+        "pitch": 64,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 3.0,
+        "duration": 1,
+        "pitch": 65,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 4.0,
+        "duration": 1,
+        "pitch": 67,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 5.0,
+        "duration": 1,
+        "pitch": 65,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 6.0,
+        "duration": 1,
+        "pitch": 64,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 7.0,
+        "duration": 1,
+        "pitch": 62,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 8.0,
+        "duration": 4,
+        "pitch": 60,
+        "channel": 0,
+        "velocity": 78
+      }
+    ],
+    "score_pages": [
+      "E01-1.svg"
+    ],
+    "audio": {
+      "seconds": 16.45,
+      "sample_rate": 16000,
+      "peak": 0.1396
+    }
+  },
+  {
+    "id": "E02",
+    "title": "让休止也占时间",
+    "rh": [
+      [
+        {
+          "pitches": [
+            "C4"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "C4"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "C4"
+          ],
+          "duration": 2
+        }
+      ],
+      [
+        {
+          "pitches": [],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "C4"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "C4"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "C4"
+          ],
+          "duration": 1
+        }
+      ],
+      [
+        {
+          "pitches": [
+            "C4"
+          ],
+          "duration": 2
+        },
+        {
+          "pitches": [
+            "C4"
+          ],
+          "duration": 2
+        }
+      ],
+      [
+        {
+          "pitches": [
+            "C4"
+          ],
+          "duration": 4
+        }
+      ]
+    ],
+    "lh": [
+      [
+        {
+          "pitches": [],
+          "duration": 4.0
+        }
+      ],
+      [
+        {
+          "pitches": [],
+          "duration": 4.0
+        }
+      ],
+      [
+        {
+          "pitches": [],
+          "duration": 4.0
+        }
+      ],
+      [
+        {
+          "pitches": [],
+          "duration": 4.0
+        }
+      ]
+    ],
+    "chords": [],
+    "key": 0,
+    "meter": [
+      4,
+      4
+    ],
+    "bpm": 60,
+    "note": "右手单音；第二小节第一拍不弹，但继续数拍。",
+    "pedal": false,
+    "left_role": "left-hand",
+    "events": [
+      {
+        "start": 0.0,
+        "duration": 1,
+        "pitch": 60,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 1.0,
+        "duration": 1,
+        "pitch": 60,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 2.0,
+        "duration": 2,
+        "pitch": 60,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 5.0,
+        "duration": 1,
+        "pitch": 60,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 6.0,
+        "duration": 1,
+        "pitch": 60,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 7.0,
+        "duration": 1,
+        "pitch": 60,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 8.0,
+        "duration": 2,
+        "pitch": 60,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 10.0,
+        "duration": 2,
+        "pitch": 60,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 12.0,
+        "duration": 4,
+        "pitch": 60,
+        "channel": 0,
+        "velocity": 78
+      }
+    ],
+    "score_pages": [
+      "E02-1.svg"
+    ],
+    "audio": {
+      "seconds": 20.45,
+      "sample_rate": 16000,
+      "peak": 0.1264
+    }
+  },
+  {
+    "id": "E03",
+    "title": "顺着方向读",
+    "rh": [
+      [
+        {
+          "pitches": [
+            "C4"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "D4"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "E4"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "G4"
+          ],
+          "duration": 1
+        }
+      ],
+      [
+        {
+          "pitches": [
+            "F4"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "E4"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "D4"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "C4"
+          ],
+          "duration": 1
+        }
+      ]
+    ],
+    "lh": [
+      [
+        {
+          "pitches": [],
+          "duration": 4.0
+        }
+      ],
+      [
+        {
+          "pitches": [],
+          "duration": 4.0
+        }
+      ]
+    ],
+    "chords": [],
+    "key": 0,
+    "meter": [
+      4,
+      4
+    ],
+    "bpm": 60,
+    "note": "先从已知的 C4 找方向；第一个跳进是 E4 到 G4。",
+    "pedal": false,
+    "left_role": "left-hand",
+    "events": [
+      {
+        "start": 0.0,
+        "duration": 1,
+        "pitch": 60,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 1.0,
+        "duration": 1,
+        "pitch": 62,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 2.0,
+        "duration": 1,
+        "pitch": 64,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 3.0,
+        "duration": 1,
+        "pitch": 67,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 4.0,
+        "duration": 1,
+        "pitch": 65,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 5.0,
+        "duration": 1,
+        "pitch": 64,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 6.0,
+        "duration": 1,
+        "pitch": 62,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 7.0,
+        "duration": 1,
+        "pitch": 60,
+        "channel": 0,
+        "velocity": 78
+      }
+    ],
+    "score_pages": [
+      "E03-1.svg"
+    ],
+    "audio": {
+      "seconds": 12.45,
+      "sample_rate": 16000,
+      "peak": 0.1396
+    }
+  },
+  {
+    "id": "E04",
+    "title": "左手自己的旋律",
+    "rh": [
+      [
+        {
+          "pitches": [],
+          "duration": 4
+        }
+      ],
+      [
+        {
+          "pitches": [],
+          "duration": 4
+        }
+      ]
+    ],
+    "lh": [
+      [
+        {
+          "pitches": [
+            "C3"
+          ],
+          "duration": 1,
+          "finger": 5
+        },
+        {
+          "pitches": [
+            "D3"
+          ],
+          "duration": 1,
+          "finger": 4
+        },
+        {
+          "pitches": [
+            "E3"
+          ],
+          "duration": 1,
+          "finger": 3
+        },
+        {
+          "pitches": [
+            "G3"
+          ],
+          "duration": 1,
+          "finger": 1
+        }
+      ],
+      [
+        {
+          "pitches": [
+            "F3"
+          ],
+          "duration": 1,
+          "finger": 2
+        },
+        {
+          "pitches": [
+            "E3"
+          ],
+          "duration": 1,
+          "finger": 3
+        },
+        {
+          "pitches": [
+            "D3"
+          ],
+          "duration": 1,
+          "finger": 4
+        },
+        {
+          "pitches": [
+            "C3"
+          ],
+          "duration": 1,
+          "finger": 5
+        }
+      ]
+    ],
+    "chords": [],
+    "key": 0,
+    "meter": [
+      4,
+      4
+    ],
+    "bpm": 60,
+    "note": "只弹左手；低音谱表不等于只能弹伴奏。",
+    "pedal": false,
+    "left_role": "left-hand",
+    "events": [
+      {
+        "start": 0.0,
+        "duration": 1,
+        "pitch": 48,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 1.0,
+        "duration": 1,
+        "pitch": 50,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 2.0,
+        "duration": 1,
+        "pitch": 52,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 3.0,
+        "duration": 1,
+        "pitch": 55,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 4.0,
+        "duration": 1,
+        "pitch": 53,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 5.0,
+        "duration": 1,
+        "pitch": 52,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 6.0,
+        "duration": 1,
+        "pitch": 50,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 7.0,
+        "duration": 1,
+        "pitch": 48,
+        "channel": 1,
+        "velocity": 49
+      }
+    ],
+    "score_pages": [
+      "E04-1.svg"
+    ],
+    "audio": {
+      "seconds": 12.45,
+      "sample_rate": 16000,
+      "peak": 0.1173
+    }
+  },
+  {
+    "id": "E05",
+    "title": "长低音托住旋律",
+    "rh": [
+      [
+        {
+          "pitches": [
+            "C4"
+          ],
+          "duration": 1,
+          "finger": 1
+        },
+        {
+          "pitches": [
+            "D4"
+          ],
+          "duration": 1,
+          "finger": 2
+        },
+        {
+          "pitches": [
+            "E4"
+          ],
+          "duration": 1,
+          "finger": 3
+        },
+        {
+          "pitches": [
+            "G4"
+          ],
+          "duration": 1,
+          "finger": 5
+        }
+      ],
+      [
+        {
+          "pitches": [
+            "F4"
+          ],
+          "duration": 1,
+          "finger": 4
+        },
+        {
+          "pitches": [
+            "E4"
+          ],
+          "duration": 1,
+          "finger": 3
+        },
+        {
+          "pitches": [
+            "D4"
+          ],
+          "duration": 1,
+          "finger": 2
+        },
+        {
+          "pitches": [
+            "C4"
+          ],
+          "duration": 1,
+          "finger": 1
+        }
+      ],
+      [
+        {
+          "pitches": [
+            "E4"
+          ],
+          "duration": 1,
+          "finger": 3
+        },
+        {
+          "pitches": [
+            "G4"
+          ],
+          "duration": 1,
+          "finger": 5
+        },
+        {
+          "pitches": [
+            "F4"
+          ],
+          "duration": 1,
+          "finger": 4
+        },
+        {
+          "pitches": [
+            "D4"
+          ],
+          "duration": 1,
+          "finger": 2
+        }
+      ],
+      [
+        {
+          "pitches": [
+            "C4"
+          ],
+          "duration": 4,
+          "finger": 1
+        }
+      ]
+    ],
+    "lh": [
+      [
+        {
+          "pitches": [
+            "C3"
+          ],
+          "duration": 4,
+          "finger": 5
+        }
+      ],
+      [
+        {
+          "pitches": [
+            "F3"
+          ],
+          "duration": 4,
+          "finger": 2
+        }
+      ],
+      [
+        {
+          "pitches": [
+            "G3"
+          ],
+          "duration": 4,
+          "finger": 1
+        }
+      ],
+      [
+        {
+          "pitches": [
+            "C3"
+          ],
+          "duration": 4,
+          "finger": 5
+        }
+      ]
+    ],
+    "chords": [],
+    "key": 0,
+    "meter": [
+      4,
+      4
+    ],
+    "bpm": 60,
+    "note": "左手每小节只开始一次，并保持四拍；右手音变时，左手不跟着重弹。",
+    "pedal": false,
+    "left_role": "left-hand",
+    "events": [
+      {
+        "start": 0.0,
+        "duration": 1,
+        "pitch": 60,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 1.0,
+        "duration": 1,
+        "pitch": 62,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 2.0,
+        "duration": 1,
+        "pitch": 64,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 3.0,
+        "duration": 1,
+        "pitch": 67,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 4.0,
+        "duration": 1,
+        "pitch": 65,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 5.0,
+        "duration": 1,
+        "pitch": 64,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 6.0,
+        "duration": 1,
+        "pitch": 62,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 7.0,
+        "duration": 1,
+        "pitch": 60,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 8.0,
+        "duration": 1,
+        "pitch": 64,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 9.0,
+        "duration": 1,
+        "pitch": 67,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 10.0,
+        "duration": 1,
+        "pitch": 65,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 11.0,
+        "duration": 1,
+        "pitch": 62,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 12.0,
+        "duration": 4,
+        "pitch": 60,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 0.0,
+        "duration": 4,
+        "pitch": 48,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 4.0,
+        "duration": 4,
+        "pitch": 53,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 8.0,
+        "duration": 4,
+        "pitch": 55,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 12.0,
+        "duration": 4,
+        "pitch": 48,
+        "channel": 1,
+        "velocity": 49
+      }
+    ],
+    "score_pages": [
+      "E05-1.svg"
+    ],
+    "audio": {
+      "seconds": 20.45,
+      "sample_rate": 16000,
+      "peak": 0.2019
+    }
+  },
+  {
+    "id": "E06",
+    "title": "两手交替进入",
+    "rh": [
+      [
+        {
+          "pitches": [],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "E4"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "G4"
+          ],
+          "duration": 1
+        }
+      ],
+      [
+        {
+          "pitches": [],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "F4"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "A4"
+          ],
+          "duration": 1
+        }
+      ],
+      [
+        {
+          "pitches": [],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "D4"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "F4"
+          ],
+          "duration": 1
+        }
+      ],
+      [
+        {
+          "pitches": [
+            "C4"
+          ],
+          "duration": 4
+        }
+      ]
+    ],
+    "lh": [
+      [
+        {
+          "pitches": [
+            "C3"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "G3"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [],
+          "duration": 1
+        }
+      ],
+      [
+        {
+          "pitches": [
+            "F3"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "C3"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [],
+          "duration": 1
+        }
+      ],
+      [
+        {
+          "pitches": [
+            "G3"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "D3"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [],
+          "duration": 1
+        }
+      ],
+      [
+        {
+          "pitches": [
+            "C3"
+          ],
+          "duration": 4
+        }
+      ]
+    ],
+    "chords": [],
+    "key": 0,
+    "meter": [
+      4,
+      4
+    ],
+    "bpm": 60,
+    "note": "前三小节按左、右、左、右交替；最后一小节双手同时进入。第二小节右手需移动手位。",
+    "pedal": false,
+    "left_role": "left-hand",
+    "events": [
+      {
+        "start": 1.0,
+        "duration": 1,
+        "pitch": 64,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 3.0,
+        "duration": 1,
+        "pitch": 67,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 5.0,
+        "duration": 1,
+        "pitch": 65,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 7.0,
+        "duration": 1,
+        "pitch": 69,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 9.0,
+        "duration": 1,
+        "pitch": 62,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 11.0,
+        "duration": 1,
+        "pitch": 65,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 12.0,
+        "duration": 4,
+        "pitch": 60,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 0.0,
+        "duration": 1,
+        "pitch": 48,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 2.0,
+        "duration": 1,
+        "pitch": 55,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 4.0,
+        "duration": 1,
+        "pitch": 53,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 6.0,
+        "duration": 1,
+        "pitch": 48,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 8.0,
+        "duration": 1,
+        "pitch": 55,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 10.0,
+        "duration": 1,
+        "pitch": 50,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 12.0,
+        "duration": 4,
+        "pitch": 48,
+        "channel": 1,
+        "velocity": 49
+      }
+    ],
+    "score_pages": [
+      "E06-1.svg"
+    ],
+    "audio": {
+      "seconds": 20.45,
+      "sample_rate": 16000,
+      "peak": 0.2031
+    }
+  },
+  {
+    "id": "E07",
+    "title": "小曲：一步一步",
+    "rh": [
+      [
+        {
+          "pitches": [
+            "C4"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "E4"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "G4"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "E4"
+          ],
+          "duration": 1
+        }
+      ],
+      [
+        {
+          "pitches": [
+            "F4"
+          ],
+          "duration": 2
+        },
+        {
+          "pitches": [
+            "E4"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "D4"
+          ],
+          "duration": 1
+        }
+      ],
+      [
+        {
+          "pitches": [
+            "E4"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "G4"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "F4"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "D4"
+          ],
+          "duration": 1
+        }
+      ],
+      [
+        {
+          "pitches": [
+            "C4"
+          ],
+          "duration": 2
+        },
+        {
+          "pitches": [
+            "D4"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "E4"
+          ],
+          "duration": 1
+        }
+      ],
+      [
+        {
+          "pitches": [
+            "F4"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "G4"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "E4"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "F4"
+          ],
+          "duration": 1
+        }
+      ],
+      [
+        {
+          "pitches": [
+            "E4"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "G4"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "E4"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "D4"
+          ],
+          "duration": 1
+        }
+      ],
+      [
+        {
+          "pitches": [
+            "D4"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "F4"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "E4"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "D4"
+          ],
+          "duration": 1
+        }
+      ],
+      [
+        {
+          "pitches": [
+            "C4"
+          ],
+          "duration": 4
+        }
+      ]
+    ],
+    "lh": [
+      [
+        {
+          "pitches": [
+            "C3"
+          ],
+          "duration": 4
+        }
+      ],
+      [
+        {
+          "pitches": [
+            "F3"
+          ],
+          "duration": 4
+        }
+      ],
+      [
+        {
+          "pitches": [
+            "C3"
+          ],
+          "duration": 4
+        }
+      ],
+      [
+        {
+          "pitches": [
+            "C3"
+          ],
+          "duration": 4
+        }
+      ],
+      [
+        {
+          "pitches": [
+            "F3"
+          ],
+          "duration": 4
+        }
+      ],
+      [
+        {
+          "pitches": [
+            "C3"
+          ],
+          "duration": 4
+        }
+      ],
+      [
+        {
+          "pitches": [
+            "G3"
+          ],
+          "duration": 4
+        }
+      ],
+      [
+        {
+          "pitches": [
+            "C3"
+          ],
+          "duration": 4
+        }
+      ]
+    ],
+    "chords": [],
+    "key": 0,
+    "meter": [
+      4,
+      4
+    ],
+    "bpm": 64,
+    "note": "八小节原创小曲。右手范围 C4–G4；建议五指对应这五个音。全曲先不用踏板。",
+    "pedal": false,
+    "left_role": "left-hand",
+    "events": [
+      {
+        "start": 0.0,
+        "duration": 1,
+        "pitch": 60,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 1.0,
+        "duration": 1,
+        "pitch": 64,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 2.0,
+        "duration": 1,
+        "pitch": 67,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 3.0,
+        "duration": 1,
+        "pitch": 64,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 4.0,
+        "duration": 2,
+        "pitch": 65,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 6.0,
+        "duration": 1,
+        "pitch": 64,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 7.0,
+        "duration": 1,
+        "pitch": 62,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 8.0,
+        "duration": 1,
+        "pitch": 64,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 9.0,
+        "duration": 1,
+        "pitch": 67,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 10.0,
+        "duration": 1,
+        "pitch": 65,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 11.0,
+        "duration": 1,
+        "pitch": 62,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 12.0,
+        "duration": 2,
+        "pitch": 60,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 14.0,
+        "duration": 1,
+        "pitch": 62,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 15.0,
+        "duration": 1,
+        "pitch": 64,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 16.0,
+        "duration": 1,
+        "pitch": 65,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 17.0,
+        "duration": 1,
+        "pitch": 67,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 18.0,
+        "duration": 1,
+        "pitch": 64,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 19.0,
+        "duration": 1,
+        "pitch": 65,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 20.0,
+        "duration": 1,
+        "pitch": 64,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 21.0,
+        "duration": 1,
+        "pitch": 67,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 22.0,
+        "duration": 1,
+        "pitch": 64,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 23.0,
+        "duration": 1,
+        "pitch": 62,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 24.0,
+        "duration": 1,
+        "pitch": 62,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 25.0,
+        "duration": 1,
+        "pitch": 65,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 26.0,
+        "duration": 1,
+        "pitch": 64,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 27.0,
+        "duration": 1,
+        "pitch": 62,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 28.0,
+        "duration": 4,
+        "pitch": 60,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 0.0,
+        "duration": 4,
+        "pitch": 48,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 4.0,
+        "duration": 4,
+        "pitch": 53,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 8.0,
+        "duration": 4,
+        "pitch": 48,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 12.0,
+        "duration": 4,
+        "pitch": 48,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 16.0,
+        "duration": 4,
+        "pitch": 53,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 20.0,
+        "duration": 4,
+        "pitch": 48,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 24.0,
+        "duration": 4,
+        "pitch": 55,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 28.0,
+        "duration": 4,
+        "pitch": 48,
+        "channel": 1,
+        "velocity": 49
+      }
+    ],
+    "score_pages": [
+      "E07-1.svg"
+    ],
+    "audio": {
+      "seconds": 34.2,
+      "sample_rate": 16000,
+      "peak": 0.2006
+    }
+  },
+  {
+    "id": "E08",
+    "title": "C 大调的一次换指",
+    "rh": [
+      [
+        {
+          "pitches": [
+            "C4"
+          ],
+          "duration": 1,
+          "finger": 1
+        },
+        {
+          "pitches": [
+            "D4"
+          ],
+          "duration": 1,
+          "finger": 2
+        },
+        {
+          "pitches": [
+            "E4"
+          ],
+          "duration": 1,
+          "finger": 3
+        },
+        {
+          "pitches": [
+            "F4"
+          ],
+          "duration": 1,
+          "finger": 1
+        }
+      ],
+      [
+        {
+          "pitches": [
+            "G4"
+          ],
+          "duration": 1,
+          "finger": 2
+        },
+        {
+          "pitches": [
+            "A4"
+          ],
+          "duration": 1,
+          "finger": 3
+        },
+        {
+          "pitches": [
+            "B4"
+          ],
+          "duration": 1,
+          "finger": 4
+        },
+        {
+          "pitches": [
+            "C5"
+          ],
+          "duration": 1,
+          "finger": 5
+        }
+      ],
+      [
+        {
+          "pitches": [
+            "C5"
+          ],
+          "duration": 1,
+          "finger": 5
+        },
+        {
+          "pitches": [
+            "B4"
+          ],
+          "duration": 1,
+          "finger": 4
+        },
+        {
+          "pitches": [
+            "A4"
+          ],
+          "duration": 1,
+          "finger": 3
+        },
+        {
+          "pitches": [
+            "G4"
+          ],
+          "duration": 1,
+          "finger": 2
+        }
+      ],
+      [
+        {
+          "pitches": [
+            "F4"
+          ],
+          "duration": 1,
+          "finger": 1
+        },
+        {
+          "pitches": [
+            "E4"
+          ],
+          "duration": 1,
+          "finger": 3
+        },
+        {
+          "pitches": [
+            "D4"
+          ],
+          "duration": 1,
+          "finger": 2
+        },
+        {
+          "pitches": [
+            "C4"
+          ],
+          "duration": 1,
+          "finger": 1
+        }
+      ]
+    ],
+    "lh": [
+      [
+        {
+          "pitches": [],
+          "duration": 4.0
+        }
+      ],
+      [
+        {
+          "pitches": [],
+          "duration": 4.0
+        }
+      ],
+      [
+        {
+          "pitches": [],
+          "duration": 4.0
+        }
+      ],
+      [
+        {
+          "pitches": [],
+          "duration": 4.0
+        }
+      ]
+    ],
+    "chords": [],
+    "key": 0,
+    "meter": [
+      4,
+      4
+    ],
+    "bpm": 60,
+    "note": "同音重复处重新触键。音阶指法是建议，移动应平顺。",
+    "pedal": false,
+    "left_role": "left-hand",
+    "events": [
+      {
+        "start": 0.0,
+        "duration": 1,
+        "pitch": 60,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 1.0,
+        "duration": 1,
+        "pitch": 62,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 2.0,
+        "duration": 1,
+        "pitch": 64,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 3.0,
+        "duration": 1,
+        "pitch": 65,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 4.0,
+        "duration": 1,
+        "pitch": 67,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 5.0,
+        "duration": 1,
+        "pitch": 69,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 6.0,
+        "duration": 1,
+        "pitch": 71,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 7.0,
+        "duration": 1,
+        "pitch": 72,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 8.0,
+        "duration": 1,
+        "pitch": 72,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 9.0,
+        "duration": 1,
+        "pitch": 71,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 10.0,
+        "duration": 1,
+        "pitch": 69,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 11.0,
+        "duration": 1,
+        "pitch": 67,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 12.0,
+        "duration": 1,
+        "pitch": 65,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 13.0,
+        "duration": 1,
+        "pitch": 64,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 14.0,
+        "duration": 1,
+        "pitch": 62,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 15.0,
+        "duration": 1,
+        "pitch": 60,
+        "channel": 0,
+        "velocity": 78
+      }
+    ],
+    "score_pages": [
+      "E08-1.svg"
+    ],
+    "audio": {
+      "seconds": 20.45,
+      "sample_rate": 16000,
+      "peak": 0.1396
+    }
+  },
+  {
+    "id": "E09",
+    "title": "G 大调与 F♯",
+    "rh": [
+      [
+        {
+          "pitches": [
+            "G4"
+          ],
+          "duration": 1,
+          "finger": 1
+        },
+        {
+          "pitches": [
+            "A4"
+          ],
+          "duration": 1,
+          "finger": 2
+        },
+        {
+          "pitches": [
+            "B4"
+          ],
+          "duration": 1,
+          "finger": 3
+        },
+        {
+          "pitches": [
+            "C5"
+          ],
+          "duration": 1,
+          "finger": 1
+        }
+      ],
+      [
+        {
+          "pitches": [
+            "D5"
+          ],
+          "duration": 1,
+          "finger": 2
+        },
+        {
+          "pitches": [
+            "E5"
+          ],
+          "duration": 1,
+          "finger": 3
+        },
+        {
+          "pitches": [
+            "F#5"
+          ],
+          "duration": 1,
+          "finger": 4
+        },
+        {
+          "pitches": [
+            "G5"
+          ],
+          "duration": 1,
+          "finger": 5
+        }
+      ],
+      [
+        {
+          "pitches": [
+            "G5"
+          ],
+          "duration": 1,
+          "finger": 5
+        },
+        {
+          "pitches": [
+            "F#5"
+          ],
+          "duration": 1,
+          "finger": 4
+        },
+        {
+          "pitches": [
+            "E5"
+          ],
+          "duration": 1,
+          "finger": 3
+        },
+        {
+          "pitches": [
+            "D5"
+          ],
+          "duration": 1,
+          "finger": 2
+        }
+      ],
+      [
+        {
+          "pitches": [
+            "C5"
+          ],
+          "duration": 1,
+          "finger": 1
+        },
+        {
+          "pitches": [
+            "B4"
+          ],
+          "duration": 1,
+          "finger": 3
+        },
+        {
+          "pitches": [
+            "A4"
+          ],
+          "duration": 1,
+          "finger": 2
+        },
+        {
+          "pitches": [
+            "G4"
+          ],
+          "duration": 1,
+          "finger": 1
+        }
+      ]
+    ],
+    "lh": [
+      [
+        {
+          "pitches": [],
+          "duration": 4.0
+        }
+      ],
+      [
+        {
+          "pitches": [],
+          "duration": 4.0
+        }
+      ],
+      [
+        {
+          "pitches": [],
+          "duration": 4.0
+        }
+      ],
+      [
+        {
+          "pitches": [],
+          "duration": 4.0
+        }
+      ]
+    ],
+    "chords": [],
+    "key": 1,
+    "meter": [
+      4,
+      4
+    ],
+    "bpm": 60,
+    "note": "调号使本谱所有 F 默认升高；本例从 G4 开始。",
+    "pedal": false,
+    "left_role": "left-hand",
+    "events": [
+      {
+        "start": 0.0,
+        "duration": 1,
+        "pitch": 67,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 1.0,
+        "duration": 1,
+        "pitch": 69,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 2.0,
+        "duration": 1,
+        "pitch": 71,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 3.0,
+        "duration": 1,
+        "pitch": 72,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 4.0,
+        "duration": 1,
+        "pitch": 74,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 5.0,
+        "duration": 1,
+        "pitch": 76,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 6.0,
+        "duration": 1,
+        "pitch": 78,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 7.0,
+        "duration": 1,
+        "pitch": 79,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 8.0,
+        "duration": 1,
+        "pitch": 79,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 9.0,
+        "duration": 1,
+        "pitch": 78,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 10.0,
+        "duration": 1,
+        "pitch": 76,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 11.0,
+        "duration": 1,
+        "pitch": 74,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 12.0,
+        "duration": 1,
+        "pitch": 72,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 13.0,
+        "duration": 1,
+        "pitch": 71,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 14.0,
+        "duration": 1,
+        "pitch": 69,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 15.0,
+        "duration": 1,
+        "pitch": 67,
+        "channel": 0,
+        "velocity": 78
+      }
+    ],
+    "score_pages": [
+      "E09-1.svg"
+    ],
+    "audio": {
+      "seconds": 20.45,
+      "sample_rate": 16000,
+      "peak": 0.1404
+    }
+  },
+  {
+    "id": "E10",
+    "title": "F 大调与 B♭",
+    "rh": [
+      [
+        {
+          "pitches": [
+            "F4"
+          ],
+          "duration": 1,
+          "finger": 1
+        },
+        {
+          "pitches": [
+            "G4"
+          ],
+          "duration": 1,
+          "finger": 2
+        },
+        {
+          "pitches": [
+            "A4"
+          ],
+          "duration": 1,
+          "finger": 3
+        },
+        {
+          "pitches": [
+            "Bb4"
+          ],
+          "duration": 1,
+          "finger": 4
+        }
+      ],
+      [
+        {
+          "pitches": [
+            "C5"
+          ],
+          "duration": 1,
+          "finger": 1
+        },
+        {
+          "pitches": [
+            "D5"
+          ],
+          "duration": 1,
+          "finger": 2
+        },
+        {
+          "pitches": [
+            "E5"
+          ],
+          "duration": 1,
+          "finger": 3
+        },
+        {
+          "pitches": [
+            "F5"
+          ],
+          "duration": 1,
+          "finger": 4
+        }
+      ],
+      [
+        {
+          "pitches": [
+            "F5"
+          ],
+          "duration": 1,
+          "finger": 4
+        },
+        {
+          "pitches": [
+            "E5"
+          ],
+          "duration": 1,
+          "finger": 3
+        },
+        {
+          "pitches": [
+            "D5"
+          ],
+          "duration": 1,
+          "finger": 2
+        },
+        {
+          "pitches": [
+            "C5"
+          ],
+          "duration": 1,
+          "finger": 1
+        }
+      ],
+      [
+        {
+          "pitches": [
+            "Bb4"
+          ],
+          "duration": 1,
+          "finger": 4
+        },
+        {
+          "pitches": [
+            "A4"
+          ],
+          "duration": 1,
+          "finger": 3
+        },
+        {
+          "pitches": [
+            "G4"
+          ],
+          "duration": 1,
+          "finger": 2
+        },
+        {
+          "pitches": [
+            "F4"
+          ],
+          "duration": 1,
+          "finger": 1
+        }
+      ]
+    ],
+    "lh": [
+      [
+        {
+          "pitches": [],
+          "duration": 4.0
+        }
+      ],
+      [
+        {
+          "pitches": [],
+          "duration": 4.0
+        }
+      ],
+      [
+        {
+          "pitches": [],
+          "duration": 4.0
+        }
+      ],
+      [
+        {
+          "pitches": [],
+          "duration": 4.0
+        }
+      ]
+    ],
+    "chords": [],
+    "key": -1,
+    "meter": [
+      4,
+      4
+    ],
+    "bpm": 60,
+    "note": "F 大调右手上行先用 4 指弹 B♭，再把拇指移动到 C。",
+    "pedal": false,
+    "left_role": "left-hand",
+    "events": [
+      {
+        "start": 0.0,
+        "duration": 1,
+        "pitch": 65,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 1.0,
+        "duration": 1,
+        "pitch": 67,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 2.0,
+        "duration": 1,
+        "pitch": 69,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 3.0,
+        "duration": 1,
+        "pitch": 70,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 4.0,
+        "duration": 1,
+        "pitch": 72,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 5.0,
+        "duration": 1,
+        "pitch": 74,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 6.0,
+        "duration": 1,
+        "pitch": 76,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 7.0,
+        "duration": 1,
+        "pitch": 77,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 8.0,
+        "duration": 1,
+        "pitch": 77,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 9.0,
+        "duration": 1,
+        "pitch": 76,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 10.0,
+        "duration": 1,
+        "pitch": 74,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 11.0,
+        "duration": 1,
+        "pitch": 72,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 12.0,
+        "duration": 1,
+        "pitch": 70,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 13.0,
+        "duration": 1,
+        "pitch": 69,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 14.0,
+        "duration": 1,
+        "pitch": 67,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 15.0,
+        "duration": 1,
+        "pitch": 65,
+        "channel": 0,
+        "velocity": 78
+      }
+    ],
+    "score_pages": [
+      "E10-1.svg"
+    ],
+    "audio": {
+      "seconds": 20.45,
+      "sample_rate": 16000,
+      "peak": 0.1392
+    }
+  },
+  {
+    "id": "E11",
+    "title": "同根音的四种三和弦",
+    "rh": [
+      [
+        {
+          "pitches": [
+            "C4",
+            "E4",
+            "G4"
+          ],
+          "duration": 4
+        }
+      ],
+      [
+        {
+          "pitches": [
+            "C4",
+            "Eb4",
+            "G4"
+          ],
+          "duration": 4
+        }
+      ],
+      [
+        {
+          "pitches": [
+            "C4",
+            "Eb4",
+            "Gb4"
+          ],
+          "duration": 4
+        }
+      ],
+      [
+        {
+          "pitches": [
+            "C4",
+            "E4",
+            "G#4"
+          ],
+          "duration": 4
+        }
+      ]
+    ],
+    "lh": [
+      [
+        {
+          "pitches": [],
+          "duration": 4.0
+        }
+      ],
+      [
+        {
+          "pitches": [],
+          "duration": 4.0
+        }
+      ],
+      [
+        {
+          "pitches": [],
+          "duration": 4.0
+        }
+      ],
+      [
+        {
+          "pitches": [],
+          "duration": 4.0
+        }
+      ]
+    ],
+    "chords": [
+      "C",
+      "Cm",
+      "Cdim",
+      "Caug"
+    ],
+    "key": 0,
+    "meter": [
+      4,
+      4
+    ],
+    "bpm": 60,
+    "note": "听比较时每种单独停留；这不是要求背诵的和声进行。",
+    "pedal": false,
+    "left_role": "left-hand",
+    "events": [
+      {
+        "start": 0.0,
+        "duration": 4,
+        "pitch": 60,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 0.0,
+        "duration": 4,
+        "pitch": 64,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 0.0,
+        "duration": 4,
+        "pitch": 67,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 4.0,
+        "duration": 4,
+        "pitch": 60,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 4.0,
+        "duration": 4,
+        "pitch": 63,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 4.0,
+        "duration": 4,
+        "pitch": 67,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 8.0,
+        "duration": 4,
+        "pitch": 60,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 8.0,
+        "duration": 4,
+        "pitch": 63,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 8.0,
+        "duration": 4,
+        "pitch": 66,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 12.0,
+        "duration": 4,
+        "pitch": 60,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 12.0,
+        "duration": 4,
+        "pitch": 64,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 12.0,
+        "duration": 4,
+        "pitch": 68,
+        "channel": 0,
+        "velocity": 78
+      }
+    ],
+    "score_pages": [
+      "E11-1.svg"
+    ],
+    "audio": {
+      "seconds": 20.45,
+      "sample_rate": 16000,
+      "peak": 0.3539
+    }
+  },
+  {
+    "id": "E12",
+    "title": "保留共同音的连接",
+    "rh": [
+      [
+        {
+          "pitches": [
+            "C4",
+            "E4",
+            "G4"
+          ],
+          "duration": 4
+        }
+      ],
+      [
+        {
+          "pitches": [
+            "C4",
+            "F4",
+            "A4"
+          ],
+          "duration": 4
+        }
+      ],
+      [
+        {
+          "pitches": [
+            "B3",
+            "D4",
+            "G4"
+          ],
+          "duration": 4
+        }
+      ],
+      [
+        {
+          "pitches": [
+            "C4",
+            "E4",
+            "G4"
+          ],
+          "duration": 4
+        }
+      ]
+    ],
+    "lh": [
+      [
+        {
+          "pitches": [
+            "C3"
+          ],
+          "duration": 4
+        }
+      ],
+      [
+        {
+          "pitches": [
+            "F3"
+          ],
+          "duration": 4
+        }
+      ],
+      [
+        {
+          "pitches": [
+            "G3"
+          ],
+          "duration": 4
+        }
+      ],
+      [
+        {
+          "pitches": [
+            "C3"
+          ],
+          "duration": 4
+        }
+      ]
+    ],
+    "chords": [
+      "C",
+      "F",
+      "G",
+      "C"
+    ],
+    "key": 0,
+    "meter": [
+      4,
+      4
+    ],
+    "bpm": 60,
+    "note": "右手改变排列，左手始终弹相应根音。整体四个和弦都处于原位。",
+    "pedal": false,
+    "left_role": "left-hand",
+    "events": [
+      {
+        "start": 0.0,
+        "duration": 4,
+        "pitch": 60,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 0.0,
+        "duration": 4,
+        "pitch": 64,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 0.0,
+        "duration": 4,
+        "pitch": 67,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 4.0,
+        "duration": 4,
+        "pitch": 60,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 4.0,
+        "duration": 4,
+        "pitch": 65,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 4.0,
+        "duration": 4,
+        "pitch": 69,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 8.0,
+        "duration": 4,
+        "pitch": 59,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 8.0,
+        "duration": 4,
+        "pitch": 62,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 8.0,
+        "duration": 4,
+        "pitch": 67,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 12.0,
+        "duration": 4,
+        "pitch": 60,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 12.0,
+        "duration": 4,
+        "pitch": 64,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 12.0,
+        "duration": 4,
+        "pitch": 67,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 0.0,
+        "duration": 4,
+        "pitch": 48,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 4.0,
+        "duration": 4,
+        "pitch": 53,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 8.0,
+        "duration": 4,
+        "pitch": 55,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 12.0,
+        "duration": 4,
+        "pitch": 48,
+        "channel": 1,
+        "velocity": 49
+      }
+    ],
+    "score_pages": [
+      "E12-1.svg"
+    ],
+    "audio": {
+      "seconds": 20.45,
+      "sample_rate": 16000,
+      "peak": 0.4253
+    }
+  },
+  {
+    "id": "E13",
+    "title": "低音决定整体转位",
+    "rh": [
+      [
+        {
+          "pitches": [
+            "C4",
+            "E4",
+            "G4"
+          ],
+          "duration": 4
+        }
+      ],
+      [
+        {
+          "pitches": [
+            "C4",
+            "E4",
+            "G4"
+          ],
+          "duration": 4
+        }
+      ],
+      [
+        {
+          "pitches": [
+            "C4",
+            "E4",
+            "G4"
+          ],
+          "duration": 4
+        }
+      ],
+      [
+        {
+          "pitches": [
+            "C4",
+            "E4",
+            "G4"
+          ],
+          "duration": 4
+        }
+      ]
+    ],
+    "lh": [
+      [
+        {
+          "pitches": [
+            "C3"
+          ],
+          "duration": 4
+        }
+      ],
+      [
+        {
+          "pitches": [
+            "E3"
+          ],
+          "duration": 4
+        }
+      ],
+      [
+        {
+          "pitches": [
+            "G3"
+          ],
+          "duration": 4
+        }
+      ],
+      [
+        {
+          "pitches": [
+            "C3"
+          ],
+          "duration": 4
+        }
+      ]
+    ],
+    "chords": [
+      "C",
+      "C/E",
+      "C/G",
+      "C"
+    ],
+    "key": 0,
+    "meter": [
+      4,
+      4
+    ],
+    "bpm": 60,
+    "note": "根音始终是 C；低音依次为 C、E、G、C。",
+    "pedal": false,
+    "left_role": "left-hand",
+    "events": [
+      {
+        "start": 0.0,
+        "duration": 4,
+        "pitch": 60,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 0.0,
+        "duration": 4,
+        "pitch": 64,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 0.0,
+        "duration": 4,
+        "pitch": 67,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 4.0,
+        "duration": 4,
+        "pitch": 60,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 4.0,
+        "duration": 4,
+        "pitch": 64,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 4.0,
+        "duration": 4,
+        "pitch": 67,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 8.0,
+        "duration": 4,
+        "pitch": 60,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 8.0,
+        "duration": 4,
+        "pitch": 64,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 8.0,
+        "duration": 4,
+        "pitch": 67,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 12.0,
+        "duration": 4,
+        "pitch": 60,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 12.0,
+        "duration": 4,
+        "pitch": 64,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 12.0,
+        "duration": 4,
+        "pitch": 67,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 0.0,
+        "duration": 4,
+        "pitch": 48,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 4.0,
+        "duration": 4,
+        "pitch": 52,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 8.0,
+        "duration": 4,
+        "pitch": 55,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 12.0,
+        "duration": 4,
+        "pitch": 48,
+        "channel": 1,
+        "velocity": 49
+      }
+    ],
+    "score_pages": [
+      "E13-1.svg"
+    ],
+    "audio": {
+      "seconds": 20.45,
+      "sample_rate": 16000,
+      "peak": 0.4238
+    }
+  },
+  {
+    "id": "E14",
+    "title": "旋律与两音和声",
+    "rh": [
+      [
+        {
+          "pitches": [
+            "C4"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "E4"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "G4"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "E4"
+          ],
+          "duration": 1
+        }
+      ],
+      [
+        {
+          "pitches": [
+            "F4"
+          ],
+          "duration": 2
+        },
+        {
+          "pitches": [
+            "E4"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "D4"
+          ],
+          "duration": 1
+        }
+      ],
+      [
+        {
+          "pitches": [
+            "D4"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "F4"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "E4"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "D4"
+          ],
+          "duration": 1
+        }
+      ],
+      [
+        {
+          "pitches": [
+            "C4"
+          ],
+          "duration": 4
+        }
+      ]
+    ],
+    "lh": [
+      [
+        {
+          "pitches": [
+            "C3",
+            "E3"
+          ],
+          "duration": 4
+        }
+      ],
+      [
+        {
+          "pitches": [
+            "F3",
+            "A3"
+          ],
+          "duration": 4
+        }
+      ],
+      [
+        {
+          "pitches": [
+            "G3",
+            "B3"
+          ],
+          "duration": 4
+        }
+      ],
+      [
+        {
+          "pitches": [
+            "C3",
+            "E3"
+          ],
+          "duration": 4
+        }
+      ]
+    ],
+    "chords": [
+      "C",
+      "F",
+      "G",
+      "C"
+    ],
+    "key": 0,
+    "meter": [
+      4,
+      4
+    ],
+    "bpm": 60,
+    "note": "左手采用根音与三音，省略五音；右手旋律应清楚地浮在上面。",
+    "pedal": false,
+    "left_role": "left-hand",
+    "events": [
+      {
+        "start": 0.0,
+        "duration": 1,
+        "pitch": 60,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 1.0,
+        "duration": 1,
+        "pitch": 64,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 2.0,
+        "duration": 1,
+        "pitch": 67,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 3.0,
+        "duration": 1,
+        "pitch": 64,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 4.0,
+        "duration": 2,
+        "pitch": 65,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 6.0,
+        "duration": 1,
+        "pitch": 64,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 7.0,
+        "duration": 1,
+        "pitch": 62,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 8.0,
+        "duration": 1,
+        "pitch": 62,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 9.0,
+        "duration": 1,
+        "pitch": 65,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 10.0,
+        "duration": 1,
+        "pitch": 64,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 11.0,
+        "duration": 1,
+        "pitch": 62,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 12.0,
+        "duration": 4,
+        "pitch": 60,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 0.0,
+        "duration": 4,
+        "pitch": 48,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 0.0,
+        "duration": 4,
+        "pitch": 52,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 4.0,
+        "duration": 4,
+        "pitch": 53,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 4.0,
+        "duration": 4,
+        "pitch": 57,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 8.0,
+        "duration": 4,
+        "pitch": 55,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 8.0,
+        "duration": 4,
+        "pitch": 59,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 12.0,
+        "duration": 4,
+        "pitch": 48,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 12.0,
+        "duration": 4,
+        "pitch": 52,
+        "channel": 1,
+        "velocity": 49
+      }
+    ],
+    "score_pages": [
+      "E14-1.svg"
+    ],
+    "audio": {
+      "seconds": 20.45,
+      "sample_rate": 16000,
+      "peak": 0.2623
+    }
+  },
+  {
+    "id": "E15",
+    "title": "四分音符分解伴奏",
+    "rh": [
+      [
+        {
+          "pitches": [
+            "C4"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "E4"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "G4"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "E4"
+          ],
+          "duration": 1
+        }
+      ],
+      [
+        {
+          "pitches": [
+            "F4"
+          ],
+          "duration": 2
+        },
+        {
+          "pitches": [
+            "E4"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "D4"
+          ],
+          "duration": 1
+        }
+      ],
+      [
+        {
+          "pitches": [
+            "D4"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "F4"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "E4"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "D4"
+          ],
+          "duration": 1
+        }
+      ],
+      [
+        {
+          "pitches": [
+            "C4"
+          ],
+          "duration": 4
+        }
+      ]
+    ],
+    "lh": [
+      [
+        {
+          "pitches": [
+            "C3"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "G3"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "E3"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "G3"
+          ],
+          "duration": 1
+        }
+      ],
+      [
+        {
+          "pitches": [
+            "F2"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "C3"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "A2"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "C3"
+          ],
+          "duration": 1
+        }
+      ],
+      [
+        {
+          "pitches": [
+            "G2"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "D3"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "B2"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "D3"
+          ],
+          "duration": 1
+        }
+      ],
+      [
+        {
+          "pitches": [
+            "C3"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "G3"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "E3"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "G3"
+          ],
+          "duration": 1
+        }
+      ]
+    ],
+    "chords": [
+      "C",
+      "F",
+      "G",
+      "C"
+    ],
+    "key": 0,
+    "meter": [
+      4,
+      4
+    ],
+    "bpm": 60,
+    "note": "左手每小节音型为根—五—三—五；F2 在 C3 下方，先确认八度。",
+    "pedal": false,
+    "left_role": "left-hand",
+    "events": [
+      {
+        "start": 0.0,
+        "duration": 1,
+        "pitch": 60,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 1.0,
+        "duration": 1,
+        "pitch": 64,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 2.0,
+        "duration": 1,
+        "pitch": 67,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 3.0,
+        "duration": 1,
+        "pitch": 64,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 4.0,
+        "duration": 2,
+        "pitch": 65,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 6.0,
+        "duration": 1,
+        "pitch": 64,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 7.0,
+        "duration": 1,
+        "pitch": 62,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 8.0,
+        "duration": 1,
+        "pitch": 62,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 9.0,
+        "duration": 1,
+        "pitch": 65,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 10.0,
+        "duration": 1,
+        "pitch": 64,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 11.0,
+        "duration": 1,
+        "pitch": 62,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 12.0,
+        "duration": 4,
+        "pitch": 60,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 0.0,
+        "duration": 1,
+        "pitch": 48,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 1.0,
+        "duration": 1,
+        "pitch": 55,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 2.0,
+        "duration": 1,
+        "pitch": 52,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 3.0,
+        "duration": 1,
+        "pitch": 55,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 4.0,
+        "duration": 1,
+        "pitch": 41,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 5.0,
+        "duration": 1,
+        "pitch": 48,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 6.0,
+        "duration": 1,
+        "pitch": 45,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 7.0,
+        "duration": 1,
+        "pitch": 48,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 8.0,
+        "duration": 1,
+        "pitch": 43,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 9.0,
+        "duration": 1,
+        "pitch": 50,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 10.0,
+        "duration": 1,
+        "pitch": 47,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 11.0,
+        "duration": 1,
+        "pitch": 50,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 12.0,
+        "duration": 1,
+        "pitch": 48,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 13.0,
+        "duration": 1,
+        "pitch": 55,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 14.0,
+        "duration": 1,
+        "pitch": 52,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 15.0,
+        "duration": 1,
+        "pitch": 55,
+        "channel": 1,
+        "velocity": 49
+      }
+    ],
+    "score_pages": [
+      "E15-1.svg"
+    ],
+    "audio": {
+      "seconds": 20.45,
+      "sample_rate": 16000,
+      "peak": 0.2088
+    }
+  },
+  {
+    "id": "E16",
+    "title": "八分音符分解伴奏",
+    "rh": [
+      [
+        {
+          "pitches": [
+            "C4"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "E4"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "G4"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "E4"
+          ],
+          "duration": 1
+        }
+      ],
+      [
+        {
+          "pitches": [
+            "F4"
+          ],
+          "duration": 2
+        },
+        {
+          "pitches": [
+            "E4"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "D4"
+          ],
+          "duration": 1
+        }
+      ],
+      [
+        {
+          "pitches": [
+            "D4"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "F4"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "E4"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "D4"
+          ],
+          "duration": 1
+        }
+      ],
+      [
+        {
+          "pitches": [
+            "C4"
+          ],
+          "duration": 4
+        }
+      ]
+    ],
+    "lh": [
+      [
+        {
+          "pitches": [
+            "C3"
+          ],
+          "duration": 0.5
+        },
+        {
+          "pitches": [
+            "G3"
+          ],
+          "duration": 0.5
+        },
+        {
+          "pitches": [
+            "E3"
+          ],
+          "duration": 0.5
+        },
+        {
+          "pitches": [
+            "G3"
+          ],
+          "duration": 0.5
+        },
+        {
+          "pitches": [
+            "C3"
+          ],
+          "duration": 0.5
+        },
+        {
+          "pitches": [
+            "G3"
+          ],
+          "duration": 0.5
+        },
+        {
+          "pitches": [
+            "E3"
+          ],
+          "duration": 0.5
+        },
+        {
+          "pitches": [
+            "G3"
+          ],
+          "duration": 0.5
+        }
+      ],
+      [
+        {
+          "pitches": [
+            "F2"
+          ],
+          "duration": 0.5
+        },
+        {
+          "pitches": [
+            "C3"
+          ],
+          "duration": 0.5
+        },
+        {
+          "pitches": [
+            "A2"
+          ],
+          "duration": 0.5
+        },
+        {
+          "pitches": [
+            "C3"
+          ],
+          "duration": 0.5
+        },
+        {
+          "pitches": [
+            "F2"
+          ],
+          "duration": 0.5
+        },
+        {
+          "pitches": [
+            "C3"
+          ],
+          "duration": 0.5
+        },
+        {
+          "pitches": [
+            "A2"
+          ],
+          "duration": 0.5
+        },
+        {
+          "pitches": [
+            "C3"
+          ],
+          "duration": 0.5
+        }
+      ],
+      [
+        {
+          "pitches": [
+            "G2"
+          ],
+          "duration": 0.5
+        },
+        {
+          "pitches": [
+            "D3"
+          ],
+          "duration": 0.5
+        },
+        {
+          "pitches": [
+            "B2"
+          ],
+          "duration": 0.5
+        },
+        {
+          "pitches": [
+            "D3"
+          ],
+          "duration": 0.5
+        },
+        {
+          "pitches": [
+            "G2"
+          ],
+          "duration": 0.5
+        },
+        {
+          "pitches": [
+            "D3"
+          ],
+          "duration": 0.5
+        },
+        {
+          "pitches": [
+            "B2"
+          ],
+          "duration": 0.5
+        },
+        {
+          "pitches": [
+            "D3"
+          ],
+          "duration": 0.5
+        }
+      ],
+      [
+        {
+          "pitches": [
+            "C3"
+          ],
+          "duration": 0.5
+        },
+        {
+          "pitches": [
+            "G3"
+          ],
+          "duration": 0.5
+        },
+        {
+          "pitches": [
+            "E3"
+          ],
+          "duration": 0.5
+        },
+        {
+          "pitches": [
+            "G3"
+          ],
+          "duration": 0.5
+        },
+        {
+          "pitches": [
+            "C3"
+          ],
+          "duration": 0.5
+        },
+        {
+          "pitches": [
+            "G3"
+          ],
+          "duration": 0.5
+        },
+        {
+          "pitches": [
+            "E3"
+          ],
+          "duration": 0.5
+        },
+        {
+          "pitches": [
+            "G3"
+          ],
+          "duration": 0.5
+        }
+      ]
+    ],
+    "chords": [
+      "C",
+      "F",
+      "G",
+      "C"
+    ],
+    "key": 0,
+    "meter": [
+      4,
+      4
+    ],
+    "bpm": 56,
+    "note": "每拍两格。增加密度后仍保持旋律突出，不急于提高速度。",
+    "pedal": false,
+    "left_role": "left-hand",
+    "events": [
+      {
+        "start": 0.0,
+        "duration": 1,
+        "pitch": 60,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 1.0,
+        "duration": 1,
+        "pitch": 64,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 2.0,
+        "duration": 1,
+        "pitch": 67,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 3.0,
+        "duration": 1,
+        "pitch": 64,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 4.0,
+        "duration": 2,
+        "pitch": 65,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 6.0,
+        "duration": 1,
+        "pitch": 64,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 7.0,
+        "duration": 1,
+        "pitch": 62,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 8.0,
+        "duration": 1,
+        "pitch": 62,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 9.0,
+        "duration": 1,
+        "pitch": 65,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 10.0,
+        "duration": 1,
+        "pitch": 64,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 11.0,
+        "duration": 1,
+        "pitch": 62,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 12.0,
+        "duration": 4,
+        "pitch": 60,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 0.0,
+        "duration": 0.5,
+        "pitch": 48,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 0.5,
+        "duration": 0.5,
+        "pitch": 55,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 1.0,
+        "duration": 0.5,
+        "pitch": 52,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 1.5,
+        "duration": 0.5,
+        "pitch": 55,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 2.0,
+        "duration": 0.5,
+        "pitch": 48,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 2.5,
+        "duration": 0.5,
+        "pitch": 55,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 3.0,
+        "duration": 0.5,
+        "pitch": 52,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 3.5,
+        "duration": 0.5,
+        "pitch": 55,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 4.0,
+        "duration": 0.5,
+        "pitch": 41,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 4.5,
+        "duration": 0.5,
+        "pitch": 48,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 5.0,
+        "duration": 0.5,
+        "pitch": 45,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 5.5,
+        "duration": 0.5,
+        "pitch": 48,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 6.0,
+        "duration": 0.5,
+        "pitch": 41,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 6.5,
+        "duration": 0.5,
+        "pitch": 48,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 7.0,
+        "duration": 0.5,
+        "pitch": 45,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 7.5,
+        "duration": 0.5,
+        "pitch": 48,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 8.0,
+        "duration": 0.5,
+        "pitch": 43,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 8.5,
+        "duration": 0.5,
+        "pitch": 50,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 9.0,
+        "duration": 0.5,
+        "pitch": 47,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 9.5,
+        "duration": 0.5,
+        "pitch": 50,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 10.0,
+        "duration": 0.5,
+        "pitch": 43,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 10.5,
+        "duration": 0.5,
+        "pitch": 50,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 11.0,
+        "duration": 0.5,
+        "pitch": 47,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 11.5,
+        "duration": 0.5,
+        "pitch": 50,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 12.0,
+        "duration": 0.5,
+        "pitch": 48,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 12.5,
+        "duration": 0.5,
+        "pitch": 55,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 13.0,
+        "duration": 0.5,
+        "pitch": 52,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 13.5,
+        "duration": 0.5,
+        "pitch": 55,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 14.0,
+        "duration": 0.5,
+        "pitch": 48,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 14.5,
+        "duration": 0.5,
+        "pitch": 55,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 15.0,
+        "duration": 0.5,
+        "pitch": 52,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 15.5,
+        "duration": 0.5,
+        "pitch": 55,
+        "channel": 1,
+        "velocity": 49
+      }
+    ],
+    "score_pages": [
+      "E16-1.svg"
+    ],
+    "audio": {
+      "seconds": 21.879,
+      "sample_rate": 16000,
+      "peak": 0.2083
+    }
+  },
+  {
+    "id": "E17",
+    "title": "换和声时换踏板",
+    "rh": [
+      [
+        {
+          "pitches": [
+            "C4"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "E4"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "G4"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "E4"
+          ],
+          "duration": 1
+        }
+      ],
+      [
+        {
+          "pitches": [
+            "F4"
+          ],
+          "duration": 2
+        },
+        {
+          "pitches": [
+            "E4"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "D4"
+          ],
+          "duration": 1
+        }
+      ],
+      [
+        {
+          "pitches": [
+            "D4"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "F4"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "E4"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "D4"
+          ],
+          "duration": 1
+        }
+      ],
+      [
+        {
+          "pitches": [
+            "C4"
+          ],
+          "duration": 4
+        }
+      ]
+    ],
+    "lh": [
+      [
+        {
+          "pitches": [
+            "C3",
+            "E3",
+            "G3"
+          ],
+          "duration": 4
+        }
+      ],
+      [
+        {
+          "pitches": [
+            "F2",
+            "A2",
+            "C3"
+          ],
+          "duration": 4
+        }
+      ],
+      [
+        {
+          "pitches": [
+            "G2",
+            "B2",
+            "D3"
+          ],
+          "duration": 4
+        }
+      ],
+      [
+        {
+          "pitches": [
+            "C3",
+            "E3",
+            "G3"
+          ],
+          "duration": 4
+        }
+      ]
+    ],
+    "chords": [
+      "C",
+      "F",
+      "G",
+      "C"
+    ],
+    "key": 0,
+    "meter": [
+      4,
+      4
+    ],
+    "bpm": 60,
+    "note": "有踏板示范：每小节开始后稍晚踩下，下一小节开始前抬起。本例是入门分段练习，非通用踏板公式。",
+    "pedal": true,
+    "left_role": "left-hand",
+    "events": [
+      {
+        "start": 0.0,
+        "duration": 1,
+        "pitch": 60,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 1.0,
+        "duration": 1,
+        "pitch": 64,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 2.0,
+        "duration": 1,
+        "pitch": 67,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 3.0,
+        "duration": 1,
+        "pitch": 64,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 4.0,
+        "duration": 2,
+        "pitch": 65,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 6.0,
+        "duration": 1,
+        "pitch": 64,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 7.0,
+        "duration": 1,
+        "pitch": 62,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 8.0,
+        "duration": 1,
+        "pitch": 62,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 9.0,
+        "duration": 1,
+        "pitch": 65,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 10.0,
+        "duration": 1,
+        "pitch": 64,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 11.0,
+        "duration": 1,
+        "pitch": 62,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 12.0,
+        "duration": 4,
+        "pitch": 60,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 0.0,
+        "duration": 4,
+        "pitch": 48,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 0.0,
+        "duration": 4,
+        "pitch": 52,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 0.0,
+        "duration": 4,
+        "pitch": 55,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 4.0,
+        "duration": 4,
+        "pitch": 41,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 4.0,
+        "duration": 4,
+        "pitch": 45,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 4.0,
+        "duration": 4,
+        "pitch": 48,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 8.0,
+        "duration": 4,
+        "pitch": 43,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 8.0,
+        "duration": 4,
+        "pitch": 47,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 8.0,
+        "duration": 4,
+        "pitch": 50,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 12.0,
+        "duration": 4,
+        "pitch": 48,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 12.0,
+        "duration": 4,
+        "pitch": 52,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 12.0,
+        "duration": 4,
+        "pitch": 55,
+        "channel": 1,
+        "velocity": 49
+      }
+    ],
+    "score_pages": [
+      "E17-1.svg"
+    ],
+    "audio": {
+      "seconds": 20.45,
+      "sample_rate": 16000,
+      "peak": 0.3229
+    }
+  },
+  {
+    "id": "E18",
+    "title": "切分与连音线",
+    "rh": [
+      [
+        {
+          "pitches": [],
+          "duration": 0.5
+        },
+        {
+          "pitches": [
+            "E4"
+          ],
+          "duration": 0.5,
+          "tie": "start"
+        },
+        {
+          "pitches": [
+            "E4"
+          ],
+          "duration": 1,
+          "tie": "stop"
+        },
+        {
+          "pitches": [
+            "G4"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "E4"
+          ],
+          "duration": 1
+        }
+      ],
+      [
+        {
+          "pitches": [
+            "D4"
+          ],
+          "duration": 0.5
+        },
+        {
+          "pitches": [
+            "E4"
+          ],
+          "duration": 0.5
+        },
+        {
+          "pitches": [
+            "F4"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "E4"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "D4"
+          ],
+          "duration": 1
+        }
+      ],
+      [
+        {
+          "pitches": [],
+          "duration": 0.5
+        },
+        {
+          "pitches": [
+            "D4"
+          ],
+          "duration": 0.5,
+          "tie": "start"
+        },
+        {
+          "pitches": [
+            "D4"
+          ],
+          "duration": 1,
+          "tie": "stop"
+        },
+        {
+          "pitches": [
+            "F4"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "D4"
+          ],
+          "duration": 1
+        }
+      ],
+      [
+        {
+          "pitches": [
+            "C4"
+          ],
+          "duration": 4
+        }
+      ]
+    ],
+    "lh": [
+      [
+        {
+          "pitches": [
+            "C3"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "G3"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "C3"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "G3"
+          ],
+          "duration": 1
+        }
+      ],
+      [
+        {
+          "pitches": [
+            "F2"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "C3"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "F2"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "C3"
+          ],
+          "duration": 1
+        }
+      ],
+      [
+        {
+          "pitches": [
+            "G2"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "D3"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "G2"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "D3"
+          ],
+          "duration": 1
+        }
+      ],
+      [
+        {
+          "pitches": [
+            "C3"
+          ],
+          "duration": 4
+        }
+      ]
+    ],
+    "chords": [
+      "C",
+      "F",
+      "G",
+      "C"
+    ],
+    "key": 0,
+    "meter": [
+      4,
+      4
+    ],
+    "bpm": 56,
+    "note": "连音线连接同音，右手 E4 在第一小节第二拍不重新弹；第三小节 D4 同理。",
+    "pedal": false,
+    "left_role": "left-hand",
+    "events": [
+      {
+        "start": 0.5,
+        "duration": 1.5,
+        "pitch": 64,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 2.0,
+        "duration": 1,
+        "pitch": 67,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 3.0,
+        "duration": 1,
+        "pitch": 64,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 4.0,
+        "duration": 0.5,
+        "pitch": 62,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 4.5,
+        "duration": 0.5,
+        "pitch": 64,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 5.0,
+        "duration": 1,
+        "pitch": 65,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 6.0,
+        "duration": 1,
+        "pitch": 64,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 7.0,
+        "duration": 1,
+        "pitch": 62,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 8.5,
+        "duration": 1.5,
+        "pitch": 62,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 10.0,
+        "duration": 1,
+        "pitch": 65,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 11.0,
+        "duration": 1,
+        "pitch": 62,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 12.0,
+        "duration": 4,
+        "pitch": 60,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 0.0,
+        "duration": 1,
+        "pitch": 48,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 1.0,
+        "duration": 1,
+        "pitch": 55,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 2.0,
+        "duration": 1,
+        "pitch": 48,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 3.0,
+        "duration": 1,
+        "pitch": 55,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 4.0,
+        "duration": 1,
+        "pitch": 41,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 5.0,
+        "duration": 1,
+        "pitch": 48,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 6.0,
+        "duration": 1,
+        "pitch": 41,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 7.0,
+        "duration": 1,
+        "pitch": 48,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 8.0,
+        "duration": 1,
+        "pitch": 43,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 9.0,
+        "duration": 1,
+        "pitch": 50,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 10.0,
+        "duration": 1,
+        "pitch": 43,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 11.0,
+        "duration": 1,
+        "pitch": 50,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 12.0,
+        "duration": 4,
+        "pitch": 48,
+        "channel": 1,
+        "velocity": 49
+      }
+    ],
+    "score_pages": [
+      "E18-1.svg"
+    ],
+    "audio": {
+      "seconds": 21.879,
+      "sample_rate": 16000,
+      "peak": 0.2067
+    }
+  },
+  {
+    "id": "E19",
+    "title": "6/8 的两个大拍",
+    "rh": [
+      [
+        {
+          "pitches": [
+            "E4"
+          ],
+          "duration": 0.5
+        },
+        {
+          "pitches": [
+            "G4"
+          ],
+          "duration": 0.5
+        },
+        {
+          "pitches": [
+            "C5"
+          ],
+          "duration": 0.5
+        },
+        {
+          "pitches": [
+            "B4"
+          ],
+          "duration": 0.5
+        },
+        {
+          "pitches": [
+            "G4"
+          ],
+          "duration": 0.5
+        },
+        {
+          "pitches": [
+            "E4"
+          ],
+          "duration": 0.5
+        }
+      ],
+      [
+        {
+          "pitches": [
+            "F4"
+          ],
+          "duration": 0.5
+        },
+        {
+          "pitches": [
+            "A4"
+          ],
+          "duration": 0.5
+        },
+        {
+          "pitches": [
+            "C5"
+          ],
+          "duration": 0.5
+        },
+        {
+          "pitches": [
+            "A4"
+          ],
+          "duration": 0.5
+        },
+        {
+          "pitches": [
+            "F4"
+          ],
+          "duration": 0.5
+        },
+        {
+          "pitches": [
+            "A4"
+          ],
+          "duration": 0.5
+        }
+      ],
+      [
+        {
+          "pitches": [
+            "D4"
+          ],
+          "duration": 0.5
+        },
+        {
+          "pitches": [
+            "G4"
+          ],
+          "duration": 0.5
+        },
+        {
+          "pitches": [
+            "B4"
+          ],
+          "duration": 0.5
+        },
+        {
+          "pitches": [
+            "G4"
+          ],
+          "duration": 0.5
+        },
+        {
+          "pitches": [
+            "F4"
+          ],
+          "duration": 0.5
+        },
+        {
+          "pitches": [
+            "D4"
+          ],
+          "duration": 0.5
+        }
+      ],
+      [
+        {
+          "pitches": [
+            "C4"
+          ],
+          "duration": 3
+        }
+      ]
+    ],
+    "lh": [
+      [
+        {
+          "pitches": [
+            "C3"
+          ],
+          "duration": 1.5
+        },
+        {
+          "pitches": [
+            "G3"
+          ],
+          "duration": 1.5
+        }
+      ],
+      [
+        {
+          "pitches": [
+            "F2"
+          ],
+          "duration": 1.5
+        },
+        {
+          "pitches": [
+            "C3"
+          ],
+          "duration": 1.5
+        }
+      ],
+      [
+        {
+          "pitches": [
+            "G2"
+          ],
+          "duration": 1.5
+        },
+        {
+          "pitches": [
+            "D3"
+          ],
+          "duration": 1.5
+        }
+      ],
+      [
+        {
+          "pitches": [
+            "C3"
+          ],
+          "duration": 3
+        }
+      ]
+    ],
+    "chords": [
+      "C",
+      "F",
+      "G",
+      "C"
+    ],
+    "key": 0,
+    "meter": [
+      6,
+      8
+    ],
+    "bpm": 90,
+    "note": "附点四分音符 = 60。每大拍三格；预备数两个大拍。",
+    "pedal": false,
+    "left_role": "left-hand",
+    "events": [
+      {
+        "start": 0.0,
+        "duration": 0.5,
+        "pitch": 64,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 0.5,
+        "duration": 0.5,
+        "pitch": 67,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 1.0,
+        "duration": 0.5,
+        "pitch": 72,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 1.5,
+        "duration": 0.5,
+        "pitch": 71,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 2.0,
+        "duration": 0.5,
+        "pitch": 67,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 2.5,
+        "duration": 0.5,
+        "pitch": 64,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 3.0,
+        "duration": 0.5,
+        "pitch": 65,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 3.5,
+        "duration": 0.5,
+        "pitch": 69,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 4.0,
+        "duration": 0.5,
+        "pitch": 72,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 4.5,
+        "duration": 0.5,
+        "pitch": 69,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 5.0,
+        "duration": 0.5,
+        "pitch": 65,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 5.5,
+        "duration": 0.5,
+        "pitch": 69,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 6.0,
+        "duration": 0.5,
+        "pitch": 62,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 6.5,
+        "duration": 0.5,
+        "pitch": 67,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 7.0,
+        "duration": 0.5,
+        "pitch": 71,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 7.5,
+        "duration": 0.5,
+        "pitch": 67,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 8.0,
+        "duration": 0.5,
+        "pitch": 65,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 8.5,
+        "duration": 0.5,
+        "pitch": 62,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 9.0,
+        "duration": 3,
+        "pitch": 60,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 0.0,
+        "duration": 1.5,
+        "pitch": 48,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 1.5,
+        "duration": 1.5,
+        "pitch": 55,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 3.0,
+        "duration": 1.5,
+        "pitch": 41,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 4.5,
+        "duration": 1.5,
+        "pitch": 48,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 6.0,
+        "duration": 1.5,
+        "pitch": 43,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 7.5,
+        "duration": 1.5,
+        "pitch": 50,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 9.0,
+        "duration": 3,
+        "pitch": 48,
+        "channel": 1,
+        "velocity": 49
+      }
+    ],
+    "score_pages": [
+      "E19-1.svg"
+    ],
+    "audio": {
+      "seconds": 10.45,
+      "sample_rate": 16000,
+      "peak": 0.225
+    }
+  },
+  {
+    "id": "E20",
+    "title": "小调小曲：晚灯",
+    "rh": [
+      [
+        {
+          "pitches": [
+            "A4"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "C5"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "E5"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "C5"
+          ],
+          "duration": 1
+        }
+      ],
+      [
+        {
+          "pitches": [
+            "D5"
+          ],
+          "duration": 2
+        },
+        {
+          "pitches": [
+            "C5"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "B4"
+          ],
+          "duration": 1
+        }
+      ],
+      [
+        {
+          "pitches": [
+            "C5"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "E5"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "D5"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "B4"
+          ],
+          "duration": 1
+        }
+      ],
+      [
+        {
+          "pitches": [
+            "A4"
+          ],
+          "duration": 2
+        },
+        {
+          "pitches": [
+            "B4"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "C5"
+          ],
+          "duration": 1
+        }
+      ],
+      [
+        {
+          "pitches": [
+            "D5"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "F5"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "E5"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "D5"
+          ],
+          "duration": 1
+        }
+      ],
+      [
+        {
+          "pitches": [
+            "C5"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "E5"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "C5"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "B4"
+          ],
+          "duration": 1
+        }
+      ],
+      [
+        {
+          "pitches": [
+            "B4"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "D5"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "C5"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "B4"
+          ],
+          "duration": 1
+        }
+      ],
+      [
+        {
+          "pitches": [
+            "A4"
+          ],
+          "duration": 4
+        }
+      ]
+    ],
+    "lh": [
+      [
+        {
+          "pitches": [
+            "A2"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "E3"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "C3"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "E3"
+          ],
+          "duration": 1
+        }
+      ],
+      [
+        {
+          "pitches": [
+            "D3"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "A3"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "F3"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "A3"
+          ],
+          "duration": 1
+        }
+      ],
+      [
+        {
+          "pitches": [
+            "E3"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "B3"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "G#3"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "B3"
+          ],
+          "duration": 1
+        }
+      ],
+      [
+        {
+          "pitches": [
+            "A2"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "E3"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "C3"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "E3"
+          ],
+          "duration": 1
+        }
+      ],
+      [
+        {
+          "pitches": [
+            "D3"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "A3"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "F3"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "A3"
+          ],
+          "duration": 1
+        }
+      ],
+      [
+        {
+          "pitches": [
+            "A2"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "E3"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "C3"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "E3"
+          ],
+          "duration": 1
+        }
+      ],
+      [
+        {
+          "pitches": [
+            "E3"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "B3"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "G#3"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "B3"
+          ],
+          "duration": 1
+        }
+      ],
+      [
+        {
+          "pitches": [
+            "A2"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "E3"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "C3"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "E3"
+          ],
+          "duration": 1
+        }
+      ]
+    ],
+    "chords": [
+      "Am",
+      "Dm",
+      "E7",
+      "Am",
+      "Dm",
+      "Am",
+      "E7",
+      "Am"
+    ],
+    "key": 0,
+    "meter": [
+      4,
+      4
+    ],
+    "bpm": 64,
+    "note": "第 3 小节 E7 的七音由右手 D5 提供；第 7 小节同样如此。G♯ 用于通向 A 的属和声。",
+    "pedal": false,
+    "left_role": "left-hand",
+    "events": [
+      {
+        "start": 0.0,
+        "duration": 1,
+        "pitch": 69,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 1.0,
+        "duration": 1,
+        "pitch": 72,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 2.0,
+        "duration": 1,
+        "pitch": 76,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 3.0,
+        "duration": 1,
+        "pitch": 72,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 4.0,
+        "duration": 2,
+        "pitch": 74,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 6.0,
+        "duration": 1,
+        "pitch": 72,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 7.0,
+        "duration": 1,
+        "pitch": 71,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 8.0,
+        "duration": 1,
+        "pitch": 72,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 9.0,
+        "duration": 1,
+        "pitch": 76,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 10.0,
+        "duration": 1,
+        "pitch": 74,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 11.0,
+        "duration": 1,
+        "pitch": 71,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 12.0,
+        "duration": 2,
+        "pitch": 69,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 14.0,
+        "duration": 1,
+        "pitch": 71,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 15.0,
+        "duration": 1,
+        "pitch": 72,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 16.0,
+        "duration": 1,
+        "pitch": 74,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 17.0,
+        "duration": 1,
+        "pitch": 77,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 18.0,
+        "duration": 1,
+        "pitch": 76,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 19.0,
+        "duration": 1,
+        "pitch": 74,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 20.0,
+        "duration": 1,
+        "pitch": 72,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 21.0,
+        "duration": 1,
+        "pitch": 76,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 22.0,
+        "duration": 1,
+        "pitch": 72,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 23.0,
+        "duration": 1,
+        "pitch": 71,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 24.0,
+        "duration": 1,
+        "pitch": 71,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 25.0,
+        "duration": 1,
+        "pitch": 74,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 26.0,
+        "duration": 1,
+        "pitch": 72,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 27.0,
+        "duration": 1,
+        "pitch": 71,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 28.0,
+        "duration": 4,
+        "pitch": 69,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 0.0,
+        "duration": 1,
+        "pitch": 45,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 1.0,
+        "duration": 1,
+        "pitch": 52,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 2.0,
+        "duration": 1,
+        "pitch": 48,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 3.0,
+        "duration": 1,
+        "pitch": 52,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 4.0,
+        "duration": 1,
+        "pitch": 50,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 5.0,
+        "duration": 1,
+        "pitch": 57,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 6.0,
+        "duration": 1,
+        "pitch": 53,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 7.0,
+        "duration": 1,
+        "pitch": 57,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 8.0,
+        "duration": 1,
+        "pitch": 52,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 9.0,
+        "duration": 1,
+        "pitch": 59,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 10.0,
+        "duration": 1,
+        "pitch": 56,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 11.0,
+        "duration": 1,
+        "pitch": 59,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 12.0,
+        "duration": 1,
+        "pitch": 45,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 13.0,
+        "duration": 1,
+        "pitch": 52,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 14.0,
+        "duration": 1,
+        "pitch": 48,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 15.0,
+        "duration": 1,
+        "pitch": 52,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 16.0,
+        "duration": 1,
+        "pitch": 50,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 17.0,
+        "duration": 1,
+        "pitch": 57,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 18.0,
+        "duration": 1,
+        "pitch": 53,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 19.0,
+        "duration": 1,
+        "pitch": 57,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 20.0,
+        "duration": 1,
+        "pitch": 45,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 21.0,
+        "duration": 1,
+        "pitch": 52,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 22.0,
+        "duration": 1,
+        "pitch": 48,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 23.0,
+        "duration": 1,
+        "pitch": 52,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 24.0,
+        "duration": 1,
+        "pitch": 52,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 25.0,
+        "duration": 1,
+        "pitch": 59,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 26.0,
+        "duration": 1,
+        "pitch": 56,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 27.0,
+        "duration": 1,
+        "pitch": 59,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 28.0,
+        "duration": 1,
+        "pitch": 45,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 29.0,
+        "duration": 1,
+        "pitch": 52,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 30.0,
+        "duration": 1,
+        "pitch": 48,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 31.0,
+        "duration": 1,
+        "pitch": 52,
+        "channel": 1,
+        "velocity": 49
+      }
+    ],
+    "score_pages": [
+      "E20-1.svg"
+    ],
+    "audio": {
+      "seconds": 34.2,
+      "sample_rate": 16000,
+      "peak": 0.2173
+    }
+  },
+  {
+    "id": "E21",
+    "title": "听清七和弦性质",
+    "rh": [
+      [
+        {
+          "pitches": [
+            "E4",
+            "G4",
+            "B4"
+          ],
+          "duration": 4
+        }
+      ],
+      [
+        {
+          "pitches": [
+            "E4",
+            "G4",
+            "Bb4"
+          ],
+          "duration": 4
+        }
+      ],
+      [
+        {
+          "pitches": [
+            "B3",
+            "D4",
+            "F4"
+          ],
+          "duration": 4
+        }
+      ],
+      [
+        {
+          "pitches": [
+            "C4",
+            "E4",
+            "G4"
+          ],
+          "duration": 4
+        }
+      ]
+    ],
+    "lh": [
+      [
+        {
+          "pitches": [
+            "C3"
+          ],
+          "duration": 4
+        }
+      ],
+      [
+        {
+          "pitches": [
+            "C3"
+          ],
+          "duration": 4
+        }
+      ],
+      [
+        {
+          "pitches": [
+            "G2"
+          ],
+          "duration": 4
+        }
+      ],
+      [
+        {
+          "pitches": [
+            "A2"
+          ],
+          "duration": 4
+        }
+      ]
+    ],
+    "chords": [
+      "Cmaj7",
+      "C7",
+      "G7",
+      "Am7"
+    ],
+    "key": 0,
+    "meter": [
+      4,
+      4
+    ],
+    "bpm": 60,
+    "note": "四个和弦的性质比较，结合两手判断全部和弦音；不是通用的功能进行。",
+    "pedal": false,
+    "left_role": "left-hand",
+    "events": [
+      {
+        "start": 0.0,
+        "duration": 4,
+        "pitch": 64,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 0.0,
+        "duration": 4,
+        "pitch": 67,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 0.0,
+        "duration": 4,
+        "pitch": 71,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 4.0,
+        "duration": 4,
+        "pitch": 64,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 4.0,
+        "duration": 4,
+        "pitch": 67,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 4.0,
+        "duration": 4,
+        "pitch": 70,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 8.0,
+        "duration": 4,
+        "pitch": 59,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 8.0,
+        "duration": 4,
+        "pitch": 62,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 8.0,
+        "duration": 4,
+        "pitch": 65,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 12.0,
+        "duration": 4,
+        "pitch": 60,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 12.0,
+        "duration": 4,
+        "pitch": 64,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 12.0,
+        "duration": 4,
+        "pitch": 67,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 0.0,
+        "duration": 4,
+        "pitch": 48,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 4.0,
+        "duration": 4,
+        "pitch": 48,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 8.0,
+        "duration": 4,
+        "pitch": 43,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 12.0,
+        "duration": 4,
+        "pitch": 45,
+        "channel": 1,
+        "velocity": 49
+      }
+    ],
+    "score_pages": [
+      "E21-1.svg"
+    ],
+    "audio": {
+      "seconds": 20.45,
+      "sample_rate": 16000,
+      "peak": 0.4063
+    }
+  },
+  {
+    "id": "E22",
+    "title": "阶段作品：窗边小曲",
+    "rh": [
+      [
+        {
+          "pitches": [
+            "E4"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "G4"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "A4"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "G4"
+          ],
+          "duration": 1
+        }
+      ],
+      [
+        {
+          "pitches": [
+            "F4"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "A4"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "G4"
+          ],
+          "duration": 2
+        }
+      ],
+      [
+        {
+          "pitches": [
+            "E4"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "G4"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "D5"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "B4"
+          ],
+          "duration": 1
+        }
+      ],
+      [
+        {
+          "pitches": [
+            "C5"
+          ],
+          "duration": 2
+        },
+        {
+          "pitches": [
+            "G4"
+          ],
+          "duration": 2
+        }
+      ],
+      [
+        {
+          "pitches": [
+            "A4"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "C5"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "B4"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "A4"
+          ],
+          "duration": 1
+        }
+      ],
+      [
+        {
+          "pitches": [
+            "G4"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "E4"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "F4"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "G4"
+          ],
+          "duration": 1
+        }
+      ],
+      [
+        {
+          "pitches": [
+            "F4"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "E4"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "D4"
+          ],
+          "duration": 2
+        }
+      ],
+      [
+        {
+          "pitches": [
+            "C4"
+          ],
+          "duration": 4
+        }
+      ],
+      [
+        {
+          "pitches": [
+            "C5"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "B4"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "A4"
+          ],
+          "duration": 2
+        }
+      ],
+      [
+        {
+          "pitches": [
+            "A4"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "G4"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "F4"
+          ],
+          "duration": 2
+        }
+      ],
+      [
+        {
+          "pitches": [
+            "G4"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "F4"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "E4"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "D4"
+          ],
+          "duration": 1
+        }
+      ],
+      [
+        {
+          "pitches": [
+            "E4"
+          ],
+          "duration": 2
+        },
+        {
+          "pitches": [
+            "G4"
+          ],
+          "duration": 2
+        }
+      ],
+      [
+        {
+          "pitches": [
+            "E4"
+          ],
+          "duration": 0.5
+        },
+        {
+          "pitches": [
+            "G4"
+          ],
+          "duration": 0.5
+        },
+        {
+          "pitches": [
+            "A4"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "G4"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "E4"
+          ],
+          "duration": 1
+        }
+      ],
+      [
+        {
+          "pitches": [
+            "F4"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "A4"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "G4"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "F4"
+          ],
+          "duration": 1
+        }
+      ],
+      [
+        {
+          "pitches": [
+            "D4"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "F4"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "E4"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "D4"
+          ],
+          "duration": 1
+        }
+      ],
+      [
+        {
+          "pitches": [
+            "C4"
+          ],
+          "duration": 4
+        }
+      ]
+    ],
+    "lh": [
+      [
+        {
+          "pitches": [
+            "C3"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "G3"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "E3"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "G3"
+          ],
+          "duration": 1
+        }
+      ],
+      [
+        {
+          "pitches": [
+            "F2"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "C3"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "A2"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "C3"
+          ],
+          "duration": 1
+        }
+      ],
+      [
+        {
+          "pitches": [
+            "G2"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "D3"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "B2"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "D3"
+          ],
+          "duration": 1
+        }
+      ],
+      [
+        {
+          "pitches": [
+            "C3"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "G3"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "E3"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "G3"
+          ],
+          "duration": 1
+        }
+      ],
+      [
+        {
+          "pitches": [
+            "A2"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "E3"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "C3"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "E3"
+          ],
+          "duration": 1
+        }
+      ],
+      [
+        {
+          "pitches": [
+            "C3"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "G3"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "E3"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "G3"
+          ],
+          "duration": 1
+        }
+      ],
+      [
+        {
+          "pitches": [
+            "G2"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "D3"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "B2"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "D3"
+          ],
+          "duration": 1
+        }
+      ],
+      [
+        {
+          "pitches": [
+            "C3"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "G3"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "E3"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "G3"
+          ],
+          "duration": 1
+        }
+      ],
+      [
+        {
+          "pitches": [
+            "A2",
+            "C3"
+          ],
+          "duration": 2
+        },
+        {
+          "pitches": [
+            "A2",
+            "C3"
+          ],
+          "duration": 2
+        }
+      ],
+      [
+        {
+          "pitches": [
+            "F3",
+            "A3"
+          ],
+          "duration": 2
+        },
+        {
+          "pitches": [
+            "F3",
+            "A3"
+          ],
+          "duration": 2
+        }
+      ],
+      [
+        {
+          "pitches": [
+            "G2",
+            "B2",
+            "F3"
+          ],
+          "duration": 2
+        },
+        {
+          "pitches": [
+            "G2",
+            "B2",
+            "F3"
+          ],
+          "duration": 2
+        }
+      ],
+      [
+        {
+          "pitches": [
+            "C3",
+            "E3"
+          ],
+          "duration": 2
+        },
+        {
+          "pitches": [
+            "C3",
+            "E3"
+          ],
+          "duration": 2
+        }
+      ],
+      [
+        {
+          "pitches": [
+            "C3"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "G3"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "E3"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "G3"
+          ],
+          "duration": 1
+        }
+      ],
+      [
+        {
+          "pitches": [
+            "F2"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "C3"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "A2"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "C3"
+          ],
+          "duration": 1
+        }
+      ],
+      [
+        {
+          "pitches": [
+            "G2"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "D3"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "B2"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "D3"
+          ],
+          "duration": 1
+        }
+      ],
+      [
+        {
+          "pitches": [
+            "C3",
+            "E3",
+            "G3"
+          ],
+          "duration": 4
+        }
+      ]
+    ],
+    "chords": [
+      "C",
+      "F",
+      "G",
+      "C",
+      "Am",
+      "C",
+      "G",
+      "C",
+      "Am",
+      "F",
+      "G7",
+      "C",
+      "C",
+      "F",
+      "G",
+      "C"
+    ],
+    "key": 0,
+    "meter": [
+      4,
+      4
+    ],
+    "bpm": 68,
+    "note": "十六小节原创作品，结构 A（1–8）—B（9–12）—A′（13–16）。第 9–12 小节有意降低伴奏密度。",
+    "pedal": false,
+    "left_role": "left-hand",
+    "events": [
+      {
+        "start": 0.0,
+        "duration": 1,
+        "pitch": 64,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 1.0,
+        "duration": 1,
+        "pitch": 67,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 2.0,
+        "duration": 1,
+        "pitch": 69,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 3.0,
+        "duration": 1,
+        "pitch": 67,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 4.0,
+        "duration": 1,
+        "pitch": 65,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 5.0,
+        "duration": 1,
+        "pitch": 69,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 6.0,
+        "duration": 2,
+        "pitch": 67,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 8.0,
+        "duration": 1,
+        "pitch": 64,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 9.0,
+        "duration": 1,
+        "pitch": 67,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 10.0,
+        "duration": 1,
+        "pitch": 74,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 11.0,
+        "duration": 1,
+        "pitch": 71,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 12.0,
+        "duration": 2,
+        "pitch": 72,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 14.0,
+        "duration": 2,
+        "pitch": 67,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 16.0,
+        "duration": 1,
+        "pitch": 69,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 17.0,
+        "duration": 1,
+        "pitch": 72,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 18.0,
+        "duration": 1,
+        "pitch": 71,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 19.0,
+        "duration": 1,
+        "pitch": 69,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 20.0,
+        "duration": 1,
+        "pitch": 67,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 21.0,
+        "duration": 1,
+        "pitch": 64,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 22.0,
+        "duration": 1,
+        "pitch": 65,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 23.0,
+        "duration": 1,
+        "pitch": 67,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 24.0,
+        "duration": 1,
+        "pitch": 65,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 25.0,
+        "duration": 1,
+        "pitch": 64,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 26.0,
+        "duration": 2,
+        "pitch": 62,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 28.0,
+        "duration": 4,
+        "pitch": 60,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 32.0,
+        "duration": 1,
+        "pitch": 72,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 33.0,
+        "duration": 1,
+        "pitch": 71,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 34.0,
+        "duration": 2,
+        "pitch": 69,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 36.0,
+        "duration": 1,
+        "pitch": 69,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 37.0,
+        "duration": 1,
+        "pitch": 67,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 38.0,
+        "duration": 2,
+        "pitch": 65,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 40.0,
+        "duration": 1,
+        "pitch": 67,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 41.0,
+        "duration": 1,
+        "pitch": 65,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 42.0,
+        "duration": 1,
+        "pitch": 64,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 43.0,
+        "duration": 1,
+        "pitch": 62,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 44.0,
+        "duration": 2,
+        "pitch": 64,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 46.0,
+        "duration": 2,
+        "pitch": 67,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 48.0,
+        "duration": 0.5,
+        "pitch": 64,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 48.5,
+        "duration": 0.5,
+        "pitch": 67,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 49.0,
+        "duration": 1,
+        "pitch": 69,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 50.0,
+        "duration": 1,
+        "pitch": 67,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 51.0,
+        "duration": 1,
+        "pitch": 64,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 52.0,
+        "duration": 1,
+        "pitch": 65,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 53.0,
+        "duration": 1,
+        "pitch": 69,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 54.0,
+        "duration": 1,
+        "pitch": 67,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 55.0,
+        "duration": 1,
+        "pitch": 65,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 56.0,
+        "duration": 1,
+        "pitch": 62,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 57.0,
+        "duration": 1,
+        "pitch": 65,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 58.0,
+        "duration": 1,
+        "pitch": 64,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 59.0,
+        "duration": 1,
+        "pitch": 62,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 60.0,
+        "duration": 4,
+        "pitch": 60,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 0.0,
+        "duration": 1,
+        "pitch": 48,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 1.0,
+        "duration": 1,
+        "pitch": 55,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 2.0,
+        "duration": 1,
+        "pitch": 52,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 3.0,
+        "duration": 1,
+        "pitch": 55,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 4.0,
+        "duration": 1,
+        "pitch": 41,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 5.0,
+        "duration": 1,
+        "pitch": 48,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 6.0,
+        "duration": 1,
+        "pitch": 45,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 7.0,
+        "duration": 1,
+        "pitch": 48,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 8.0,
+        "duration": 1,
+        "pitch": 43,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 9.0,
+        "duration": 1,
+        "pitch": 50,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 10.0,
+        "duration": 1,
+        "pitch": 47,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 11.0,
+        "duration": 1,
+        "pitch": 50,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 12.0,
+        "duration": 1,
+        "pitch": 48,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 13.0,
+        "duration": 1,
+        "pitch": 55,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 14.0,
+        "duration": 1,
+        "pitch": 52,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 15.0,
+        "duration": 1,
+        "pitch": 55,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 16.0,
+        "duration": 1,
+        "pitch": 45,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 17.0,
+        "duration": 1,
+        "pitch": 52,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 18.0,
+        "duration": 1,
+        "pitch": 48,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 19.0,
+        "duration": 1,
+        "pitch": 52,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 20.0,
+        "duration": 1,
+        "pitch": 48,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 21.0,
+        "duration": 1,
+        "pitch": 55,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 22.0,
+        "duration": 1,
+        "pitch": 52,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 23.0,
+        "duration": 1,
+        "pitch": 55,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 24.0,
+        "duration": 1,
+        "pitch": 43,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 25.0,
+        "duration": 1,
+        "pitch": 50,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 26.0,
+        "duration": 1,
+        "pitch": 47,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 27.0,
+        "duration": 1,
+        "pitch": 50,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 28.0,
+        "duration": 1,
+        "pitch": 48,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 29.0,
+        "duration": 1,
+        "pitch": 55,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 30.0,
+        "duration": 1,
+        "pitch": 52,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 31.0,
+        "duration": 1,
+        "pitch": 55,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 32.0,
+        "duration": 2,
+        "pitch": 45,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 32.0,
+        "duration": 2,
+        "pitch": 48,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 34.0,
+        "duration": 2,
+        "pitch": 45,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 34.0,
+        "duration": 2,
+        "pitch": 48,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 36.0,
+        "duration": 2,
+        "pitch": 53,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 36.0,
+        "duration": 2,
+        "pitch": 57,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 38.0,
+        "duration": 2,
+        "pitch": 53,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 38.0,
+        "duration": 2,
+        "pitch": 57,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 40.0,
+        "duration": 2,
+        "pitch": 43,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 40.0,
+        "duration": 2,
+        "pitch": 47,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 40.0,
+        "duration": 2,
+        "pitch": 53,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 42.0,
+        "duration": 2,
+        "pitch": 43,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 42.0,
+        "duration": 2,
+        "pitch": 47,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 42.0,
+        "duration": 2,
+        "pitch": 53,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 44.0,
+        "duration": 2,
+        "pitch": 48,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 44.0,
+        "duration": 2,
+        "pitch": 52,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 46.0,
+        "duration": 2,
+        "pitch": 48,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 46.0,
+        "duration": 2,
+        "pitch": 52,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 48.0,
+        "duration": 1,
+        "pitch": 48,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 49.0,
+        "duration": 1,
+        "pitch": 55,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 50.0,
+        "duration": 1,
+        "pitch": 52,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 51.0,
+        "duration": 1,
+        "pitch": 55,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 52.0,
+        "duration": 1,
+        "pitch": 41,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 53.0,
+        "duration": 1,
+        "pitch": 48,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 54.0,
+        "duration": 1,
+        "pitch": 45,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 55.0,
+        "duration": 1,
+        "pitch": 48,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 56.0,
+        "duration": 1,
+        "pitch": 43,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 57.0,
+        "duration": 1,
+        "pitch": 50,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 58.0,
+        "duration": 1,
+        "pitch": 47,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 59.0,
+        "duration": 1,
+        "pitch": 50,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 60.0,
+        "duration": 4,
+        "pitch": 48,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 60.0,
+        "duration": 4,
+        "pitch": 52,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 60.0,
+        "duration": 4,
+        "pitch": 55,
+        "channel": 1,
+        "velocity": 49
+      }
+    ],
+    "score_pages": [
+      "E22-1.svg"
+    ],
+    "audio": {
+      "seconds": 60.45,
+      "sample_rate": 16000,
+      "peak": 0.3363
+    }
+  },
+  {
+    "id": "E23",
+    "title": "有贝斯时的键盘留白",
+    "rh": [
+      [
+        {
+          "pitches": [
+            "E4",
+            "G4"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "E4",
+            "G4"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [],
+          "duration": 1
+        }
+      ],
+      [
+        {
+          "pitches": [
+            "F4",
+            "A4"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "F4",
+            "A4"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [],
+          "duration": 1
+        }
+      ],
+      [
+        {
+          "pitches": [
+            "B3",
+            "F4"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "B3",
+            "F4"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [],
+          "duration": 1
+        }
+      ],
+      [
+        {
+          "pitches": [
+            "E4",
+            "G4"
+          ],
+          "duration": 4
+        }
+      ]
+    ],
+    "lh": [
+      [
+        {
+          "pitches": [
+            "C3"
+          ],
+          "duration": 4
+        }
+      ],
+      [
+        {
+          "pitches": [
+            "F2"
+          ],
+          "duration": 4
+        }
+      ],
+      [
+        {
+          "pitches": [
+            "G2"
+          ],
+          "duration": 4
+        }
+      ],
+      [
+        {
+          "pitches": [
+            "C3"
+          ],
+          "duration": 4
+        }
+      ]
+    ],
+    "chords": [
+      "C",
+      "F",
+      "G7",
+      "C"
+    ],
+    "key": 0,
+    "meter": [
+      4,
+      4
+    ],
+    "bpm": 60,
+    "note": "下谱表是贝斯参照，不是要求键盘左手弹。先听双手了解配合，再只弹上谱表。",
+    "pedal": false,
+    "left_role": "bass-reference",
+    "events": [
+      {
+        "start": 0.0,
+        "duration": 1,
+        "pitch": 64,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 0.0,
+        "duration": 1,
+        "pitch": 67,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 2.0,
+        "duration": 1,
+        "pitch": 64,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 2.0,
+        "duration": 1,
+        "pitch": 67,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 4.0,
+        "duration": 1,
+        "pitch": 65,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 4.0,
+        "duration": 1,
+        "pitch": 69,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 6.0,
+        "duration": 1,
+        "pitch": 65,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 6.0,
+        "duration": 1,
+        "pitch": 69,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 8.0,
+        "duration": 1,
+        "pitch": 59,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 8.0,
+        "duration": 1,
+        "pitch": 65,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 10.0,
+        "duration": 1,
+        "pitch": 59,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 10.0,
+        "duration": 1,
+        "pitch": 65,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 12.0,
+        "duration": 4,
+        "pitch": 64,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 12.0,
+        "duration": 4,
+        "pitch": 67,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 0.0,
+        "duration": 4,
+        "pitch": 48,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 4.0,
+        "duration": 4,
+        "pitch": 41,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 8.0,
+        "duration": 4,
+        "pitch": 43,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 12.0,
+        "duration": 4,
+        "pitch": 48,
+        "channel": 1,
+        "velocity": 49
+      }
+    ],
+    "score_pages": [
+      "E23-1.svg"
+    ],
+    "audio": {
+      "seconds": 20.45,
+      "sample_rate": 16000,
+      "peak": 0.3018
+    }
+  },
+  {
+    "id": "E24",
+    "title": "把短句移到 G 大调",
+    "rh": [
+      [
+        {
+          "pitches": [
+            "G4"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "A4"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "B4"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "D5"
+          ],
+          "duration": 1
+        }
+      ],
+      [
+        {
+          "pitches": [
+            "C5"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "B4"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "A4"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "G4"
+          ],
+          "duration": 1
+        }
+      ],
+      [
+        {
+          "pitches": [
+            "B4"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "D5"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "C5"
+          ],
+          "duration": 1
+        },
+        {
+          "pitches": [
+            "A4"
+          ],
+          "duration": 1
+        }
+      ],
+      [
+        {
+          "pitches": [
+            "G4"
+          ],
+          "duration": 4
+        }
+      ]
+    ],
+    "lh": [
+      [
+        {
+          "pitches": [
+            "G3"
+          ],
+          "duration": 4
+        }
+      ],
+      [
+        {
+          "pitches": [
+            "C4"
+          ],
+          "duration": 4
+        }
+      ],
+      [
+        {
+          "pitches": [
+            "D4"
+          ],
+          "duration": 4
+        }
+      ],
+      [
+        {
+          "pitches": [
+            "G3"
+          ],
+          "duration": 4
+        }
+      ]
+    ],
+    "chords": [],
+    "key": 1,
+    "meter": [
+      4,
+      4
+    ],
+    "bpm": 60,
+    "note": "E05 整体上移纯五度。听相同的音级关系；不是只按相同白键位置。",
+    "pedal": false,
+    "left_role": "left-hand",
+    "events": [
+      {
+        "start": 0.0,
+        "duration": 1,
+        "pitch": 67,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 1.0,
+        "duration": 1,
+        "pitch": 69,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 2.0,
+        "duration": 1,
+        "pitch": 71,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 3.0,
+        "duration": 1,
+        "pitch": 74,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 4.0,
+        "duration": 1,
+        "pitch": 72,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 5.0,
+        "duration": 1,
+        "pitch": 71,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 6.0,
+        "duration": 1,
+        "pitch": 69,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 7.0,
+        "duration": 1,
+        "pitch": 67,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 8.0,
+        "duration": 1,
+        "pitch": 71,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 9.0,
+        "duration": 1,
+        "pitch": 74,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 10.0,
+        "duration": 1,
+        "pitch": 72,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 11.0,
+        "duration": 1,
+        "pitch": 69,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 12.0,
+        "duration": 4,
+        "pitch": 67,
+        "channel": 0,
+        "velocity": 78
+      },
+      {
+        "start": 0.0,
+        "duration": 4,
+        "pitch": 55,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 4.0,
+        "duration": 4,
+        "pitch": 60,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 8.0,
+        "duration": 4,
+        "pitch": 62,
+        "channel": 1,
+        "velocity": 49
+      },
+      {
+        "start": 12.0,
+        "duration": 4,
+        "pitch": 55,
+        "channel": 1,
+        "velocity": 49
+      }
+    ],
+    "score_pages": [
+      "E24-1.svg"
+    ],
+    "audio": {
+      "seconds": 20.45,
+      "sample_rate": 16000,
+      "peak": 0.2138
+    }
+  }
+]

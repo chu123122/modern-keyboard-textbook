@@ -1,0 +1,42 @@
+{
+  "date": "2026-10-27",
+  "browser": "Microsoft Edge through Playwright; local file URL",
+  "page_errors": [],
+  "unexpected_request_failures": [],
+  "verified_media_metadata_aborts": 24,
+  "broken_images": [],
+  "score_images": 24,
+  "audio_files_metadata_verified": 24,
+  "mobile_horizontal_overflow": false,
+  "controls_checked": "right/left/50%-speed/stop checked in browser; audio not listened to",
+  "pdf": {
+    "file": "book/现代流行键盘_初稿.pdf",
+    "pages": 50,
+    "bookmarks": 20,
+    "sha256": "64c882fc9ab5bd73247fb1cda9a29e3a8f561c25a58c3b70de4b2f3faf044c58"
+  },
+  "visual_checks": {
+    "all_score_figures": "contact-sheet visual scan; not performance review",
+    "individual_figures": [
+      "E05",
+      "E11",
+      "E19",
+      "E21",
+      "E22"
+    ],
+    "final_pdf_pages": [
+      1,
+      2,
+      5,
+      13,
+      14,
+      22,
+      33,
+      38,
+      41,
+      47,
+      50
+    ]
+  },
+  "human_listening_and_performance": "not_completed"
+}
